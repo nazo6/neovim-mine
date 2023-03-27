@@ -1,0 +1,23 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@types/json-stable-stringify": "^1.0.34",
+    "@types/node": "^18.15.10",
+    "dotenv": "^16.0.3",
+    "glob": "^9.3.2",
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.2.0",
+    "json-stable-stringify": "^1.0.2",
+    "promise-throttle-all": "^1.1.1",
+    "sanitize-filename": "^1.6.3",
+    "tsx": "^3.12.6",
+    "vitest": "^0.29.7"
+  }
+}
