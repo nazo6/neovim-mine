@@ -43,7 +43,6 @@ export function RepoList(props: RepoListProps) {
         );
       }
     });
-    console.log(newRepos);
     setSortedRepos(newRepos);
   }, [props.sortType, props.sortOrder]);
 
