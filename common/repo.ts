@@ -34,3 +34,5 @@ export type RepoErrorInfo = RepoBasicInfo & {
     message?: string;
   };
 };
+
+export type RepoInfo = RepoBasicInfo | RepoAdvancedInfo | RepoErrorInfo;
