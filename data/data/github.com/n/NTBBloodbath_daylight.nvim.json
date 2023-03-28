@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-09-02T00:21:50Z",
+    "description": "Automatic colorscheme/background switcher for Neovim based on your current time",
+    "isArchived": false,
+    "lastCommit": "2022-09-04T18:24:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "daylight.nvim",
+  "owner": "NTBBloodbath",
+  "url": "https://github.com/NTBBloodbath/daylight.nvim"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-10-04T10:18:27Z",
+    "description": "bridge mason.nvim and formatter.nvim",
+    "isArchived": false,
+    "lastCommit": "2022-10-04T10:17:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mason-formatter.nvim",
+  "owner": "princejoogie",
+  "url": "https://github.com/princejoogie/mason-formatter.nvim"
+}

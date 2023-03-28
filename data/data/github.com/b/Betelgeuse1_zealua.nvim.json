@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CLI"
+      },
+      {
+        "level": 4,
+        "name": "Zeal"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-09-22T18:12:53Z",
+    "description": "A Zeal plugin written in lua",
+    "isArchived": false,
+    "lastCommit": "2022-10-04T21:11:33Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zealua.nvim",
+  "owner": "Betelgeuse1",
+  "url": "https://github.com/Betelgeuse1/zealua.nvim"
+}

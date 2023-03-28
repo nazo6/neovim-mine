@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Local Config"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-10-08T19:34:14Z",
+    "description": "A simple Neovim plugin for per-repository settings",
+    "isArchived": false,
+    "lastCommit": "2022-10-21T11:26:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "nvim-plugin",
+      "project-management",
+      "repositories"
+    ]
+  },
+  "domain": "github.com",
+  "name": "repos.nvim",
+  "owner": "TymekDev",
+  "url": "https://github.com/TymekDev/repos.nvim"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2022-10-11T03:21:28Z",
+    "description": "Rapid Navigation Between [[Notes]] 💨",
+    "isArchived": false,
+    "lastCommit": "2022-10-28T03:43:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jot.nvim",
+  "owner": "DevinLeamy",
+  "url": "https://github.com/DevinLeamy/jot.nvim"
+}

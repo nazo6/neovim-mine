@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-05-24T07:52:01Z",
+    "description": "define same behaviour across different file types.",
+    "isArchived": false,
+    "lastCommit": "2021-06-04T01:13:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "actions.nvim",
+  "owner": "amirrezaask",
+  "url": "https://github.com/amirrezaask/actions.nvim"
+}

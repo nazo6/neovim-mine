@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      },
+      {
+        "level": 2,
+        "name": "n/N Improvement"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2022-08-08T15:52:29Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-07T14:27:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nice-scroll.nvim",
+  "owner": "shiradofu",
+  "url": "https://github.com/shiradofu/nice-scroll.nvim"
+}

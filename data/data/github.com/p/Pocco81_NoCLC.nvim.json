@@ -1,0 +1,18 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'Pocco81/NoCLC.nvim'.",
+    "reason": "NOT_FOUND"
+  },
+  "name": "NoCLC.nvim",
+  "owner": "Pocco81",
+  "url": "https://github.com/Pocco81/NoCLC.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 61,
+    "createdAt": "2022-12-15T12:42:59Z",
+    "description": "Interactive fzf+git for Neovim. I remembered the git commands so you wont forget.",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T23:03:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 59,
+    "topics": [
+      "fzf",
+      "git",
+      "neovim",
+      "neovim-plugin",
+      "fugitive"
+    ]
+  },
+  "domain": "github.com",
+  "name": "forgit.nvim",
+  "owner": "ray-x",
+  "url": "https://github.com/ray-x/forgit.nvim"
+}

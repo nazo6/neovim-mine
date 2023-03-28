@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "tmux"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-04-26T00:59:52Z",
+    "description": "Integration for tmux with telescope.nvim",
+    "isArchived": false,
+    "lastCommit": "2021-12-12T03:43:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 88,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-tmux.nvim",
+  "owner": "camgraff",
+  "url": "https://github.com/camgraff/telescope-tmux.nvim"
+}

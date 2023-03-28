@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "Word Motion"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-03-06T13:08:08Z",
+    "description": "camelCase motions for neovim, written in lua",
+    "isArchived": false,
+    "lastCommit": "2023-03-06T14:19:18Z",
+    "primaryLanguage": null,
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "camelCaseMotion.nvim",
+  "owner": "Craftidore",
+  "url": "https://github.com/Craftidore/camelCaseMotion.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2023-02-18T09:02:01Z",
+    "description": "Simple, infinetly customizable actions using Telescope",
+    "isArchived": false,
+    "lastCommit": "2023-02-18T17:28:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "actions.nvim",
+  "owner": "yaanae",
+  "url": "https://github.com/yaanae/actions.nvim"
+}

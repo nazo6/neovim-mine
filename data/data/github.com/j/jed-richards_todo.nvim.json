@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2023-01-27T14:19:04Z",
+    "description": "Todo List and Logs for Projects",
+    "isArchived": false,
+    "lastCommit": "2023-02-21T19:21:00Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo.nvim",
+  "owner": "jed-richards",
+  "url": "https://github.com/jed-richards/todo.nvim"
+}

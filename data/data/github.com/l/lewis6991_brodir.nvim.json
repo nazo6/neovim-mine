@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-06-16T08:18:18Z",
+    "description": "Simple directory browser for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-24T09:59:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "brodir.nvim",
+  "owner": "lewis6991",
+  "url": "https://github.com/lewis6991/brodir.nvim"
+}

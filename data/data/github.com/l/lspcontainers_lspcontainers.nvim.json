@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Installer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2021-05-05T06:44:49Z",
+    "description": "Neovim plugin for lspcontainers.",
+    "isArchived": false,
+    "lastCommit": "2022-11-21T18:21:59Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 248,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "docker"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lspcontainers.nvim",
+  "owner": "lspcontainers",
+  "url": "https://github.com/lspcontainers/lspcontainers.nvim"
+}

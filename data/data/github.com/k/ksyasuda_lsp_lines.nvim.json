@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Diagnostics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2022-02-15T06:35:40Z",
+    "description": "Just a github clone of lsp_lines.nvim https://git.sr.ht/~whynothugo/lsp_lines.nvim",
+    "isArchived": false,
+    "lastCommit": "2022-11-01T02:23:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp_lines.nvim",
+  "owner": "ksyasuda",
+  "url": "https://github.com/ksyasuda/lsp_lines.nvim"
+}

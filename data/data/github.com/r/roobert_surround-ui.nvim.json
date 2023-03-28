@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "textobject_operator.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Textobject"
+      },
+      {
+        "level": 3,
+        "name": "Surround"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-01-26T22:08:35Z",
+    "description": "🤗 A Neovim plugin which acts as a helper or training aid for kylechui/nvim-surround",
+    "isArchived": false,
+    "lastCommit": "2023-02-08T09:19:52Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "surround-ui.nvim",
+  "owner": "roobert",
+  "url": "https://github.com/roobert/surround-ui.nvim"
+}

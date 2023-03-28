@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "Emacs style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2022-09-11T13:18:31Z",
+    "description": "emacs dired inspired file manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-09-26T22:09:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nlist.nvim",
+  "owner": "nkreiff",
+  "url": "https://github.com/nkreiff/nlist.nvim"
+}

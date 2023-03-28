@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Colorscheme Creation"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Colorscheme Creation"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 68,
+    "createdAt": "2020-06-19T22:42:23Z",
+    "description": "A colorscheme template that is \"lite\" on logic for the developer.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T17:21:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 186,
+    "topics": [
+      "nvim",
+      "neovim",
+      "nvim-plugin",
+      "plugin",
+      "template",
+      "colorscheme",
+      "colors",
+      "diy",
+      "lua",
+      "luajit"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-highlite",
+  "owner": "Iron-E",
+  "url": "https://github.com/Iron-E/nvim-highlite"
+}

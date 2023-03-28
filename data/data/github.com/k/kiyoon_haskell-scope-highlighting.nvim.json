@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Haskell"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-03-06T21:32:53Z",
+    "description": "Haskell syntax highlighting that considers variable scopes",
+    "isArchived": false,
+    "lastCommit": "2023-03-08T17:29:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "haskell-scope-highlighting.nvim",
+  "owner": "kiyoon",
+  "url": "https://github.com/kiyoon/haskell-scope-highlighting.nvim"
+}

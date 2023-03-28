@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "tmux"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2022-08-13T00:39:33Z",
+    "description": "Tools for Tmux configuration and scripting in Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-08-23T00:16:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "nvim",
+      "tmux"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tmux",
+  "owner": "jsstevenson",
+  "url": "https://github.com/jsstevenson/nvim-tmux"
+}

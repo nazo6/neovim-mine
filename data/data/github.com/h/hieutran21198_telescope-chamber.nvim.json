@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "Chamber"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2023-01-13T09:45:42Z",
+    "description": "Chamber env for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-25T03:31:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-chamber.nvim",
+  "owner": "hieutran21198",
+  "url": "https://github.com/hieutran21198/telescope-chamber.nvim"
+}

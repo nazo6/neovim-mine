@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "Discord"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 84,
+    "createdAt": "2023-02-18T16:47:17Z",
+    "description": "my own take on the discord rich presence plugin in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-21T06:16:00Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "discord-rpc",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "discord.nvim",
+  "owner": "Cyuria",
+  "url": "https://github.com/Cyuria/discord.nvim"
+}

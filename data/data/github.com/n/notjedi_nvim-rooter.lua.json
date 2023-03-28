@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Root Detector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-02-04T22:14:46Z",
+    "description": "minimal implementation of vim-rooter in lua.",
+    "isArchived": false,
+    "lastCommit": "2023-03-03T13:46:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 48,
+    "topics": [
+      "vim",
+      "neovim",
+      "lua",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-rooter.lua",
+  "owner": "notjedi",
+  "url": "https://github.com/notjedi/nvim-rooter.lua"
+}

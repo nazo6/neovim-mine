@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 170,
+    "createdAt": "2022-10-20T22:17:17Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-10-23T22:50:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mind.nvim",
+  "owner": "malramsay64",
+  "url": "https://github.com/malramsay64/mind.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "session.md"
+      },
+      {
+        "level": 1,
+        "name": "Session"
+      },
+      {
+        "level": 2,
+        "name": "Session Selector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2022-10-03T17:58:39Z",
+    "description": "manage your vim session with telescope 🔭",
+    "isArchived": false,
+    "lastCommit": "2023-01-20T03:34:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "vim",
+      "nvim",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-session.nvim",
+  "owner": "HUAHUAI23",
+  "url": "https://github.com/HUAHUAI23/telescope-session.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Convert Case"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-01-10T21:57:10Z",
+    "description": "A simple plugin to toggle bools in nvim",
+    "isArchived": false,
+    "lastCommit": "2023-01-12T22:16:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggle-bool.nvim",
+  "owner": "gerazov",
+  "url": "https://github.com/gerazov/toggle-bool.nvim"
+}

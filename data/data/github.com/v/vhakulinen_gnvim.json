@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "gui.md"
+      },
+      {
+        "level": 1,
+        "name": "GUI"
+      },
+      {
+        "level": 2,
+        "name": "Rust"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 123,
+    "createdAt": "2018-07-27T20:16:01Z",
+    "description": "GUI for neovim, without any web bloat",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T17:09:24Z",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 1672,
+    "topics": [
+      "rust",
+      "neovim",
+      "gtk",
+      "nvim",
+      "gui",
+      "ui",
+      "text-editor",
+      "neovim-guis"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gnvim",
+  "owner": "vhakulinen",
+  "url": "https://github.com/vhakulinen/gnvim"
+}

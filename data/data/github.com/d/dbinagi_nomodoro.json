@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Pomodoro"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-07-31T13:49:03Z",
+    "description": "Pomodoro time tracker for NeoVim written entirely in LUA",
+    "isArchived": false,
+    "lastCommit": "2022-12-23T21:46:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 35,
+    "topics": [
+      "lua",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nomodoro",
+  "owner": "dbinagi",
+  "url": "https://github.com/dbinagi/nomodoro"
+}

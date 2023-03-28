@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      },
+      {
+        "level": 2,
+        "name": "Mapping search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-03-26T14:12:51Z",
+    "description": "Nvim-plugin what wraps vim-which-key to simplify setup in lua",
+    "isArchived": false,
+    "lastCommit": "2021-04-16T09:47:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 70,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-whichkey-setup.lua",
+  "owner": "AckslD",
+  "url": "https://github.com/AckslD/nvim-whichkey-setup.lua"
+}

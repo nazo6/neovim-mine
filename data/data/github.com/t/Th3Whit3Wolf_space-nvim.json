@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-09-28T19:12:44Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2021-07-08T05:54:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "space-nvim",
+  "owner": "Th3Whit3Wolf",
+  "url": "https://github.com/Th3Whit3Wolf/space-nvim"
+}

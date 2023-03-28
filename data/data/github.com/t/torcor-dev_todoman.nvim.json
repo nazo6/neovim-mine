@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-10-08T14:15:25Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-10-30T13:22:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todoman.nvim",
+  "owner": "torcor-dev",
+  "url": "https://github.com/torcor-dev/todoman.nvim"
+}

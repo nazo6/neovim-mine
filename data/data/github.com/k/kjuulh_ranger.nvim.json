@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "ranger"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-10-14T15:26:53Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-10-14T15:26:26Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ranger.nvim",
+  "owner": "kjuulh",
+  "url": "https://github.com/kjuulh/ranger.nvim"
+}

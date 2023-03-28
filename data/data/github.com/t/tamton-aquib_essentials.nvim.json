@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Util pack"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2021-10-05T17:19:39Z",
+    "description": "Some tiny functions which i use regularly in neovim. Not a plugin per se.",
+    "isArchived": false,
+    "lastCommit": "2023-02-14T05:42:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 34,
+    "topics": [
+      "neovim",
+      "lua",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "essentials.nvim",
+  "owner": "tamton-aquib",
+  "url": "https://github.com/tamton-aquib/essentials.nvim"
+}

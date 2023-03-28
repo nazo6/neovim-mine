@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Menu"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-01-24T09:29:39Z",
+    "description": "Stylish UI components for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-02-01T14:02:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 406,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stylish.nvim",
+  "owner": "sunjon",
+  "url": "https://github.com/sunjon/stylish.nvim"
+}

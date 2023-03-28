@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "textobject_operator.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Textobject"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      },
+      {
+        "level": 5,
+        "name": "Diagnostics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 72,
+    "createdAt": "2022-07-11T16:04:34Z",
+    "description": "NeoVim text object that finds diagnostics",
+    "isArchived": false,
+    "lastCommit": "2022-12-31T21:13:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 93,
+    "topics": [
+      "diagnostic",
+      "neovim",
+      "plugin",
+      "text-object",
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "textobj-diagnostic.nvim",
+  "owner": "andrewferrier",
+  "url": "https://github.com/andrewferrier/textobj-diagnostic.nvim"
+}

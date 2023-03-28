@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "Skeleton"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2022-11-25T15:45:58Z",
+    "description": "Reduce your boilerplate code the lazy-bones way",
+    "isArchived": false,
+    "lastCommit": "2023-02-15T14:16:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 54,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "esqueleto.nvim",
+  "owner": "cvigilv",
+  "url": "https://github.com/cvigilv/esqueleto.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Shell"
+      },
+      {
+        "level": 4,
+        "name": "fish"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-10-27T15:58:51Z",
+    "description": "Use your fish abbreviations in Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-11-03T20:47:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fish_abbr.nvim",
+  "owner": "Trard",
+  "url": "https://github.com/Trard/fish_abbr.nvim"
+}

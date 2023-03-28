@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Print"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-06-25T12:35:25Z",
+    "description": "Syntax for describe and validate your lua data",
+    "isArchived": false,
+    "lastCommit": "2022-08-13T13:55:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lua-schema.nvim",
+  "owner": "dokwork",
+  "url": "https://github.com/dokwork/lua-schema.nvim"
+}

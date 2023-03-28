@@ -1,0 +1,62 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "Window Management"
+      },
+      {
+        "level": 4,
+        "name": "focus"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Color"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-04-19T09:22:44Z",
+    "description": "An Nvim lua plugin that dims your inactive windows",
+    "isArchived": false,
+    "lastCommit": "2022-02-01T05:54:26Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 391,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Shade.nvim",
+  "owner": "sunjon",
+  "url": "https://github.com/sunjon/Shade.nvim"
+}

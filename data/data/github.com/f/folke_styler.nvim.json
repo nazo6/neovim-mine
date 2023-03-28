@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "ftplugin"
+      },
+      {
+        "level": 4,
+        "name": "filetype colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2022-11-14T11:21:05Z",
+    "description": "Simple Neovim plugin to set a different colorscheme per filetype.",
+    "isArchived": false,
+    "lastCommit": "2023-03-19T19:37:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 166,
+    "topics": [
+      "neovim",
+      "neovim-colorscheme",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "styler.nvim",
+  "owner": "folke",
+  "url": "https://github.com/folke/styler.nvim"
+}

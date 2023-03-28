@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Pomodoro"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2022-07-08T05:07:00Z",
+    "description": "Implement a pomodoro timer into Neovim in Lua. ",
+    "isArchived": false,
+    "lastCommit": "2022-07-09T00:43:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tomatotimer.nvim",
+  "owner": "PSebaRaj",
+  "url": "https://github.com/PSebaRaj/tomatotimer.nvim"
+}

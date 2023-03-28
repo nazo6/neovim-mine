@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Screen server"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2022-10-28T17:14:40Z",
+    "description": "🍁 Fun little plugin that can be used as a screensaver and on your dashboard",
+    "isArchived": false,
+    "lastCommit": "2023-03-19T19:36:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 107,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "drop.nvim",
+  "owner": "folke",
+  "url": "https://github.com/folke/drop.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Current word highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2023-02-08T22:08:16Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-07T20:05:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 85,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "local-highlight.nvim",
+  "owner": "tzachar",
+  "url": "https://github.com/tzachar/local-highlight.nvim"
+}

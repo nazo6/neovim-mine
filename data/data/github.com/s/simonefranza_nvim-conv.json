@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Command"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-10-09T17:34:18Z",
+    "description": "Multipurpose numeric conversion tool for neovim written in Lua",
+    "isArchived": false,
+    "lastCommit": "2021-10-27T14:23:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "neovim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-conv",
+  "owner": "simonefranza",
+  "url": "https://github.com/simonefranza/nvim-conv"
+}

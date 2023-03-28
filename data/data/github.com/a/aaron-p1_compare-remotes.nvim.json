@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Diff"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-01-29T21:01:13Z",
+    "description": "A neovim plugin to compare files remotely",
+    "isArchived": false,
+    "lastCommit": "2023-02-15T10:43:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "fennel",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "compare-remotes.nvim",
+  "owner": "aaron-p1",
+  "url": "https://github.com/aaron-p1/compare-remotes.nvim"
+}

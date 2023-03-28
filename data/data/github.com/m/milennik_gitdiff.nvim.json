@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git diff"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-08-09T07:03:00Z",
+    "description": "Compare HEAD with any branch. Easily find changed files and do git diff.",
+    "isArchived": false,
+    "lastCommit": "2022-08-12T23:10:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "git",
+      "gitdiff",
+      "lua",
+      "neovim",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitdiff.nvim",
+  "owner": "milennik",
+  "url": "https://github.com/milennik/gitdiff.nvim"
+}

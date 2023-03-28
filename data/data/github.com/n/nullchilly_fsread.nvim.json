@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "j/k"
+      },
+      {
+        "level": 4,
+        "name": "Scrolling"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-11-23T16:39:26Z",
+    "description": "Flow state reading in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-20T00:47:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 123,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fsread.nvim",
+  "owner": "nullchilly",
+  "url": "https://github.com/nullchilly/fsread.nvim"
+}

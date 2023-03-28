@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Zen Mode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-01-04T03:11:12Z",
+    "description": "Plugin written in lua that center windows dynamically",
+    "isArchived": false,
+    "lastCommit": "2023-01-13T22:23:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "center.nvim",
+  "owner": "albenisolmos",
+  "url": "https://github.com/albenisolmos/center.nvim"
+}

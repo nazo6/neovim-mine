@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Partial execution"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2021-11-16T18:16:25Z",
+    "description": "A neovim plugin that lets you build custom commands to automate parts of your development workflow",
+    "isArchived": false,
+    "lastCommit": "2023-03-13T09:13:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 61,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "vim",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "run-code.nvim",
+  "owner": "arjunmahishi",
+  "url": "https://github.com/arjunmahishi/run-code.nvim"
+}

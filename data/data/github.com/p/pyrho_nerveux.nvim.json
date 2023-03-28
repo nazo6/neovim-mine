@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-06-09T21:56:16Z",
+    "description": "A neovim plugin written in lua to interact with the neuron Zettelkasten software.",
+    "isArchived": true,
+    "lastCommit": "2022-08-30T20:33:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+      "zettelkasten",
+      "neuron",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nerveux.nvim",
+  "owner": "pyrho",
+  "url": "https://github.com/pyrho/nerveux.nvim"
+}

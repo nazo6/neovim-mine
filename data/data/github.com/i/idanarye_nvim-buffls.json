@@ -1,0 +1,62 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Lint"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2022-11-18T17:19:32Z",
+    "description": "Add LSP functionality to specific Neovim buffers",
+    "isArchived": false,
+    "lastCommit": "2023-01-11T20:42:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lsp-server",
+      "lua",
+      "neovim",
+      "editing-support"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-buffls",
+  "owner": "idanarye",
+  "url": "https://github.com/idanarye/nvim-buffls"
+}

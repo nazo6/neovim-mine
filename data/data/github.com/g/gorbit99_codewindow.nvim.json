@@ -1,0 +1,62 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Minimap"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Scrolling"
+      },
+      {
+        "level": 4,
+        "name": "Scrollbar"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 53,
+    "createdAt": "2022-10-11T17:03:51Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-18T04:42:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 242,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codewindow.nvim",
+  "owner": "gorbit99",
+  "url": "https://github.com/gorbit99/codewindow.nvim"
+}

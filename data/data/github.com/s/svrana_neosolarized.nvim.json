@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2021-10-23T19:52:04Z",
+    "description": "Truecolor solarized theme for neovim in Lua using colorbuddy",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T22:27:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 92,
+    "topics": [
+      "nvim",
+      "lua",
+      "colorscheme",
+      "solarized-dark-theme",
+      "colorbuddy"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neosolarized.nvim",
+  "owner": "svrana",
+  "url": "https://github.com/svrana/neosolarized.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mark.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Mark"
+      },
+      {
+        "level": 3,
+        "name": "floating marker(easymotion style)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-06-18T00:34:50Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2021-06-22T14:41:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 31,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mark-radar.nvim",
+  "owner": "winston0410",
+  "url": "https://github.com/winston0410/mark-radar.nvim"
+}

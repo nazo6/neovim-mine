@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Link"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 80,
+    "createdAt": "2022-09-25T20:31:16Z",
+    "description": "Open file or project in GitHub for neovim written in lua",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T21:22:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+      "git",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "openingh.nvim",
+  "owner": "Almo7aya",
+  "url": "https://github.com/Almo7aya/openingh.nvim"
+}

@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Preconfigured Configuration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 67,
+    "createdAt": "2022-12-18T22:18:18Z",
+    "description": "Small Neovim configuration written in Lua that is specifically designed for web development.",
+    "isArchived": false,
+    "lastCommit": "2023-03-08T21:10:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 41,
+    "topics": [
+      "neovim",
+      "neovim-config",
+      "neovim-configuration",
+      "vim",
+      "vim-configuration",
+      "neovim-lsp",
+      "neovim-lua",
+      "web-development",
+      "kickstart-nvim",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "web-dev.nvim",
+  "owner": "jonathandion",
+  "url": "https://github.com/jonathandion/web-dev.nvim"
+}

@@ -1,0 +1,70 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Progress"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2020-05-18T22:02:38Z",
+    "description": "Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline",
+    "isArchived": false,
+    "lastCommit": "2022-08-03T00:18:41Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 558,
+    "topics": [
+      "lsp-status",
+      "neovim",
+      "nvim",
+      "lsp-client",
+      "lua",
+      "statusline",
+      "neovim-plugin",
+      "lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-status.nvim",
+  "owner": "nvim-lua",
+  "url": "https://github.com/nvim-lua/lsp-status.nvim"
+}

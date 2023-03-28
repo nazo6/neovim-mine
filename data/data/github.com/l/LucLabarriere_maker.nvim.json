@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Command style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-01-18T09:18:36Z",
+    "description": "Tools to run commands  in neovim and use their output as diagnostics",
+    "isArchived": false,
+    "lastCommit": "2023-01-18T10:45:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "maker.nvim",
+  "owner": "LucLabarriere",
+  "url": "https://github.com/LucLabarriere/maker.nvim"
+}

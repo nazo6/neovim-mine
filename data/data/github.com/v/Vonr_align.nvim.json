@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Align"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2022-06-05T13:31:22Z",
+    "description": "A minimal plugin for NeoVim for aligning lines",
+    "isArchived": false,
+    "lastCommit": "2022-11-14T00:56:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 72,
+    "topics": [
+      "hacktoberfest",
+      "lua",
+      "neovim",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "align.nvim",
+  "owner": "Vonr",
+  "url": "https://github.com/Vonr/align.nvim"
+}

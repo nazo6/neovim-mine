@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Mode"
+      },
+      {
+        "level": 4,
+        "name": "Mode Viewer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-10-16T21:56:52Z",
+    "description": "Show mode changes right next to the cursor",
+    "isArchived": false,
+    "lastCommit": "2023-02-19T18:27:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 31,
+    "topics": [
+      "mode",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "monark.nvim",
+  "owner": "doums",
+  "url": "https://github.com/doums/monark.nvim"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "nnn wrapper"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-07-22T09:49:05Z",
+    "description": "📁 Seamless nvim + nnn integration",
+    "isArchived": false,
+    "lastCommit": "2022-11-30T07:25:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "nnn"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nnn-dir.nvim",
+  "owner": "ggustafsson",
+  "url": "https://github.com/ggustafsson/nnn-dir.nvim"
+}

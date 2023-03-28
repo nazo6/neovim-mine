@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Shellscript(bash)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2023-01-15T19:24:57Z",
+    "description": "Neovim plugin written in pure Lua that automagically inserts a shebang line when needed",
+    "isArchived": false,
+    "lastCommit": "2023-02-21T07:22:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "shebang"
+    ]
+  },
+  "domain": "github.com",
+  "name": "magic-bang.nvim",
+  "owner": "Susensio",
+  "url": "https://github.com/Susensio/magic-bang.nvim"
+}

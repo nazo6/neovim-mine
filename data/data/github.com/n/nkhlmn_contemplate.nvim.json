@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Template"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2022-10-08T08:31:26Z",
+    "description": "Quickly select and open a new file/buffer based on a template or a filetype",
+    "isArchived": false,
+    "lastCommit": "2022-11-11T10:06:06Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-lua",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "contemplate.nvim",
+  "owner": "nkhlmn",
+  "url": "https://github.com/nkhlmn/contemplate.nvim"
+}

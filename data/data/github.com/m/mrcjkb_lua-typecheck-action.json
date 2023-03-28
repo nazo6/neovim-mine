@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Lua Development"
+      },
+      {
+        "level": 3,
+        "name": "GitHub Actions"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2023-01-17T20:52:34Z",
+    "description": "A GitHub action that lets you leverage sumneko lua-language-server and EmmyLua to statically type check lua code.",
+    "isArchived": false,
+    "lastCommit": "2023-03-14T22:42:41Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 26,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lua-typecheck-action",
+  "owner": "mrcjkb",
+  "url": "https://github.com/mrcjkb/lua-typecheck-action"
+}

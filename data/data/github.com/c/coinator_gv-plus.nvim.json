@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Mode"
+      },
+      {
+        "level": 4,
+        "name": "Visual"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-06-24T13:20:23Z",
+    "description": "All previous ",
+    "isArchived": false,
+    "lastCommit": "2022-06-24T13:24:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gv-plus.nvim",
+  "owner": "coinator",
+  "url": "https://github.com/coinator/gv-plus.nvim"
+}

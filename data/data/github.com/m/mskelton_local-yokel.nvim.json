@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      },
+      {
+        "level": 4,
+        "name": "create"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-01-30T02:39:22Z",
+    "description": " Work with files close to home",
+    "isArchived": false,
+    "lastCommit": "2023-01-30T02:38:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "local-yokel.nvim",
+  "owner": "mskelton",
+  "url": "https://github.com/mskelton/local-yokel.nvim"
+}

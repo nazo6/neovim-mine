@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "tmux"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2021-07-13T13:51:59Z",
+    "description": "Easy Neovim-Tmux navigation, completely written in Lua",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T10:41:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 108,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tmux-navigation",
+  "owner": "alexghergh",
+  "url": "https://github.com/alexghergh/nvim-tmux-navigation"
+}

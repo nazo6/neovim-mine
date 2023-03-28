@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "treesitter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Treesitter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-07-22T05:07:36Z",
+    "description": "Some useful tree-sitter utils I don't want keep inside my neovim configuration",
+    "isArchived": false,
+    "lastCommit": "2022-08-18T04:35:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ts-utils",
+  "owner": "s1n7ax",
+  "url": "https://github.com/s1n7ax/nvim-ts-utils"
+}

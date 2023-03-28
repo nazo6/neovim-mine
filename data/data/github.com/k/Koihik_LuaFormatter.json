@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Lua Development"
+      },
+      {
+        "level": 3,
+        "name": "Formatter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2018-10-26T13:16:03Z",
+    "description": "Code formatter for Lua",
+    "isArchived": false,
+    "lastCommit": "2023-02-21T02:46:30Z",
+    "primaryLanguage": {
+      "color": "#f34b7d",
+      "name": "C++"
+    },
+    "star": 574,
+    "topics": [
+      "lua",
+      "formatter",
+      "codeformatter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "LuaFormatter",
+  "owner": "Koihik",
+  "url": "https://github.com/Koihik/LuaFormatter"
+}

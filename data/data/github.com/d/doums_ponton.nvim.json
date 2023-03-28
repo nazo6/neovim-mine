@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 3,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2021-05-10T22:58:59Z",
+    "description": "A light and fast statusline",
+    "isArchived": false,
+    "lastCommit": "2023-02-26T18:26:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "neovim",
+      "nvim",
+      "statusline",
+      "galaxyline",
+      "statusbar",
+      "status",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ponton.nvim",
+  "owner": "doums",
+  "url": "https://github.com/doums/ponton.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Minimap"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-10-24T16:24:10Z",
+    "description": "Neovim Lua plugin to manage window with buffer text overview. Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2023-03-13T14:31:52Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.map",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.map"
+}

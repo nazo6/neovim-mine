@@ -1,0 +1,61 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Jump highlight"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Motion"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2021-03-14T02:12:20Z",
+    "description": "👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.",
+    "isArchived": false,
+    "lastCommit": "2022-09-20T14:11:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 349,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "specs.nvim",
+  "owner": "edluffy",
+  "url": "https://github.com/edluffy/specs.nvim"
+}

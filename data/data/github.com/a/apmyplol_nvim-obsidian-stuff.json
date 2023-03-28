@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Obsidian"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-03-24T17:30:27Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-25T15:24:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-obsidian-stuff",
+  "owner": "apmyplol",
+  "url": "https://github.com/apmyplol/nvim-obsidian-stuff"
+}

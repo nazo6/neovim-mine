@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Preconfigured Configuration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 128,
+    "createdAt": "2022-05-29T20:42:23Z",
+    "description": "Dusk is a blazing fast Lua config suited for Full Stack Java development.",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T21:58:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dusk.nvim",
+  "owner": "imbacraft",
+  "url": "https://github.com/imbacraft/dusk.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Programming Languages Support"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2021-01-22T14:16:28Z",
+    "description": "Neovim plugin for sqls that leverages the built-in LSP client",
+    "isArchived": false,
+    "lastCommit": "2023-03-15T19:00:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 129,
+    "topics": [
+      "sql",
+      "neovim",
+      "lsp",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sqls.nvim",
+  "owner": "nanotee",
+  "url": "https://github.com/nanotee/sqls.nvim"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Keymap"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2022-06-08T08:17:31Z",
+    "description": "Create a key layer in Neovim ",
+    "isArchived": false,
+    "lastCommit": "2022-07-16T22:21:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "keymap-layer.nvim",
+  "owner": "anuvyklack",
+  "url": "https://github.com/anuvyklack/keymap-layer.nvim"
+}

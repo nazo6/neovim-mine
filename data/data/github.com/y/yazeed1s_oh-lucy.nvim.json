@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2022-11-03T19:33:54Z",
+    "description": "Inspired by oh-lucy theme in vscodium, with few tweaks!",
+    "isArchived": false,
+    "lastCommit": "2022-11-26T21:20:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 117,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "terminal",
+      "theme",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "oh-lucy.nvim",
+  "owner": "yazeed1s",
+  "url": "https://github.com/yazeed1s/oh-lucy.nvim"
+}

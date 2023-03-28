@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Number"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2022-07-04T10:24:08Z",
+    "description": "Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.",
+    "isArchived": false,
+    "lastCommit": "2022-12-24T02:13:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 63,
+    "topics": [
+      "line-numbers",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-numbertoggle",
+  "owner": "sitiom",
+  "url": "https://github.com/sitiom/nvim-numbertoggle"
+}

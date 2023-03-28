@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "AI Completion"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-02-01T16:14:33Z",
+    "description": "Codegeex for neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2023-02-02T15:26:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Codegeex.nvim",
+  "owner": "jinzhongjia",
+  "url": "https://github.com/jinzhongjia/Codegeex.nvim"
+}

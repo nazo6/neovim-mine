@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Javascript/Typescript"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2022-12-31T19:57:46Z",
+    "description": "Display javascript import costs inside of neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-12T01:02:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 70,
+    "topics": [
+      "import-cost",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "import-cost.nvim",
+  "owner": "barrett-ruth",
+  "url": "https://github.com/barrett-ruth/import-cost.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown preview"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-02-26T16:23:46Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-27T22:00:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-markdown-preview",
+  "owner": "josa42",
+  "url": "https://github.com/josa42/nvim-markdown-preview"
+}

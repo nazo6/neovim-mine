@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown preview"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-02-02T03:41:14Z",
+    "description": "A Neovim plugin renders markdown file in terminal buffer.",
+    "isArchived": false,
+    "lastCommit": "2023-03-19T12:47:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "plugin",
+      "markdown",
+      "preivew",
+      "markdown-preview",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-preview.nvim",
+  "owner": "0x00-ketsu",
+  "url": "https://github.com/0x00-ketsu/markdown-preview.nvim"
+}

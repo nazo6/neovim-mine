@@ -1,0 +1,67 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      },
+      {
+        "level": 4,
+        "name": "Statusline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2020-12-22T12:27:30Z",
+    "description": "A simple Neovim statusline",
+    "isArchived": false,
+    "lastCommit": "2023-02-06T08:11:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 152,
+    "topics": [
+      "neovim-plugin",
+      "statusline",
+      "neovim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-hardline",
+  "owner": "ojroques",
+  "url": "https://github.com/ojroques/nvim-hardline"
+}

@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2022-10-11T12:19:10Z",
+    "description": "A soothing dark color scheme for neovim and friends.",
+    "isArchived": false,
+    "lastCommit": "2023-02-14T12:22:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 80,
+    "topics": [
+      "colorscheme",
+      "dark",
+      "mellow",
+      "neovim",
+      "nvim",
+      "lua",
+      "eye-candy",
+      "theme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mellow.nvim",
+  "owner": "kvrohit",
+  "url": "https://github.com/kvrohit/mellow.nvim"
+}

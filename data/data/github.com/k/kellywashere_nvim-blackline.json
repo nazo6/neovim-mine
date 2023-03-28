@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Cursorline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-02-17T20:33:32Z",
+    "description": "neovim plugin to change cursorline color when in insert mode",
+    "isArchived": false,
+    "lastCommit": "2023-02-18T10:33:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-blackline",
+  "owner": "kellywashere",
+  "url": "https://github.com/kellywashere/nvim-blackline"
+}

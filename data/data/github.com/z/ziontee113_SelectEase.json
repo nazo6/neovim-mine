@@ -1,0 +1,35 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Select"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2023-02-15T12:02:47Z",
+    "description": "SelectEase selects matching nodes near the cursor using Treesitter queries with Vim's Select Mode.",
+    "isArchived": false,
+    "lastCommit": "2023-02-19T19:30:00Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 83,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "SelectEase",
+  "owner": "ziontee113",
+  "url": "https://github.com/ziontee113/SelectEase"
+}

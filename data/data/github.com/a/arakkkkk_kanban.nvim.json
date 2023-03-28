@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 154,
+    "createdAt": "2022-10-22T14:12:42Z",
+    "description": "Kanban boad with Neovim!!",
+    "isArchived": false,
+    "lastCommit": "2023-03-09T13:53:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "neovim",
+      "vim",
+      "vim-plugin",
+      "kanban",
+      "kanban-board",
+      "neovim-plugin",
+      "task-manager"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kanban.nvim",
+  "owner": "arakkkkk",
+  "url": "https://github.com/arakkkkk/kanban.nvim"
+}

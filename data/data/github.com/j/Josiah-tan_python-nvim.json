@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      },
+      {
+        "level": 4,
+        "name": "REPL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-02-12T14:28:34Z",
+    "description": "interactive python in neovim",
+    "isArchived": false,
+    "lastCommit": "2022-02-19T12:23:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "python-nvim",
+  "owner": "Josiah-tan",
+  "url": "https://github.com/Josiah-tan/python-nvim"
+}

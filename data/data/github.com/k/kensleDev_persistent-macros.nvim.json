@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Macro"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2023-03-21T18:06:16Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-24T00:41:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "persistent-macros.nvim",
+  "owner": "kensleDev",
+  "url": "https://github.com/kensleDev/persistent-macros.nvim"
+}

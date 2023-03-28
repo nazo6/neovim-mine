@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CLI"
+      },
+      {
+        "level": 4,
+        "name": "make"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2021-08-09T21:06:58Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-10T11:42:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 66,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-makefile",
+  "owner": "ptethng",
+  "url": "https://github.com/ptethng/telescope-makefile"
+}

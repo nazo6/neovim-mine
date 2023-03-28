@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "Reading assistant feature"
+      },
+      {
+        "level": 4,
+        "name": "Current Position Info"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2022-11-05T17:35:03Z",
+    "description": "Simple Nvim plugin that copies the exact file location where the cursor is",
+    "isArchived": false,
+    "lastCommit": "2022-11-14T19:46:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "nvim",
+      "plugin",
+      "file",
+      "location",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-file-location",
+  "owner": "diegoulloao",
+  "url": "https://github.com/diegoulloao/nvim-file-location"
+}

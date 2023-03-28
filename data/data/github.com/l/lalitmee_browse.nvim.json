@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Browser Integration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2022-03-13T13:03:36Z",
+    "description": "browse for anything using your choice of method",
+    "isArchived": false,
+    "lastCommit": "2023-02-18T16:09:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 147,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "browse.nvim",
+  "owner": "lalitmee",
+  "url": "https://github.com/lalitmee/browse.nvim"
+}

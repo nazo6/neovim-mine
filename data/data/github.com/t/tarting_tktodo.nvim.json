@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Zettelkasten"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-01-26T09:24:56Z",
+    "description": "A telescope extension to toggle todo items in notes from the telekasten.nvim home directory.",
+    "isArchived": false,
+    "lastCommit": "2023-01-26T10:15:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "nvim",
+      "telekasten",
+      "telescope",
+      "todo",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tktodo.nvim",
+  "owner": "tarting",
+  "url": "https://github.com/tarting/tktodo.nvim"
+}

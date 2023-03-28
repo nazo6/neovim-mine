@@ -1,0 +1,31 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2021-02-21T10:24:50Z",
+    "description": "Treesitter powered spellchecker",
+    "isArchived": true,
+    "lastCommit": "2022-09-06T11:00:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 435,
+    "topics": [
+      "neovim-plugin",
+      "tree-sitter",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spellsitter.nvim",
+  "owner": "lewis6991",
+  "url": "https://github.com/lewis6991/spellsitter.nvim"
+}

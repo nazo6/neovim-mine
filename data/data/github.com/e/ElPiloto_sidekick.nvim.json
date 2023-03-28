@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "Code outline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-10-31T00:04:38Z",
+    "description": "An outline window that's always by your side (except for when it's not).",
+    "isArchived": false,
+    "lastCommit": "2020-12-28T14:33:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 41,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sidekick.nvim",
+  "owner": "ElPiloto",
+  "url": "https://github.com/ElPiloto/sidekick.nvim"
+}

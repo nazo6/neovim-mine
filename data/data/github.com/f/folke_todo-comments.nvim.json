@@ -1,0 +1,60 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Todo Comment Highlight"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Editing Support"
+      },
+      {
+        "level": 4,
+        "name": "Comment"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 77,
+    "createdAt": "2021-05-10T19:38:20Z",
+    "description": "✅  Highlight, list and search todo comments in your projects",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T10:38:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1639,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo-comments.nvim",
+  "owner": "folke",
+  "url": "https://github.com/folke/todo-comments.nvim"
+}

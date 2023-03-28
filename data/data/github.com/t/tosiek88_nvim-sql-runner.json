@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "Database"
+      },
+      {
+        "level": 4,
+        "name": "SQL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-11-27T11:31:36Z",
+    "description": "Simple sql file runner",
+    "isArchived": false,
+    "lastCommit": "2022-11-27T20:52:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-sql-runner",
+  "owner": "tosiek88",
+  "url": "https://github.com/tosiek88/nvim-sql-runner"
+}

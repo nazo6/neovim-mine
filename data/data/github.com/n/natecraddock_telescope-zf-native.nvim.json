@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      },
+      {
+        "level": 3,
+        "name": "Telescope Extensions"
+      },
+      {
+        "level": 4,
+        "name": "Sorter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-01-19T22:20:00Z",
+    "description": "native telescope bindings to zf for sorting results",
+    "isArchived": false,
+    "lastCommit": "2023-03-15T22:13:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 86,
+    "topics": [
+      "neovim",
+      "telescope",
+      "sorter",
+      "zf",
+      "zig"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-zf-native.nvim",
+  "owner": "natecraddock",
+  "url": "https://github.com/natecraddock/telescope-zf-native.nvim"
+}

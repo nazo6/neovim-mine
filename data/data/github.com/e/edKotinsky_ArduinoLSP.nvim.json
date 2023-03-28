@@ -1,0 +1,53 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Hardware"
+      },
+      {
+        "level": 4,
+        "name": "Embedded Software"
+      },
+      {
+        "level": 5,
+        "name": "Arduino"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 83,
+    "createdAt": "2022-12-25T14:47:09Z",
+    "description": "Simple arduino-language-server wrapper for nvim",
+    "isArchived": false,
+    "lastCommit": "2023-01-20T12:47:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "arduino",
+      "lspconfig",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ArduinoLSP.nvim",
+  "owner": "edKotinsky",
+  "url": "https://github.com/edKotinsky/ArduinoLSP.nvim"
+}

@@ -1,0 +1,67 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Javascript/Typescript"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Dependency Management"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2021-08-01T21:14:49Z",
+    "description": "✍️ All the npm/yarn commands I don't want to type",
+    "isArchived": false,
+    "lastCommit": "2022-11-17T16:09:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 251,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "version",
+      "neovim-lua",
+      "neovim-gui",
+      "package-json",
+      "npm",
+      "yarn",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "package-info.nvim",
+  "owner": "vuki656",
+  "url": "https://github.com/vuki656/package-info.nvim"
+}

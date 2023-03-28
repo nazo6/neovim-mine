@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Refactoring,Debugging"
+      },
+      {
+        "level": 4,
+        "name": "print debug"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2022-09-13T15:19:10Z",
+    "description": "Neovim plugin adding debug printing operator",
+    "isArchived": false,
+    "lastCommit": "2022-12-27T12:43:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 56,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "printer.nvim",
+  "owner": "rareitems",
+  "url": "https://github.com/rareitems/printer.nvim"
+}

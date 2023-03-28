@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      },
+      {
+        "level": 3,
+        "name": "Telescope Extensions"
+      },
+      {
+        "level": 4,
+        "name": "Sorter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2020-11-23T13:08:55Z",
+    "description": "FZY style sorter that is compiled",
+    "isArchived": false,
+    "lastCommit": "2022-09-11T06:56:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 151,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-fzy-native.nvim",
+  "owner": "nvim-telescope",
+  "url": "https://github.com/nvim-telescope/telescope-fzy-native.nvim"
+}

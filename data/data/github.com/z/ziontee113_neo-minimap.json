@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Minimap"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 67,
+    "createdAt": "2022-10-13T04:26:55Z",
+    "description": "Plugin for Neovim that lets you create your own \"minimap\" from Treesitter Queries or Vim Regex.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T13:22:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 109,
+    "topics": [
+      "lua",
+      "neovim",
+      "treesitter",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neo-minimap",
+  "owner": "ziontee113",
+  "url": "https://github.com/ziontee113/neo-minimap"
+}

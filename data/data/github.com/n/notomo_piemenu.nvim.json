@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Menu"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2021-07-24T05:24:18Z",
+    "description": "Pie menu plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T10:57:52Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 83,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "piemenu.nvim",
+  "owner": "notomo",
+  "url": "https://github.com/notomo/piemenu.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "REPL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2021-03-09T17:06:27Z",
+    "description": "Script runner for quick iteration. Bring your scripting to the next level.",
+    "isArchived": false,
+    "lastCommit": "2022-12-21T20:49:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+      "nvim",
+      "lua",
+      "runner",
+      "script-runner"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dash.nvim",
+  "owner": "jbyuki",
+  "url": "https://github.com/jbyuki/dash.nvim"
+}

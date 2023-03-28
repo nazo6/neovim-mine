@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "Window Management"
+      },
+      {
+        "level": 4,
+        "name": "maximize"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-01-09T11:25:00Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-01-10T05:04:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "window.nvim",
+  "owner": "niuiic",
+  "url": "https://github.com/niuiic/window.nvim"
+}

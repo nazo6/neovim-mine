@@ -1,0 +1,62 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Image Uploader"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Media"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2022-04-24T03:27:55Z",
+    "description": "🥳🥳 A neovim plugin based on picgo-core, written in Lua. 🌲 Allows you to add pictures to various picture beds at any time, and they can be accessed from any corner of the Internet. 🎆",
+    "isArchived": false,
+    "lastCommit": "2022-12-05T03:29:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 35,
+    "topics": [
+      "neovim",
+      "image",
+      "lua",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-picgo",
+  "owner": "askfiy",
+  "url": "https://github.com/askfiy/nvim-picgo"
+}

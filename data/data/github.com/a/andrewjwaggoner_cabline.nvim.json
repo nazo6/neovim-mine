@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Tabline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-11-11T17:11:38Z",
+    "description": "DIY tabline for adding custom functionality to your projects. Instead of setting up buffer tabs, set up custom display elements for your Neovim!",
+    "isArchived": false,
+    "lastCommit": "2022-11-11T19:20:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cabline.nvim",
+  "owner": "andrewjwaggoner",
+  "url": "https://github.com/andrewjwaggoner/cabline.nvim"
+}

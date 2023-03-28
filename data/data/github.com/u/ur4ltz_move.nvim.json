@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "textobject_operator.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Textobject"
+      },
+      {
+        "level": 3,
+        "name": "Move"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-01-12T13:02:17Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-01-17T14:35:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "move.nvim",
+  "owner": "ur4ltz",
+  "url": "https://github.com/ur4ltz/move.nvim"
+}

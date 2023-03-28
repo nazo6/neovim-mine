@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Grep"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-09-03T21:25:15Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-09-05T22:03:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "livegrep.nvim",
+  "owner": "nathanmsmith",
+  "url": "https://github.com/nathanmsmith/livegrep.nvim"
+}

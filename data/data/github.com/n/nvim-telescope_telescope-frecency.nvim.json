@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      },
+      {
+        "level": 4,
+        "name": "open"
+      },
+      {
+        "level": 5,
+        "name": "recent file"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2021-01-17T19:14:26Z",
+    "description": "A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.",
+    "isArchived": false,
+    "lastCommit": "2023-02-15T11:32:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 454,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-frecency.nvim",
+  "owner": "nvim-telescope",
+  "url": "https://github.com/nvim-telescope/telescope-frecency.nvim"
+}

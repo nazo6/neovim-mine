@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Local Config"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 71,
+    "createdAt": "2021-11-03T19:06:34Z",
+    "description": "Better project-specific configs for nvim-dap with telescope!",
+    "isArchived": false,
+    "lastCommit": "2022-10-21T17:38:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "nvim-dap",
+      "project-management",
+      "nvim-telescope",
+      "task-manager",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-projector",
+  "owner": "kndndrj",
+  "url": "https://github.com/kndndrj/nvim-projector"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Screen position"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-10-31T15:11:50Z",
+    "description": "Neovim plugin to keep the screen centered",
+    "isArchived": false,
+    "lastCommit": "2022-10-31T17:12:32Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yfix.nvim",
+  "owner": "vvvvv",
+  "url": "https://github.com/vvvvv/yfix.nvim"
+}

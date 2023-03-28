@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "endpoints.json"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 57,
+    "createdAt": "2022-12-27T19:52:08Z",
+    "description": "🚀 Neovim plugin to open API endpoints directly in the editor ⚡",
+    "isArchived": false,
+    "lastCommit": "2023-02-05T18:01:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "endpoint-previewer.nvim",
+  "owner": "tlj",
+  "url": "https://github.com/tlj/endpoint-previewer.nvim"
+}

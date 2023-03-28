@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2020-12-12T21:46:15Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-23T16:06:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 440,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-project.nvim",
+  "owner": "nvim-telescope",
+  "url": "https://github.com/nvim-telescope/telescope-project.nvim"
+}

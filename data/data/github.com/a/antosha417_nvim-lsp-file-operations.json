@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-01-08T22:05:58Z",
+    "description": "Neovim plugin that adds support for file operations using built-in LSP",
+    "isArchived": false,
+    "lastCommit": "2023-02-24T12:03:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lsp-file-operations",
+  "owner": "antosha417",
+  "url": "https://github.com/antosha417/nvim-lsp-file-operations"
+}

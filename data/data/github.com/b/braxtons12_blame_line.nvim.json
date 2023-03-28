@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git blame"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2022-06-13T03:01:44Z",
+    "description": "A simple and configurable git blame line annotation for Neovim 0.7+ using pure lua",
+    "isArchived": false,
+    "lastCommit": "2022-08-12T17:34:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blame_line.nvim",
+  "owner": "braxtons12",
+  "url": "https://github.com/braxtons12/blame_line.nvim"
+}

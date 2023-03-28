@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Patch"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-01-23T21:33:46Z",
+    "description": "Set an independent timeout for CursorHold and CursorHoldI without changing updatetime",
+    "isArchived": false,
+    "lastCommit": "2023-01-25T13:31:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "updatetime",
+      "cursorhold"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cursorhold-timeout.nvim",
+  "owner": "tanchihpin0517",
+  "url": "https://github.com/tanchihpin0517/cursorhold-timeout.nvim"
+}

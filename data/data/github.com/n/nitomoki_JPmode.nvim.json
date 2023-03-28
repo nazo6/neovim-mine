@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-02-13T11:14:49Z",
+    "description": "A plugin switching Hankaku/Zenkaku for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-12-29T06:42:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "JPmode.nvim",
+  "owner": "nitomoki",
+  "url": "https://github.com/nitomoki/JPmode.nvim"
+}

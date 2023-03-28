@@ -1,0 +1,65 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "package-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Package Manager"
+      },
+      {
+        "level": 3,
+        "name": "LSP, DAP, linter, formatter"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Installer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 106,
+    "createdAt": "2022-07-21T11:57:05Z",
+    "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T13:00:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 998,
+    "topics": [
+      "lsp",
+      "lspconfig",
+      "mason",
+      "neovim",
+      "nvim",
+      "nvim-lspconfig",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mason-lspconfig.nvim",
+  "owner": "williamboman",
+  "url": "https://github.com/williamboman/mason-lspconfig.nvim"
+}

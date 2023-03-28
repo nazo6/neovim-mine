@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2022-12-03T06:14:53Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-07T09:06:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-taberm",
+  "owner": "fj0r",
+  "url": "https://github.com/fj0r/nvim-taberm"
+}

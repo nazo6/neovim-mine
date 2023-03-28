@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 242,
+    "createdAt": "2021-04-04T15:29:56Z",
+    "description": "Further development has moved to https://github.com/williamboman/mason.nvim!",
+    "isArchived": true,
+    "lastCommit": "2022-11-12T13:57:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2016,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lsp-installer",
+  "owner": "williamboman",
+  "url": "https://github.com/williamboman/nvim-lsp-installer"
+}

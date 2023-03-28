@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Abbreviation"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Note Taking"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-07-11T15:12:08Z",
+    "description": "Abbreviation reminder plugin for Neovim 0.5+",
+    "isArchived": false,
+    "lastCommit": "2022-04-28T00:23:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 67,
+    "topics": [
+      "neovim",
+      "lua",
+      "vim",
+      "vim-abbreviations",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "abbreinder.nvim",
+  "owner": "0styx0",
+  "url": "https://github.com/0styx0/abbreinder.nvim"
+}

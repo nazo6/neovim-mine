@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Link"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-02-18T05:56:13Z",
+    "description": "GithubLink is a Neovim plugin that generates Github links for the current line or selection in your code.",
+    "isArchived": false,
+    "lastCommit": "2023-02-19T00:44:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "chatgpt",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-github-linker",
+  "owner": "vincent178",
+  "url": "https://github.com/vincent178/nvim-github-linker"
+}

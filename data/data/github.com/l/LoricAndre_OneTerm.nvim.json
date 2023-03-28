@@ -1,0 +1,62 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Integration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-04-11T21:54:31Z",
+    "description": "One terminal plugin to rule them all ! (eventually)",
+    "isArchived": false,
+    "lastCommit": "2022-03-14T13:08:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+      "neovim",
+      "nvim",
+      "fzf",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "OneTerm.nvim",
+  "owner": "LoricAndre",
+  "url": "https://github.com/LoricAndre/OneTerm.nvim"
+}

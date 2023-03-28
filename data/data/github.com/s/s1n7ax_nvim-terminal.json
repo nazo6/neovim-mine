@@ -1,0 +1,62 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Integration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-01-28T07:33:32Z",
+    "description": "A Lua-Neovim plugin that toggles a terminal",
+    "isArchived": false,
+    "lastCommit": "2022-06-29T17:00:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 99,
+    "topics": [
+      "neovim",
+      "lua",
+      "nvim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-terminal",
+  "owner": "s1n7ax",
+  "url": "https://github.com/s1n7ax/nvim-terminal"
+}

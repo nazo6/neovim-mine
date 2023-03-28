@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-02-06T19:00:44Z",
+    "description": "Enhanced diagnostics UI for Neovim. 🚧 Highly WIP. Publicly available to make it easier for me to clone.",
+    "isArchived": false,
+    "lastCommit": "2023-02-06T19:17:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "warden.nvim",
+  "owner": "williamboman",
+  "url": "https://github.com/williamboman/warden.nvim"
+}

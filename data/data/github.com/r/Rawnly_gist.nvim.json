@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Gist"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2023-03-14T21:20:23Z",
+    "description": "Neovim plugin that allows you to create a Github Gist from the current file",
+    "isArchived": false,
+    "lastCommit": "2023-03-15T21:40:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 123,
+    "topics": [
+      "gist",
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gist.nvim",
+  "owner": "Rawnly",
+  "url": "https://github.com/Rawnly/gist.nvim"
+}

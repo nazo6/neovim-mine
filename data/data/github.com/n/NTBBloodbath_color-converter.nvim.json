@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Colorscheme Creation"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-07-20T23:23:21Z",
+    "description": "Easily convert your CSS colors without leaving your favorite editor.",
+    "isArchived": false,
+    "lastCommit": "2021-07-29T04:56:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 31,
+    "topics": [
+      "neovim",
+      "lua",
+      "plugin",
+      "neovim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "color-converter.nvim",
+  "owner": "NTBBloodbath",
+  "url": "https://github.com/NTBBloodbath/color-converter.nvim"
+}

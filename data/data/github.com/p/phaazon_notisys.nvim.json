@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Notification"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-10-05T09:34:51Z",
+    "description": "System-wide notifications for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-11-29T16:16:37Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 40,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notisys.nvim",
+  "owner": "phaazon",
+  "url": "https://github.com/phaazon/notisys.nvim"
+}

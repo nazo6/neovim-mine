@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Fennel"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-08-07T01:16:21Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-12-14T01:38:48Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-antifennel",
+  "owner": "beardedsakimonkey",
+  "url": "https://github.com/beardedsakimonkey/nvim-antifennel"
+}

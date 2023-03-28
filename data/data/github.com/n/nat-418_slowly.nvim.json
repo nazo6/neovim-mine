@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "plugin-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Plugin Manager"
+      },
+      {
+        "level": 3,
+        "name": "Use builtin package feature"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2022-10-21T19:22:38Z",
+    "description": "Neovim plugin manager where simplicity > speed",
+    "isArchived": false,
+    "lastCommit": "2023-01-08T15:31:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "slowly.nvim",
+  "owner": "nat-418",
+  "url": "https://github.com/nat-418/slowly.nvim"
+}

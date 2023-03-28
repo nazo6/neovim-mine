@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      },
+      {
+        "level": 2,
+        "name": "Mapping toggle"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-02-09T17:14:39Z",
+    "description": "Stacks of Maps",
+    "isArchived": false,
+    "lastCommit": "2022-02-09T19:00:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stackmap.nvim",
+  "owner": "tjdevries",
+  "url": "https://github.com/tjdevries/stackmap.nvim"
+}

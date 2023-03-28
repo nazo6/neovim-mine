@@ -1,0 +1,73 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Indent"
+      },
+      {
+        "level": 4,
+        "name": "Indent Size"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Formatting"
+      },
+      {
+        "level": 4,
+        "name": "Indent"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2022-02-19T00:29:42Z",
+    "description": "Automatic indentation style detection for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-07-17T12:05:52Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 190,
+    "topics": [
+      "vim",
+      "neovim",
+      "indentation",
+      "nvim",
+      "autoindent",
+      "nvim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "guess-indent.nvim",
+  "owner": "NMAC427",
+  "url": "https://github.com/NMAC427/guess-indent.nvim"
+}

@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "tmux"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-08-13T01:02:14Z",
+    "description": "A tiny plugin for seamless switching between vim splits and tmux panes",
+    "isArchived": false,
+    "lastCommit": "2021-10-15T19:36:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 39,
+    "topics": [
+      "neovim",
+      "lua",
+      "tmux",
+      "lightweight"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux.nvim",
+  "owner": "nathom",
+  "url": "https://github.com/nathom/tmux.nvim"
+}

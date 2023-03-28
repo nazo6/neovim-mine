@@ -1,0 +1,71 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Haskell"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 327,
+    "createdAt": "2022-10-15T14:18:38Z",
+    "description": "Supercharge your Haskell experience in neovim!",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T06:42:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 195,
+    "topics": [
+      "haskell",
+      "lsp",
+      "neovim",
+      "nvim",
+      "language-server",
+      "plugin",
+      "vim",
+      "languale-server-protocol",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "haskell-tools.nvim",
+  "owner": "MrcJkb",
+  "url": "https://github.com/MrcJkb/haskell-tools.nvim"
+}

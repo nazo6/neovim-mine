@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Cairo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2022-09-28T20:46:34Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-10T14:11:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cairo-support-nvim",
+  "owner": "racso2609",
+  "url": "https://github.com/racso2609/cairo-support-nvim"
+}

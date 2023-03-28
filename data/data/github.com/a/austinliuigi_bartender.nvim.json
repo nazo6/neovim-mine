@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 3,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2022-12-25T22:22:21Z",
+    "description": "🍺 Manage your neovim bars",
+    "isArchived": false,
+    "lastCommit": "2023-01-23T10:23:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bartender.nvim",
+  "owner": "austinliuigi",
+  "url": "https://github.com/austinliuigi/bartender.nvim"
+}

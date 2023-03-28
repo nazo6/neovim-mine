@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-03-14T09:07:36Z",
+    "description": "Adds code action handlers for ltex-ls like: addToDictionary, disableRule, hideFalsePositive",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T13:49:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "dictionaries",
+      "false-positive",
+      "ltex",
+      "neovim",
+      "plugin",
+      "spellcheck"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ltex-client.nvim",
+  "owner": "icewind",
+  "url": "https://github.com/icewind/ltex-client.nvim"
+}

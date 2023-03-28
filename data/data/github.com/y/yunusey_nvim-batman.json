@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Screen server"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-12-28T16:46:54Z",
+    "description": "A fancy sleep screen for neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-01-04T20:16:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-batman",
+  "owner": "yunusey",
+  "url": "https://github.com/yunusey/nvim-batman"
+}

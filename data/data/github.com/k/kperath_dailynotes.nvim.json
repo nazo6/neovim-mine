@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-12-03T20:27:35Z",
+    "description": "Neovim plugin I use for my simple note taking system",
+    "isArchived": false,
+    "lastCommit": "2022-12-18T22:09:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dailynotes.nvim",
+  "owner": "kperath",
+  "url": "https://github.com/kperath/dailynotes.nvim"
+}

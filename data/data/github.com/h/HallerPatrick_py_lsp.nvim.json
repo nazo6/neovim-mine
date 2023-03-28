@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2021-07-10T21:45:34Z",
+    "description": "Lsp Plugin for working with Python virtual environments",
+    "isArchived": false,
+    "lastCommit": "2023-02-28T19:48:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 66,
+    "topics": [
+      "neovim",
+      "nvim",
+      "lsp",
+      "python",
+      "virtualenv",
+      "pyright"
+    ]
+  },
+  "domain": "github.com",
+  "name": "py_lsp.nvim",
+  "owner": "HallerPatrick",
+  "url": "https://github.com/HallerPatrick/py_lsp.nvim"
+}

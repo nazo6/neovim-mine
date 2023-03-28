@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development Tools"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2020-07-28T23:42:13Z",
+    "description": "Lua Development for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-12-20T18:33:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 267,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nlua.nvim",
+  "owner": "tjdevries",
+  "url": "https://github.com/tjdevries/nlua.nvim"
+}

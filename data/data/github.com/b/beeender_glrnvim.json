@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "gui.md"
+      },
+      {
+        "level": 1,
+        "name": "GUI"
+      },
+      {
+        "level": 2,
+        "name": "Rust"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2019-03-21T03:57:06Z",
+    "description": "glrnvim wraps nvim with your favourite terminal into a standalone, non-fancy but daily-usable neovim GUI.",
+    "isArchived": false,
+    "lastCommit": "2023-01-13T05:37:14Z",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 259,
+    "topics": [
+      "neovim",
+      "neovim-guis",
+      "opengl"
+    ]
+  },
+  "domain": "github.com",
+  "name": "glrnvim",
+  "owner": "beeender",
+  "url": "https://github.com/beeender/glrnvim"
+}

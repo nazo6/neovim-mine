@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2022-08-14T12:10:58Z",
+    "description": "🌈 LSP-based colorizer for neovim",
+    "isArchived": true,
+    "lastCommit": "2022-08-22T11:36:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 167,
+    "topics": [
+      "neovim",
+      "neovim-lsp",
+      "neovim-plugin",
+      "tailwindcss"
+    ]
+  },
+  "domain": "github.com",
+  "name": "document-color.nvim",
+  "owner": "mrshmllow",
+  "url": "https://github.com/mrshmllow/document-color.nvim"
+}

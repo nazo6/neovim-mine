@@ -1,0 +1,58 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Elixir"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Programming Languages Support"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2022-01-25T14:55:47Z",
+    "description": "A Mix Wrapper for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-08-22T11:53:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 26,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mix.nvim",
+  "owner": "brendalf",
+  "url": "https://github.com/brendalf/mix.nvim"
+}

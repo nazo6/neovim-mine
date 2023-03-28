@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "auto-insert.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "insert pairs"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-04-05T19:43:49Z",
+    "description": "Auto pair plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2021-05-27T12:34:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 208,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pears.nvim",
+  "owner": "steelsojka",
+  "url": "https://github.com/steelsojka/pears.nvim"
+}

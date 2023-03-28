@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Quarto"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 87,
+    "createdAt": "2022-07-24T20:52:39Z",
+    "description": "Quarto mode for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-15T11:12:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 82,
+    "topics": [
+      "neovim",
+      "nvim",
+      "quarto",
+      "nvim-cmp",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quarto-nvim",
+  "owner": "quarto-dev",
+  "url": "https://github.com/quarto-dev/quarto-nvim"
+}

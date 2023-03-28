@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      },
+      {
+        "level": 4,
+        "name": "SKK"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-09-28T14:13:35Z",
+    "description": "skkeleton source for nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2022-02-12T05:03:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-skkeleton",
+  "owner": "rinx",
+  "url": "https://github.com/rinx/cmp-skkeleton"
+}

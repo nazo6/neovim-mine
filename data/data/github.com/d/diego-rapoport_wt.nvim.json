@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Analytics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-09-09T21:40:00Z",
+    "description": "A neovim plugin to track your working time(wt) inside a git project",
+    "isArchived": false,
+    "lastCommit": "2022-09-12T12:09:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wt.nvim",
+  "owner": "diego-rapoport",
+  "url": "https://github.com/diego-rapoport/wt.nvim"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Link"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-10-09T15:26:19Z",
+    "description": "A Neovim plugin written in Lua to quickly open the buffer's current line in GitHub (or GitLab) with your default browser.",
+    "isArchived": false,
+    "lastCommit": "2022-10-13T02:18:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-git-line",
+  "owner": "ciehanski",
+  "url": "https://github.com/ciehanski/nvim-git-line"
+}

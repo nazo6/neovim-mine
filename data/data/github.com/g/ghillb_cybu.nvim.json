@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Selector"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2022-04-02T18:38:03Z",
+    "description": "Neovim plugin that offers context when cycling buffers in the form of a customizable notification window.",
+    "isArchived": false,
+    "lastCommit": "2022-12-17T21:50:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 228,
+    "topics": [
+      "neovim",
+      "lua",
+      "neovim-plugin",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cybu.nvim",
+  "owner": "ghillb",
+  "url": "https://github.com/ghillb/cybu.nvim"
+}

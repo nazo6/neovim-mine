@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Template"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-10-14T17:53:49Z",
+    "description": "LuaSnip and Treesitter-powered snippets",
+    "isArchived": false,
+    "lastCommit": "2022-11-24T18:42:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "luasnip",
+      "nvim",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "luasnip-ts-snippets.nvim",
+  "owner": "filipgodlewski",
+  "url": "https://github.com/filipgodlewski/luasnip-ts-snippets.nvim"
+}

@@ -1,0 +1,61 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatting config"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Formatting"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 65,
+    "createdAt": "2022-12-12T14:03:50Z",
+    "description": "Strict, native code style formatting plugin for Neovim. Expose deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.",
+    "isArchived": false,
+    "lastCommit": "2023-03-16T10:19:02Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 32,
+    "topics": [
+      "neovim",
+      "formatting",
+      "lua",
+      "neovim-plugin",
+      "regex",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-strict",
+  "owner": "emileferreira",
+  "url": "https://github.com/emileferreira/nvim-strict"
+}

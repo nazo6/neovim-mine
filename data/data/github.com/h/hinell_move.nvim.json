@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "textobject_operator.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Textobject"
+      },
+      {
+        "level": 3,
+        "name": "Move"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-01-26T18:41:56Z",
+    "description": "Gain the power to move lines and blocks and auto-indent them!",
+    "isArchived": false,
+    "lastCommit": "2023-01-27T14:39:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "move.nvim",
+  "owner": "hinell",
+  "url": "https://github.com/hinell/move.nvim"
+}

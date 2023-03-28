@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Neovim Lua Development"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-09-06T07:10:18Z",
+    "description": "Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua",
+    "isArchived": false,
+    "lastCommit": "2021-12-28T20:27:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 361,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vimpeccable",
+  "owner": "svermeulen",
+  "url": "https://github.com/svermeulen/vimpeccable"
+}

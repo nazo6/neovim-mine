@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Ruby"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-10-25T20:20:35Z",
+    "description": "View RSpec failure messages as diagnostic entries in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T15:37:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "dev-tool",
+      "integration",
+      "neovim",
+      "rspec",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rspec-integrated.nvim",
+  "owner": "melopilosyan",
+  "url": "https://github.com/melopilosyan/rspec-integrated.nvim"
+}

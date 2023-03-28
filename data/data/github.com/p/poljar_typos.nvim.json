@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Spell"
+      },
+      {
+        "level": 4,
+        "name": "Spellcheck"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2022-08-28T07:59:00Z",
+    "description": "Using typos-cli to show diagnostics warnings in nvim",
+    "isArchived": false,
+    "lastCommit": "2022-09-10T07:19:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "typos.nvim",
+  "owner": "poljar",
+  "url": "https://github.com/poljar/typos.nvim"
+}

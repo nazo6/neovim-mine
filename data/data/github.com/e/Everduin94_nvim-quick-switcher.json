@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Other Buffer Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2021-12-23T02:29:00Z",
+    "description": "Quickly navigate to other files/extensions based on the current file name or jump to nodes in a file via treesitter. Written in Lua.",
+    "isArchived": false,
+    "lastCommit": "2022-12-01T14:38:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 39,
+    "topics": [
+      "nvim",
+      "plugin",
+      "vim",
+      "neovim-plugin",
+      "neovim",
+      "lua",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-quick-switcher",
+  "owner": "Everduin94",
+  "url": "https://github.com/Everduin94/nvim-quick-switcher"
+}

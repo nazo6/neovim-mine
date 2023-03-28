@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "REPL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-10-10T08:19:38Z",
+    "description": "Neovim Plugin to introduce a REPL that executes code in blocks by comments",
+    "isArchived": false,
+    "lastCommit": "2022-10-10T09:07:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "brepl.nvim",
+  "owner": "aoi-iter",
+  "url": "https://github.com/aoi-iter/brepl.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "package-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Package Manager"
+      },
+      {
+        "level": 3,
+        "name": "LSP, DAP, linter, formatter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2022-09-25T21:28:00Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-07T01:57:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 135,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mason-nvim-dap.nvim",
+  "owner": "jayp0521",
+  "url": "https://github.com/jayp0521/mason-nvim-dap.nvim"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 167,
+    "createdAt": "2023-01-07T14:26:19Z",
+    "description": "Rainbow delimiters for Neovim through Tree-sitter",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T11:22:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 176,
+    "topics": [
+      "neovim",
+      "rainbow",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ts-rainbow2",
+  "owner": "HiPhish",
+  "url": "https://github.com/HiPhish/nvim-ts-rainbow2"
+}

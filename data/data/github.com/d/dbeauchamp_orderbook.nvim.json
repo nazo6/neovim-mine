@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Stock price"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-01-19T05:53:52Z",
+    "description": "crypto exchange prices from your editor",
+    "isArchived": false,
+    "lastCommit": "2023-01-21T21:42:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "crypto",
+      "lua",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "orderbook.nvim",
+  "owner": "dbeauchamp",
+  "url": "https://github.com/dbeauchamp/orderbook.nvim"
+}

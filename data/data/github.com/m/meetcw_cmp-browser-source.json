@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "nvim-cmp extension"
+      },
+      {
+        "level": 4,
+        "name": "nvim-cmp sources"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-01-19T17:07:47Z",
+    "description": "Browser source for nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2022-02-06T12:03:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "nvim-cmp",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-browser-source",
+  "owner": "meetcw",
+  "url": "https://github.com/meetcw/cmp-browser-source"
+}

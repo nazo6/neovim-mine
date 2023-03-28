@@ -1,0 +1,30 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-07-31T19:47:25Z",
+    "description": "Displays neovim startup time",
+    "isArchived": true,
+    "lastCommit": "2022-07-31T18:44:57Z",
+    "primaryLanguage": null,
+    "star": 49,
+    "topics": [
+      "neovim",
+      "lua",
+      "neovim-plugin",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-startup.lua",
+  "owner": "henriquehbr",
+  "url": "https://github.com/henriquehbr/nvim-startup.lua"
+}

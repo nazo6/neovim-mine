@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Calculation"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2021-10-09T08:47:03Z",
+    "description": "A live calculator in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-12T11:02:26Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 27,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "calculator"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quickmath.nvim",
+  "owner": "jbyuki",
+  "url": "https://github.com/jbyuki/quickmath.nvim"
+}

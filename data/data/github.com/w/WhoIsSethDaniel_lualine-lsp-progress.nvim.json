@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2022-08-11T19:26:45Z",
+    "description": "LSP progress lualine component",
+    "isArchived": false,
+    "lastCommit": "2023-03-04T03:51:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 55,
+    "topics": [
+      "lua",
+      "lualine",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lualine-lsp-progress.nvim",
+  "owner": "WhoIsSethDaniel",
+  "url": "https://github.com/WhoIsSethDaniel/lualine-lsp-progress.nvim"
+}

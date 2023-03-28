@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      },
+      {
+        "level": 4,
+        "name": "open"
+      },
+      {
+        "level": 5,
+        "name": "recent file"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2022-09-20T19:19:32Z",
+    "description": "Neovim plugin for fast file-finding",
+    "isArchived": false,
+    "lastCommit": "2023-02-26T16:13:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 103,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-open.nvim",
+  "owner": "danielfalk",
+  "url": "https://github.com/danielfalk/smart-open.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      },
+      {
+        "level": 4,
+        "name": "venv"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-02-26T16:43:30Z",
+    "description": "Allows selection of python virtual environment from within neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T16:16:06Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "venv-selector.nvim",
+  "owner": "linux-cultist",
+  "url": "https://github.com/linux-cultist/venv-selector.nvim"
+}

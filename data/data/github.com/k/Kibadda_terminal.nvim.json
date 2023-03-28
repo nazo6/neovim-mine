@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-02-24T09:48:26Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-06T08:35:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "terminal.nvim",
+  "owner": "Kibadda",
+  "url": "https://github.com/Kibadda/terminal.nvim"
+}

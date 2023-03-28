@@ -1,0 +1,71 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Vimdoc"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Programming Languages Support"
+      },
+      {
+        "level": 4,
+        "name": "Markdown and LaTeX"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2021-05-16T18:42:09Z",
+    "description": "A neovim plugin leveraging pandoc to help you convert your markdown files. It takes pandoc options from yaml blocks.",
+    "isArchived": false,
+    "lastCommit": "2022-09-05T10:56:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+      "neovim",
+      "nvim",
+      "plugin",
+      "lua",
+      "pandoc",
+      "markdown",
+      "pdf",
+      "conversion",
+      "preview"
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-pandoc.nvim",
+  "owner": "jghauser",
+  "url": "https://github.com/jghauser/auto-pandoc.nvim"
+}

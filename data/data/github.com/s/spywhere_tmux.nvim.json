@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "tmux"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2022-01-11T18:04:37Z",
+    "description": "neovim plugin for turning neovim into terminal multiplexer",
+    "isArchived": false,
+    "lastCommit": "2022-10-17T03:08:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 73,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "nvim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux.nvim",
+  "owner": "spywhere",
+  "url": "https://github.com/spywhere/tmux.nvim"
+}

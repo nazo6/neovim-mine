@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Cloud"
+      },
+      {
+        "level": 4,
+        "name": "Azure"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-07-27T23:47:48Z",
+    "description": "A collection of Azure utils for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-08-03T22:52:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "azureutils.nvim",
+  "owner": "interludedesign",
+  "url": "https://github.com/interludedesign/azureutils.nvim"
+}

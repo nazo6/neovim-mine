@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Tab"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2020-05-15T21:52:25Z",
+    "description": "A rewrite of Iron-E/vim-tabmode using Iron-E/nvim-libmodal",
+    "isArchived": false,
+    "lastCommit": "2023-02-17T20:03:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "nvim-libmodal",
+      "tabmode",
+      "vim-tabmode",
+      "vim-plugin",
+      "modal-editing",
+      "tabs",
+      "tabs-management",
+      "vim",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tabmode",
+  "owner": "Iron-E",
+  "url": "https://github.com/Iron-E/nvim-tabmode"
+}

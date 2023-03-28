@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "yank_paste.md"
+      },
+      {
+        "level": 1,
+        "name": "Yank"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-03-16T13:16:52Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-17T01:14:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-fcopy",
+  "owner": "tsukimizake",
+  "url": "https://github.com/tsukimizake/nvim-fcopy"
+}

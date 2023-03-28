@@ -1,0 +1,72 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Cloud"
+      },
+      {
+        "level": 4,
+        "name": "AWS"
+      },
+      {
+        "level": 5,
+        "name": "S3"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "File Explorer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2022-10-13T20:11:46Z",
+    "description": "Edit files from S3 directly from Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-19T17:55:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+      "aws",
+      "aws-s3",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "s3"
+    ]
+  },
+  "domain": "github.com",
+  "name": "s3edit.nvim",
+  "owner": "kiran94",
+  "url": "https://github.com/kiran94/s3edit.nvim"
+}

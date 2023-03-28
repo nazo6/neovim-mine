@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2022-12-06T01:17:06Z",
+    "description": "Fennel compiler through Neovim",
+    "isArchived": true,
+    "lastCommit": "2022-12-14T01:16:38Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bulb.nvim",
+  "owner": "ec965",
+  "url": "https://github.com/ec965/bulb.nvim"
+}

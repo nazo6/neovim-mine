@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "Horizontal Move"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-10-24T16:22:42Z",
+    "description": "Neovim Lua plugin to jump forward/backward to a single character. Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T08:36:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.jump",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.jump"
+}

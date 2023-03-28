@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Diagnostics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2021-06-10T21:47:10Z",
+    "description": "Neovim plugin for toggling the LSP diagnostics.",
+    "isArchived": false,
+    "lastCommit": "2023-02-05T21:25:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 70,
+    "topics": [
+      "neovim",
+      "lsp",
+      "plugin",
+      "neovim-plugin",
+      "neovim-lsp",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggle-lsp-diagnostics.nvim",
+  "owner": "WhoIsSethDaniel",
+  "url": "https://github.com/WhoIsSethDaniel/toggle-lsp-diagnostics.nvim"
+}

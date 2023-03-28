@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Neovim Lua Development"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-05-31T19:14:05Z",
+    "description": "Add a vim :help reference for lua ",
+    "isArchived": false,
+    "lastCommit": "2022-02-17T02:16:42Z",
+    "primaryLanguage": {
+      "color": "#199f4b",
+      "name": "Vim Script"
+    },
+    "star": 113,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-luaref",
+  "owner": "milisims",
+  "url": "https://github.com/milisims/nvim-luaref"
+}

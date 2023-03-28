@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "YAML"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2023-03-21T20:28:13Z",
+    "description": "Configure neovim with yaml",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T22:40:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-but-yaml",
+  "owner": "slarwise",
+  "url": "https://github.com/slarwise/nvim-but-yaml"
+}

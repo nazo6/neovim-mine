@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "JSON"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 110,
+    "createdAt": "2023-02-13T21:46:11Z",
+    "description": "VSCode-Like Workspace Configuration Manager",
+    "isArchived": false,
+    "lastCommit": "2023-03-12T18:23:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "automaton.nvim",
+  "owner": "Dax89",
+  "url": "https://github.com/Dax89/automaton.nvim"
+}

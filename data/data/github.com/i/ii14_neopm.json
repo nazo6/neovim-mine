@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "plugin-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Plugin Manager"
+      },
+      {
+        "level": 3,
+        "name": "Add runtime path (vim-plug like)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-01-22T15:53:05Z",
+    "description": "Plugin manager for neovim, pre-alpha stage.",
+    "isArchived": false,
+    "lastCommit": "2022-04-30T06:25:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 51,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neopm",
+  "owner": "ii14",
+  "url": "https://github.com/ii14/neopm"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Go"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-10-10T12:12:20Z",
+    "description": "Patch go UnusedVar error",
+    "isArchived": false,
+    "lastCommit": "2023-03-06T12:56:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "go-patch-unusedvar.nvim",
+  "owner": "aca",
+  "url": "https://github.com/aca/go-patch-unusedvar.nvim"
+}

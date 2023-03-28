@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Undo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-11-16T10:32:06Z",
+    "description": "an example to get the redo commands used by the dot",
+    "isArchived": false,
+    "lastCommit": "2022-11-16T12:40:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "redostr.nvim",
+  "owner": "haolian9",
+  "url": "https://github.com/haolian9/redostr.nvim"
+}

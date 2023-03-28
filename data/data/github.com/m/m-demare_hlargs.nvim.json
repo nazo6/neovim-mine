@@ -1,0 +1,58 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Highlight"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Syntax"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2022-02-05T17:19:37Z",
+    "description": "Highlight arguments' definitions and usages, using Treesitter",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T19:38:37Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 298,
+    "topics": [
+      "lua",
+      "neovim",
+      "tree-sitter",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hlargs.nvim",
+  "owner": "m-demare",
+  "url": "https://github.com/m-demare/hlargs.nvim"
+}

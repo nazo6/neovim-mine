@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "statuscolumn"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2022-09-24T19:54:45Z",
+    "description": "When you've got something significant to say.",
+    "isArchived": false,
+    "lastCommit": "2022-09-28T12:38:32Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 35,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "significant.nvim",
+  "owner": "ElPiloto",
+  "url": "https://github.com/ElPiloto/significant.nvim"
+}

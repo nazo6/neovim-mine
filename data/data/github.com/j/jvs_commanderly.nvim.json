@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Command Palette"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 64,
+    "createdAt": "2022-12-29T23:25:12Z",
+    "description": "Command palette plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-06T03:29:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "commanderly.nvim",
+  "owner": "jvs",
+  "url": "https://github.com/jvs/commanderly.nvim"
+}

@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "Sphinx"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2020-03-29T22:06:44Z",
+    "description": "Sphinx integrations for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-27T00:47:30Z",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 64,
+    "topics": [
+      "sphinx",
+      "neovim-plugin",
+      "autocompletion",
+      "intersphinx",
+      "restructuredtext",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sphinx.nvim",
+  "owner": "stsewd",
+  "url": "https://github.com/stsewd/sphinx.nvim"
+}

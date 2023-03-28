@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Ruby"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-07-15T22:54:59Z",
+    "description": "An nvim-cmp source for the Ruby flipper gem",
+    "isArchived": false,
+    "lastCommit": "2023-03-11T18:27:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-feature-flipper",
+  "owner": "wassimk",
+  "url": "https://github.com/wassimk/cmp-feature-flipper"
+}

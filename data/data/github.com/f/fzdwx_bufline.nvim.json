@@ -1,0 +1,35 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "bufferline.md"
+      },
+      {
+        "level": 1,
+        "name": "Bufferline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2023-02-01T11:19:14Z",
+    "description": "🤏 A simple bufferline for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-03T13:35:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "nvim",
+      "bufferline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufline.nvim",
+  "owner": "fzdwx",
+  "url": "https://github.com/fzdwx/bufline.nvim"
+}

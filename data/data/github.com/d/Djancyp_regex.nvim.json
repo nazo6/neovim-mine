@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "Regex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-08-26T18:01:32Z",
+    "description": "Simple regex helper",
+    "isArchived": false,
+    "lastCommit": "2022-08-26T22:43:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 26,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "regex.nvim",
+  "owner": "Djancyp",
+  "url": "https://github.com/Djancyp/regex.nvim"
+}

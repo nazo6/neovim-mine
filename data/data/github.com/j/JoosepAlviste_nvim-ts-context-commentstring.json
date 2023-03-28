@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      },
+      {
+        "level": 4,
+        "name": "CommentString"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Editing Support"
+      },
+      {
+        "level": 4,
+        "name": "Comment"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2021-02-24T19:33:53Z",
+    "description": "Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.",
+    "isArchived": false,
+    "lastCommit": "2023-03-05T15:22:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 751,
+    "topics": [
+      "treesitter",
+      "neovim-plugin",
+      "lua",
+      "tree-sitter",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ts-context-commentstring",
+  "owner": "JoosepAlviste",
+  "url": "https://github.com/JoosepAlviste/nvim-ts-context-commentstring"
+}

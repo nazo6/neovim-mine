@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Tab"
+      },
+      {
+        "level": 3,
+        "name": "select"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2022-10-06T20:05:18Z",
+    "description": "Fly through your tabs in neovim ✈️",
+    "isArchived": false,
+    "lastCommit": "2023-02-05T10:14:41Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 116,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-tabs",
+  "owner": "LukasPietzschmann",
+  "url": "https://github.com/LukasPietzschmann/telescope-tabs"
+}

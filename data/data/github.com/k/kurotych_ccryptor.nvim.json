@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Security"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-11-08T18:06:37Z",
+    "description": "A Neovim Linux plugin to easy encrypt and decrypt your secured directory",
+    "isArchived": false,
+    "lastCommit": "2023-03-05T09:50:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ccryptor.nvim",
+  "owner": "kurotych",
+  "url": "https://github.com/kurotych/ccryptor.nvim"
+}

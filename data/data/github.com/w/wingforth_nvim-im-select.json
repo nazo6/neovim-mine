@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-11-18T16:51:27Z",
+    "description": "Switch Input Method automatically according to Neovim edit mode",
+    "isArchived": false,
+    "lastCommit": "2022-11-19T17:30:22Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-im-select",
+  "owner": "wingforth",
+  "url": "https://github.com/wingforth/nvim-im-select"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Go"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2021-09-26T19:34:52Z",
+    "description": "An extension for nvim-dap providing configurations for launching go debugger (delve) and debugging individual tests",
+    "isArchived": false,
+    "lastCommit": "2023-02-08T03:05:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 184,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-go",
+  "owner": "leoluz",
+  "url": "https://github.com/leoluz/nvim-dap-go"
+}

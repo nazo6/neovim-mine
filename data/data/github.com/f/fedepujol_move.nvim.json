@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "Line Move"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2021-09-23T21:04:12Z",
+    "description": "Gain the power to move lines and blocks and auto-indent them!",
+    "isArchived": false,
+    "lastCommit": "2023-03-22T19:18:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 190,
+    "topics": [
+      "neovim",
+      "lua",
+      "plugin",
+      "nvim",
+      "vim",
+      "move"
+    ]
+  },
+  "domain": "github.com",
+  "name": "move.nvim",
+  "owner": "fedepujol",
+  "url": "https://github.com/fedepujol/move.nvim"
+}

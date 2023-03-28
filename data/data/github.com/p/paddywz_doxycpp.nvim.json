@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "C/C++"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 95,
+    "createdAt": "2023-03-02T02:15:35Z",
+    "description": "A simple and useful plugin to generate documentation for cpp.",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T14:26:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "doxycpp.nvim",
+  "owner": "paddywz",
+  "url": "https://github.com/paddywz/doxycpp.nvim"
+}

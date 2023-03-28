@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git commit"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 125,
+    "createdAt": "2022-10-01T07:53:48Z",
+    "description": "nvim-cmp source for gitcommit",
+    "isArchived": false,
+    "lastCommit": "2022-10-17T08:11:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim-cmp",
+      "conventional-commits",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-gitcommit",
+  "owner": "Cassin01",
+  "url": "https://github.com/Cassin01/cmp-gitcommit"
+}

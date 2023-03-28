@@ -1,0 +1,58 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "backup-list.md"
+      },
+      {
+        "level": 3,
+        "name": "map function utiliy"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Keybinding"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-07-06T18:19:58Z",
+    "description": "Create Neovim `:map`pings in Lua with ease!",
+    "isArchived": false,
+    "lastCommit": "2022-04-18T19:35:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 55,
+    "topics": [
+      "neovim",
+      "plugin",
+      "neovim-plugin",
+      "lua",
+      "keymap",
+      "keybindings",
+      "mapping",
+      "neovim-configuration"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cartographer",
+  "owner": "Iron-E",
+  "url": "https://github.com/Iron-E/nvim-cartographer"
+}

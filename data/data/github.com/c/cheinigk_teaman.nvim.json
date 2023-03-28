@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 80,
+    "createdAt": "2023-02-24T16:45:48Z",
+    "description": "A simple opinionated terminal manager. Essentially a wrapper around `termopen()`.",
+    "isArchived": false,
+    "lastCommit": "2023-03-14T19:11:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "teaman.nvim",
+  "owner": "cheinigk",
+  "url": "https://github.com/cheinigk/teaman.nvim"
+}

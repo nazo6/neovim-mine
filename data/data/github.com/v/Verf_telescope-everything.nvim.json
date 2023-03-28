@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Windows"
+      },
+      {
+        "level": 4,
+        "name": "Everything"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-08-12T03:34:08Z",
+    "description": "Search things by es.exe(everything command line interface) for windows user.",
+    "isArchived": false,
+    "lastCommit": "2022-08-15T06:32:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-everything.nvim",
+  "owner": "Verf",
+  "url": "https://github.com/Verf/telescope-everything.nvim"
+}

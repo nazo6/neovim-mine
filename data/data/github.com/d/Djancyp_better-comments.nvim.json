@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Todo Comment Highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-08-23T13:32:27Z",
+    "description": "Nvim Plugin",
+    "isArchived": false,
+    "lastCommit": "2022-08-24T07:05:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 96,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "better-comments.nvim",
+  "owner": "Djancyp",
+  "url": "https://github.com/Djancyp/better-comments.nvim"
+}

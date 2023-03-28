@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2022-08-02T22:26:23Z",
+    "description": "neovim plugin for aiding reading and analyzing text files",
+    "isArchived": false,
+    "lastCommit": "2022-08-07T21:30:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim-plugin",
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "highlight-annotate.nvim",
+  "owner": "ivyl",
+  "url": "https://github.com/ivyl/highlight-annotate.nvim"
+}

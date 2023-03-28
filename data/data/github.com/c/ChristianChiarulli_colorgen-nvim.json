@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "external-tools.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Color"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 62,
+    "createdAt": "2022-07-15T02:21:40Z",
+    "description": ":rocket: Blazingly fast colorscheme generator for Neovim written in Rust :crab:",
+    "isArchived": false,
+    "lastCommit": "2022-11-05T02:09:23Z",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 123,
+    "topics": [
+      "colorscheme",
+      "colorscheme-generator",
+      "lua",
+      "neovim",
+      "nvim",
+      "rust"
+    ]
+  },
+  "domain": "github.com",
+  "name": "colorgen-nvim",
+  "owner": "ChristianChiarulli",
+  "url": "https://github.com/ChristianChiarulli/colorgen-nvim"
+}

@@ -1,0 +1,58 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Message"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2022-09-18T11:30:33Z",
+    "description": "Capture and show any messages in a customisable (floating) buffer",
+    "isArchived": false,
+    "lastCommit": "2022-10-24T14:04:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 68,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "messages.nvim",
+  "owner": "AckslD",
+  "url": "https://github.com/AckslD/messages.nvim"
+}

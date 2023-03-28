@@ -1,0 +1,60 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "Floating Style"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "File Explorer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2020-01-28T18:13:27Z",
+    "description": "Make Ranger running in a floating window to communicate with Neovim via RPC",
+    "isArchived": false,
+    "lastCommit": "2023-02-28T06:49:04Z",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 652,
+    "topics": [
+      "neovim",
+      "ranger",
+      "nvim",
+      "vim",
+      "nvim-plugin",
+      "python"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rnvimr",
+  "owner": "kevinhwang91",
+  "url": "https://github.com/kevinhwang91/rnvimr"
+}

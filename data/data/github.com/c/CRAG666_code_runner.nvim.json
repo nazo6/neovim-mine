@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "JSON"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Code Runner"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 59,
+    "createdAt": "2021-04-26T05:50:33Z",
+    "description": "Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow",
+    "isArchived": false,
+    "lastCommit": "2023-02-02T03:24:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 307,
+    "topics": [
+      "neovim",
+      "lua",
+      "nvim",
+      "neovim-plugin",
+      "vim-plugin",
+      "neovim-configuration",
+      "neovim-config",
+      "vim-configs",
+      "nvim-plugin",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "code_runner.nvim",
+  "owner": "CRAG666",
+  "url": "https://github.com/CRAG666/code_runner.nvim"
+}

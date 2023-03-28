@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Scrollbar"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 53,
+    "createdAt": "2022-06-30T03:39:02Z",
+    "description": "A scrollbar plugin for Neovim which can show cursor, search results, githunks, and diagnostics.",
+    "isArchived": false,
+    "lastCommit": "2022-11-10T09:46:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "scrollbar",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-scrlbkun",
+  "owner": "kensyo",
+  "url": "https://github.com/kensyo/nvim-scrlbkun"
+}

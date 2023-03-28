@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "[Comment Out](./comment.md)"
+      },
+      {
+        "level": 4,
+        "name": "Context Header"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-11-21T04:29:51Z",
+    "description": "neovim plugin to add context aware print debug statements",
+    "isArchived": false,
+    "lastCommit": "2021-07-18T20:31:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 44,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "contextprint.nvim",
+  "owner": "polarmutex",
+  "url": "https://github.com/polarmutex/contextprint.nvim"
+}

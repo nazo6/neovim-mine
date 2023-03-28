@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Snippet"
+      },
+      {
+        "level": 4,
+        "name": "Snippet definitions"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2022-07-20T12:57:26Z",
+    "description": "My custom luasnip snippets mainly targeting my development work",
+    "isArchived": false,
+    "lastCommit": "2023-03-09T04:45:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-snips",
+  "owner": "s1n7ax",
+  "url": "https://github.com/s1n7ax/nvim-snips"
+}

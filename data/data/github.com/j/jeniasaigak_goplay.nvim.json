@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Go"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-01-25T11:02:09Z",
+    "description": "Local Go playground for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-14T03:45:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "go",
+      "golang",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "goplay.nvim",
+  "owner": "jeniasaigak",
+  "url": "https://github.com/jeniasaigak/goplay.nvim"
+}

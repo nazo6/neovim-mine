@@ -1,0 +1,18 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'hn275/icee.nvim'.",
+    "reason": "NOT_FOUND"
+  },
+  "name": "icee.nvim",
+  "owner": "hn275",
+  "url": "https://github.com/hn275/icee.nvim"
+}

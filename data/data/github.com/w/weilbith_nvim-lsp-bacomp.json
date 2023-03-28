@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Backwards Compatibility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-05-11T08:10:29Z",
+    "description": "A NeoVim plugin for using language server capabilites with backward compatibility in mind",
+    "isArchived": false,
+    "lastCommit": "2020-08-19T21:50:02Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "neovim",
+      "neovim-lsp",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lsp-bacomp",
+  "owner": "weilbith",
+  "url": "https://github.com/weilbith/nvim-lsp-bacomp"
+}

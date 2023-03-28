@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2023-03-06T15:55:47Z",
+    "description": "ChatGPT in your Neovim, customizable by you, for your usecases",
+    "isArchived": false,
+    "lastCommit": "2023-03-07T21:52:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gpt.nvim",
+  "owner": "thmsmlr",
+  "url": "https://github.com/thmsmlr/gpt.nvim"
+}

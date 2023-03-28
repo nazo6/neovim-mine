@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "Window Management"
+      },
+      {
+        "level": 4,
+        "name": "resize"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-09-20T20:48:39Z",
+    "description": "Keep buffer dimensions in proportion when terminal window is resized",
+    "isArchived": false,
+    "lastCommit": "2022-03-21T00:58:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 114,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufresize.nvim",
+  "owner": "kwkarlwang",
+  "url": "https://github.com/kwkarlwang/bufresize.nvim"
+}

@@ -1,0 +1,64 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Note Taking"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 109,
+    "createdAt": "2022-12-30T02:05:23Z",
+    "description": "Quickly take notes, in-place",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T14:00:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "lua",
+      "neovim",
+      "note-taking",
+      "nvim",
+      "plugin",
+      "source-code-reading",
+      "source-code-study",
+      "note",
+      "plugins",
+      "quick-note"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quicknote.nvim",
+  "owner": "RutaTang",
+  "url": "https://github.com/RutaTang/quicknote.nvim"
+}

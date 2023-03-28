@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "yank_paste.md"
+      },
+      {
+        "level": 1,
+        "name": "Paste"
+      },
+      {
+        "level": 2,
+        "name": "Wise paste"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-06-12T15:29:20Z",
+    "description": "Plugin for making registers content-aware beyond char- and linewise",
+    "isArchived": false,
+    "lastCommit": "2021-08-14T17:24:37Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 42,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-anywise-reg.lua",
+  "owner": "AckslD",
+  "url": "https://github.com/AckslD/nvim-anywise-reg.lua"
+}

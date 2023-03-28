@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Hardware"
+      },
+      {
+        "level": 4,
+        "name": "Embedded Software"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2022-10-18T20:12:59Z",
+    "description": "Extension for nvim-dap providing integration with VS Code's cortex-debug",
+    "isArchived": false,
+    "lastCommit": "2023-02-19T11:57:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-cortex-debug",
+  "owner": "jedrzejboczar",
+  "url": "https://github.com/jedrzejboczar/nvim-dap-cortex-debug"
+}

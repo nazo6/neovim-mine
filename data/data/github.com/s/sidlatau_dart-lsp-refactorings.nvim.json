@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Dart, Flutter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2022-11-20T11:16:28Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-25T15:50:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dart-lsp-refactorings.nvim",
+  "owner": "sidlatau",
+  "url": "https://github.com/sidlatau/dart-lsp-refactorings.nvim"
+}

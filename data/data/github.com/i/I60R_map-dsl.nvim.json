@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Keymap"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2022-11-22T17:10:29Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-12-21T20:02:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "map-dsl.nvim",
+  "owner": "I60R",
+  "url": "https://github.com/I60R/map-dsl.nvim"
+}

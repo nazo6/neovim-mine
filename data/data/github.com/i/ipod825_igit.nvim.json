@@ -1,0 +1,35 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 216,
+    "createdAt": "2022-02-25T06:29:47Z",
+    "description": "Git intergration for neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-01-16T03:01:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 41,
+    "topics": [
+      "git",
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "igit.nvim",
+  "owner": "ipod825",
+  "url": "https://github.com/ipod825/igit.nvim"
+}

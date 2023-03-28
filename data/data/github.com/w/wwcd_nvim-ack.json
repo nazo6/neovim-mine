@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Grep"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-04-09T12:58:37Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-10-14T17:31:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ack",
+  "owner": "wwcd",
+  "url": "https://github.com/wwcd/nvim-ack"
+}

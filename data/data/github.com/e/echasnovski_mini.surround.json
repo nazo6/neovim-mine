@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "textobject_operator.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Textobject"
+      },
+      {
+        "level": 3,
+        "name": "Surround"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-10-24T16:30:02Z",
+    "description": "Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T08:36:41Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 48,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.surround",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.surround"
+}

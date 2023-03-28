@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Scratchpad"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-01-10T13:52:29Z",
+    "description": "Bring i3's scratchpad windows to Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-06T18:43:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratchpad.nvim",
+  "owner": "sindrets",
+  "url": "https://github.com/sindrets/scratchpad.nvim"
+}

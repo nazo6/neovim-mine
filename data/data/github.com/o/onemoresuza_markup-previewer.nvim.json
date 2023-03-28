@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Pandoc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-07-31T20:10:59Z",
+    "description": "Preview converted markup files with Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-07-31T20:27:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markup-previewer.nvim",
+  "owner": "onemoresuza",
+  "url": "https://github.com/onemoresuza/markup-previewer.nvim"
+}

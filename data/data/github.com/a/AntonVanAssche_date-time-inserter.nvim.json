@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Insert"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2022-12-31T14:43:37Z",
+    "description": "Easily insert the current date and/or time into your Neovim buffer.",
+    "isArchived": false,
+    "lastCommit": "2023-01-05T09:04:53Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "date-time-inserter.nvim",
+  "owner": "AntonVanAssche",
+  "url": "https://github.com/AntonVanAssche/date-time-inserter.nvim"
+}

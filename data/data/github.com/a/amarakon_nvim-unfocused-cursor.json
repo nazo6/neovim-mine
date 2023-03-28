@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "Window Management"
+      },
+      {
+        "level": 4,
+        "name": "focus"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-09-16T00:41:28Z",
+    "description": "Hide cursor and cursor column when the window is not focused",
+    "isArchived": false,
+    "lastCommit": "2022-11-03T15:45:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-unfocused-cursor",
+  "owner": "amarakon",
+  "url": "https://github.com/amarakon/nvim-unfocused-cursor"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Neovim Lua Development"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2021-02-07T02:23:01Z",
+    "description": "Hot-reloading manager for neovim lua plugin development",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T00:15:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lreload.nvim",
+  "owner": "notomo",
+  "url": "https://github.com/notomo/lreload.nvim"
+}

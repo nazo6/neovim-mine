@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "Window Management"
+      },
+      {
+        "level": 4,
+        "name": "focus"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-05-04T22:39:54Z",
+    "description": "Maximize window splits. A Neovim plugin written in Lua!",
+    "isArchived": false,
+    "lastCommit": "2022-12-04T08:15:00Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+      "lua",
+      "maximize",
+      "neovim",
+      "nvim",
+      "plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "maximize.nvim",
+  "owner": "declancm",
+  "url": "https://github.com/declancm/maximize.nvim"
+}

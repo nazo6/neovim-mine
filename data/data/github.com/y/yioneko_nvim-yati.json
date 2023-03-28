@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "treesitter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Treesitter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2022-01-06T12:06:15Z",
+    "description": "Yet another tree-sitter powered indent plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2022-12-24T10:40:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 132,
+    "topics": [
+      "tree-sitter",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-yati",
+  "owner": "yioneko",
+  "url": "https://github.com/yioneko/nvim-yati"
+}

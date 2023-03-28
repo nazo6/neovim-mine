@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2021-01-28T20:07:38Z",
+    "description": "A telescope.nvim extension to search and paste bibtex entries into your TeX files.",
+    "isArchived": false,
+    "lastCommit": "2023-01-09T14:25:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 57,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-bibtex.nvim",
+  "owner": "nvim-telescope",
+  "url": "https://github.com/nvim-telescope/telescope-bibtex.nvim"
+}

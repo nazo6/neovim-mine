@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Game"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-03-01T18:33:41Z",
+    "description": "Neovim port of killersheep (with blood!)",
+    "isArchived": false,
+    "lastCommit": "2022-05-11T10:39:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 47,
+    "topics": [
+      "killersheep",
+      "neovim",
+      "game",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "killersheep.nvim",
+  "owner": "seandewar",
+  "url": "https://github.com/seandewar/killersheep.nvim"
+}

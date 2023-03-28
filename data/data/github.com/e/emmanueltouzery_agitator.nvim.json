@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git blame"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2021-11-20T20:03:36Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-04T10:54:06Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+      "git",
+      "lua",
+      "neovim",
+      "nvim",
+      "neovim-plugin",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "agitator.nvim",
+  "owner": "emmanueltouzery",
+  "url": "https://github.com/emmanueltouzery/agitator.nvim"
+}

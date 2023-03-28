@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "async"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 356,
+    "createdAt": "2020-05-03T23:29:11Z",
+    "description": "Async Await in 90 lines of code.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T01:03:26Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 249,
+    "topics": [
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lua-async-await",
+  "owner": "ms-jpq",
+  "url": "https://github.com/ms-jpq/lua-async-await"
+}

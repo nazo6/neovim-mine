@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2023-01-18T14:08:42Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-04T12:42:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sfm-fs.nvim",
+  "owner": "dinhhuy258",
+  "url": "https://github.com/dinhhuy258/sfm-fs.nvim"
+}

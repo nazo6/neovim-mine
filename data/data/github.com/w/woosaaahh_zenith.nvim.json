@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Zen Mode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-10-25T03:45:00Z",
+    "description": "Zenith is a lightweight zen-mode plugin.",
+    "isArchived": false,
+    "lastCommit": "2022-10-25T03:45:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zenith.nvim",
+  "owner": "woosaaahh",
+  "url": "https://github.com/woosaaahh/zenith.nvim"
+}

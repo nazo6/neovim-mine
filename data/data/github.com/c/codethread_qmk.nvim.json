@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Hardware"
+      },
+      {
+        "level": 4,
+        "name": "Keyboard"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2022-12-24T14:48:23Z",
+    "description": "Format qmk keymaps in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T06:27:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 51,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qmk.nvim",
+  "owner": "codethread",
+  "url": "https://github.com/codethread/qmk.nvim"
+}

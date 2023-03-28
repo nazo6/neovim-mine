@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown link"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2023-03-02T13:04:44Z",
+    "description": "Link to page of PDF in Markdown, with Neovim and Zathura.",
+    "isArchived": false,
+    "lastCommit": "2023-03-07T12:12:13Z",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 4,
+    "topics": [
+      "markdown",
+      "neovim-plugin",
+      "note-taking",
+      "nvim",
+      "pdf",
+      "vim",
+      "vim-plugin",
+      "zathura"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nothura.nvim",
+  "owner": "5eqn",
+  "url": "https://github.com/5eqn/nothura.nvim"
+}

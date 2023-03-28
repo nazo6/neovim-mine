@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-07-28T13:12:50Z",
+    "description": "A radically new way to take notes in Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-08-05T05:06:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notical.nvim",
+  "owner": "bloveless",
+  "url": "https://github.com/bloveless/notical.nvim"
+}

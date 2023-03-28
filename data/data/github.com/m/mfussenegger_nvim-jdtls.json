@@ -1,0 +1,66 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Java"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 62,
+    "createdAt": "2020-04-14T14:54:41Z",
+    "description": "Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T07:51:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 573,
+    "topics": [
+      "neovim",
+      "lsp-client",
+      "neovim-plugin",
+      "java"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-jdtls",
+  "owner": "mfussenegger",
+  "url": "https://github.com/mfussenegger/nvim-jdtls"
+}

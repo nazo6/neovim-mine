@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Notification"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-10-16T18:29:39Z",
+    "description": "sending notifications via libnotify",
+    "isArchived": false,
+    "lastCommit": "2022-11-06T04:55:56Z",
+    "primaryLanguage": {
+      "color": "#ec915c",
+      "name": "Zig"
+    },
+    "star": 4,
+    "topics": [
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zhiyuan.nvim",
+  "owner": "haolian9",
+  "url": "https://github.com/haolian9/zhiyuan.nvim"
+}

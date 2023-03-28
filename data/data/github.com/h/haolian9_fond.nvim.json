@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-02-23T14:07:58Z",
+    "description": "a fuzzy finder for nvim with few data sources powered by fzf",
+    "isArchived": false,
+    "lastCommit": "2023-02-23T14:20:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fond.nvim",
+  "owner": "haolian9",
+  "url": "https://github.com/haolian9/fond.nvim"
+}

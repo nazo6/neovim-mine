@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Image Paste"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-01-17T01:28:08Z",
+    "description": "Paste images from your macOS clipboard into neovim as markdown",
+    "isArchived": false,
+    "lastCommit": "2023-02-22T10:19:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "image-paste.nvim",
+  "owner": "evanpurkhiser",
+  "url": "https://github.com/evanpurkhiser/image-paste.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Media"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 199,
+    "createdAt": "2019-01-29T20:36:45Z",
+    "description": "Neovim frontend for SuperCollider.",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T10:05:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 132,
+    "topics": [
+      "supercollider",
+      "neovim",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "scnvim",
+  "owner": "davidgranstrom",
+  "url": "https://github.com/davidgranstrom/scnvim"
+}

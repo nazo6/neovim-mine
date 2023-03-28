@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "C/C++"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2022-09-02T19:29:00Z",
+    "description": "A Neovim plugin that can do sometings like VAssistX.",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T02:02:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cppassist.nvim",
+  "owner": "Kohirus",
+  "url": "https://github.com/Kohirus/cppassist.nvim"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Pomodoro"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2022-09-06T17:27:35Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-09-24T14:16:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "timer.nvim",
+  "owner": "kaepa3",
+  "url": "https://github.com/kaepa3/timer.nvim"
+}

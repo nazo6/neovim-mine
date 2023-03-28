@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Diff"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-02-10T22:49:15Z",
+    "description": "vim-lsp-file-operations is a Neovim plugin that allows to compare currently selected text with contents of a clipboard",
+    "isArchived": false,
+    "lastCommit": "2023-02-11T12:31:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "clipboard",
+      "compare",
+      "diff",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-compare-with-clipboard",
+  "owner": "antosha417",
+  "url": "https://github.com/antosha417/nvim-compare-with-clipboard"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 50,
+    "createdAt": "2022-05-18T13:25:59Z",
+    "description": "A collection of luasnip snippets",
+    "isArchived": true,
+    "lastCommit": "2022-06-23T14:22:59Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "luasnip",
+      "neovim",
+      "lua",
+      "snippets"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spoon.nvim",
+  "owner": "utilyre",
+  "url": "https://github.com/utilyre/spoon.nvim"
+}

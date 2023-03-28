@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "listchars"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-03-15T08:01:12Z",
+    "description": "Configure and toggle listchars easily",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T09:42:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-listchars",
+  "owner": "fraso-dev",
+  "url": "https://github.com/fraso-dev/nvim-listchars"
+}

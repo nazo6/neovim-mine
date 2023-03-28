@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "cd(change directory)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-06-06T23:45:11Z",
+    "description": "A telescope.nvim extension to quickly change Neovim's working directory.",
+    "isArchived": false,
+    "lastCommit": "2023-01-18T21:02:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 42,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cder.nvim",
+  "owner": "Zane-",
+  "url": "https://github.com/Zane-/cder.nvim"
+}

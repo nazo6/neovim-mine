@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Select"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-10-02T07:24:52Z",
+    "description": "Escape or URL encode any text in your buffer",
+    "isArchived": false,
+    "lastCommit": "2022-10-18T14:30:00Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "escape.nvim",
+  "owner": "m-gail",
+  "url": "https://github.com/m-gail/escape.nvim"
+}

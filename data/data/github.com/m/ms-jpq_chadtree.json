@@ -1,0 +1,60 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "File Explorer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 379,
+    "createdAt": "2020-07-08T08:29:41Z",
+    "description": "File manager for Neovim. Better than NERDTree.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T01:03:28Z",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1471,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "file-manager",
+      "python",
+      "devicons",
+      "chad",
+      "file-explorer",
+      "tree",
+      "nvim",
+      "github-colours"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chadtree",
+  "owner": "ms-jpq",
+  "url": "https://github.com/ms-jpq/chadtree"
+}

@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-06-10T11:00:11Z",
+    "description": "A treesitter-module which will place commas, semicolons and double points automatically for you!",
+    "isArchived": true,
+    "lastCommit": "2022-08-17T16:50:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tree-setter",
+  "owner": "TornaxO7",
+  "url": "https://github.com/TornaxO7/tree-setter"
+}

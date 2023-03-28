@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Treesitter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2020-07-31T21:52:28Z",
+    "description": "Neovim Tree Sitter Lua Grammar & Library",
+    "isArchived": false,
+    "lastCommit": "2022-12-02T17:26:06Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 95,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tree-sitter-lua",
+  "owner": "tjdevries",
+  "url": "https://github.com/tjdevries/tree-sitter-lua"
+}

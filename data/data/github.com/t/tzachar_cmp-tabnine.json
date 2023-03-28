@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "nvim-cmp extension"
+      },
+      {
+        "level": 4,
+        "name": "nvim-cmp sources"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2021-08-11T07:17:26Z",
+    "description": "TabNine plugin for hrsh7th/nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T08:56:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 237,
+    "topics": [
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-tabnine",
+  "owner": "tzachar",
+  "url": "https://github.com/tzachar/cmp-tabnine"
+}

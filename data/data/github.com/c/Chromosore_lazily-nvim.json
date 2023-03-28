@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "plugin-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Plugin Manager"
+      },
+      {
+        "level": 3,
+        "name": "Use builtin package feature"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2022-06-05T12:35:17Z",
+    "description": "A standalone plugin lazy loader for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-24T21:39:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "neovim",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazily-nvim",
+  "owner": "Chromosore",
+  "url": "https://github.com/Chromosore/lazily-nvim"
+}

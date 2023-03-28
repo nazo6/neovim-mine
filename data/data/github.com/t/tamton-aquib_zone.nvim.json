@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Joke"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2022-05-03T14:27:31Z",
+    "description": "Screensaver plugin for neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-01-26T06:06:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 153,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "plugin",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zone.nvim",
+  "owner": "tamton-aquib",
+  "url": "https://github.com/tamton-aquib/zone.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-09-08T20:41:48Z",
+    "description": "Persist your colorscheme selection",
+    "isArchived": false,
+    "lastCommit": "2023-02-24T02:02:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "colorscheme-persist.nvim",
+  "owner": "propet",
+  "url": "https://github.com/propet/colorscheme-persist.nvim"
+}

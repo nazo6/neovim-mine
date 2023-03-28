@@ -1,0 +1,62 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "UI"
+      },
+      {
+        "level": 3,
+        "name": "vim.ui.select/vim.ui.input"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 65,
+    "createdAt": "2021-12-03T01:43:51Z",
+    "description": "Neovim plugin to improve the default vim.ui interfaces",
+    "isArchived": false,
+    "lastCommit": "2023-02-24T06:06:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 918,
+    "topics": [
+      "neovim",
+      "nvim",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dressing.nvim",
+  "owner": "stevearc",
+  "url": "https://github.com/stevearc/dressing.nvim"
+}

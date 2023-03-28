@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-10-18T18:23:31Z",
+    "description": "`journal.nvim` is a Lua plugin that provides a minimalistic and simple way of working with notes in a journal style",
+    "isArchived": false,
+    "lastCommit": "2022-10-18T18:22:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "journal.nvim",
+  "owner": "caenrique",
+  "url": "https://github.com/caenrique/journal.nvim"
+}

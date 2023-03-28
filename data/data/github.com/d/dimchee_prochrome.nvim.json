@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Browser Integration"
+      },
+      {
+        "level": 4,
+        "name": "live preview"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2022-06-24T21:34:10Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-11-02T20:40:31Z",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "prochrome.nvim",
+  "owner": "dimchee",
+  "url": "https://github.com/dimchee/prochrome.nvim"
+}

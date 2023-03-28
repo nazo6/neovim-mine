@@ -1,0 +1,67 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Javascript/Typescript"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 69,
+    "createdAt": "2022-03-15T15:37:18Z",
+    "description": "A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).",
+    "isArchived": false,
+    "lastCommit": "2023-01-03T01:50:15Z",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 405,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "typescript",
+      "lsp",
+      "neovim-lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "typescript.nvim",
+  "owner": "jose-elias-alvarez",
+  "url": "https://github.com/jose-elias-alvarez/typescript.nvim"
+}

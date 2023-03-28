@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Hardware"
+      },
+      {
+        "level": 4,
+        "name": "Robot"
+      },
+      {
+        "level": 5,
+        "name": "ROS"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-12-08T22:15:54Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-12-10T15:11:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "ros",
+      "ros2"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ros-builder.nvim",
+  "owner": "bi0ha2ard",
+  "url": "https://github.com/bi0ha2ard/ros-builder.nvim"
+}

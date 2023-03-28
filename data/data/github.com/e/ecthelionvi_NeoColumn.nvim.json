@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Columnline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 60,
+    "createdAt": "2023-03-21T00:14:07Z",
+    "description": "Neovim plugin that highlights individual characters with a toggleable ColorColumn.",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T03:02:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "colorcolumn",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "NeoColumn.nvim",
+  "owner": "ecthelionvi",
+  "url": "https://github.com/ecthelionvi/NeoColumn.nvim"
+}

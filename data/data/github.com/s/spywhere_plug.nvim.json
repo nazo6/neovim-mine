@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "plugin-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Plugin Manager"
+      },
+      {
+        "level": 3,
+        "name": "Add runtime path (vim-plug like)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 98,
+    "createdAt": "2022-04-22T11:25:05Z",
+    "description": "An extensible layer for plugin managers in pure lua",
+    "isArchived": false,
+    "lastCommit": "2023-01-22T19:15:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "plug.nvim",
+  "owner": "spywhere",
+  "url": "https://github.com/spywhere/plug.nvim"
+}

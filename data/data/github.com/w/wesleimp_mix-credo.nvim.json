@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Elixir"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-03-18T03:33:05Z",
+    "description": "Lsp diagnostics for mix credo",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T20:20:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "credo",
+      "elixir",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mix-credo.nvim",
+  "owner": "wesleimp",
+  "url": "https://github.com/wesleimp/mix-credo.nvim"
+}

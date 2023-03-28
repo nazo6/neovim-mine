@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Spell"
+      },
+      {
+        "level": 4,
+        "name": "Spellcheck"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-06-19T14:56:28Z",
+    "description": "A (work in progress) grammar, spelling and style plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-05-16T16:34:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+      "neovim",
+      "vale",
+      "grammer",
+      "linting"
+    ]
+  },
+  "domain": "github.com",
+  "name": "prosesitter.nvim",
+  "owner": "dvdsk",
+  "url": "https://github.com/dvdsk/prosesitter.nvim"
+}

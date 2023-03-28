@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "Window Management"
+      },
+      {
+        "level": 4,
+        "name": "layout"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 108,
+    "createdAt": "2022-01-04T08:47:39Z",
+    "description": "A simple usecase of floating window to help you focus.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T08:05:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 141,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "NeoZoom.lua",
+  "owner": "nyngwang",
+  "url": "https://github.com/nyngwang/NeoZoom.lua"
+}

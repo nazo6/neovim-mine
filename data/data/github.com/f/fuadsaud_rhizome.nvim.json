@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Tab"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-12-29T00:43:14Z",
+    "description": "Use tabs for working with multiple project roots.",
+    "isArchived": false,
+    "lastCommit": "2022-12-29T17:37:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rhizome.nvim",
+  "owner": "fuadsaud",
+  "url": "https://github.com/fuadsaud/rhizome.nvim"
+}

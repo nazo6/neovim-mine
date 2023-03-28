@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2022-05-03T16:58:06Z",
+    "description": "Simple asynchronous file viewer for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-09-23T15:30:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "graphene.nvim",
+  "owner": "ten3roberts",
+  "url": "https://github.com/ten3roberts/graphene.nvim"
+}

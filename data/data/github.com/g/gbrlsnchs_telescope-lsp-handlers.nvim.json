@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Definition, Reference"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-03-19T18:38:54Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-04T18:47:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 68,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-lsp-handlers.nvim",
+  "owner": "gbrlsnchs",
+  "url": "https://github.com/gbrlsnchs/telescope-lsp-handlers.nvim"
+}

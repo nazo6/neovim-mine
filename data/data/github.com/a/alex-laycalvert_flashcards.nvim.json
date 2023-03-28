@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Study"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2022-09-19T21:53:46Z",
+    "description": "A Neovim plugin for Flashcards written in Lua",
+    "isArchived": false,
+    "lastCommit": "2022-09-25T16:27:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "flashcards.nvim",
+  "owner": "alex-laycalvert",
+  "url": "https://github.com/alex-laycalvert/flashcards.nvim"
+}

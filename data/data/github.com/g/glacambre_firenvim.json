@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "service.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Embed Neovim"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 61,
+    "createdAt": "2019-03-08T11:50:50Z",
+    "description": "Embed Neovim in Chrome, Firefox & others.",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T07:05:46Z",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 3578,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "firenvim",
+  "owner": "glacambre",
+  "url": "https://github.com/glacambre/firenvim"
+}

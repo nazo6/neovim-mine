@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "Database"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-07-16T15:43:41Z",
+    "description": "neovim plugin that lets you switch databases on demand or execute queries on different connections",
+    "isArchived": false,
+    "lastCommit": "2022-08-03T09:35:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-databasehelper",
+  "owner": "abenz1267",
+  "url": "https://github.com/abenz1267/nvim-databasehelper"
+}

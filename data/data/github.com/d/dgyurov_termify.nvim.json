@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Popup Info"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-09-01T20:49:11Z",
+    "description": "Termify is a simple Neovim plugin that enables you to run and read the output of a script in a disposable popup window.",
+    "isArchived": false,
+    "lastCommit": "2022-09-02T21:58:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "termify.nvim",
+  "owner": "dgyurov",
+  "url": "https://github.com/dgyurov/termify.nvim"
+}

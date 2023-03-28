@@ -1,0 +1,33 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-01-07T09:43:06Z",
+    "description": "Plugin for managing Todoist through Neovim using a more vim-like syntax",
+    "isArchived": false,
+    "lastCommit": "2023-01-07T09:43:07Z",
+    "primaryLanguage": null,
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Todoist.nvim",
+  "owner": "ca-mantis-shrimp",
+  "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim"
+}

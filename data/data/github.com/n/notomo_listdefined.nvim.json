@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Keymap"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2022-11-30T12:40:11Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-26T09:59:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "listdefined.nvim",
+  "owner": "notomo",
+  "url": "https://github.com/notomo/listdefined.nvim"
+}

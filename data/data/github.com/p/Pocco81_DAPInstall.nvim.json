@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Debugging"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2021-06-01T18:20:34Z",
+    "description": "🐞 Debug Adapter Protocol manager for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-04-20T03:59:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 379,
+    "topics": [
+      "nvim-dap",
+      "dap",
+      "debuggers",
+      "nvim",
+      "nvim-plugin",
+      "installer"
+    ]
+  },
+  "domain": "github.com",
+  "name": "DAPInstall.nvim",
+  "owner": "Pocco81",
+  "url": "https://github.com/Pocco81/DAPInstall.nvim"
+}

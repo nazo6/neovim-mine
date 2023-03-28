@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "Spotify"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-08-27T23:16:02Z",
+    "description": "Integration with Spotify on NeoVim through Web API",
+    "isArchived": false,
+    "lastCommit": "2022-09-03T21:30:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neofy.nvim",
+  "owner": "C0deBr3ak3r",
+  "url": "https://github.com/C0deBr3ak3r/neofy.nvim"
+}

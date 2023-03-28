@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "auto-insert.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto insert semicolon"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-10-25T12:03:48Z",
+    "description": "Neovim pluging that provides keymaps for putting certain character at end of the line",
+    "isArchived": false,
+    "lastCommit": "2022-10-25T12:06:59Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "put_at_end.nvim",
+  "owner": "rareitems",
+  "url": "https://github.com/rareitems/put_at_end.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "External"
+      },
+      {
+        "level": 3,
+        "name": "Version Manager"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-04-10T00:02:41Z",
+    "description": "A lightweight and blazing fast Neovim version manager.",
+    "isArchived": false,
+    "lastCommit": "2021-07-03T12:32:54Z",
+    "primaryLanguage": {
+      "color": "#4f87c4",
+      "name": "V"
+    },
+    "star": 45,
+    "topics": [
+      "neovim",
+      "version-manager",
+      "vlang"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvenv",
+  "owner": "NTBBloodbath",
+  "url": "https://github.com/NTBBloodbath/nvenv"
+}

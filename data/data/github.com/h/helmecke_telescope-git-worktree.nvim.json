@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-03-05T19:46:41Z",
+    "description": "A telescope.nvim extension that offers switching worktrees in a bare git repository.",
+    "isArchived": false,
+    "lastCommit": "2022-03-05T19:55:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "telescope",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-git-worktree.nvim",
+  "owner": "helmecke",
+  "url": "https://github.com/helmecke/telescope-git-worktree.nvim"
+}

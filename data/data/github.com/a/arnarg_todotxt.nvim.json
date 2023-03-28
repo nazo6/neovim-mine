@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-02-11T23:53:58Z",
+    "description": "Neovim plugin to view and add tasks stored in a todo.txt format",
+    "isArchived": false,
+    "lastCommit": "2022-08-31T16:31:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 38,
+    "topics": [
+      "neovim",
+      "lua",
+      "nvim",
+      "neovim-plugin",
+      "nvim-plugin",
+      "todo",
+      "todotxt"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todotxt.nvim",
+  "owner": "arnarg",
+  "url": "https://github.com/arnarg/todotxt.nvim"
+}

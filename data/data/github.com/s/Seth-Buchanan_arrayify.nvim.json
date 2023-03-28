@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Command"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2023-03-12T17:39:08Z",
+    "description": "Quickly format arrays across languages.",
+    "isArchived": false,
+    "lastCommit": "2023-03-16T22:35:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "arrayify.nvim",
+  "owner": "Seth-Buchanan",
+  "url": "https://github.com/Seth-Buchanan/arrayify.nvim"
+}

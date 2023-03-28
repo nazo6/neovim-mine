@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Font"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2022-09-22T18:52:41Z",
+    "description": "Neovim completion for fonts installed on the system",
+    "isArchived": false,
+    "lastCommit": "2022-10-10T08:30:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "fontconfig",
+      "fonts",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim-cmp",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cmp-fonts",
+  "owner": "amarakon",
+  "url": "https://github.com/amarakon/nvim-cmp-fonts"
+}

@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "Database"
+      },
+      {
+        "level": 4,
+        "name": "SQL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 48,
+    "createdAt": "2023-02-19T00:34:12Z",
+    "description": "A SQL IDE and UI for NeoVim written in Lua. Inspired by vim-dadbod vim-dadbod-ui.",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T05:35:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "sql"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sqlua.nvim",
+  "owner": "Xemptuous",
+  "url": "https://github.com/Xemptuous/sqlua.nvim"
+}

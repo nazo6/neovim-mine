@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Terminal"
+      },
+      {
+        "level": 4,
+        "name": "Kitty"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-03-16T19:16:10Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-17T08:46:14Z",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-kitty-navigator",
+  "owner": "ouroboros8",
+  "url": "https://github.com/ouroboros8/nvim-kitty-navigator"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "yank_paste.md"
+      },
+      {
+        "level": 1,
+        "name": "Yank"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-11-27T11:52:20Z",
+    "description": "Simple plugin to paste selection to other neovim instance over croc.",
+    "isArchived": false,
+    "lastCommit": "2022-11-28T13:49:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "paster.nvim",
+  "owner": "vodrazka",
+  "url": "https://github.com/vodrazka/paster.nvim"
+}

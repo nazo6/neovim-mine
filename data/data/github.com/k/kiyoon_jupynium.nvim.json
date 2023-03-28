@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      },
+      {
+        "level": 4,
+        "name": "Jupyter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 124,
+    "createdAt": "2023-01-11T22:34:15Z",
+    "description": "Selenium-automated Jupyter Notebook that is synchronised with NeoVim in real-time.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T00:23:42Z",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 122,
+    "topics": [
+      "vim",
+      "nvim",
+      "nvim-plugin",
+      "jupyter-notebook",
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jupynium.nvim",
+  "owner": "kiyoon",
+  "url": "https://github.com/kiyoon/jupynium.nvim"
+}

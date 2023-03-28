@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "lazygit"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 51,
+    "createdAt": "2022-09-24T17:21:49Z",
+    "description": "Lazygit inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-11-10T22:57:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lazygit",
+  "owner": "lostl1ght",
+  "url": "https://github.com/lostl1ght/nvim-lazygit"
+}

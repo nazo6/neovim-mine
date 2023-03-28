@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2021-05-31T20:07:50Z",
+    "description": "doom-emacs' doom-one Lua port for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-12-24T22:49:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 145,
+    "topics": [
+      "neovim",
+      "neovim-colorscheme",
+      "neovim-lua",
+      "neovim-lsp",
+      "treesitter",
+      "doom",
+      "colorscheme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "doom-one.nvim",
+  "owner": "NTBBloodbath",
+  "url": "https://github.com/NTBBloodbath/doom-one.nvim"
+}

@@ -1,0 +1,30 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-12-06T06:41:03Z",
+    "description": "fzf-lua + projections.nvim",
+    "isArchived": true,
+    "lastCommit": "2022-12-06T14:44:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-lua-projections.nvim",
+  "owner": "nyngwang",
+  "url": "https://github.com/nyngwang/fzf-lua-projections.nvim"
+}

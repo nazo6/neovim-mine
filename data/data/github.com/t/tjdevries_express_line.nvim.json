@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      },
+      {
+        "level": 4,
+        "name": "Statusline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-07-01T17:04:38Z",
+    "description": "WIP: Statusline written in pure lua. Supports co-routines, functions and jobs.",
+    "isArchived": false,
+    "lastCommit": "2021-12-01T21:14:32Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 214,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "express_line.nvim",
+  "owner": "tjdevries",
+  "url": "https://github.com/tjdevries/express_line.nvim"
+}

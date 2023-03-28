@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "statuscolumn"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 65,
+    "createdAt": "2022-11-21T12:04:24Z",
+    "description": "Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T01:59:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 201,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "statuscol.nvim",
+  "owner": "luukvbaal",
+  "url": "https://github.com/luukvbaal/statuscol.nvim"
+}

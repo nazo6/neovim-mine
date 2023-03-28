@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 3,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 65,
+    "createdAt": "2022-12-31T16:50:02Z",
+    "description": "Another statusline ? - this statusline is a personal pursuit in a less bloated option",
+    "isArchived": false,
+    "lastCommit": "2023-01-26T20:50:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "lua",
+      "minimal",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "neovim-statusline",
+      "nvim",
+      "stat",
+      "statusline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "stat.nvim",
+  "owner": "leath-dub",
+  "url": "https://github.com/leath-dub/stat.nvim"
+}

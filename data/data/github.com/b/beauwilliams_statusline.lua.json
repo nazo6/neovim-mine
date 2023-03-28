@@ -1,0 +1,64 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 3,
+        "name": "Simple"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      },
+      {
+        "level": 4,
+        "name": "Statusline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-01-31T21:25:26Z",
+    "description": "A zero-config minimal statusline for neovim written in lua featuring awesome integrations and blazing speed!",
+    "isArchived": false,
+    "lastCommit": "2022-10-12T00:32:32Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 160,
+    "topics": [
+      "statusline",
+      "tabline",
+      "lua",
+      "nvim",
+      "neovim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "statusline.lua",
+  "owner": "beauwilliams",
+  "url": "https://github.com/beauwilliams/statusline.lua"
+}

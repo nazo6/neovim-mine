@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "Local LSP Config"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 415,
+    "createdAt": "2022-09-07T16:15:13Z",
+    "description": "💼 Neovim plugin to manage global and project-local settings",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T10:38:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 266,
+    "topics": [
+      "neovim",
+      "neovim-config",
+      "neovim-configuration",
+      "neovim-lsp",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neoconf.nvim",
+  "owner": "folke",
+  "url": "https://github.com/folke/neoconf.nvim"
+}

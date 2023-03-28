@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2022-11-17T08:31:31Z",
+    "description": "Fade RGB color by percentage between two given colors ",
+    "isArchived": false,
+    "lastCommit": "2022-11-18T17:46:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "color",
+      "fade",
+      "hsl",
+      "lua",
+      "neovim",
+      "nvim",
+      "rgb"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-fade-color",
+  "owner": "ksk0",
+  "url": "https://github.com/ksk0/nvim-fade-color"
+}

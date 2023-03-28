@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "Mastodon"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 94,
+    "createdAt": "2022-11-14T10:04:03Z",
+    "description": "Mastodon client for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-07T15:40:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 63,
+    "topics": [
+      "lua",
+      "mastodon",
+      "mastodon-client",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mastodon.nvim",
+  "owner": "kode-team",
+  "url": "https://github.com/kode-team/mastodon.nvim"
+}

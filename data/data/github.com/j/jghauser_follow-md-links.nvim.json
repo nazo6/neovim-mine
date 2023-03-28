@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Programming Languages Support"
+      },
+      {
+        "level": 4,
+        "name": "Markdown and LaTeX"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2021-05-16T16:33:00Z",
+    "description": "Easily follow markdown links with this neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2022-10-06T18:32:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 88,
+    "topics": [
+      "neovim",
+      "plugin",
+      "lua",
+      "markdown",
+      "links",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "follow-md-links.nvim",
+  "owner": "jghauser",
+  "url": "https://github.com/jghauser/follow-md-links.nvim"
+}

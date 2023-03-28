@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Selector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2020-12-14T06:16:16Z",
+    "description": "The core of ido-nvim",
+    "isArchived": false,
+    "lastCommit": "2022-12-26T09:49:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ido.nvim",
+  "owner": "ido-nvim",
+  "url": "https://github.com/ido-nvim/ido.nvim"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "bufferline.md"
+      },
+      {
+        "level": 1,
+        "name": "Bufferline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-10-24T16:30:46Z",
+    "description": "Neovim Lua plugin with minimal and fast tabline. Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2023-03-13T14:31:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.tabline",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.tabline"
+}

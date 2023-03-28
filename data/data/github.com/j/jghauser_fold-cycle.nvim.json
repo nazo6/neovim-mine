@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fold.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Fold"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-03-12T14:11:17Z",
+    "description": "This neovim plugin allows you to cycle folds open or closed",
+    "isArchived": false,
+    "lastCommit": "2023-01-07T13:59:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 49,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fold-cycle.nvim",
+  "owner": "jghauser",
+  "url": "https://github.com/jghauser/fold-cycle.nvim"
+}

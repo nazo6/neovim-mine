@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Music"
+      },
+      {
+        "level": 3,
+        "name": "Recording"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-02-22T17:52:06Z",
+    "description": "Record lectures inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-23T22:36:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kyouko.nvim",
+  "owner": "andry-dev",
+  "url": "https://github.com/andry-dev/kyouko.nvim"
+}

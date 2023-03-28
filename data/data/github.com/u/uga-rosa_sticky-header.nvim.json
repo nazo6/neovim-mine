@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-06-29T01:42:59Z",
+    "description": null,
+    "isArchived": true,
+    "lastCommit": "2022-09-05T01:18:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sticky-header.nvim",
+  "owner": "uga-rosa",
+  "url": "https://github.com/uga-rosa/sticky-header.nvim"
+}

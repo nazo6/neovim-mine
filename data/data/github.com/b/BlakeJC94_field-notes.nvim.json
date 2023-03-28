@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Zettelkasten"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 107,
+    "createdAt": "2023-02-04T21:25:36Z",
+    "description": "A simple zettelkasten journal plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-07T01:36:02Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "note-taking"
+    ]
+  },
+  "domain": "github.com",
+  "name": "field-notes.nvim",
+  "owner": "BlakeJC94",
+  "url": "https://github.com/BlakeJC94/field-notes.nvim"
+}

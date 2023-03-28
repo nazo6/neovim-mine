@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "YAML"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-11-29T11:01:47Z",
+    "description": "Telescope extension to navigate through yaml file",
+    "isArchived": false,
+    "lastCommit": "2022-11-29T14:28:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-yamlnav.nvim",
+  "owner": "aubinlrx",
+  "url": "https://github.com/aubinlrx/telescope-yamlnav.nvim"
+}

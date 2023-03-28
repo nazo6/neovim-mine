@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2020-11-29T21:35:22Z",
+    "description": "Enable the power of fzf fuzzy search for the neovim built in lsp",
+    "isArchived": false,
+    "lastCommit": "2023-02-02T21:36:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 175,
+    "topics": [
+      "nvim",
+      "lsp",
+      "fzf",
+      "neovim",
+      "neovim-lua",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-lsp.nvim",
+  "owner": "gfanto",
+  "url": "https://github.com/gfanto/fzf-lsp.nvim"
+}

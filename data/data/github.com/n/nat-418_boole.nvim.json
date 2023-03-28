@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Convert Case"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 88,
+    "createdAt": "2022-10-11T20:58:28Z",
+    "description": "Neovim plugin for toggling booleans, etc.",
+    "isArchived": false,
+    "lastCommit": "2023-01-14T07:39:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 77,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "boole.nvim",
+  "owner": "nat-418",
+  "url": "https://github.com/nat-418/boole.nvim"
+}

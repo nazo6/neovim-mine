@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Link"
+      },
+      {
+        "level": 3,
+        "name": "grep.app"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2022-11-26T19:53:27Z",
+    "description": "Grab and browse code from grep.app without leaving neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-27T19:20:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "codesearch",
+      "grep",
+      "neovim",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "grep_app.nvim",
+  "owner": "matheusfillipe",
+  "url": "https://github.com/matheusfillipe/grep_app.nvim"
+}

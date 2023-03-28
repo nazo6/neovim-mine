@@ -1,0 +1,69 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "Code outline"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 309,
+    "createdAt": "2020-09-19T22:59:49Z",
+    "description": "Neovim plugin for a code outline window",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T19:38:06Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 838,
+    "topics": [
+      "nvim",
+      "lsp",
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin",
+      "navigation",
+      "outline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "aerial.nvim",
+  "owner": "stevearc",
+  "url": "https://github.com/stevearc/aerial.nvim"
+}

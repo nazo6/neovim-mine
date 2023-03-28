@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Spell"
+      },
+      {
+        "level": 4,
+        "name": "Vale"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-07-18T08:58:02Z",
+    "description": "A Neovim wrapper around Vale, the syntax-aware linter for prose.",
+    "isArchived": false,
+    "lastCommit": "2022-07-24T05:40:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vale.nvim",
+  "owner": "marcelofern",
+  "url": "https://github.com/marcelofern/vale.nvim"
+}

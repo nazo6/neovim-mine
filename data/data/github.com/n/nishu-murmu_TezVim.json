@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      },
+      {
+        "level": 1,
+        "name": "Neovim distribution"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 72,
+    "createdAt": "2022-02-15T15:52:15Z",
+    "description": "My Neovim configurations.",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T07:41:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-dotfiles",
+      "neovim-configuration",
+      "neovim",
+      "lua",
+      "neovim-config",
+      "neovim-lua",
+      "ide",
+      "lua-bindings",
+      "nvim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "TezVim",
+  "owner": "nishu-murmu",
+  "url": "https://github.com/nishu-murmu/TezVim"
+}

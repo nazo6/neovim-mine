@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-03-16T20:40:15Z",
+    "description": "usefull things for VimTex and LuaSnip",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T15:08:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "texmate.nvim",
+  "owner": "Paroxyss",
+  "url": "https://github.com/Paroxyss/texmate.nvim"
+}

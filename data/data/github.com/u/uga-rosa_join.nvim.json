@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Split / Join"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2022-08-25T06:05:35Z",
+    "description": "Simple join plugin for neovim.",
+    "isArchived": false,
+    "lastCommit": "2022-08-28T04:05:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "join.nvim",
+  "owner": "uga-rosa",
+  "url": "https://github.com/uga-rosa/join.nvim"
+}

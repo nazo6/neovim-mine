@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "auto-insert.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "insert pairs"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Editing Support"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 121,
+    "createdAt": "2023-02-02T20:38:20Z",
+    "description": "A neovim autopair plugin designed to have all the features that an autopair plugin needs.",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T11:00:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 75,
+    "topics": [
+      "autopair",
+      "nvim-lua",
+      "nvim-plugin",
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ultimate-autopair.nvim",
+  "owner": "altermo",
+  "url": "https://github.com/altermo/ultimate-autopair.nvim"
+}

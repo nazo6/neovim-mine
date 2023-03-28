@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Log"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2021-08-19T08:30:12Z",
+    "description": "Structured Logging for nvim, using Lua",
+    "isArchived": false,
+    "lastCommit": "2023-01-08T13:36:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 61,
+    "topics": [
+      "nvim",
+      "logging",
+      "structured-logging",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "structlog.nvim",
+  "owner": "Tastyep",
+  "url": "https://github.com/Tastyep/structlog.nvim"
+}

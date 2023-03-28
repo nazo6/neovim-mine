@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Moonscript"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2018-10-18T15:21:16Z",
+    "description": "Moonscript plugin support for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-04-08T20:13:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 66,
+    "topics": [
+      "neovim",
+      "vim",
+      "moonscript",
+      "lua",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-moonmaker",
+  "owner": "svermeulen",
+  "url": "https://github.com/svermeulen/nvim-moonmaker"
+}

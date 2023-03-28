@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-01-19T14:02:49Z",
+    "description": "Semantic token highlighting for neovim's LSP client",
+    "isArchived": true,
+    "lastCommit": "2023-03-06T18:54:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "semanticist.nvim",
+  "owner": "swarn",
+  "url": "https://github.com/swarn/semanticist.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Cloud"
+      },
+      {
+        "level": 4,
+        "name": "AWS"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-12-03T16:21:07Z",
+    "description": "telescope-aws.nvim",
+    "isArchived": false,
+    "lastCommit": "2022-12-03T16:10:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-aws.nvim",
+  "owner": "lunarxlark",
+  "url": "https://github.com/lunarxlark/telescope-aws.nvim"
+}

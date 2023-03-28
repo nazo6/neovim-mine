@@ -1,0 +1,82 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Command style"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Code Runner"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-05-02T00:10:35Z",
+    "description": "Yet Another Build System/Code Runner for Neovim, written in lua",
+    "isArchived": false,
+    "lastCommit": "2022-05-09T00:22:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 197,
+    "topics": [
+      "neovim",
+      "lua",
+      "build-tool",
+      "nvim",
+      "neovim-plugin",
+      "neovim-lua",
+      "code-runner",
+      "build-system",
+      "task-runner",
+      "asyncrun"
+    ]
+  },
+  "domain": "github.com",
+  "name": "yabs.nvim",
+  "owner": "pianocomposer321",
+  "url": "https://github.com/pianocomposer321/yabs.nvim"
+}

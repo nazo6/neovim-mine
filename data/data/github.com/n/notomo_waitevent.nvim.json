@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "EDITOR"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2023-02-14T13:42:23Z",
+    "description": "Neovim plugin to avoid nested nvim",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T09:59:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "waitevent.nvim",
+  "owner": "notomo",
+  "url": "https://github.com/notomo/waitevent.nvim"
+}

@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "tmux"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-04-02T17:28:13Z",
+    "description": "Tmux completion source for nvim-cmp and nvim-compe",
+    "isArchived": false,
+    "lastCommit": "2022-10-05T21:27:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 99,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim-compe",
+      "nvim-plugin",
+      "lua",
+      "tmux",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-tmux",
+  "owner": "andersevenrud",
+  "url": "https://github.com/andersevenrud/cmp-tmux"
+}

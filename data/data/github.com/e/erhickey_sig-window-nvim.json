@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "Auto Completion support"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-10-07T00:04:45Z",
+    "description": "neovim plugin for automatic display of LSP signature help in a floating window",
+    "isArchived": false,
+    "lastCommit": "2023-01-31T01:43:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sig-window-nvim",
+  "owner": "erhickey",
+  "url": "https://github.com/erhickey/sig-window-nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mark.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Mark"
+      },
+      {
+        "level": 3,
+        "name": "bookmark"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-10-23T22:59:44Z",
+    "description": "A bookmark plugin.",
+    "isArchived": false,
+    "lastCommit": "2021-12-07T10:32:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ezbookmarks.nvim",
+  "owner": "lifer0se",
+  "url": "https://github.com/lifer0se/ezbookmarks.nvim"
+}

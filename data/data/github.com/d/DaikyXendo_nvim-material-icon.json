@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Icon"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-11-09T14:17:58Z",
+    "description": "Nvim material icon",
+    "isArchived": false,
+    "lastCommit": "2022-11-11T02:04:02Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 69,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-material-icon",
+  "owner": "DaikyXendo",
+  "url": "https://github.com/DaikyXendo/nvim-material-icon"
+}

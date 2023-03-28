@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Grep"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-03-18T15:16:25Z",
+    "description": "a telescope extension to help you to navigate through different path when using builtin actions from telescope such as `grep_string`, `find_files` and `live_grep`.",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T02:07:26Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-pathogen.nvim",
+  "owner": "brookhong",
+  "url": "https://github.com/brookhong/telescope-pathogen.nvim"
+}

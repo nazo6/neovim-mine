@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-11-10T09:58:47Z",
+    "description": "Quick project opener for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-11-13T19:23:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sobble.nvim",
+  "owner": "Nanoteck137",
+  "url": "https://github.com/Nanoteck137/sobble.nvim"
+}

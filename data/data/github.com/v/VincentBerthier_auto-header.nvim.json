@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      },
+      {
+        "level": 4,
+        "name": "Comment Header"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-01-01T14:54:58Z",
+    "description": "A neovim plugin to automatically create and update code file headers",
+    "isArchived": false,
+    "lastCommit": "2023-01-23T22:07:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-header.nvim",
+  "owner": "VincentBerthier",
+  "url": "https://github.com/VincentBerthier/auto-header.nvim"
+}

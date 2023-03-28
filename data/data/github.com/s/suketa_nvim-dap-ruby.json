@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Debugger"
+      },
+      {
+        "level": 4,
+        "name": "nvim-dap extension"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2021-10-24T03:36:36Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-09-30T22:58:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 43,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-ruby",
+  "owner": "suketa",
+  "url": "https://github.com/suketa/nvim-dap-ruby"
+}

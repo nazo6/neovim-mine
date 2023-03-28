@@ -1,0 +1,64 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Collaborative Editing"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2020-09-03T05:41:48Z",
+    "description": "collaborative editing in Neovim using built-in capabilities",
+    "isArchived": false,
+    "lastCommit": "2022-06-25T21:08:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 961,
+    "topics": [
+      "neovim-plugin",
+      "collaborative-editing",
+      "lua",
+      "websocket",
+      "neovim",
+      "realtime-collaboration"
+    ]
+  },
+  "domain": "github.com",
+  "name": "instant.nvim",
+  "owner": "jbyuki",
+  "url": "https://github.com/jbyuki/instant.nvim"
+}

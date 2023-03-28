@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Mode"
+      },
+      {
+        "level": 4,
+        "name": "Submode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 85,
+    "createdAt": "2022-11-02T08:56:07Z",
+    "description": "An experimental key mapping replacer",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T05:05:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "keymapping"
+    ]
+  },
+  "domain": "github.com",
+  "name": "submode.nvim",
+  "owner": "pogyomo",
+  "url": "https://github.com/pogyomo/submode.nvim"
+}

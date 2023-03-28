@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "nvim-cmp extension"
+      },
+      {
+        "level": 4,
+        "name": "nvim-cmp sources"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2021-09-26T08:01:17Z",
+    "description": "nvim-cmp source for dictionary.",
+    "isArchived": false,
+    "lastCommit": "2023-03-05T03:47:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 153,
+    "topics": [
+      "nvim-cmp",
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-dictionary",
+  "owner": "uga-rosa",
+  "url": "https://github.com/uga-rosa/cmp-dictionary"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git open"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-07-30T02:46:23Z",
+    "description": "Git open all changed files.",
+    "isArchived": false,
+    "lastCommit": "2022-09-15T15:10:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "goacf.nvim",
+  "owner": "senkentarou",
+  "url": "https://github.com/senkentarou/goacf.nvim"
+}

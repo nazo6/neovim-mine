@@ -1,0 +1,33 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 264,
+    "createdAt": "2022-08-23T11:49:52Z",
+    "description": "🐱‍👤 A simple and opinionated winbar",
+    "isArchived": true,
+    "lastCommit": "2023-01-01T22:05:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "winbar"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-headband",
+  "owner": "B4mbus",
+  "url": "https://github.com/B4mbus/nvim-headband"
+}

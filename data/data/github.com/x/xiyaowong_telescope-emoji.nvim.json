@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "emoji.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Emoji"
+      },
+      {
+        "level": 3,
+        "name": "Emoji FuzzyFinder"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2021-07-07T05:32:19Z",
+    "description": "An extension for telescope.nvim that allows you to search emojis😃",
+    "isArchived": false,
+    "lastCommit": "2022-12-08T12:49:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 65,
+    "topics": [
+      "neovim",
+      "nvim-telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-emoji.nvim",
+  "owner": "xiyaowong",
+  "url": "https://github.com/xiyaowong/telescope-emoji.nvim"
+}

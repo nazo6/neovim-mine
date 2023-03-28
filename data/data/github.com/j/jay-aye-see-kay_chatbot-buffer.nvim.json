@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-03-25T07:29:45Z",
+    "description": "Interact with ai chatbots in an editable markdown buffer. Currently only supports one of openai's endpoints, may never support more.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T23:36:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chatbot-buffer.nvim",
+  "owner": "jay-aye-see-kay",
+  "url": "https://github.com/jay-aye-see-kay/chatbot-buffer.nvim"
+}

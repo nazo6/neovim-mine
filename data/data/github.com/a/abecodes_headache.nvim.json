@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      },
+      {
+        "level": 4,
+        "name": "Comment Header"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-11-09T21:39:50Z",
+    "description": "Define fileheaders that are added to a certain filetype.",
+    "isArchived": false,
+    "lastCommit": "2022-11-09T21:47:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "headache.nvim",
+  "owner": "abecodes",
+  "url": "https://github.com/abecodes/headache.nvim"
+}

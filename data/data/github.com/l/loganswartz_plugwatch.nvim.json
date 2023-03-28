@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "plugin-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Plugin Manager"
+      },
+      {
+        "level": 3,
+        "name": "Update checker"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2022-10-26T21:18:06Z",
+    "description": "Monitor all your (neo)vim plugins for updates.",
+    "isArchived": false,
+    "lastCommit": "2022-12-07T00:43:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plugwatch.nvim",
+  "owner": "loganswartz",
+  "url": "https://github.com/loganswartz/plugwatch.nvim"
+}

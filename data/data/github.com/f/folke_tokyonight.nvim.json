@@ -1,0 +1,72 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "colorscheme.md"
+      },
+      {
+        "level": 1,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 2,
+        "name": "Blue Base"
+      },
+      {
+        "level": 3,
+        "name": "Tokyo Night"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 243,
+    "createdAt": "2021-04-16T17:21:40Z",
+    "description": "🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T06:56:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3328,
+    "topics": [
+      "neovim",
+      "neovim-theme",
+      "neovim-lua",
+      "vim",
+      "vim-theme",
+      "neovim-colorscheme",
+      "vim-colorscheme",
+      "alacritty-theme",
+      "alacritty-colorscheme",
+      "kitty-themes"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tokyonight.nvim",
+  "owner": "folke",
+  "url": "https://github.com/folke/tokyonight.nvim"
+}

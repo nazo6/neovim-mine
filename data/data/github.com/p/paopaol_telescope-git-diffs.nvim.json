@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git diff"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-01-01T14:34:49Z",
+    "description": "Telescope picker of git diffs between commits",
+    "isArchived": false,
+    "lastCommit": "2023-02-11T12:32:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-git-diffs.nvim",
+  "owner": "paopaol",
+  "url": "https://github.com/paopaol/telescope-git-diffs.nvim"
+}

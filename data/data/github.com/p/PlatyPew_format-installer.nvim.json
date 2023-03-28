@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "package-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Package Manager"
+      },
+      {
+        "level": 3,
+        "name": "LSP, DAP, linter, formatter"
+      },
+      {
+        "level": 4,
+        "name": "formatter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-01-06T14:02:25Z",
+    "description": "Neovim plugin for managing formatters/linters",
+    "isArchived": false,
+    "lastCommit": "2022-08-05T02:47:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 34,
+    "topics": [
+      "neovim",
+      "nvim",
+      "null-ls",
+      "formatter",
+      "installer",
+      "plugin",
+      "install",
+      "linter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "format-installer.nvim",
+  "owner": "PlatyPew",
+  "url": "https://github.com/PlatyPew/format-installer.nvim"
+}

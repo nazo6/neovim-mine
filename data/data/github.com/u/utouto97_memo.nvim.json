@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2022-08-22T09:04:39Z",
+    "description": "Simple  memo plugin for neovim.",
+    "isArchived": false,
+    "lastCommit": "2022-12-30T03:30:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "memo.nvim",
+  "owner": "utouto97",
+  "url": "https://github.com/utouto97/memo.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Mode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 77,
+    "createdAt": "2020-04-29T19:17:59Z",
+    "description": "Create new \"modes\" for Neovim!",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T19:12:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 102,
+    "topics": [
+      "neovim",
+      "plugin",
+      "modal",
+      "modal-editing",
+      "library",
+      "free-software",
+      "callback-flow-control",
+      "callback-functions",
+      "mapping-tools",
+      "vim-win"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-libmodal",
+  "owner": "Iron-E",
+  "url": "https://github.com/Iron-E/nvim-libmodal"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Pomodoro"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-01-16T17:41:03Z",
+    "description": "yet another pommodoro neovim plugin that displays an ASCII timer in an overlay",
+    "isArchived": false,
+    "lastCommit": "2023-01-23T09:02:06Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 44,
+    "topics": [
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pommodoro-clock.nvim",
+  "owner": "jackMort",
+  "url": "https://github.com/jackMort/pommodoro-clock.nvim"
+}

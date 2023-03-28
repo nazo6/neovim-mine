@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "JSON"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-10-09T10:43:35Z",
+    "description": "A Neovim plugin to help you access JSON values, powered by treesitter",
+    "isArchived": false,
+    "lastCommit": "2022-10-16T23:03:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 104,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jsonpath.nvim",
+  "owner": "phelipetls",
+  "url": "https://github.com/phelipetls/jsonpath.nvim"
+}

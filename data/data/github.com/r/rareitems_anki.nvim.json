@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-11-06T10:48:01Z",
+    "description": "Neovim plugin that allows creation of Anki cards directly from neovim",
+    "isArchived": false,
+    "lastCommit": "2022-11-23T21:31:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "anki.nvim",
+  "owner": "rareitems",
+  "url": "https://github.com/rareitems/anki.nvim"
+}

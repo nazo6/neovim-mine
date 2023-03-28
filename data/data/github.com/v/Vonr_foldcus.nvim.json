@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fold.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Fold"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-08-01T13:42:07Z",
+    "description": "A minimal plugin for NeoVim for folding multiline comments",
+    "isArchived": false,
+    "lastCommit": "2022-10-08T11:51:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "foldcus.nvim",
+  "owner": "Vonr",
+  "url": "https://github.com/Vonr/foldcus.nvim"
+}

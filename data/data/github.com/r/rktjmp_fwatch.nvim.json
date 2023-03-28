@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Hook"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-04-25T05:08:55Z",
+    "description": "fwatch.nvim lets you watch files or directories for changes and then run vim commands or lua functions.",
+    "isArchived": false,
+    "lastCommit": "2022-07-04T08:27:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 61,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fwatch.nvim",
+  "owner": "rktjmp",
+  "url": "https://github.com/rktjmp/fwatch.nvim"
+}

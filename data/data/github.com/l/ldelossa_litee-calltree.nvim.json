@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "Call Hierarchy"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2021-12-31T02:01:26Z",
+    "description": "Neovim's missing call hierarchy UI",
+    "isArchived": false,
+    "lastCommit": "2022-09-28T17:22:06Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 87,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "litee-calltree.nvim",
+  "owner": "ldelossa",
+  "url": "https://github.com/ldelossa/litee-calltree.nvim"
+}

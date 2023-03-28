@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-10-06T12:30:33Z",
+    "description": "Fuzzy matching for Neovim",
+    "isArchived": false,
+    "lastCommit": "2021-05-13T12:51:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 53,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fuzzy.nvim",
+  "owner": "amirrezaask",
+  "url": "https://github.com/amirrezaask/fuzzy.nvim"
+}

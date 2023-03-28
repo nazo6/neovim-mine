@@ -1,0 +1,59 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "package-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Package Manager"
+      },
+      {
+        "level": 3,
+        "name": "LSP, DAP, linter, formatter"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Plugin Manager"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2021-11-13T17:19:20Z",
+    "description": "Correct neovim package manager",
+    "isArchived": false,
+    "lastCommit": "2022-12-20T14:45:00Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 83,
+    "topics": [
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dep",
+  "owner": "chiyadev",
+  "url": "https://github.com/chiyadev/dep"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-11-27T13:36:29Z",
+    "description": "Simple plugin to switch between project and file directory",
+    "isArchived": false,
+    "lastCommit": "2022-12-26T20:36:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "root-switcher.nvim",
+  "owner": "Rejyr",
+  "url": "https://github.com/Rejyr/root-switcher.nvim"
+}

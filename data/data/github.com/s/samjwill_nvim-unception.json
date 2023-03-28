@@ -1,0 +1,62 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Neovim in Neovim"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Integration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 183,
+    "createdAt": "2022-05-22T02:18:54Z",
+    "description": "A plugin that leverages Neovim's built-in RPC functionality to simplify opening files from within Neovim's terminal emulator without nesting sessions.",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T13:43:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 158,
+    "topics": [
+      "neovim",
+      "nvim",
+      "lua",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-unception",
+  "owner": "samjwill",
+  "url": "https://github.com/samjwill/nvim-unception"
+}

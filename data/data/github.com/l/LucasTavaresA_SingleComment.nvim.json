@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 55,
+    "createdAt": "2023-01-08T19:48:13Z",
+    "description": "Comment using only single line comments.",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T03:07:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "comment",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "SingleComment.nvim",
+  "owner": "LucasTavaresA",
+  "url": "https://github.com/LucasTavaresA/SingleComment.nvim"
+}

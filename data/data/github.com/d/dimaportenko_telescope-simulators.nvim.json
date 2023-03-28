@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "iOS"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-02-11T20:20:51Z",
+    "description": "A telescope.nvim extension to open iOS simulators and Android emulators.",
+    "isArchived": false,
+    "lastCommit": "2023-02-14T10:17:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 48,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-simulators.nvim",
+  "owner": "dimaportenko",
+  "url": "https://github.com/dimaportenko/telescope-simulators.nvim"
+}

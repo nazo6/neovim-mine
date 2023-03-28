@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Code action"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-09-29T14:24:29Z",
+    "description": "Neovim plugin to preview LSP code action",
+    "isArchived": false,
+    "lastCommit": "2023-03-12T14:25:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 49,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "telescope",
+      "lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "actions-preview.nvim",
+  "owner": "aznhe21",
+  "url": "https://github.com/aznhe21/actions-preview.nvim"
+}

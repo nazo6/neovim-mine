@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-10-20T09:03:14Z",
+    "description": "Manage terminal buffers and toggle them easily!",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T11:37:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-plugin",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffer-term.nvim",
+  "owner": "caenrique",
+  "url": "https://github.com/caenrique/buffer-term.nvim"
+}

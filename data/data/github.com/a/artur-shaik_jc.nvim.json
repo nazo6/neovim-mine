@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Java"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 83,
+    "createdAt": "2022-05-16T12:40:25Z",
+    "description": "Java autocompletion for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-05T12:27:52Z",
+    "primaryLanguage": {
+      "color": "#199f4b",
+      "name": "Vim Script"
+    },
+    "star": 34,
+    "topics": [
+      "vim",
+      "neovim",
+      "java",
+      "javacomplete",
+      "jdt",
+      "lsp-client",
+      "neovim-plugin",
+      "ide"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jc.nvim",
+  "owner": "artur-shaik",
+  "url": "https://github.com/artur-shaik/jc.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "UI"
+      },
+      {
+        "level": 3,
+        "name": "vim.ui.select/vim.ui.input"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2022-10-23T14:19:30Z",
+    "description": "Pickers for vim.ui.select",
+    "isArchived": false,
+    "lastCommit": "2023-03-11T14:15:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-qwahl",
+  "owner": "mfussenegger",
+  "url": "https://github.com/mfussenegger/nvim-qwahl"
+}

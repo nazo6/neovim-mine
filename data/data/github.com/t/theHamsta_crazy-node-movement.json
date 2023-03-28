@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "textobject_operator.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Textobject"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-04-01T21:42:52Z",
+    "description": "Move along tree-sitter's syntax tree with Neovim!",
+    "isArchived": false,
+    "lastCommit": "2023-01-19T19:11:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "crazy-node-movement",
+  "owner": "theHamsta",
+  "url": "https://github.com/theHamsta/crazy-node-movement"
+}

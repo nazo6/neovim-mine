@@ -1,0 +1,33 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-03-17T13:07:04Z",
+    "description": "Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.",
+    "isArchived": true,
+    "lastCommit": "2022-07-17T01:37:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 434,
+    "topics": [
+      "lsp",
+      "typescript",
+      "neovim",
+      "neovim-plugin",
+      "neovim-lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lsp-ts-utils",
+  "owner": "jose-elias-alvarez",
+  "url": "https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Ruby"
+      },
+      {
+        "level": 4,
+        "name": "Rails"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-07-14T03:26:03Z",
+    "description": "An nvim-cmp source for Ruby on Rails fixture types",
+    "isArchived": false,
+    "lastCommit": "2023-03-11T18:24:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-rails-fixture-types",
+  "owner": "wassimk",
+  "url": "https://github.com/wassimk/cmp-rails-fixture-types"
+}

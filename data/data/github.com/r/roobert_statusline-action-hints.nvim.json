@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 2,
+        "name": "Statusline component"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-02-07T23:15:11Z",
+    "description": "⚡ A Neovim plugin to show statusline information about the word under the cursor.",
+    "isArchived": false,
+    "lastCommit": "2023-02-13T13:24:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "statusline-action-hints.nvim",
+  "owner": "roobert",
+  "url": "https://github.com/roobert/statusline-action-hints.nvim"
+}

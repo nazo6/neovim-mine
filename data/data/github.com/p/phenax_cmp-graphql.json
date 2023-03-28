@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Graphql"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2022-10-27T18:26:45Z",
+    "description": "Neovim nvim-cmp source for graphql completions based on schema",
+    "isArchived": false,
+    "lastCommit": "2022-10-28T17:31:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "graphql",
+      "javascript",
+      "neovim",
+      "neovim-plugin",
+      "nvim-cmp",
+      "typescript"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-graphql",
+  "owner": "phenax",
+  "url": "https://github.com/phenax/cmp-graphql"
+}

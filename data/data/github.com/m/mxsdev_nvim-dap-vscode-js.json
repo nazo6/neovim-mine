@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Debugger"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2022-07-08T03:34:24Z",
+    "description": "nvim-dap adapter for vscode-js-debug",
+    "isArchived": false,
+    "lastCommit": "2023-03-06T03:06:32Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 151,
+    "topics": [
+      "chrome",
+      "debug-adapter-protocol",
+      "msedge",
+      "neovim",
+      "nodejs",
+      "vscode"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-vscode-js",
+  "owner": "mxsdev",
+  "url": "https://github.com/mxsdev/nvim-dap-vscode-js"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2021-02-14T05:19:57Z",
+    "description": "The neovim language-server-client UI",
+    "isArchived": false,
+    "lastCommit": "2022-12-06T20:57:02Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 405,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lspsaga.nvim",
+  "owner": "kkharji",
+  "url": "https://github.com/kkharji/lspsaga.nvim"
+}

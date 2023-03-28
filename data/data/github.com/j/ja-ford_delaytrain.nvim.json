@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Study"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2022-09-28T11:42:37Z",
+    "description": "Train yourself to stop repeating keys... gently",
+    "isArchived": false,
+    "lastCommit": "2022-12-29T00:22:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 95,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "delaytrain.nvim",
+  "owner": "ja-ford",
+  "url": "https://github.com/ja-ford/delaytrain.nvim"
+}

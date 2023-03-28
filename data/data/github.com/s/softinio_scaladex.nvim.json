@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Scala"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-11-13T17:11:41Z",
+    "description": "Neovim and Telescope plugin to search the scaladex index",
+    "isArchived": false,
+    "lastCommit": "2021-11-15T05:13:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 27,
+    "topics": [
+      "neovim",
+      "telescope",
+      "lua",
+      "vim",
+      "scala",
+      "sbt"
+    ]
+  },
+  "domain": "github.com",
+  "name": "scaladex.nvim",
+  "owner": "softinio",
+  "url": "https://github.com/softinio/scaladex.nvim"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git rebase"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-02-05T20:28:11Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-06T08:57:32Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-rebase-mappings.nvim",
+  "owner": "bagohart",
+  "url": "https://github.com/bagohart/git-rebase-mappings.nvim"
+}

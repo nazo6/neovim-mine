@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Command"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-07-31T22:26:47Z",
+    "description": "A simple plugin for neovim to create files and folders quickly.",
+    "isArchived": false,
+    "lastCommit": "2022-07-31T22:44:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "AdvancedNewFile.nvim",
+  "owner": "Mohammed-Taher",
+  "url": "https://github.com/Mohammed-Taher/AdvancedNewFile.nvim"
+}

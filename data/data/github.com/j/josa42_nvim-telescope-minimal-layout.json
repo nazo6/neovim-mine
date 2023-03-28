@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-01-22T11:37:52Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-02T08:24:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-telescope-minimal-layout",
+  "owner": "josa42",
+  "url": "https://github.com/josa42/nvim-telescope-minimal-layout"
+}

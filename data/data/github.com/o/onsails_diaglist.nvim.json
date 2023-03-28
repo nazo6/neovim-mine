@@ -1,0 +1,77 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Diagnostics"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      },
+      {
+        "level": 5,
+        "name": "Diagnostics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-07-21T16:25:41Z",
+    "description": "Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist",
+    "isArchived": false,
+    "lastCommit": "2022-09-01T13:40:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 139,
+    "topics": [
+      "neovim",
+      "workspace-diagnostics",
+      "lsp",
+      "lua",
+      "quickfix",
+      "loclist",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "diaglist.nvim",
+  "owner": "onsails",
+  "url": "https://github.com/onsails/diaglist.nvim"
+}

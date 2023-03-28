@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "nvim-cmp extension"
+      },
+      {
+        "level": 4,
+        "name": "nvim-cmp sources"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-05-23T01:47:08Z",
+    "description": "A source for nvim-cmp to gather candidates from Universal Ctags",
+    "isArchived": false,
+    "lastCommit": "2022-05-31T07:00:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-ctags",
+  "owner": "delphinus",
+  "url": "https://github.com/delphinus/cmp-ctags"
+}

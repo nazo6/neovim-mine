@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-09-23T13:31:31Z",
+    "description": "A simple plugin to format your buffer after you leave it.",
+    "isArchived": false,
+    "lastCommit": "2023-02-19T12:01:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "format-on-leave.nvim",
+  "owner": "ofirgall",
+  "url": "https://github.com/ofirgall/format-on-leave.nvim"
+}

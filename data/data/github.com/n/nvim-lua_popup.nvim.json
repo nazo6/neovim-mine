@@ -1,0 +1,58 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "UI"
+      },
+      {
+        "level": 3,
+        "name": "Popup"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Neovim Lua Development"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-07-09T23:55:29Z",
+    "description": "[WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete",
+    "isArchived": false,
+    "lastCommit": "2021-11-18T16:48:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 316,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "popup.nvim",
+  "owner": "nvim-lua",
+  "url": "https://github.com/nvim-lua/popup.nvim"
+}

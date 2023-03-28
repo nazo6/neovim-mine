@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "async"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2022-03-22T09:58:03Z",
+    "description": "Promise & Async in Lua",
+    "isArchived": false,
+    "lastCommit": "2023-02-01T10:08:22Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 63,
+    "topics": [
+      "async",
+      "async-await",
+      "lua",
+      "neovim",
+      "promise",
+      "eventloop",
+      "libuv",
+      "luv"
+    ]
+  },
+  "domain": "github.com",
+  "name": "promise-async",
+  "owner": "kevinhwang91",
+  "url": "https://github.com/kevinhwang91/promise-async"
+}

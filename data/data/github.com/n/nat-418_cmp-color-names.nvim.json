@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Color name"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-10-15T14:49:31Z",
+    "description": "Neovim plugin providing completion source for X11 / web color names",
+    "isArchived": false,
+    "lastCommit": "2022-10-27T13:46:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "nvim",
+      "nvim-cmp",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-color-names.nvim",
+  "owner": "nat-418",
+  "url": "https://github.com/nat-418/cmp-color-names.nvim"
+}

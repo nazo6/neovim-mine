@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Cyber"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2023-03-14T23:12:48Z",
+    "description": "Syntax Highlighting for the Cyber Scripting Language for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T17:16:22Z",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cyber",
+  "owner": "instance-id",
+  "url": "https://github.com/instance-id/nvim-cyber"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Technical interviews"
+      },
+      {
+        "level": 2,
+        "name": "LeetCode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-02-19T00:10:54Z",
+    "description": "Leet it up in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-24T05:59:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "leetcode",
+      "leetcode-practice",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "leetup.nvim",
+  "owner": "dragfire",
+  "url": "https://github.com/dragfire/leetup.nvim"
+}

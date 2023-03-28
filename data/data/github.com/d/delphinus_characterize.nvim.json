@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "Reading assistant feature"
+      },
+      {
+        "level": 4,
+        "name": "Current Position Info"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-02-11T16:10:07Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2021-11-20T13:57:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "characterize.nvim",
+  "owner": "delphinus",
+  "url": "https://github.com/delphinus/characterize.nvim"
+}

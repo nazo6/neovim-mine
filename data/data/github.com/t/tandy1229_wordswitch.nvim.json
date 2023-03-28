@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Convert Case"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2022-11-28T15:16:16Z",
+    "description": "a neovim plugin that can easily switch words, such as switch 'true' to 'false'",
+    "isArchived": false,
+    "lastCommit": "2022-12-01T14:43:37Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "wordswitch",
+      "text-object",
+      "word",
+      "swap"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wordswitch.nvim",
+  "owner": "tandy1229",
+  "url": "https://github.com/tandy1229/wordswitch.nvim"
+}

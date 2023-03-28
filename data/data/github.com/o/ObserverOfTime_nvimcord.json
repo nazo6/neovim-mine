@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "Discord"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2022-03-19T13:34:35Z",
+    "description": "Another Neovim Discord RPC plugin",
+    "isArchived": false,
+    "lastCommit": "2023-02-18T13:59:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim-lua",
+      "discord",
+      "discord-rpc"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvimcord",
+  "owner": "ObserverOfTime",
+  "url": "https://github.com/ObserverOfTime/nvimcord"
+}

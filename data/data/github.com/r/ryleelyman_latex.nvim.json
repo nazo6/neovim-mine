@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2022-11-09T16:43:34Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-24T22:59:06Z",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "latex.nvim",
+  "owner": "ryleelyman",
+  "url": "https://github.com/ryleelyman/latex.nvim"
+}

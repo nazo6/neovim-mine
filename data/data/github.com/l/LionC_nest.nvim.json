@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "backup-list.md"
+      },
+      {
+        "level": 3,
+        "name": "map function utiliy"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Keybinding"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-08-14T13:41:56Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2021-09-26T21:22:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 221,
+    "topics": [
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nest.nvim",
+  "owner": "LionC",
+  "url": "https://github.com/LionC/nest.nvim"
+}

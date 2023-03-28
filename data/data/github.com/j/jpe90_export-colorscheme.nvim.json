@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Color Export"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-08-16T10:27:15Z",
+    "description": "Generate CLI program colorschemes based on your vim colorscheme",
+    "isArchived": false,
+    "lastCommit": "2023-01-17T20:06:53Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "export-colorscheme.nvim",
+  "owner": "jpe90",
+  "url": "https://github.com/jpe90/export-colorscheme.nvim"
+}

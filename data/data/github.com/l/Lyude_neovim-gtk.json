@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "gui.md"
+      },
+      {
+        "level": 1,
+        "name": "GUI"
+      },
+      {
+        "level": 2,
+        "name": "Rust"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 218,
+    "createdAt": "2021-05-18T17:58:37Z",
+    "description": "gtk ui for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-06T23:04:27Z",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 101,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neovim-gtk",
+  "owner": "Lyude",
+  "url": "https://github.com/Lyude/neovim-gtk"
+}

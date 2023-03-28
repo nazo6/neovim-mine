@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Music"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-01-02T23:17:46Z",
+    "description": "Telescope picker for playing youtube music via MPV and Youtube-DLP integration.",
+    "isArchived": false,
+    "lastCommit": "2023-01-04T21:59:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-youtube-mpv.nvim",
+  "owner": "4542elgh",
+  "url": "https://github.com/4542elgh/telescope-youtube-mpv.nvim"
+}

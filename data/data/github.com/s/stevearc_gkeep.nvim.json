@@ -1,0 +1,60 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Google Keep"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Note Taking"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2021-07-31T22:55:31Z",
+    "description": "Google Keep integration for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-04T06:16:47Z",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 157,
+    "topics": [
+      "neovim",
+      "nvim",
+      "neovim-plugin",
+      "nvim-plugin",
+      "notes",
+      "google-keep"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gkeep.nvim",
+  "owner": "stevearc",
+  "url": "https://github.com/stevearc/gkeep.nvim"
+}

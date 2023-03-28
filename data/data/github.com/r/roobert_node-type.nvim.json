@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "treesitter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Treesitter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2023-02-05T17:03:12Z",
+    "description": "🌐 A Neovim plugin to show the currently selected node type from lsp and treesitter information",
+    "isArchived": false,
+    "lastCommit": "2023-02-15T08:22:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "node-type.nvim",
+  "owner": "roobert",
+  "url": "https://github.com/roobert/node-type.nvim"
+}

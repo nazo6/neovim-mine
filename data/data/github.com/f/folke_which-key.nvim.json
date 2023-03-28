@@ -1,0 +1,58 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      },
+      {
+        "level": 2,
+        "name": "Mapping search"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Keybinding"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 91,
+    "createdAt": "2021-04-28T10:13:18Z",
+    "description": "💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T10:38:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2735,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-lua",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "which-key.nvim",
+  "owner": "folke",
+  "url": "https://github.com/folke/which-key.nvim"
+}

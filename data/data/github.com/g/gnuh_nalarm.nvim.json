@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Alarm"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-02-28T00:54:32Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-01T11:04:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nalarm.nvim",
+  "owner": "gnuh",
+  "url": "https://github.com/gnuh/nalarm.nvim"
+}

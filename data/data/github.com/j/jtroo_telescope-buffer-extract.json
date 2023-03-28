@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      },
+      {
+        "level": 2,
+        "name": "Line search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-02-19T06:44:46Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-19T22:23:33Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-buffer-extract",
+  "owner": "jtroo",
+  "url": "https://github.com/jtroo/telescope-buffer-extract"
+}

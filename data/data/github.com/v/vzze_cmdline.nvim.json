@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Command Line"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-01-27T17:43:03Z",
+    "description": "Command completion for Neovim inspired by Helix",
+    "isArchived": false,
+    "lastCommit": "2023-02-11T19:04:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "lua",
+      "neovim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmdline.nvim",
+  "owner": "vzze",
+  "url": "https://github.com/vzze/cmdline.nvim"
+}

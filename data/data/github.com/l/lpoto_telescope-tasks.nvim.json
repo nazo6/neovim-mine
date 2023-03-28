@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 50,
+    "createdAt": "2023-01-08T20:13:31Z",
+    "description": "Run and preview the definitions and outputs of  custom or auto-generated tasks from a telescope prompt",
+    "isArchived": false,
+    "lastCommit": "2023-02-09T09:10:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim-lua",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-tasks.nvim",
+  "owner": "lpoto",
+  "url": "https://github.com/lpoto/telescope-tasks.nvim"
+}

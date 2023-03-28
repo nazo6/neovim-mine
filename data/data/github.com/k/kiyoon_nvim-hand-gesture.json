@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Gesture"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2022-12-20T05:18:05Z",
+    "description": "Write programs with hand gestures",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T18:01:18Z",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 83,
+    "topics": [
+      "action-recognition",
+      "computer-vision",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "vim",
+      "gesture-recognition"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-hand-gesture",
+  "owner": "kiyoon",
+  "url": "https://github.com/kiyoon/nvim-hand-gesture"
+}

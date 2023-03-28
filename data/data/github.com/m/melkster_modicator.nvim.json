@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Mode"
+      },
+      {
+        "level": 4,
+        "name": "Mode Viewer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 50,
+    "createdAt": "2022-10-04T07:45:53Z",
+    "description": "Cursor line number mode indicator",
+    "isArchived": false,
+    "lastCommit": "2023-03-14T11:53:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 101,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "modicator.nvim",
+  "owner": "melkster",
+  "url": "https://github.com/melkster/modicator.nvim"
+}

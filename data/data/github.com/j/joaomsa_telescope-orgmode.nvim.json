@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Org mode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-11-01T23:40:39Z",
+    "description": "Neovim plugin. Telescope.nvim extension that adds orgmode.nvim integration. ",
+    "isArchived": false,
+    "lastCommit": "2022-11-29T09:39:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "orgmode-nvim",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-orgmode.nvim",
+  "owner": "joaomsa",
+  "url": "https://github.com/joaomsa/telescope-orgmode.nvim"
+}

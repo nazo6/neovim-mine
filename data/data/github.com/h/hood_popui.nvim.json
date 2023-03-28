@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "UI"
+      },
+      {
+        "level": 3,
+        "name": "vim.ui.select/vim.ui.input"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 50,
+    "createdAt": "2021-10-09T01:14:31Z",
+    "description": "NeoVim UI sweetness.",
+    "isArchived": false,
+    "lastCommit": "2022-12-02T19:37:22Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 136,
+    "topics": [
+      "neovim",
+      "language-server-protocol",
+      "lsp",
+      "lsp-client",
+      "menu",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "popui.nvim",
+  "owner": "hood",
+  "url": "https://github.com/hood/popui.nvim"
+}

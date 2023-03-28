@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "emoji.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Emoji"
+      },
+      {
+        "level": 3,
+        "name": "Emoji FuzzyFinder"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-02-04T16:18:32Z",
+    "description": "Better digraphs plugin based on idea from Damian Conway",
+    "isArchived": false,
+    "lastCommit": "2022-12-07T15:29:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "better-digraphs.nvim",
+  "owner": "protex",
+  "url": "https://github.com/protex/better-digraphs.nvim"
+}

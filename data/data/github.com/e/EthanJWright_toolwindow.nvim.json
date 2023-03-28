@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-05-13T00:10:37Z",
+    "description": "Easy management of a toolwindow.",
+    "isArchived": false,
+    "lastCommit": "2021-06-07T17:41:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "toolwindow.nvim",
+  "owner": "EthanJWright",
+  "url": "https://github.com/EthanJWright/toolwindow.nvim"
+}

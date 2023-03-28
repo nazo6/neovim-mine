@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "C/C++"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-10-08T14:52:08Z",
+    "description": "Search cppman (cplusplus.com and cppreference) from within neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-06T15:05:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "cpp",
+      "cppman",
+      "lua",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cppman.nvim",
+  "owner": "madskjeldgaard",
+  "url": "https://github.com/madskjeldgaard/cppman.nvim"
+}

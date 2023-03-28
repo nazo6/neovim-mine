@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2022-12-08T01:37:19Z",
+    "description": "Generate and edit text in Neovim using OpenAI and GPT.",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T22:56:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 196,
+    "topics": [
+      "nvim",
+      "openai",
+      "vim",
+      "vim-plugin",
+      "neovim",
+      "neovim-plugin",
+      "ai",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ai.vim",
+  "owner": "aduros",
+  "url": "https://github.com/aduros/ai.vim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Keyboard Layout"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-09-27T08:18:20Z",
+    "description": "I don't care what keyboard layout I'm using, i just want the keybinding on my homerows",
+    "isArchived": false,
+    "lastCommit": "2022-11-27T06:14:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "homerows.nvim",
+  "owner": "kbario",
+  "url": "https://github.com/kbario/homerows.nvim"
+}

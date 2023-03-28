@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Template"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-03-12T10:27:36Z",
+    "description": "A dead simple template manager for neovim written in lua",
+    "isArchived": false,
+    "lastCommit": "2021-08-21T21:29:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "templar.nvim",
+  "owner": "vigoux",
+  "url": "https://github.com/vigoux/templar.nvim"
+}

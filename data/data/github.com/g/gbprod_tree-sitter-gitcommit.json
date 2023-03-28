@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git commit"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2022-11-10T18:36:18Z",
+    "description": " A tree-sitter grammar for gitcommit messages ",
+    "isArchived": false,
+    "lastCommit": "2023-01-24T11:12:16Z",
+    "primaryLanguage": {
+      "color": "#555555",
+      "name": "C"
+    },
+    "star": 35,
+    "topics": [
+      "git",
+      "gitcommit",
+      "grammar",
+      "tree-sitter",
+      "tree-sitter-parser"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tree-sitter-gitcommit",
+  "owner": "gbprod",
+  "url": "https://github.com/gbprod/tree-sitter-gitcommit"
+}

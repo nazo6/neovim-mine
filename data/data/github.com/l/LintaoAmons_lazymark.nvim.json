@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mark.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Mark"
+      },
+      {
+        "level": 3,
+        "name": "sign"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2022-11-05T09:44:05Z",
+    "description": "Mark and jumpback",
+    "isArchived": false,
+    "lastCommit": "2022-11-27T11:32:32Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazymark.nvim",
+  "owner": "LintaoAmons",
+  "url": "https://github.com/LintaoAmons/lazymark.nvim"
+}

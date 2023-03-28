@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Command Palette"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2023-01-09T02:10:45Z",
+    "description": "A Neovim plugin that provides a floating command-line window.",
+    "isArchived": false,
+    "lastCommit": "2023-01-31T12:43:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmdpalette.nvim",
+  "owner": "hachy",
+  "url": "https://github.com/hachy/cmdpalette.nvim"
+}

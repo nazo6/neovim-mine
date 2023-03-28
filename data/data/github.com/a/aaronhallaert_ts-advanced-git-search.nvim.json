@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-03-01T16:33:25Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-21T13:39:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 118,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ts-advanced-git-search.nvim",
+  "owner": "aaronhallaert",
+  "url": "https://github.com/aaronhallaert/ts-advanced-git-search.nvim"
+}

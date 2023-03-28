@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 2,
+        "name": "Statusline component"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-09-22T23:54:33Z",
+    "description": "neovim plugin enabling diagnostic counts in the statusline",
+    "isArchived": false,
+    "lastCommit": "2022-11-22T16:29:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagline-nvim",
+  "owner": "erhickey",
+  "url": "https://github.com/erhickey/diagline-nvim"
+}

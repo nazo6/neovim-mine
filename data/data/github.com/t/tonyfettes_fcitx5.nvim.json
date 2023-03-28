@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      },
+      {
+        "level": 4,
+        "name": "Fcitx"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-11-27T03:01:22Z",
+    "description": "Fcitx5 client in Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-03-17T19:59:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+      "fcitx5",
+      "neovim",
+      "lua",
+      "input-method",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fcitx5.nvim",
+  "owner": "tonyfettes",
+  "url": "https://github.com/tonyfettes/fcitx5.nvim"
+}

@@ -1,0 +1,60 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Window Separators"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Split and Window"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 80,
+    "createdAt": "2022-10-31T07:46:21Z",
+    "description": "Make your nvim window separators colorful",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T02:45:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 235,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "colorful-winsep.nvim",
+  "owner": "nvim-zh",
+  "url": "https://github.com/nvim-zh/colorful-winsep.nvim"
+}

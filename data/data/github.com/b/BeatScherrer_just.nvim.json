@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "CLI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2022-07-23T15:47:20Z",
+    "description": "just neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2022-10-02T21:01:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "just.nvim",
+  "owner": "BeatScherrer",
+  "url": "https://github.com/BeatScherrer/just.nvim"
+}

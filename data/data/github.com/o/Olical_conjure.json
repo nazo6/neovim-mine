@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "REPL"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Fennel"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 244,
+    "createdAt": "2018-09-30T11:17:33Z",
+    "description": "Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T11:54:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1282,
+    "topics": [
+      "clojure",
+      "clojurescript",
+      "clojure-repl",
+      "neovim",
+      "unlicense",
+      "deoplete-source",
+      "nrepl",
+      "cider",
+      "janet-lang",
+      "racket"
+    ]
+  },
+  "domain": "github.com",
+  "name": "conjure",
+  "owner": "Olical",
+  "url": "https://github.com/Olical/conjure"
+}

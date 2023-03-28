@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      },
+      {
+        "level": 2,
+        "name": "Mapping search"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Keybinding"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 133,
+    "createdAt": "2022-05-23T18:37:41Z",
+    "description": "Key mapping hints in a floating window",
+    "isArchived": false,
+    "lastCommit": "2022-11-23T16:01:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 226,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "key-menu.nvim",
+  "owner": "linty-org",
+  "url": "https://github.com/linty-org/key-menu.nvim"
+}

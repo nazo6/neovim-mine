@@ -1,0 +1,64 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "FuzzyFinder Style"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "File Explorer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2021-09-26T00:48:47Z",
+    "description": "🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.",
+    "isArchived": false,
+    "lastCommit": "2022-10-11T03:44:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 186,
+    "topics": [
+      "neovim",
+      "lua",
+      "file-manager",
+      "nvim",
+      "neovim-plugin",
+      "ranger",
+      "lf",
+      "nnn",
+      "vifm",
+      "fzf"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fm-nvim",
+  "owner": "is0n",
+  "url": "https://github.com/is0n/fm-nvim"
+}

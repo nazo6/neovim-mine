@@ -1,0 +1,64 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "gui.md"
+      },
+      {
+        "level": 1,
+        "name": "GUI"
+      },
+      {
+        "level": 2,
+        "name": "Lua"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2021-12-04T05:43:05Z",
+    "description": "Cosmic-UI is a simple wrapper around specific vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!",
+    "isArchived": false,
+    "lastCommit": "2022-12-30T19:52:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 135,
+    "topics": [
+      "vim",
+      "neovim",
+      "ui",
+      "cosmic",
+      "neovim-dotfiles",
+      "neovim-plugin",
+      "vim-plugin",
+      "neovim-configuration",
+      "neovim-ui",
+      "ide"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cosmic-ui",
+  "owner": "CosmicNvim",
+  "url": "https://github.com/CosmicNvim/cosmic-ui"
+}

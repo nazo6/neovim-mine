@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "Window Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2021-09-25T20:30:24Z",
+    "description": "This plugins prompts the user to pick a window and returns the window id of the picked window",
+    "isArchived": false,
+    "lastCommit": "2023-03-22T11:41:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 146,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins",
+      "neovim-lua",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-window-picker",
+  "owner": "s1n7ax",
+  "url": "https://github.com/s1n7ax/nvim-window-picker"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "nvim-cmp extension"
+      },
+      {
+        "level": 4,
+        "name": "nvim-cmp sources"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2021-07-26T12:34:15Z",
+    "description": "nvim-cmp source for neovim builtin LSP client",
+    "isArchived": false,
+    "lastCommit": "2023-02-06T18:27:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 575,
+    "topics": [
+      "nvim-cmp",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-nvim-lsp",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/cmp-nvim-lsp"
+}

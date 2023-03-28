@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Adding and subtracting"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-03-03T21:07:16Z",
+    "description": "Neovim plugin to expand incrementing/decrementing to more formats.",
+    "isArchived": false,
+    "lastCommit": "2022-08-04T17:32:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 54,
+    "topics": [
+      "neovim",
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nrpattern.nvim",
+  "owner": "zegervdv",
+  "url": "https://github.com/zegervdv/nrpattern.nvim"
+}

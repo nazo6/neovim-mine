@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Partial execution"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 68,
+    "createdAt": "2023-01-03T19:10:12Z",
+    "description": "automatically run code on save and see the output inside neovim :)",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T22:01:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-plugin",
+      "autorun",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "runthis.nvim",
+  "owner": "RimuhRimu",
+  "url": "https://github.com/RimuhRimu/runthis.nvim"
+}

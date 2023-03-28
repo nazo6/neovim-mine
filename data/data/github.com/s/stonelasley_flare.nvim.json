@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Jump highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2022-04-16T15:05:08Z",
+    "description": "Configurable Cursor highlighting.",
+    "isArchived": false,
+    "lastCommit": "2022-06-19T00:25:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "flare.nvim",
+  "owner": "stonelasley",
+  "url": "https://github.com/stonelasley/flare.nvim"
+}

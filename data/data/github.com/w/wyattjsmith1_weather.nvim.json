@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Weather"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-12-16T03:37:57Z",
+    "description": "A simple plugin to display weather on nvim",
+    "isArchived": false,
+    "lastCommit": "2022-01-04T22:54:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 26,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "weather.nvim",
+  "owner": "wyattjsmith1",
+  "url": "https://github.com/wyattjsmith1/weather.nvim"
+}

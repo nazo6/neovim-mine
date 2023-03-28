@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "PlantUML"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-12-14T22:14:26Z",
+    "description": "nvim plugin for working with PlantUML files",
+    "isArchived": false,
+    "lastCommit": "2022-12-14T22:52:41Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plantuml.nvim",
+  "owner": "zapling",
+  "url": "https://github.com/zapling/plantuml.nvim"
+}

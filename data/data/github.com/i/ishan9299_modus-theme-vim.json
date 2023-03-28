@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2020-09-02T04:24:22Z",
+    "description": "Port of modus-themes in neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-09T05:01:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 124,
+    "topics": [
+      "neovim",
+      "colorschemes",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "modus-theme-vim",
+  "owner": "ishan9299",
+  "url": "https://github.com/ishan9299/modus-theme-vim"
+}

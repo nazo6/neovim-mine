@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-06-19T15:52:07Z",
+    "description": "Asynchronous make for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-01-03T20:26:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "amake.nvim",
+  "owner": "antonk52",
+  "url": "https://github.com/antonk52/amake.nvim"
+}

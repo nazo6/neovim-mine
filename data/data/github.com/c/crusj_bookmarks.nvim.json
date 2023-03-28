@@ -1,0 +1,64 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mark.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Mark"
+      },
+      {
+        "level": 3,
+        "name": "bookmark"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 77,
+    "createdAt": "2022-05-03T05:08:39Z",
+    "description": "Remember file locations and sort by time and frequency and support telescope.",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T09:26:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 71,
+    "topics": [
+      "bookmarks",
+      "lua",
+      "neovim",
+      "nvim",
+      "neovim-plugin",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bookmarks.nvim",
+  "owner": "crusj",
+  "url": "https://github.com/crusj/bookmarks.nvim"
+}

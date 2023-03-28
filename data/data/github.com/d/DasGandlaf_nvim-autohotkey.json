@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Windows"
+      },
+      {
+        "level": 4,
+        "name": "AutoHotKey"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-02-19T15:01:42Z",
+    "description": "Simple autohotkey completion, LSP hover support for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-21T11:46:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-autohotkey",
+  "owner": "DasGandlaf",
+  "url": "https://github.com/DasGandlaf/nvim-autohotkey"
+}

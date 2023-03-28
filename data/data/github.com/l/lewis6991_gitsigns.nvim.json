@@ -1,0 +1,60 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git status"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Git"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 195,
+    "createdAt": "2020-10-18T10:14:43Z",
+    "description": "Git integration for buffers",
+    "isArchived": false,
+    "lastCommit": "2023-03-22T14:28:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2873,
+    "topics": [
+      "nvim",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "neovim-lua-plugin",
+      "git"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitsigns.nvim",
+  "owner": "lewis6991",
+  "url": "https://github.com/lewis6991/gitsigns.nvim"
+}

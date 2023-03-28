@@ -1,0 +1,64 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-10-21T09:30:21Z",
+    "description": "Lua/Neovim port of BufOnly.vim with some changes",
+    "isArchived": false,
+    "lastCommit": "2021-07-05T05:29:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+      "neovim",
+      "lua",
+      "neovim-plugin",
+      "plugin",
+      "vim-plug",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "BufOnly.nvim",
+  "owner": "numToStr",
+  "url": "https://github.com/numToStr/BufOnly.nvim"
+}

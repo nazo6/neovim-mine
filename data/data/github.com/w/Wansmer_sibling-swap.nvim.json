@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "textobject_operator.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Textobject"
+      },
+      {
+        "level": 3,
+        "name": "Swap"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Editing Support"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-11-14T11:22:27Z",
+    "description": "Neovim plugin for swaps closest siblings with Tree-Sitter",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T16:45:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 85,
+    "topics": [
+      "formating",
+      "neovim",
+      "neovim-plugin",
+      "treesitter",
+      "editing-support"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sibling-swap.nvim",
+  "owner": "Wansmer",
+  "url": "https://github.com/Wansmer/sibling-swap.nvim"
+}

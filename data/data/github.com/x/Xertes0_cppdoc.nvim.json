@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "C/C++"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-03-09T17:12:23Z",
+    "description": "Search through a local copy of cppreference with fzf and open it in your web browser.",
+    "isArchived": false,
+    "lastCommit": "2023-03-12T08:08:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "c",
+      "neovim-plugin",
+      "cpp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cppdoc.nvim",
+  "owner": "Xertes0",
+  "url": "https://github.com/Xertes0/cppdoc.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Disable/Enable"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2022-10-19T06:46:26Z",
+    "description": "Disable/Enable LSP clients and NullLS sources for buffers.",
+    "isArchived": false,
+    "lastCommit": "2023-02-10T08:33:53Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "lsp",
+      "neovim",
+      "nvim",
+      "plugin",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-toggle.nvim",
+  "owner": "adoyle-h",
+  "url": "https://github.com/adoyle-h/lsp-toggle.nvim"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 75,
+    "createdAt": "2019-07-30T04:08:56Z",
+    "description": "Clean & Elegant Color Scheme inspired by Atom One and Material",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T11:15:50Z",
+    "primaryLanguage": {
+      "color": "#199f4b",
+      "name": "Vim Script"
+    },
+    "star": 714,
+    "topics": [
+      "theme",
+      "color-scheme",
+      "vim",
+      "lightline",
+      "airline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "edge",
+  "owner": "sainnhe",
+  "url": "https://github.com/sainnhe/edge"
+}

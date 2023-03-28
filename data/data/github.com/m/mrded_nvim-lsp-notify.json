@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Progress"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2023-01-14T15:56:11Z",
+    "description": "NVIM plugin to notify about LSP processes",
+    "isArchived": false,
+    "lastCommit": "2023-03-19T22:40:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lsp-notify",
+  "owner": "mrded",
+  "url": "https://github.com/mrded/nvim-lsp-notify"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Debugger"
+      },
+      {
+        "level": 4,
+        "name": "nvim-dap extension"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2022-10-22T16:06:55Z",
+    "description": "Create better debugging breakpoints for nvim-dap. WORK IN PROGRESS",
+    "isArchived": false,
+    "lastCommit": "2023-02-01T17:14:02Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "meta-breakpoints.nvim",
+  "owner": "LiadOz",
+  "url": "https://github.com/LiadOz/meta-breakpoints.nvim"
+}

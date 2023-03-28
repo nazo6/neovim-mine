@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Schedule"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2022-10-29T06:37:57Z",
+    "description": "A text-based schedule plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-11-01T21:51:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "calendar",
+      "scheduler"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sche.nvim",
+  "owner": "Cassin01",
+  "url": "https://github.com/Cassin01/sche.nvim"
+}

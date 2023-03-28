@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 49,
+    "createdAt": "2021-10-17T06:39:51Z",
+    "description": "🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.",
+    "isArchived": false,
+    "lastCommit": "2023-03-11T17:12:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 358,
+    "topics": [
+      "neovim",
+      "theme",
+      "nord",
+      "onedark",
+      "lua",
+      "treesitter",
+      "neovim-colorscheme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "onenord.nvim",
+  "owner": "rmehri01",
+  "url": "https://github.com/rmehri01/onenord.nvim"
+}

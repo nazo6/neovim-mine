@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Spell"
+      },
+      {
+        "level": 4,
+        "name": "Spellcheck"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-09-18T17:41:54Z",
+    "description": "Spelling configurations and mapping for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-12-10T12:12:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spellbound.nvim",
+  "owner": "superDross",
+  "url": "https://github.com/superDross/spellbound.nvim"
+}

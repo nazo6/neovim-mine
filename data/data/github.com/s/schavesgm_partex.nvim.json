@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 70,
+    "createdAt": "2022-09-16T10:28:09Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-01-16T23:13:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "partex.nvim",
+  "owner": "schavesgm",
+  "url": "https://github.com/schavesgm/partex.nvim"
+}

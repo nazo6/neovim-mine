@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "C/C++"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2022-12-10T18:47:01Z",
+    "description": "Norminette integration for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T17:39:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "42school",
+      "neovim",
+      "norminette",
+      "42",
+      "42born2code",
+      "42cursus",
+      "42header",
+      "42madrid",
+      "42projects"
+    ]
+  },
+  "domain": "github.com",
+  "name": "norminette42.nvim",
+  "owner": "hardyrafael17",
+  "url": "https://github.com/hardyrafael17/norminette42.nvim"
+}

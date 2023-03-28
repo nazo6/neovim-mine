@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Do Not Disturb"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-07-17T17:27:50Z",
+    "description": "A plugin for neovim to manage `Do Not Disturb` feature.",
+    "isArchived": false,
+    "lastCommit": "2022-07-17T20:40:02Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dnd.nvim",
+  "owner": "nicolascb",
+  "url": "https://github.com/nicolascb/dnd.nvim"
+}

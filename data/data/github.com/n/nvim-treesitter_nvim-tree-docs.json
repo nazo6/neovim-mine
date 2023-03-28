@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "treesitter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Treesitter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-07-07T20:28:36Z",
+    "description": "Code documentation built with treesitter",
+    "isArchived": false,
+    "lastCommit": "2022-02-20T23:11:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 200,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tree-docs",
+  "owner": "nvim-treesitter",
+  "url": "https://github.com/nvim-treesitter/nvim-tree-docs"
+}

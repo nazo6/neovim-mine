@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-distribution.md"
+      },
+      {
+        "level": 1,
+        "name": "Neovim Distribution"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 429,
+    "createdAt": "2021-06-18T08:43:57Z",
+    "description": "Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T18:50:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1946,
+    "topics": [
+      "neovim",
+      "lua",
+      "neovim-plugin",
+      "mini-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.nvim",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.nvim"
+}

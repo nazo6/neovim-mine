@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Grep"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-02-13T08:58:13Z",
+    "description": "Neovim plugin. Telescope.nvim extension that adds directory picker for builtin commands.",
+    "isArchived": false,
+    "lastCommit": "2023-02-13T09:14:52Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-search-dir-picker.nvim",
+  "owner": "smilovanovic",
+  "url": "https://github.com/smilovanovic/telescope-search-dir-picker.nvim"
+}

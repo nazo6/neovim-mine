@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2020-08-26T00:13:17Z",
+    "description": "Repo to hold a bunch of info & extension callbacks for built-in LSP. Use at your own risk :wink:",
+    "isArchived": true,
+    "lastCommit": "2022-07-07T14:46:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 218,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp_extensions.nvim",
+  "owner": "nvim-lua",
+  "url": "https://github.com/nvim-lua/lsp_extensions.nvim"
+}

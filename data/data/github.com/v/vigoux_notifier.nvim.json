@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Notification"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 65,
+    "createdAt": "2022-08-25T12:42:08Z",
+    "description": "Non-intrusive notification system for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-07T07:14:32Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 145,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notifier.nvim",
+  "owner": "vigoux",
+  "url": "https://github.com/vigoux/notifier.nvim"
+}

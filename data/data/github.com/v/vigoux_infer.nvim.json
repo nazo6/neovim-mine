@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Refactoring,Debugging"
+      },
+      {
+        "level": 4,
+        "name": "stack trace analyze"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-06-24T14:30:46Z",
+    "description": "Read an analyse infer stack traces within neovim",
+    "isArchived": false,
+    "lastCommit": "2022-06-27T05:30:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "infer.nvim",
+  "owner": "vigoux",
+  "url": "https://github.com/vigoux/infer.nvim"
+}

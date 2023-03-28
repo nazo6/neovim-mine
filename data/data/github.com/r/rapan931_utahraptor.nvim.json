@@ -1,0 +1,35 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-07-27T14:05:02Z",
+    "description": "Flash search word.",
+    "isArchived": false,
+    "lastCommit": "2022-09-23T15:33:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "utahraptor.nvim",
+  "owner": "rapan931",
+  "url": "https://github.com/rapan931/utahraptor.nvim"
+}

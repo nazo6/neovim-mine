@@ -1,0 +1,70 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CLI"
+      },
+      {
+        "level": 4,
+        "name": "papis"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Note Taking"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 85,
+    "createdAt": "2022-09-30T11:42:41Z",
+    "description": "Manage your bibliography from within your favourite editor",
+    "isArchived": false,
+    "lastCommit": "2023-03-18T00:01:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 79,
+    "topics": [
+      "academia",
+      "bibliography",
+      "citation",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "papis",
+      "references"
+    ]
+  },
+  "domain": "github.com",
+  "name": "papis.nvim",
+  "owner": "jghauser",
+  "url": "https://github.com/jghauser/papis.nvim"
+}

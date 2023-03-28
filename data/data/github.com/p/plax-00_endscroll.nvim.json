@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "j/k"
+      },
+      {
+        "level": 4,
+        "name": "Scrolling"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-07-10T06:19:23Z",
+    "description": "Make Neovim scroll through the end of files",
+    "isArchived": false,
+    "lastCommit": "2022-07-31T06:03:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "scrolling"
+    ]
+  },
+  "domain": "github.com",
+  "name": "endscroll.nvim",
+  "owner": "plax-00",
+  "url": "https://github.com/plax-00/endscroll.nvim"
+}

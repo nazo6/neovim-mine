@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Template"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-01-23T15:16:43Z",
+    "description": "sonictemplate-vim integration",
+    "isArchived": false,
+    "lastCommit": "2021-09-25T12:34:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "lua",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-sonictemplate.nvim",
+  "owner": "tamago324",
+  "url": "https://github.com/tamago324/telescope-sonictemplate.nvim"
+}

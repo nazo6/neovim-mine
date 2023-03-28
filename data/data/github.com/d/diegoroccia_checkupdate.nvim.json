@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Update check"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-03-20T14:15:13Z",
+    "description": "Neovim plugin to check for new versions at startup",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T21:57:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim",
+      "nvim-plugin",
+      "nvim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "checkupdate.nvim",
+  "owner": "diegoroccia",
+  "url": "https://github.com/diegoroccia/checkupdate.nvim"
+}

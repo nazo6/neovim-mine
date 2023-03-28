@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Replace"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2022-09-16T11:42:38Z",
+    "description": "Neovim plugin for visual search and replace",
+    "isArchived": false,
+    "lastCommit": "2022-12-27T07:14:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffersed.nvim",
+  "owner": "Blackmorse",
+  "url": "https://github.com/Blackmorse/buffersed.nvim"
+}

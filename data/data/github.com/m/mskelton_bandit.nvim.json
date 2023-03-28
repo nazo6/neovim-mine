@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git commit"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-12-11T22:11:15Z",
+    "description": "The fugitive's sidekick",
+    "isArchived": false,
+    "lastCommit": "2023-01-31T14:02:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "fugitive",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bandit.nvim",
+  "owner": "mskelton",
+  "url": "https://github.com/mskelton/bandit.nvim"
+}

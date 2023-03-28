@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "Auto Completion Plugin"
+      },
+      {
+        "level": 4,
+        "name": "Made in Lua"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Completion"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 164,
+    "createdAt": "2021-06-29T18:01:04Z",
+    "description": "A completion plugin for neovim coded in Lua.",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T04:22:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4985,
+    "topics": [
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cmp",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/nvim-cmp"
+}

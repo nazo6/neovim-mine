@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git blame"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2022-12-12T18:24:29Z",
+    "description": "Neovim plugin to open GitHub/GitLab with blame or file details",
+    "isArchived": false,
+    "lastCommit": "2023-01-30T23:09:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-browse-nvim",
+  "owner": "Morozzzko",
+  "url": "https://github.com/Morozzzko/git-browse-nvim"
+}

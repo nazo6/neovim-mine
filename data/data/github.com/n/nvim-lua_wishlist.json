@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Wishlist"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-08-13T14:10:07Z",
+    "description": "A public catalogue of Lua plugins Neovim users would like to see exist",
+    "isArchived": false,
+    "lastCommit": "2020-09-29T13:02:42Z",
+    "primaryLanguage": null,
+    "star": 206,
+    "topics": [
+      "neovim",
+      "lua",
+      "plugins",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wishlist",
+  "owner": "nvim-lua",
+  "url": "https://github.com/nvim-lua/wishlist"
+}

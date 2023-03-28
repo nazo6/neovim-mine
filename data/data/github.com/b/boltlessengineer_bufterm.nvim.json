@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2023-01-14T12:42:55Z",
+    "description": "A neovim plugin to manage terminal buffers",
+    "isArchived": false,
+    "lastCommit": "2023-02-17T17:32:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 52,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufterm.nvim",
+  "owner": "boltlessengineer",
+  "url": "https://github.com/boltlessengineer/bufterm.nvim"
+}

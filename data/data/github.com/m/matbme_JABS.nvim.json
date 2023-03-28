@@ -1,0 +1,61 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Other Buffer Switcher"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 63,
+    "createdAt": "2021-05-30T21:43:11Z",
+    "description": "Just Another Buffer Switcher for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-12-13T20:34:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 234,
+    "topics": [
+      "neovim",
+      "buffer",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "JABS.nvim",
+  "owner": "matbme",
+  "url": "https://github.com/matbme/JABS.nvim"
+}

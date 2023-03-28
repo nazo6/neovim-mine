@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "Emacs style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2022-09-10T12:46:22Z",
+    "description": "Neovim file explorer based on Emacs dired plugin",
+    "isArchived": false,
+    "lastCommit": "2023-02-19T10:12:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fex.nvim",
+  "owner": "2hdddg",
+  "url": "https://github.com/2hdddg/fex.nvim"
+}

@@ -1,0 +1,99 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "async"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "File"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Util wrapper"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Testing"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Neovim Lua Development"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 67,
+    "createdAt": "2020-04-11T00:57:00Z",
+    "description": "plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.",
+    "isArchived": false,
+    "lastCommit": "2023-02-19T09:05:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1537,
+    "topics": [
+      "neovim",
+      "lua",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "plenary.nvim",
+  "owner": "nvim-lua",
+  "url": "https://github.com/nvim-lua/plenary.nvim"
+}

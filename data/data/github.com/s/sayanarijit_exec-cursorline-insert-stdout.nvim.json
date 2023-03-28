@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Partial execution"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-10-30T07:36:39Z",
+    "description": "Execute the line under cursor and insert the stdout below.",
+    "isArchived": false,
+    "lastCommit": "2022-07-15T11:47:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "shell",
+      "neovim-lua",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "exec-cursorline-insert-stdout.nvim",
+  "owner": "sayanarijit",
+  "url": "https://github.com/sayanarijit/exec-cursorline-insert-stdout.nvim"
+}

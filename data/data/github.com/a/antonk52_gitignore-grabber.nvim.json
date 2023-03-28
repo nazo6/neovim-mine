@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "gitignore"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-05-10T22:02:04Z",
+    "description": "Grab .gitignore for your project in Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-26T21:03:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "fzf",
+      "neovim",
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitignore-grabber.nvim",
+  "owner": "antonk52",
+  "url": "https://github.com/antonk52/gitignore-grabber.nvim"
+}

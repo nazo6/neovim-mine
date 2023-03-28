@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Command style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-03-20T14:24:46Z",
+    "description": "telescope run any command(shell)",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T14:26:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-command.nvim",
+  "owner": "paopaol",
+  "url": "https://github.com/paopaol/telescope-command.nvim"
+}

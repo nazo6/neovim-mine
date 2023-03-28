@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Abbreviation"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-12-25T21:45:00Z",
+    "description": "Create abbreviations with ease",
+    "isArchived": false,
+    "lastCommit": "2022-12-26T14:15:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scrap.nvim",
+  "owner": "Mateiadrielrafael",
+  "url": "https://github.com/Mateiadrielrafael/scrap.nvim"
+}

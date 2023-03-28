@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Org mode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2021-07-09T12:37:02Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-06T17:41:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 79,
+    "topics": [
+      "orgmode-nvim",
+      "neovim",
+      "lua",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "org-bullets.nvim",
+  "owner": "akinsho",
+  "url": "https://github.com/akinsho/org-bullets.nvim"
+}

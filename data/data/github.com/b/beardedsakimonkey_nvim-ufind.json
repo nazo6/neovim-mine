@@ -1,0 +1,33 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 161,
+    "createdAt": "2022-10-08T18:01:37Z",
+    "description": "Simple fuzzy-finder for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-12-19T00:14:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ufind",
+  "owner": "beardedsakimonkey",
+  "url": "https://github.com/beardedsakimonkey/nvim-ufind"
+}

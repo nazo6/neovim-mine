@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Multiple word highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-02-13T22:41:53Z",
+    "description": "HiMyWords is a Neovim plugin that helps to focus on (key)words.",
+    "isArchived": false,
+    "lastCommit": "2023-02-25T21:56:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hi-my-words.nvim",
+  "owner": "dvoytik",
+  "url": "https://github.com/dvoytik/hi-my-words.nvim"
+}

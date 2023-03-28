@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2023-03-20T07:05:13Z",
+    "description": "A simple little project switcher for Neovim powered by Telescope",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T01:37:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "telescope-extension",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lil-project-switcher.nvim",
+  "owner": "mtmeyer",
+  "url": "https://github.com/mtmeyer/lil-project-switcher.nvim"
+}

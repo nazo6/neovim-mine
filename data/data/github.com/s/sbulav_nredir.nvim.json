@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Command"
+      },
+      {
+        "level": 4,
+        "name": "Redirect to scratch buffer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-01-12T07:29:44Z",
+    "description": "Redirect the output of Vim or external command to scratch buffer, in LUA",
+    "isArchived": false,
+    "lastCommit": "2021-12-06T12:50:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "neovim",
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nredir.nvim",
+  "owner": "sbulav",
+  "url": "https://github.com/sbulav/nredir.nvim"
+}

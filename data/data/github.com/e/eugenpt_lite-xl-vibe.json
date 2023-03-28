@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2021-07-23T15:07:55Z",
+    "description": "VI(m?) Bindings (with a hint of Emacs) for lite-xl.",
+    "isArchived": false,
+    "lastCommit": "2023-01-16T09:11:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 43,
+    "topics": [
+      "lite",
+      "lite-xl",
+      "vim",
+      "emacs",
+      "lua",
+      "interactive",
+      "file-browser",
+      "doom-emacs",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lite-xl-vibe",
+  "owner": "eugenpt",
+  "url": "https://github.com/eugenpt/lite-xl-vibe"
+}

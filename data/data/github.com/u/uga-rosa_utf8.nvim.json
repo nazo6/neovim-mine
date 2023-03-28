@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Unicode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-11-22T14:22:27Z",
+    "description": "missing utf8 module for neovim Lua.",
+    "isArchived": false,
+    "lastCommit": "2022-12-18T12:37:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 61,
+    "topics": [
+      "neovim-lua-library"
+    ]
+  },
+  "domain": "github.com",
+  "name": "utf8.nvim",
+  "owner": "uga-rosa",
+  "url": "https://github.com/uga-rosa/utf8.nvim"
+}

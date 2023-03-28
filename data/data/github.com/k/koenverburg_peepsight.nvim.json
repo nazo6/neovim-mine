@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Highlight current function"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Color"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2022-05-04T07:12:37Z",
+    "description": "Focus on one function at a time",
+    "isArchived": false,
+    "lastCommit": "2022-12-22T09:18:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 62,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "vim",
+      "nvim-plugin",
+      "neovim-configuration",
+      "neovim-lua",
+      "nvim-configs",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "peepsight.nvim",
+  "owner": "koenverburg",
+  "url": "https://github.com/koenverburg/peepsight.nvim"
+}

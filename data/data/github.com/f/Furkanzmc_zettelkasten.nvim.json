@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Zettelkasten"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2022-02-27T10:06:46Z",
+    "description": "A Vim Philosophy Oriented Zettelkasten Note Taking Plugin",
+    "isArchived": false,
+    "lastCommit": "2023-03-12T20:48:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 168,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "zettelkasten",
+      "zettelkasten-methodology"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zettelkasten.nvim",
+  "owner": "Furkanzmc",
+  "url": "https://github.com/Furkanzmc/zettelkasten.nvim"
+}

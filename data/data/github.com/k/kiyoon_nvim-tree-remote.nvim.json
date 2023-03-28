@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2022-12-28T12:53:20Z",
+    "description": "A set of Nvim-Tree actions to open files on another remote neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-02-08T16:20:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tree-remote.nvim",
+  "owner": "kiyoon",
+  "url": "https://github.com/kiyoon/nvim-tree-remote.nvim"
+}

@@ -1,0 +1,66 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      },
+      {
+        "level": 4,
+        "name": "delete"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-07-27T08:12:10Z",
+    "description": ":bookmark_tabs: Delete multiple vim buffers based on different conditions",
+    "isArchived": false,
+    "lastCommit": "2021-11-14T23:11:00Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 110,
+    "topics": [
+      "neovim",
+      "lua",
+      "nvim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "close-buffers.nvim",
+  "owner": "kazhala",
+  "url": "https://github.com/kazhala/close-buffers.nvim"
+}

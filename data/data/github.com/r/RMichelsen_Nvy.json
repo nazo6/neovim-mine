@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "gui.md"
+      },
+      {
+        "level": 1,
+        "name": "GUI"
+      },
+      {
+        "level": 2,
+        "name": "C++"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2020-08-18T21:43:45Z",
+    "description": "Nvy - A Neovim client in C++",
+    "isArchived": false,
+    "lastCommit": "2022-12-23T14:22:44Z",
+    "primaryLanguage": {
+      "color": "#f34b7d",
+      "name": "C++"
+    },
+    "star": 199,
+    "topics": [
+      "cpp",
+      "directwrite",
+      "neovim-guis",
+      "nvim",
+      "windows"
+    ]
+  },
+  "domain": "github.com",
+  "name": "Nvy",
+  "owner": "RMichelsen",
+  "url": "https://github.com/RMichelsen/Nvy"
+}

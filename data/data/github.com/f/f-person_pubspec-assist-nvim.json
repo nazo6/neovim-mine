@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Dart, Flutter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-07-24T12:40:35Z",
+    "description": "Easily add dependencies to your Dart / Flutter project without leaving Neovim",
+    "isArchived": false,
+    "lastCommit": "2021-11-09T14:28:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "dart",
+      "flutter",
+      "flutter-tool"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pubspec-assist-nvim",
+  "owner": "f-person",
+  "url": "https://github.com/f-person/pubspec-assist-nvim"
+}

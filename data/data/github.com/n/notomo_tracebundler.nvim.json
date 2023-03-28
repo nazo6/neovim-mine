@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Neovim Lua Development"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2022-02-07T14:49:55Z",
+    "description": "Trace and bundle neovim lua for debugging",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T13:34:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tracebundler.nvim",
+  "owner": "notomo",
+  "url": "https://github.com/notomo/tracebundler.nvim"
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-10-20T10:20:40Z",
+    "description": "[Alpha] Incoming successor to vim-surround",
+    "isArchived": true,
+    "lastCommit": "2022-04-05T06:22:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "Surround.nvim",
+  "owner": "numToStr",
+  "url": "https://github.com/numToStr/Surround.nvim"
+}

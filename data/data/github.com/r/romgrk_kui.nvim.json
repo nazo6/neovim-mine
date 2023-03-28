@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Terminal"
+      },
+      {
+        "level": 4,
+        "name": "Kitty"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 67,
+    "createdAt": "2023-02-03T12:31:40Z",
+    "description": "Experimentl UI neovim framework for kitty",
+    "isArchived": false,
+    "lastCommit": "2023-02-14T21:40:05Z",
+    "primaryLanguage": {
+      "color": "#555555",
+      "name": "C"
+    },
+    "star": 95,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kui.nvim",
+  "owner": "romgrk",
+  "url": "https://github.com/romgrk/kui.nvim"
+}

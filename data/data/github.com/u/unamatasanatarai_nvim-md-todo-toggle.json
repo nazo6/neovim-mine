@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2022-09-27T14:36:29Z",
+    "description": "Neovim plugin for markdown file todo toggle ([ ] <-> [x])",
+    "isArchived": false,
+    "lastCommit": "2022-10-08T06:13:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-md-todo-toggle",
+  "owner": "unamatasanatarai",
+  "url": "https://github.com/unamatasanatarai/nvim-md-todo-toggle"
+}

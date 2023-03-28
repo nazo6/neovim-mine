@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "AsciiDoc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-04-27T11:10:16Z",
+    "description": "Small plugin for vim to preview Asciidoc PDF output",
+    "isArchived": false,
+    "lastCommit": "2021-10-19T11:18:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "asciidoc",
+      "asciidoctor",
+      "neovim",
+      "plugin",
+      "asciidoctor-pdf",
+      "live-preview"
+    ]
+  },
+  "domain": "github.com",
+  "name": "adoc-pdf-live.nvim",
+  "owner": "marioortizmanero",
+  "url": "https://github.com/marioortizmanero/adoc-pdf-live.nvim"
+}

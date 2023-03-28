@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Hover Doc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-01-03T06:58:45Z",
+    "description": "textDocument/hover plugin",
+    "isArchived": false,
+    "lastCommit": "2022-03-25T23:08:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-preview-hover-doc.nvim",
+  "owner": "tamago324",
+  "url": "https://github.com/tamago324/lsp-preview-hover-doc.nvim"
+}

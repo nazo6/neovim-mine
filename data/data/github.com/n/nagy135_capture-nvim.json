@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-01-15T16:33:38Z",
+    "description": "simple stripped-down version of org-capture (quick todo with position in file recording)",
+    "isArchived": false,
+    "lastCommit": "2021-12-15T20:25:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "capture-nvim",
+  "owner": "nagy135",
+  "url": "https://github.com/nagy135/capture-nvim"
+}

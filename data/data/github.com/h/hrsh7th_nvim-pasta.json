@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "yank_paste.md"
+      },
+      {
+        "level": 1,
+        "name": "Paste"
+      },
+      {
+        "level": 2,
+        "name": "Cyclic paste"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2022-05-31T04:57:51Z",
+    "description": "The yank/paste enhancement plugin for neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-01-23T07:57:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 77,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pasta",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/nvim-pasta"
+}

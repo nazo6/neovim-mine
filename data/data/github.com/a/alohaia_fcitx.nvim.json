@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      },
+      {
+        "level": 4,
+        "name": "Fcitx"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-05-22T12:06:16Z",
+    "description": "A Neovim plugin for storing and restoring fcitx status of several mode groups separately.",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T14:27:37Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "chinese",
+      "fcitx",
+      "fcitx5",
+      "inputmethod",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fcitx.nvim",
+  "owner": "alohaia",
+  "url": "https://github.com/alohaia/fcitx.nvim"
+}

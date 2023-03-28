@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Enhanced Standard Features"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-12-27T12:34:31Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2021-12-28T04:14:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "f_meta.nvim",
+  "owner": "delphinus",
+  "url": "https://github.com/delphinus/f_meta.nvim"
+}

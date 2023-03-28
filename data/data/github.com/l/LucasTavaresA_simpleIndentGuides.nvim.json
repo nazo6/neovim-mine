@@ -1,0 +1,75 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "[Comment Out](./comment.md)"
+      },
+      {
+        "level": 4,
+        "name": "Context Header"
+      },
+      {
+        "level": 5,
+        "name": "Indent Guide"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Formatting"
+      },
+      {
+        "level": 4,
+        "name": "Indent"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-11-07T05:23:13Z",
+    "description": "Indentation guides using the builtin variables.",
+    "isArchived": false,
+    "lastCommit": "2023-01-10T02:41:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "indentation",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "simpleIndentGuides.nvim",
+  "owner": "LucasTavaresA",
+  "url": "https://github.com/LucasTavaresA/simpleIndentGuides.nvim"
+}

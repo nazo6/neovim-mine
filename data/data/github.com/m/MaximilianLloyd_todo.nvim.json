@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-10-06T20:32:39Z",
+    "description": "A per project digital notepad for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2022-11-17T11:48:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo.nvim",
+  "owner": "MaximilianLloyd",
+  "url": "https://github.com/MaximilianLloyd/todo.nvim"
+}

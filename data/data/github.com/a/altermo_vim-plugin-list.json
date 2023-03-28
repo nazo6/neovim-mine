@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Vim"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 207,
+    "createdAt": "2022-06-20T05:56:40Z",
+    "description": "A list of vim/neovim plugins(/extensions for plugins)",
+    "isArchived": false,
+    "lastCommit": "2023-03-16T07:50:30Z",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 33,
+    "topics": [
+      "list",
+      "nvim",
+      "vim",
+      "vim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vim-plugin-list",
+  "owner": "altermo",
+  "url": "https://github.com/altermo/vim-plugin-list"
+}

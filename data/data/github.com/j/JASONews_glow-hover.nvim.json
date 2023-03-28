@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown preview"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-01-01T01:58:59Z",
+    "description": "A Neovim plugin leveraging glow for LSPs hover responses.",
+    "isArchived": false,
+    "lastCommit": "2022-01-08T18:02:02Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 32,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "glow-hover.nvim",
+  "owner": "JASONews",
+  "url": "https://github.com/JASONews/glow-hover.nvim"
+}

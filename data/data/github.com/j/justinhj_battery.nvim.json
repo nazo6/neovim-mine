@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Battery"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2022-07-24T17:27:46Z",
+    "description": "Neovim plugin to detect and view battery information",
+    "isArchived": false,
+    "lastCommit": "2022-12-11T00:52:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 41,
+    "topics": [
+      "lua",
+      "neovim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "battery.nvim",
+  "owner": "justinhj",
+  "url": "https://github.com/justinhj/battery.nvim"
+}

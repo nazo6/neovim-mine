@@ -1,0 +1,18 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'senkentarou/godch.nvim'.",
+    "reason": "NOT_FOUND"
+  },
+  "name": "godch.nvim",
+  "owner": "senkentarou",
+  "url": "https://github.com/senkentarou/godch.nvim"
+}

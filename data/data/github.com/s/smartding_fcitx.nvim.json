@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      },
+      {
+        "level": 4,
+        "name": "Fcitx"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-10-18T13:00:23Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-01-06T07:37:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fcitx.nvim",
+  "owner": "smartding",
+  "url": "https://github.com/smartding/fcitx.nvim"
+}

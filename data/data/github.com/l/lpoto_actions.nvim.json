@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2022-11-06T20:48:27Z",
+    "description": "A Neovim plugin for managing and asynchronously running actions.",
+    "isArchived": false,
+    "lastCommit": "2023-01-08T20:17:22Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "neovim",
+      "nvim-lua",
+      "nvim-plugin",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "actions.nvim",
+  "owner": "lpoto",
+  "url": "https://github.com/lpoto/actions.nvim"
+}

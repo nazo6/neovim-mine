@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Progress"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-04-10T14:38:35Z",
+    "description": "neovim plugin to retrieve the name of the running LSP client(s) and display a spinner when there are wip job",
+    "isArchived": false,
+    "lastCommit": "2022-12-08T01:29:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+      "lsp",
+      "lsp-client",
+      "neovim",
+      "nvim",
+      "spinner",
+      "statusline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp_spinner.nvim",
+  "owner": "doums",
+  "url": "https://github.com/doums/lsp_spinner.nvim"
+}

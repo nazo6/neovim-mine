@@ -1,0 +1,31 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-07-02T11:10:55Z",
+    "description": "Load language servers everywhere~",
+    "isArchived": true,
+    "lastCommit": "2022-09-08T06:12:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "lsp",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lsp-loader",
+  "owner": "zhang-stephen",
+  "url": "https://github.com/zhang-stephen/nvim-lsp-loader"
+}

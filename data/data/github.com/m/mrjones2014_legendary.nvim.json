@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Command Palette"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Keybinding"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 536,
+    "createdAt": "2022-02-02T14:27:52Z",
+    "description": "🗺️ A legend for your keymaps, commands, and autocmds, with which-key.nvim integration",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T11:32:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 738,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "keymap",
+      "neovim-ui",
+      "legend",
+      "keymapping",
+      "keybindings",
+      "vim-commands",
+      "which-key",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "legendary.nvim",
+  "owner": "mrjones2014",
+  "url": "https://github.com/mrjones2014/legendary.nvim"
+}

@@ -1,0 +1,61 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 2,
+        "name": "Statusline component"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 138,
+    "createdAt": "2022-05-23T16:09:54Z",
+    "description": "Simple winbar/statusline plugin that shows your current code context",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T03:45:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 900,
+    "topics": [
+      "language-server-protocol",
+      "lsp",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-navic",
+  "owner": "SmiteshP",
+  "url": "https://github.com/SmiteshP/nvim-navic"
+}

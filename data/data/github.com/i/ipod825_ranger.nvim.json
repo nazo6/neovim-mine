@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "ranger"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 84,
+    "createdAt": "2022-07-27T20:24:20Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-21T16:21:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ranger.nvim",
+  "owner": "ipod825",
+  "url": "https://github.com/ipod825/ranger.nvim"
+}

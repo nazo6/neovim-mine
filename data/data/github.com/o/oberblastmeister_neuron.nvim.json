@@ -1,0 +1,55 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Note Taking"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-01-01T19:22:09Z",
+    "description": "Make neovim the best note taking application",
+    "isArchived": true,
+    "lastCommit": "2022-02-27T00:34:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 390,
+    "topics": [
+      "neovim",
+      "lua",
+      "plenary",
+      "zettelkasten",
+      "markdown",
+      "asynchronous",
+      "wiki",
+      "notes",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neuron.nvim",
+  "owner": "oberblastmeister",
+  "url": "https://github.com/oberblastmeister/neuron.nvim"
+}

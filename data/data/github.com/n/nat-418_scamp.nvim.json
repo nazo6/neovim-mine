@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      },
+      {
+        "level": 4,
+        "name": "open"
+      },
+      {
+        "level": 5,
+        "name": "remote open"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-11-07T19:07:34Z",
+    "description": "Neovim plugin to remotely edit files over SSH",
+    "isArchived": false,
+    "lastCommit": "2023-01-14T07:45:53Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 27,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scamp.nvim",
+  "owner": "nat-418",
+  "url": "https://github.com/nat-418/scamp.nvim"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Study"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-09-30T13:28:46Z",
+    "description": "Oblique Strategies",
+    "isArchived": false,
+    "lastCommit": "2022-09-30T13:32:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "oblique-strategies.nvim",
+  "owner": "davidgranstrom",
+  "url": "https://github.com/davidgranstrom/oblique-strategies.nvim"
+}

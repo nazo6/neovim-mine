@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Lua Development"
+      },
+      {
+        "level": 3,
+        "name": "Formatter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 166,
+    "createdAt": "2020-12-15T21:24:43Z",
+    "description": "An opinionated Lua code formatter",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T14:48:49Z",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 937,
+    "topics": [
+      "lua",
+      "formatter",
+      "pretty-printer",
+      "printer",
+      "luau",
+      "stylua",
+      "luaformatter",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "StyLua",
+  "owner": "JohnnyMorganz",
+  "url": "https://github.com/JohnnyMorganz/StyLua"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Selector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-03-20T23:09:10Z",
+    "description": "Plugin for NeoVim to display and switch to a buffer.",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T19:05:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-select-buffer",
+  "owner": "ArmanHZ",
+  "url": "https://github.com/ArmanHZ/nvim-select-buffer"
+}

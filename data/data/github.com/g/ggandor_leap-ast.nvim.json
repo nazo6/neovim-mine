@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "textobject_operator.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Operator"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-07-13T14:41:48Z",
+    "description": "Jump to, select and operate on AST nodes via the Leap interface with Treesitter (WIP)",
+    "isArchived": false,
+    "lastCommit": "2022-10-10T17:58:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 48,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "leap-ast.nvim",
+  "owner": "ggandor",
+  "url": "https://github.com/ggandor/leap-ast.nvim"
+}

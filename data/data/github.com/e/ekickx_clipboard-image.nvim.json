@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Image Viewer"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Media"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2021-01-12T05:08:47Z",
+    "description": "Neovim Lua plugin to paste image from clipboard.",
+    "isArchived": false,
+    "lastCommit": "2022-11-10T03:15:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 218,
+    "topics": [
+      "neovim",
+      "nvim",
+      "xclip",
+      "wl-clipboard",
+      "lua",
+      "neovim-plugin",
+      "neovim-lua-plugin",
+      "neovim-lua",
+      "clipboard",
+      "pngpaste"
+    ]
+  },
+  "domain": "github.com",
+  "name": "clipboard-image.nvim",
+  "owner": "ekickx",
+  "url": "https://github.com/ekickx/clipboard-image.nvim"
+}

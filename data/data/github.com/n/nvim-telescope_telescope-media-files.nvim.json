@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Image Viewer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-01-18T04:28:01Z",
+    "description": "Telescope extension to preview media files using Ueberzug.",
+    "isArchived": false,
+    "lastCommit": "2023-02-19T09:13:53Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 284,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-media-files.nvim",
+  "owner": "nvim-telescope",
+  "url": "https://github.com/nvim-telescope/telescope-media-files.nvim"
+}

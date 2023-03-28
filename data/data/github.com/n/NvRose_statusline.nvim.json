@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-10-16T11:17:14Z",
+    "description": "Statusline - core plugin for NvRose",
+    "isArchived": false,
+    "lastCommit": "2023-01-21T17:59:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "statusline.nvim",
+  "owner": "NvRose",
+  "url": "https://github.com/NvRose/statusline.nvim"
+}

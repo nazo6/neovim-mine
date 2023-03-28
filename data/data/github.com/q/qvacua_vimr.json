@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "gui.md"
+      },
+      {
+        "level": 1,
+        "name": "GUI"
+      },
+      {
+        "level": 2,
+        "name": "MacOS"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 175,
+    "createdAt": "2014-02-28T21:31:38Z",
+    "description": "VimR — Neovim GUI for macOS in Swift",
+    "isArchived": false,
+    "lastCommit": "2023-01-03T17:14:18Z",
+    "primaryLanguage": {
+      "color": "#F05138",
+      "name": "Swift"
+    },
+    "star": 6268,
+    "topics": [
+      "neovim",
+      "neovim-guis",
+      "vim",
+      "macos",
+      "swift",
+      "objective-c",
+      "neovim-clients",
+      "cocoa",
+      "neovim-experience"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vimr",
+  "owner": "qvacua",
+  "url": "https://github.com/qvacua/vimr"
+}

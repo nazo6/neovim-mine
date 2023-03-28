@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Partial execution"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-10-31T10:11:26Z",
+    "description": "run selected text in your favorite interpreter",
+    "isArchived": false,
+    "lastCommit": "2022-11-04T23:47:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-dotfiles",
+      "neovim-plugin",
+      "scripting-languages",
+      "text-editor"
+    ]
+  },
+  "domain": "github.com",
+  "name": "range-runner.nvim",
+  "owner": "holmanb",
+  "url": "https://github.com/holmanb/range-runner.nvim"
+}

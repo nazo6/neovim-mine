@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Javascript/Typescript"
+      },
+      {
+        "level": 4,
+        "name": "npm"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-06-19T06:30:30Z",
+    "description": "npm integration for telescope.nvim, WIP",
+    "isArchived": false,
+    "lastCommit": "2021-07-07T02:09:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 32,
+    "topics": [
+      "neovim",
+      "nvim-telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-npm.nvim",
+  "owner": "elianiva",
+  "url": "https://github.com/elianiva/telescope-npm.nvim"
+}

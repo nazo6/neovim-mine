@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Log"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-03-13T01:52:53Z",
+    "description": "Logger library for Neovim lua plugin development.",
+    "isArchived": false,
+    "lastCommit": "2023-03-16T01:55:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "logger.nvim",
+  "owner": "linrongbin16",
+  "url": "https://github.com/linrongbin16/logger.nvim"
+}

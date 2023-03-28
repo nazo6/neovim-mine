@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "React"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2022-11-07T10:53:27Z",
+    "description": "Reactive UI framework for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-28T19:08:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 48,
+    "topics": [
+      "neovim",
+      "nvim",
+      "ui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-react",
+  "owner": "s1n7ax",
+  "url": "https://github.com/s1n7ax/nvim-react"
+}

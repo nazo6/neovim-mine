@@ -1,0 +1,18 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'barrett-ruth/emmet.nvim'.",
+    "reason": "NOT_FOUND"
+  },
+  "name": "emmet.nvim",
+  "owner": "barrett-ruth",
+  "url": "https://github.com/barrett-ruth/emmet.nvim"
+}

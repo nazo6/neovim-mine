@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Mode"
+      },
+      {
+        "level": 4,
+        "name": "Visual"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-02-04T21:36:19Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-04T21:51:41Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "niceblock.nvim",
+  "owner": "bagohart",
+  "url": "https://github.com/bagohart/niceblock.nvim"
+}

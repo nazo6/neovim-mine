@@ -1,0 +1,65 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 2,
+        "name": "Statusline component"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      },
+      {
+        "level": 4,
+        "name": "Statusline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 125,
+    "createdAt": "2022-04-08T04:33:45Z",
+    "description": "🎈 Floating statuslines for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-09T01:30:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 360,
+    "topics": [
+      "nvim",
+      "neovim",
+      "vim",
+      "neovim-plugin",
+      "neovim-statusline",
+      "neovim-ui",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "incline.nvim",
+  "owner": "b0o",
+  "url": "https://github.com/b0o/incline.nvim"
+}

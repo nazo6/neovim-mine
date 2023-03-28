@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      },
+      {
+        "level": 4,
+        "name": "BiBTex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2022-11-11T15:54:57Z",
+    "description": "A complete BibTeX-based bibliography manager for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T15:21:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ref",
+  "owner": "oncomouse",
+  "url": "https://github.com/oncomouse/nvim-ref"
+}

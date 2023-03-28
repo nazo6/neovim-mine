@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CLI"
+      },
+      {
+        "level": 4,
+        "name": "perf"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2022-02-08T00:22:32Z",
+    "description": "NeoVim lua plugin that annotates source code with profiling information from perf or other profilers",
+    "isArchived": false,
+    "lastCommit": "2022-10-05T04:30:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 99,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "perfanno.nvim",
+  "owner": "t-troebst",
+  "url": "https://github.com/t-troebst/perfanno.nvim"
+}

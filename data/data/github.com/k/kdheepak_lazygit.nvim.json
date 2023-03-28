@@ -1,0 +1,58 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "lazygit"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Git"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2020-04-03T22:27:25Z",
+    "description": "Plugin for calling lazygit from within neovim.",
+    "isArchived": false,
+    "lastCommit": "2022-11-05T11:24:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 659,
+    "topics": [
+      "neovim",
+      "lazygit",
+      "plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazygit.nvim",
+  "owner": "kdheepak",
+  "url": "https://github.com/kdheepak/lazygit.nvim"
+}

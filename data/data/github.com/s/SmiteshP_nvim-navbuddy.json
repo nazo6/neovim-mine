@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "Code outline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2023-03-20T11:28:42Z",
+    "description": "A simple popup display that provides breadcrumbs feature using LSP server",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T14:50:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 131,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-navbuddy",
+  "owner": "SmiteshP",
+  "url": "https://github.com/SmiteshP/nvim-navbuddy"
+}

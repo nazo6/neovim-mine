@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Columnline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2021-11-26T07:45:14Z",
+    "description": "Display a character as the colorcolumn",
+    "isArchived": false,
+    "lastCommit": "2023-01-20T04:27:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 148,
+    "topics": [
+      "vim",
+      "neovim",
+      "vim-plugin",
+      "neovim-plugin",
+      "colorcolumn"
+    ]
+  },
+  "domain": "github.com",
+  "name": "virt-column.nvim",
+  "owner": "lukas-reineke",
+  "url": "https://github.com/lukas-reineke/virt-column.nvim"
+}

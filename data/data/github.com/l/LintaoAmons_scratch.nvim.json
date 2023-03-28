@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Scratch Buffer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 87,
+    "createdAt": "2022-10-28T15:47:20Z",
+    "description": "Help you to create tmp playground files, which can be found later,  with one stroke and without worrying about what's the filename and where to put it.",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T04:02:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 72,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratch.nvim",
+  "owner": "LintaoAmons",
+  "url": "https://github.com/LintaoAmons/scratch.nvim"
+}

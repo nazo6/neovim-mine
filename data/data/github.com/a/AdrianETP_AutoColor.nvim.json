@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2022-12-31T21:43:03Z",
+    "description": "Change color depending on what you are working on",
+    "isArchived": false,
+    "lastCommit": "2023-01-13T17:59:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "color-scheme",
+      "lua",
+      "neovim",
+      "neovim-configuration",
+      "neovim-dotfiles",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "AutoColor.nvim",
+  "owner": "AdrianETP",
+  "url": "https://github.com/AdrianETP/AutoColor.nvim"
+}

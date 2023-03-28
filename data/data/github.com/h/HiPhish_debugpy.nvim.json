@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Debugger"
+      },
+      {
+        "level": 4,
+        "name": "nvim-dap extension"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2021-12-17T22:20:45Z",
+    "description": "Command and configuration frontend for Debugpy and nvim-dap",
+    "isArchived": false,
+    "lastCommit": "2022-10-02T09:19:37Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "debugpy.nvim",
+  "owner": "HiPhish",
+  "url": "https://github.com/HiPhish/debugpy.nvim"
+}

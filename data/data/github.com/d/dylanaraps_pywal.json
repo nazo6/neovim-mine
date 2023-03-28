@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Colorscheme Creation"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2017-06-16T14:54:22Z",
+    "description": "🎨 Generate and change color-schemes on the fly.",
+    "isArchived": false,
+    "lastCommit": "2021-09-09T03:15:02Z",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 7126,
+    "topics": [
+      "wal",
+      "colorscheme",
+      "terminal-emulators",
+      "changing-colorschemes"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pywal",
+  "owner": "dylanaraps",
+  "url": "https://github.com/dylanaraps/pywal"
+}

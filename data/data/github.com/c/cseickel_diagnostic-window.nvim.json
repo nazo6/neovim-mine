@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Diagnostics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2022-06-25T14:36:36Z",
+    "description": "Shows diagnostic messages in a separate window, which is particularly helpful for long message like those seen in typescript.",
+    "isArchived": false,
+    "lastCommit": "2022-06-30T02:20:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 27,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagnostic-window.nvim",
+  "owner": "cseickel",
+  "url": "https://github.com/cseickel/diagnostic-window.nvim"
+}

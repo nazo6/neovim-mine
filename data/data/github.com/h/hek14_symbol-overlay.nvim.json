@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Multiple word highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2023-03-05T17:01:59Z",
+    "description": "A plugin for highlighting symbols in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T09:11:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "symbol-overlay.nvim",
+  "owner": "hek14",
+  "url": "https://github.com/hek14/symbol-overlay.nvim"
+}

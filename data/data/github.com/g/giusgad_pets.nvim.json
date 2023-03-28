@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Pet"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 123,
+    "createdAt": "2023-02-10T17:46:35Z",
+    "description": "Display pets in your editor 🐱",
+    "isArchived": false,
+    "lastCommit": "2023-03-15T20:11:22Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 291,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pets.nvim",
+  "owner": "giusgad",
+  "url": "https://github.com/giusgad/pets.nvim"
+}

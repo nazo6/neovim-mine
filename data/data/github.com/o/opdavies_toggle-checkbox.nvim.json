@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown checkbox"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-08-09T13:18:01Z",
+    "description": "A Neovim plugin for checking, unchecking and toggling Markdown checkboxes.",
+    "isArchived": false,
+    "lastCommit": "2023-02-06T10:36:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggle-checkbox.nvim",
+  "owner": "opdavies",
+  "url": "https://github.com/opdavies/toggle-checkbox.nvim"
+}

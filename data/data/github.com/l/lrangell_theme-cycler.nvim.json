@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-12-29T14:51:36Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-01-09T16:01:37Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 8,
+    "topics": [
+      "nvim",
+      "fennel",
+      "neovim",
+      "neovim-colorscheme",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "theme-cycler.nvim",
+  "owner": "lrangell",
+  "url": "https://github.com/lrangell/theme-cycler.nvim"
+}

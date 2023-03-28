@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "j/k"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-04-11T17:01:11Z",
+    "description": "A neovim plugin to accelerate up-down moving!",
+    "isArchived": false,
+    "lastCommit": "2023-03-01T14:29:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 35,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "accelerated-jk.nvim",
+  "owner": "rainbowhxch",
+  "url": "https://github.com/rainbowhxch/accelerated-jk.nvim"
+}

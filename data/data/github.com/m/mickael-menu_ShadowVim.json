@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Other Editor"
+      },
+      {
+        "level": 4,
+        "name": "Xcode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2023-01-07T14:43:51Z",
+    "description": "Neovim 𝘪𝘯𝘴𝘪𝘥𝘦 Xcode, for real.",
+    "isArchived": false,
+    "lastCommit": "2023-03-07T19:38:29Z",
+    "primaryLanguage": {
+      "color": "#F05138",
+      "name": "Swift"
+    },
+    "star": 171,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ShadowVim",
+  "owner": "mickael-menu",
+  "url": "https://github.com/mickael-menu/ShadowVim"
+}

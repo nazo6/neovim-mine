@@ -1,0 +1,66 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Screenshot"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Snippet"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-02-22T01:07:38Z",
+    "description": "Create beautiful code snippets directly from your neovim terminal",
+    "isArchived": false,
+    "lastCommit": "2023-01-14T16:02:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 79,
+    "topics": [
+      "neovim",
+      "plugin",
+      "lua",
+      "carbon-now",
+      "carbon-now-sh",
+      "vim",
+      "snippets",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "carbon-now.nvim",
+  "owner": "ellisonleao",
+  "url": "https://github.com/ellisonleao/carbon-now.nvim"
+}

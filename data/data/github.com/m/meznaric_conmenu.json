@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Menu"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-10-25T16:15:06Z",
+    "description": "Powerful but minimal context menu plugin for neovim.",
+    "isArchived": false,
+    "lastCommit": "2022-01-29T11:33:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 53,
+    "topics": [
+      "neovim",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "conmenu",
+  "owner": "meznaric",
+  "url": "https://github.com/meznaric/conmenu"
+}

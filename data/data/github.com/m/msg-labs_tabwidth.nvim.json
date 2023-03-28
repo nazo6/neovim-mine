@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Indent"
+      },
+      {
+        "level": 4,
+        "name": "Indent Size"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-01-17T21:58:24Z",
+    "description": "Attempts to sync the tabwidth option based on some project settings",
+    "isArchived": false,
+    "lastCommit": "2023-01-22T11:17:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tabwidth.nvim",
+  "owner": "msg-labs",
+  "url": "https://github.com/msg-labs/tabwidth.nvim"
+}

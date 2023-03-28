@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Command Line"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-03-16T21:08:14Z",
+    "description": "Telescope cmdline",
+    "isArchived": false,
+    "lastCommit": "2023-03-16T22:42:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-cmdline.nvim",
+  "owner": "jonarrien",
+  "url": "https://github.com/jonarrien/telescope-cmdline.nvim"
+}

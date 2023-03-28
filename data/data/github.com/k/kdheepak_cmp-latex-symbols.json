@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2021-08-18T22:23:49Z",
+    "description": "Add latex symbol support for nvim-cmp.",
+    "isArchived": false,
+    "lastCommit": "2023-01-23T13:15:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 88,
+    "topics": [
+      "neovim",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-latex-symbols",
+  "owner": "kdheepak",
+  "url": "https://github.com/kdheepak/cmp-latex-symbols"
+}

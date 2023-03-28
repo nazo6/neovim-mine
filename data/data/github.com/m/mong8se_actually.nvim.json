@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Boot Arguments"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2022-08-29T21:20:19Z",
+    "description": "A neovim plugin to help load the file you meant to load.",
+    "isArchived": false,
+    "lastCommit": "2022-09-02T22:36:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 39,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "plugin",
+      "nvim-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "actually.nvim",
+  "owner": "mong8se",
+  "url": "https://github.com/mong8se/actually.nvim"
+}

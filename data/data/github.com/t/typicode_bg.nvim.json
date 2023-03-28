@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Background"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2023-01-04T05:26:48Z",
+    "description": "Automatically sync your terminal background with your colorscheme 🎆",
+    "isArchived": false,
+    "lastCommit": "2023-03-06T13:20:22Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+      "neovim",
+      "background",
+      "background-color",
+      "colorscheme",
+      "neovim-colorscheme",
+      "neovim-plugin",
+      "nvim",
+      "terminal",
+      "theme",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bg.nvim",
+  "owner": "typicode",
+  "url": "https://github.com/typicode/bg.nvim"
+}

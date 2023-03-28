@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-12-30T21:48:59Z",
+    "description": "Manage reccurring journals and notes directly in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T02:59:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-journal",
+  "owner": "Nedra1998",
+  "url": "https://github.com/Nedra1998/nvim-journal"
+}

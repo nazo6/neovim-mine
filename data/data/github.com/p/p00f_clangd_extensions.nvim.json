@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "C/C++"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-02-05T09:45:43Z",
+    "description": "Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead",
+    "isArchived": false,
+    "lastCommit": "2023-03-10T10:41:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 293,
+    "topics": [
+      "neovim",
+      "clangd",
+      "lsp",
+      "nvim",
+      "nvim-lsp",
+      "c",
+      "cpp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "clangd_extensions.nvim",
+  "owner": "p00f",
+  "url": "https://github.com/p00f/clangd_extensions.nvim"
+}

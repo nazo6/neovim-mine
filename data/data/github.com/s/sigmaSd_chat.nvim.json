@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-03-07T16:36:06Z",
+    "description": "Nvim wrapper over chatgpt free web interface",
+    "isArchived": false,
+    "lastCommit": "2023-03-07T19:53:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim",
+      "ai"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chat.nvim",
+  "owner": "sigmaSd",
+  "url": "https://github.com/sigmaSd/chat.nvim"
+}

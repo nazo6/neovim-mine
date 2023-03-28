@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Scratch Buffer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-02-21T18:00:50Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-02-22T11:58:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratch.nvim",
+  "owner": "shift-d",
+  "url": "https://github.com/shift-d/scratch.nvim"
+}

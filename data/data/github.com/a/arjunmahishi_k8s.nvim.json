@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CLI"
+      },
+      {
+        "level": 4,
+        "name": "k8s (Kubernetes)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-10-03T14:34:41Z",
+    "description": "Neovim plugin that wraps some of the kubectl operations with the goodness of telescope",
+    "isArchived": false,
+    "lastCommit": "2023-03-06T10:42:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "devops-tools",
+      "kubernetes",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "k8s.nvim",
+  "owner": "arjunmahishi",
+  "url": "https://github.com/arjunmahishi/k8s.nvim"
+}

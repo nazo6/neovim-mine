@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-01-17T21:08:33Z",
+    "description": "Note management plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-02T06:03:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notation.nvim",
+  "owner": "Khachig",
+  "url": "https://github.com/Khachig/notation.nvim"
+}

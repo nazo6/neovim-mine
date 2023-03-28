@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "jump.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Jump"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-06-03T09:17:04Z",
+    "description": "A more versatile n(ext) key in neovim, repeat movement commands.",
+    "isArchived": false,
+    "lastCommit": "2023-01-07T21:07:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-better-n",
+  "owner": "jonatan-branting",
+  "url": "https://github.com/jonatan-branting/nvim-better-n"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Tcl/Tk"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2022-10-24T19:01:29Z",
+    "description": "Neovim plugin to aid Tcl/Tk development",
+    "isArchived": false,
+    "lastCommit": "2023-01-14T07:51:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tcl.nvim",
+  "owner": "nat-418",
+  "url": "https://github.com/nat-418/tcl.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Analytics"
+      },
+      {
+        "level": 4,
+        "name": "Code::Stats"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2023-03-06T09:55:42Z",
+    "description": "Code::Stats plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-16T00:10:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codestats.nvim",
+  "owner": "liljaylj",
+  "url": "https://github.com/liljaylj/codestats.nvim"
+}

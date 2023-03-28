@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Refactoring,Debugging"
+      },
+      {
+        "level": 4,
+        "name": "print debug"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-10-19T17:53:49Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-11-07T13:51:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 31,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zippy.nvim",
+  "owner": "PatschD",
+  "url": "https://github.com/PatschD/zippy.nvim"
+}

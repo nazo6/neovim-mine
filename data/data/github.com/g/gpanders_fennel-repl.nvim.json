@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Fennel"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-10-18T23:05:04Z",
+    "description": "A Fennel REPL that runs in Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-08-24T15:40:25Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 18,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fennel-repl.nvim",
+  "owner": "gpanders",
+  "url": "https://github.com/gpanders/fennel-repl.nvim"
+}

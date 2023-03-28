@@ -1,0 +1,33 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-11-11T15:41:34Z",
+    "description": "Neovim plugin to automatically format code.",
+    "isArchived": false,
+    "lastCommit": "2022-11-11T15:41:35Z",
+    "primaryLanguage": null,
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "format.nvim",
+  "owner": "fwojciec",
+  "url": "https://github.com/fwojciec/format.nvim"
+}

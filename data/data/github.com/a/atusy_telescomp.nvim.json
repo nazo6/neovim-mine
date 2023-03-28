@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Standard Completion"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 110,
+    "createdAt": "2022-11-05T15:33:49Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-11-30T13:16:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescomp.nvim",
+  "owner": "atusy",
+  "url": "https://github.com/atusy/telescomp.nvim"
+}

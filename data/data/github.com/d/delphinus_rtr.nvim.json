@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Root Detector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-01-10T07:57:21Z",
+    "description": "Simple & small implementation for chdir'ing accordingly",
+    "isArchived": false,
+    "lastCommit": "2023-01-17T00:36:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rtr.nvim",
+  "owner": "delphinus",
+  "url": "https://github.com/delphinus/rtr.nvim"
+}

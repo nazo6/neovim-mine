@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Debugger"
+      },
+      {
+        "level": 4,
+        "name": "nvim-dap extension"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-12-12T14:18:57Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-12-12T15:23:23Z",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-kitty-launcher",
+  "owner": "chunleng",
+  "url": "https://github.com/chunleng/nvim-dap-kitty-launcher"
+}

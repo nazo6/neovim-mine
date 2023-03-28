@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Clojure"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2019-03-21T17:40:54Z",
+    "description": "Acid + Impromptu = Jazz",
+    "isArchived": false,
+    "lastCommit": "2019-04-30T08:00:37Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 34,
+    "topics": [
+      "clojure",
+      "lua",
+      "neovim",
+      "impromptu",
+      "interactive",
+      "neovim-plugin",
+      "plugin",
+      "lua-plugin",
+      "neovim-lua",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jazz.nvim",
+  "owner": "clojure-vim",
+  "url": "https://github.com/clojure-vim/jazz.nvim"
+}

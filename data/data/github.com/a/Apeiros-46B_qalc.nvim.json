@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Calculation"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-12-23T04:44:53Z",
+    "description": "A Neovim frontend for Qalculate",
+    "isArchived": false,
+    "lastCommit": "2023-03-05T06:27:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "calculator",
+      "neovim",
+      "neovim-plugin",
+      "qalculate"
+    ]
+  },
+  "domain": "github.com",
+  "name": "qalc.nvim",
+  "owner": "Apeiros-46B",
+  "url": "https://github.com/Apeiros-46B/qalc.nvim"
+}

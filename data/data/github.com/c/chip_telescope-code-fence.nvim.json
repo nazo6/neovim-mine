@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown code block"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-01-05T21:08:13Z",
+    "description": "telescope.nvim extension will fetch & parse text files from Github and provide a list of Markdown Code Fences that you can paste into a buffer",
+    "isArchived": false,
+    "lastCommit": "2022-02-26T22:15:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "nvim",
+      "lua",
+      "markdown",
+      "github"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-code-fence.nvim",
+  "owner": "chip",
+  "url": "https://github.com/chip/telescope-code-fence.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Analytics"
+      },
+      {
+        "level": 4,
+        "name": "Code::Stats"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-11-04T14:23:24Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-11-07T14:57:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-stats.nvim",
+  "owner": "maorun",
+  "url": "https://github.com/maorun/code-stats.nvim"
+}

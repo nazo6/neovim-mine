@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      },
+      {
+        "level": 2,
+        "name": "Search highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2023-01-04T11:05:32Z",
+    "description": "Automatically manage hlsearch setting",
+    "isArchived": false,
+    "lastCommit": "2023-03-04T18:25:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 71,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-hlsearch.nvim",
+  "owner": "asiryk",
+  "url": "https://github.com/asiryk/auto-hlsearch.nvim"
+}

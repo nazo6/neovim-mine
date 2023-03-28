@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "ftdetect(Filetype detector)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-09-15T17:54:15Z",
+    "description": "neovim plugin for better language auto-detection, powered by tree-sitter",
+    "isArchived": false,
+    "lastCommit": "2021-09-20T15:37:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 47,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "nvim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "detect-language.nvim",
+  "owner": "spywhere",
+  "url": "https://github.com/spywhere/detect-language.nvim"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2022-11-16T07:43:42Z",
+    "description": "Easily add additional highlights to your buffers",
+    "isArchived": false,
+    "lastCommit": "2023-03-19T19:15:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 111,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "paint.nvim",
+  "owner": "folke",
+  "url": "https://github.com/folke/paint.nvim"
+}

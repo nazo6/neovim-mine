@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Key stroke"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-11-26T01:33:46Z",
+    "description": "Keystroke plugin for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2022-12-06T00:42:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keystroke.nvim",
+  "owner": "jerrywang1981",
+  "url": "https://github.com/jerrywang1981/keystroke.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "jump.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Go to File"
+      },
+      {
+        "level": 3,
+        "name": "jumplist"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-03-21T00:50:39Z",
+    "description": "A neovim plugin that provides a browser-like buffer history for each window",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T17:05:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "history.nvim",
+  "owner": "wilfreddenton",
+  "url": "https://github.com/wilfreddenton/history.nvim"
+}

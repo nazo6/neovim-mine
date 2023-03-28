@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "gui.md"
+      },
+      {
+        "level": 1,
+        "name": "GUI library"
+      },
+      {
+        "level": 2,
+        "name": "Font size"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2022-07-03T13:05:42Z",
+    "description": "Plugin for Neovim to easily resize all guifont option including the fallbacks fonts",
+    "isArchived": false,
+    "lastCommit": "2022-07-03T16:10:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gui-font-resize.nvim",
+  "owner": "ktunprasert",
+  "url": "https://github.com/ktunprasert/gui-font-resize.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "Label Jump (Easymotion style)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2017-06-30T18:45:51Z",
+    "description": "Train yourself with vim motions and make your own train tracks :)",
+    "isArchived": false,
+    "lastCommit": "2020-09-10T14:04:26Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 111,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "train.nvim",
+  "owner": "tjdevries",
+  "url": "https://github.com/tjdevries/train.nvim"
+}

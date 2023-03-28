@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Ruby"
+      },
+      {
+        "level": 4,
+        "name": "Rails"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2022-06-11T10:43:19Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-25T12:52:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-rails.nvim",
+  "owner": "sato-s",
+  "url": "https://github.com/sato-s/telescope-rails.nvim"
+}

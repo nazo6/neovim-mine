@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Command style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-07-23T12:54:44Z",
+    "description": "Plugin for managing like, shell commands so that you can memorize them per-project and run them with keymaps, in the background using plenary",
+    "isArchived": false,
+    "lastCommit": "2023-01-19T20:52:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fast-jobs.nvim",
+  "owner": "crpier",
+  "url": "https://github.com/crpier/fast-jobs.nvim"
+}

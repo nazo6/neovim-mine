@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Local Config"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2022-08-01T20:06:04Z",
+    "description": "A neovim lua plugin to save and launch project specific commands.",
+    "isArchived": false,
+    "lastCommit": "2022-11-27T19:25:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "confiture.nvim",
+  "owner": "romainchapou",
+  "url": "https://github.com/romainchapou/confiture.nvim"
+}

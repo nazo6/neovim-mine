@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Reload Configuration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-12-11T22:06:12Z",
+    "description": "Live reload Neovim plugins with ease!",
+    "isArchived": false,
+    "lastCommit": "2023-01-30T03:02:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "live-reload",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "live-reload.nvim",
+  "owner": "mskelton",
+  "url": "https://github.com/mskelton/live-reload.nvim"
+}

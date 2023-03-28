@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "inline note"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-03-13T18:02:12Z",
+    "description": "A neovim plugin to add notes or comments to any buffer",
+    "isArchived": false,
+    "lastCommit": "2023-03-13T18:09:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "fennel",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "virt-notes.nvim",
+  "owner": "aaron-p1",
+  "url": "https://github.com/aaron-p1/virt-notes.nvim"
+}

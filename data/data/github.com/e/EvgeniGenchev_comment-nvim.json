@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2023-03-12T22:10:17Z",
+    "description": "comment-nvim",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T13:47:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "comment-nvim",
+  "owner": "EvgeniGenchev",
+  "url": "https://github.com/EvgeniGenchev/comment-nvim"
+}

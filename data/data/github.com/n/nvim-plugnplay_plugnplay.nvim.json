@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "plugin-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Plugin Manager"
+      },
+      {
+        "level": 3,
+        "name": "Use builtin package feature"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2021-09-12T07:07:44Z",
+    "description": "Look ma, I'm WIP",
+    "isArchived": false,
+    "lastCommit": "2022-10-27T12:24:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 42,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plugnplay.nvim",
+  "owner": "nvim-plugnplay",
+  "url": "https://github.com/nvim-plugnplay/plugnplay.nvim"
+}

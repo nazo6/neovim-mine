@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Terminal"
+      },
+      {
+        "level": 4,
+        "name": "Kitty"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2023-03-05T20:16:54Z",
+    "description": "Kitty completion source for nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2023-03-22T17:10:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+      "kitty",
+      "kitty-terminal",
+      "neovim",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp_kitty",
+  "owner": "garyhurtz",
+  "url": "https://github.com/garyhurtz/cmp_kitty"
+}

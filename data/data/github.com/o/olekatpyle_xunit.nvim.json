@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CLI"
+      },
+      {
+        "level": 4,
+        "name": "dotnet"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 140,
+    "createdAt": "2022-09-17T18:00:02Z",
+    "description": "xUnit testsuite for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-03T19:06:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "xunit.nvim",
+  "owner": "olekatpyle",
+  "url": "https://github.com/olekatpyle/xunit.nvim"
+}

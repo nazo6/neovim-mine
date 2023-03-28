@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2022-07-18T17:47:32Z",
+    "description": "A diagnostics source for neo-tree.nvim",
+    "isArchived": false,
+    "lastCommit": "2023-03-22T00:30:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 74,
+    "topics": [
+      "diagnostics",
+      "neo-tree-source",
+      "neovim",
+      "neovim-plugin",
+      "neovim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neo-tree-diagnostics.nvim",
+  "owner": "mrbjarksen",
+  "url": "https://github.com/mrbjarksen/neo-tree-diagnostics.nvim"
+}

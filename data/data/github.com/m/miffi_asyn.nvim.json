@@ -1,0 +1,18 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'miffi/asyn.nvim'.",
+    "reason": "NOT_FOUND"
+  },
+  "name": "asyn.nvim",
+  "owner": "miffi",
+  "url": "https://github.com/miffi/asyn.nvim"
+}

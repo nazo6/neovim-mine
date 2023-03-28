@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      },
+      {
+        "level": 2,
+        "name": "Mapping toggle"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-03-04T11:30:28Z",
+    "description": "Group keybinds together and enable/disable them on the fly",
+    "isArchived": false,
+    "lastCommit": "2023-03-06T12:47:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mode.nvim",
+  "owner": "paulfrische",
+  "url": "https://github.com/paulfrische/mode.nvim"
+}

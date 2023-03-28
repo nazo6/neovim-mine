@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-07-13T09:10:20Z",
+    "description": "Hijack your clipboard in Neovim",
+    "isArchived": true,
+    "lastCommit": "2022-08-25T17:47:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "neovim",
+      "lua",
+      "nvim",
+      "clipboard"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-hclipboard",
+  "owner": "kevinhwang91",
+  "url": "https://github.com/kevinhwang91/nvim-hclipboard"
+}

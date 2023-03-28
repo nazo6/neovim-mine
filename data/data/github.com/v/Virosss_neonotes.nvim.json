@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-10-21T07:32:49Z",
+    "description": "Simple Notes",
+    "isArchived": false,
+    "lastCommit": "2022-10-21T10:48:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neonotes.nvim",
+  "owner": "Virosss",
+  "url": "https://github.com/Virosss/neonotes.nvim"
+}

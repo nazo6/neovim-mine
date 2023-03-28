@@ -1,0 +1,55 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-distribution.md"
+      },
+      {
+        "level": 1,
+        "name": "Neovim Distribution"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Preconfigured Configuration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 105,
+    "createdAt": "2020-01-10T09:05:12Z",
+    "description": "Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, javascript)",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T22:06:22Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 450,
+    "topics": [
+      "neovim",
+      "nvim-compe",
+      "vim-plugins",
+      "neovim-configuration",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nv-ide",
+  "owner": "crivotz",
+  "url": "https://github.com/crivotz/nv-ide"
+}

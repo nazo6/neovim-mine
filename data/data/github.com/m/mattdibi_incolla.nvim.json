@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "yank_paste.md"
+      },
+      {
+        "level": 1,
+        "name": "Paste"
+      },
+      {
+        "level": 2,
+        "name": "Mac"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 82,
+    "createdAt": "2022-12-27T21:09:19Z",
+    "description": "Neovim Lua plugin to paste images from the MacOS clipboard.",
+    "isArchived": false,
+    "lastCommit": "2023-01-02T17:27:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "clipboard",
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "incolla.nvim",
+  "owner": "mattdibi",
+  "url": "https://github.com/mattdibi/incolla.nvim"
+}

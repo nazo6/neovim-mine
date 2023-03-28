@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Split / Join"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-03-09T08:56:27Z",
+    "description": "Neovim Lua plugin to split and join arguments. Part of 'mini.nvim' library. ",
+    "isArchived": false,
+    "lastCommit": "2023-03-13T14:31:53Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.splitjoin",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.splitjoin"
+}

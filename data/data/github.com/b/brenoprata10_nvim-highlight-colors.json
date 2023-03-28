@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Colorizer"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Color"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 103,
+    "createdAt": "2022-07-17T11:09:45Z",
+    "description": "Highlight colors for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T17:40:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 152,
+    "topics": [
+      "neovim",
+      "vim",
+      "colors",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-highlight-colors",
+  "owner": "brenoprata10",
+  "url": "https://github.com/brenoprata10/nvim-highlight-colors"
+}

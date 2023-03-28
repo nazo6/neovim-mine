@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Zig"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-11-10T21:18:28Z",
+    "description": "parody of emacs zig-mode with most of the functionality",
+    "isArchived": false,
+    "lastCommit": "2022-11-26T01:40:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zig.nvim",
+  "owner": "CadeMichael",
+  "url": "https://github.com/CadeMichael/zig.nvim"
+}

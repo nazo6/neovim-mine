@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      },
+      {
+        "level": 4,
+        "name": "Statusline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-09-15T11:16:58Z",
+    "description": "neovim statusline plugin written in lua ",
+    "isArchived": false,
+    "lastCommit": "2022-01-21T15:55:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 152,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "galaxyline.nvim",
+  "owner": "NTBBloodbath",
+  "url": "https://github.com/NTBBloodbath/galaxyline.nvim"
+}

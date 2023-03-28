@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "session.md"
+      },
+      {
+        "level": 1,
+        "name": "Session"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2022-11-10T12:06:59Z",
+    "description": "A map to your filesystem",
+    "isArchived": false,
+    "lastCommit": "2023-02-21T10:44:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 129,
+    "topics": [
+      "luajit",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "projections.nvim",
+  "owner": "GnikDroy",
+  "url": "https://github.com/GnikDroy/projections.nvim"
+}

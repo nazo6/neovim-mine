@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "nvim-cmp extension"
+      },
+      {
+        "level": 4,
+        "name": "nvim-cmp sources"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2022-09-08T07:57:49Z",
+    "description": "nvim-cmp source for environment variables.",
+    "isArchived": false,
+    "lastCommit": "2022-10-24T09:52:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "environment-variables",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-env",
+  "owner": "bydlw98",
+  "url": "https://github.com/bydlw98/cmp-env"
+}

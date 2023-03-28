@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Grep"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-02-05T16:42:26Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-23T07:27:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 65,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-menufacture",
+  "owner": "molecule-man",
+  "url": "https://github.com/molecule-man/telescope-menufacture"
+}

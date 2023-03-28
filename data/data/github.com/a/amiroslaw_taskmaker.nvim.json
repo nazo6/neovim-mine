@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2022-09-18T16:49:04Z",
+    "description": "Creating tasks form checklists",
+    "isArchived": false,
+    "lastCommit": "2022-11-02T15:12:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "taskmaker.nvim",
+  "owner": "amiroslaw",
+  "url": "https://github.com/amiroslaw/taskmaker.nvim"
+}

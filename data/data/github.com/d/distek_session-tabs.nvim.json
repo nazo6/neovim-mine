@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "session.md"
+      },
+      {
+        "level": 1,
+        "name": "Session"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2022-12-11T05:52:47Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-26T15:01:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "session-tabs.nvim",
+  "owner": "distek",
+  "url": "https://github.com/distek/session-tabs.nvim"
+}

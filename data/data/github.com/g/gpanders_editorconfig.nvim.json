@@ -1,0 +1,56 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatting config"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Formatting"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2021-07-13T19:55:45Z",
+    "description": "EditorConfig plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-10T15:34:57Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 307,
+    "topics": [
+      "editorconfig",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "editorconfig.nvim",
+  "owner": "gpanders",
+  "url": "https://github.com/gpanders/editorconfig.nvim"
+}

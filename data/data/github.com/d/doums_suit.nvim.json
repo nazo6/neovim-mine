@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "UI"
+      },
+      {
+        "level": 3,
+        "name": "vim.ui.select/vim.ui.input"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2022-05-20T21:17:48Z",
+    "description": "A neovim plugin that replaces default input and select text prompts with nice floating windows",
+    "isArchived": false,
+    "lastCommit": "2023-02-22T01:23:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 42,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "input",
+      "select"
+    ]
+  },
+  "domain": "github.com",
+  "name": "suit.nvim",
+  "owner": "doums",
+  "url": "https://github.com/doums/suit.nvim"
+}

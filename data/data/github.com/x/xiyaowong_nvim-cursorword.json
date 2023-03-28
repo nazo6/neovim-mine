@@ -1,0 +1,65 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Current word highlight"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      },
+      {
+        "level": 4,
+        "name": "Cursorline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-06-28T05:22:31Z",
+    "description": "highlight the word under the cursor.",
+    "isArchived": false,
+    "lastCommit": "2022-06-22T13:43:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 104,
+    "topics": [
+      "neovim-plugin",
+      "cursorword",
+      "vim-cursorword"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cursorword",
+  "owner": "xiyaowong",
+  "url": "https://github.com/xiyaowong/nvim-cursorword"
+}

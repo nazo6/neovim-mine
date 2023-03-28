@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Debugger"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2023-02-15T13:34:03Z",
+    "description": "Super simple GDB integration with Neovim for debugging in C and C++",
+    "isArchived": false,
+    "lastCommit": "2023-02-22T23:54:00Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "gdb"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gdb.nvim",
+  "owner": "AlphabetsAlphabets",
+  "url": "https://github.com/AlphabetsAlphabets/gdb.nvim"
+}

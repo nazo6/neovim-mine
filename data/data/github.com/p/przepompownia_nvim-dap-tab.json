@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Debugger"
+      },
+      {
+        "level": 4,
+        "name": "nvim-dap extension"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-12-21T20:28:35Z",
+    "description": "Keep nvim-dap-ui in a separate tab",
+    "isArchived": false,
+    "lastCommit": "2023-01-25T12:02:59Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-tab",
+  "owner": "przepompownia",
+  "url": "https://github.com/przepompownia/nvim-dap-tab"
+}

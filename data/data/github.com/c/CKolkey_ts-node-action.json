@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Convert Case"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 239,
+    "createdAt": "2022-12-30T21:04:02Z",
+    "description": "Neovim Plugin for running functions on nodes.",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T08:26:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 249,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ts-node-action",
+  "owner": "CKolkey",
+  "url": "https://github.com/CKolkey/ts-node-action"
+}

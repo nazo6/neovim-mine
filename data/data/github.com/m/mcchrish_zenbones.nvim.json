@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2021-08-20T07:46:06Z",
+    "description": "🪨 A collection of contrast-based Vim/Neovim colorschemes",
+    "isArchived": false,
+    "lastCommit": "2023-01-30T03:55:57Z",
+    "primaryLanguage": {
+      "color": "#199f4b",
+      "name": "Vim Script"
+    },
+    "star": 384,
+    "topics": [
+      "neovim",
+      "neovim-colorscheme",
+      "neovim-plugin",
+      "colorscheme",
+      "vim-colorscheme",
+      "iterm2-colors",
+      "kitty-themes",
+      "vim",
+      "nvim",
+      "alacritty-colorscheme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zenbones.nvim",
+  "owner": "mcchrish",
+  "url": "https://github.com/mcchrish/zenbones.nvim"
+}

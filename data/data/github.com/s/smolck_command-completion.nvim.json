@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Command Line"
+      },
+      {
+        "level": 4,
+        "name": "command line completion"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2022-04-12T17:18:17Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-04-17T14:42:02Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 36,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "command-completion.nvim",
+  "owner": "smolck",
+  "url": "https://github.com/smolck/command-completion.nvim"
+}

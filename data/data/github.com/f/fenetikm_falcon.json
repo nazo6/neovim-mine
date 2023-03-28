@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2018-01-25T03:24:21Z",
+    "description": "A colour scheme for terminals, Vim and friends.",
+    "isArchived": false,
+    "lastCommit": "2023-03-12T03:17:37Z",
+    "primaryLanguage": {
+      "color": "#199f4b",
+      "name": "Vim Script"
+    },
+    "star": 625,
+    "topics": [
+      "colour-scheme",
+      "iterm2",
+      "kitty",
+      "neovim",
+      "exa",
+      "prismjs",
+      "terminal-theme",
+      "vim",
+      "vim-colorscheme",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "falcon",
+  "owner": "fenetikm",
+  "url": "https://github.com/fenetikm/falcon"
+}

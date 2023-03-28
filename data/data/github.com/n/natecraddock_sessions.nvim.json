@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "session.md"
+      },
+      {
+        "level": 1,
+        "name": "Session"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-01-29T04:27:28Z",
+    "description": "a simple session manager plugin",
+    "isArchived": false,
+    "lastCommit": "2023-02-16T00:07:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 74,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "session",
+      "mksession"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sessions.nvim",
+  "owner": "natecraddock",
+  "url": "https://github.com/natecraddock/sessions.nvim"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Snippet"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-03-25T14:42:48Z",
+    "description": "save code snippets fast and easy.",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T14:59:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sayama.nvim",
+  "owner": "CrispyBaccoon",
+  "url": "https://github.com/CrispyBaccoon/sayama.nvim"
+}

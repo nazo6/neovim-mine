@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "Horizontal Move"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-01-29T08:59:52Z",
+    "description": "Lua part of plugin vim-eft, highlight character(s) in line when press keyboard f t F T",
+    "isArchived": false,
+    "lastCommit": "2023-02-18T08:39:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "neovim",
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "eft.nvim",
+  "owner": "0x00-ketsu",
+  "url": "https://github.com/0x00-ketsu/eft.nvim"
+}

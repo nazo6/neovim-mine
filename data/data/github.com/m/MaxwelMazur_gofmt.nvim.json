@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Go"
+      },
+      {
+        "level": 4,
+        "name": "gofmt"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-02-13T22:37:55Z",
+    "description": "gofmt.nvim é usada para formatar o código Go no nvim",
+    "isArchived": false,
+    "lastCommit": "2023-02-13T23:58:59Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gofmt.nvim",
+  "owner": "MaxwelMazur",
+  "url": "https://github.com/MaxwelMazur/gofmt.nvim"
+}

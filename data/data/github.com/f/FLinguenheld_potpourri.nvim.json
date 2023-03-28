@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-10-04T19:21:13Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-11-25T22:04:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "potpourri.nvim",
+  "owner": "FLinguenheld",
+  "url": "https://github.com/FLinguenheld/potpourri.nvim"
+}

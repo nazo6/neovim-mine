@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-12-01T02:33:48Z",
+    "description": null,
+    "isArchived": true,
+    "lastCommit": "2022-12-04T17:38:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "aftermath.nvim",
+  "owner": "distek",
+  "url": "https://github.com/distek/aftermath.nvim"
+}

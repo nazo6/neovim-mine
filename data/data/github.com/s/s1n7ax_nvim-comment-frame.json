@@ -1,0 +1,69 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      },
+      {
+        "level": 4,
+        "name": "Comment Header"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Editing Support"
+      },
+      {
+        "level": 4,
+        "name": "Comment"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2021-07-18T12:16:17Z",
+    "description": "Detects the language using treesitter and adds a comment block",
+    "isArchived": false,
+    "lastCommit": "2022-10-11T04:37:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 90,
+    "topics": [
+      "nvim",
+      "neovim",
+      "lua",
+      "plugin",
+      "treesitter",
+      "comments",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-comment-frame",
+  "owner": "s1n7ax",
+  "url": "https://github.com/s1n7ax/nvim-comment-frame"
+}

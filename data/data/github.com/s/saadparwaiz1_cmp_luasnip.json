@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "nvim-cmp extension"
+      },
+      {
+        "level": 4,
+        "name": "nvim-cmp sources"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2021-08-09T16:41:18Z",
+    "description": "luasnip completion source for nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2022-10-28T07:56:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 355,
+    "topics": [
+      "nvim-cmp",
+      "lua",
+      "luasnip",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp_luasnip",
+  "owner": "saadparwaiz1",
+  "url": "https://github.com/saadparwaiz1/cmp_luasnip"
+}

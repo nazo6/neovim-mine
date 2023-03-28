@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Refactoring,Debugging"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2020-09-15T17:44:16Z",
+    "description": "Refactor module for nvim-treesitter",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T23:45:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 304,
+    "topics": [
+      "nvim-treesitter",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-treesitter-refactor",
+  "owner": "nvim-treesitter",
+  "url": "https://github.com/nvim-treesitter/nvim-treesitter-refactor"
+}

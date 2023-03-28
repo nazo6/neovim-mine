@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Select"
+      },
+      {
+        "level": 2,
+        "name": "Multi Cursor"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-09-05T12:38:38Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-09-18T03:48:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mc.nvim",
+  "owner": "YacineDo",
+  "url": "https://github.com/YacineDo/mc.nvim"
+}

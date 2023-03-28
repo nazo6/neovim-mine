@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Current word highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-01-15T09:15:38Z",
+    "description": "Neovim plugin to highlight current word/file path under the cursor. File path can be opened directly via key shortcut.",
+    "isArchived": false,
+    "lastCommit": "2023-01-15T11:19:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-word-highlight",
+  "owner": "elfenpiff",
+  "url": "https://github.com/elfenpiff/nvim-word-highlight"
+}

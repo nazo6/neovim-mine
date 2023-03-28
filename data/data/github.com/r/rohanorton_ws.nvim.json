@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Net"
+      },
+      {
+        "level": 3,
+        "name": "WebSocket"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 59,
+    "createdAt": "2022-09-27T12:13:20Z",
+    "description": "A Neovim websocket library [WIP]",
+    "isArchived": false,
+    "lastCommit": "2022-10-15T23:44:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ws.nvim",
+  "owner": "rohanorton",
+  "url": "https://github.com/rohanorton/ws.nvim"
+}

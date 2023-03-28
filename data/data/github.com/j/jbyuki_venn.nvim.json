@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Diagram"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Note Taking"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2021-06-01T15:00:41Z",
+    "description": "Draw ASCII diagrams in Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-11-22T14:38:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 709,
+    "topics": [
+      "ascii-art",
+      "neovim",
+      "nvim",
+      "ascii-graphics",
+      "diagrams"
+    ]
+  },
+  "domain": "github.com",
+  "name": "venn.nvim",
+  "owner": "jbyuki",
+  "url": "https://github.com/jbyuki/venn.nvim"
+}

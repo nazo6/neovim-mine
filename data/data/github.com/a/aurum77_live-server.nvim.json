@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "HTML"
+      },
+      {
+        "level": 4,
+        "name": "live server"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2022-09-04T11:05:59Z",
+    "description": "A plugin to integrate live-server from Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-25T09:48:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "live-server",
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "live-server.nvim",
+  "owner": "aurum77",
+  "url": "https://github.com/aurum77/live-server.nvim"
+}

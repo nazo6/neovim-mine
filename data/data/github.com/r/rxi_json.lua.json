@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "JSON"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2015-08-12T19:18:12Z",
+    "description": "A lightweight JSON library for Lua",
+    "isArchived": false,
+    "lastCommit": "2020-06-18T16:03:53Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1496,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "json.lua",
+  "owner": "rxi",
+  "url": "https://github.com/rxi/json.lua"
+}

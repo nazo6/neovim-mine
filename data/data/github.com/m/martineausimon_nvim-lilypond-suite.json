@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Audio"
+      },
+      {
+        "level": 4,
+        "name": "LilyPond"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 227,
+    "createdAt": "2022-07-26T11:14:36Z",
+    "description": "Neovim plugin for writing LilyPond scores, with asynchronous make, midi/mp3 player, fast syntax highlighting, \"hyphenation\" function, and support for LaTex files",
+    "isArchived": false,
+    "lastCommit": "2023-03-22T00:19:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 76,
+    "topics": [
+      "asynchronous",
+      "ftplugin",
+      "latex",
+      "lilypond",
+      "lilypond-book",
+      "mp3-player",
+      "neovim",
+      "syntax",
+      "lyluatex",
+      "hyphenation"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lilypond-suite",
+  "owner": "martineausimon",
+  "url": "https://github.com/martineausimon/nvim-lilypond-suite"
+}

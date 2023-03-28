@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Calculation"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-11-13T12:26:38Z",
+    "description": "A Neovim plugin that calculates math expressions.",
+    "isArchived": false,
+    "lastCommit": "2022-11-15T14:51:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "calculator.nvim",
+  "owner": "vzze",
+  "url": "https://github.com/vzze/calculator.nvim"
+}

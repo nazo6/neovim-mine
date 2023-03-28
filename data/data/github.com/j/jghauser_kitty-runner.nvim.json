@@ -1,0 +1,87 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "External terminal"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Terminal"
+      },
+      {
+        "level": 4,
+        "name": "Kitty"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Integration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2021-05-16T15:04:58Z",
+    "description": "A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal",
+    "isArchived": false,
+    "lastCommit": "2022-09-07T15:40:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 68,
+    "topics": [
+      "neovim",
+      "plugin",
+      "lua",
+      "nvim",
+      "kitty",
+      "terminal",
+      "repl"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kitty-runner.nvim",
+  "owner": "jghauser",
+  "url": "https://github.com/jghauser/kitty-runner.nvim"
+}

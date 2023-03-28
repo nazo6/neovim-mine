@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      },
+      {
+        "level": 2,
+        "name": "Mapping search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-11-06T21:45:34Z",
+    "description": "Neovim Telescope extension for creating, documenting, and searching keymaps.",
+    "isArchived": false,
+    "lastCommit": "2022-11-10T17:31:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-keymapper",
+  "owner": "bgrohman",
+  "url": "https://github.com/bgrohman/nvim-keymapper"
+}

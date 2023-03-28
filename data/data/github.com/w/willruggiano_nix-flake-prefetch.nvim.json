@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Nix"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-02-06T06:18:33Z",
+    "description": "Fetch derivation src hashes using nix3-flake-prefetch(1)",
+    "isArchived": false,
+    "lastCommit": "2023-03-14T16:39:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nix-flake-prefetch.nvim",
+  "owner": "willruggiano",
+  "url": "https://github.com/willruggiano/nix-flake-prefetch.nvim"
+}

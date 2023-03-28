@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2022-10-28T09:29:08Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-11-08T12:17:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lf",
+  "owner": "lostl1ght",
+  "url": "https://github.com/lostl1ght/nvim-lf"
+}

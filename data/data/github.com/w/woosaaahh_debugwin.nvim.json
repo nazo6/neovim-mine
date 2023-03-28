@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-10-25T04:13:44Z",
+    "description": "DebugWin helps to visualize messages or Lua results in a separate window.",
+    "isArchived": false,
+    "lastCommit": "2022-10-25T04:10:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "debugwin.nvim",
+  "owner": "woosaaahh",
+  "url": "https://github.com/woosaaahh/debugwin.nvim"
+}

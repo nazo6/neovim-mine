@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Cloud"
+      },
+      {
+        "level": 4,
+        "name": "Terraform"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-03-10T20:29:59Z",
+    "description": "Find terraform resources and documentation",
+    "isArchived": false,
+    "lastCommit": "2023-03-13T01:12:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "telescope",
+      "terraform"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-terraform-doc.nvim",
+  "owner": "walbi-malbi",
+  "url": "https://github.com/walbi-malbi/telescope-terraform-doc.nvim"
+}

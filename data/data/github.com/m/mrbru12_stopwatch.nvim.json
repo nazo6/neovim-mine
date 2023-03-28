@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Pomodoro"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-12-26T19:07:39Z",
+    "description": "Keep track of how long Neovim has been running",
+    "isArchived": false,
+    "lastCommit": "2022-12-31T16:03:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stopwatch.nvim",
+  "owner": "mrbru12",
+  "url": "https://github.com/mrbru12/stopwatch.nvim"
+}

@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Keybinding"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-09-08T06:01:58Z",
+    "description": "A ridiculously fun alternative nvim keymap for the workman keyboard layout",
+    "isArchived": false,
+    "lastCommit": "2022-03-22T22:20:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "workman-layout",
+      "neovim",
+      "workman",
+      "keymap"
+    ]
+  },
+  "domain": "github.com",
+  "name": "unruly-worker",
+  "owner": "slugbyte",
+  "url": "https://github.com/slugbyte/unruly-worker"
+}

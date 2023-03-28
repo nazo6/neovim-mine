@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Help"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2023-02-04T18:47:25Z",
+    "description": "🏃 A Neovim plugin to give tldr-style docs for various language features",
+    "isArchived": false,
+    "lastCommit": "2023-02-08T09:18:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tldr-lang.nvim",
+  "owner": "roobert",
+  "url": "https://github.com/roobert/tldr-lang.nvim"
+}

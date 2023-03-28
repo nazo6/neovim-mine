@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatter"
+      },
+      {
+        "level": 3,
+        "name": "Trim Whitespace"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-10-24T16:32:21Z",
+    "description": "Neovim Lua plugin to manage trailspace (highlight and remove). Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2023-03-13T14:31:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.trailspace",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.trailspace"
+}

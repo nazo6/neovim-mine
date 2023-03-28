@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Adding and subtracting"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-02-04T12:47:25Z",
+    "description": "Easily convert number under cursor between different units",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T06:11:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "conversion",
+      "si",
+      "unit",
+      "measurment-units",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-uconv",
+  "owner": "frenzox",
+  "url": "https://github.com/frenzox/nvim-uconv"
+}

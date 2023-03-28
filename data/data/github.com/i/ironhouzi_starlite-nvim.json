@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-08-20T10:03:10Z",
+    "description": "Expedient and simple text highlighting using built in Neovim commands:  |*|, |g*|, |#|, |g#|. Written in Lua.",
+    "isArchived": false,
+    "lastCommit": "2021-08-20T12:31:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "starlite-nvim",
+  "owner": "ironhouzi",
+  "url": "https://github.com/ironhouzi/starlite-nvim"
+}

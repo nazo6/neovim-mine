@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2022-12-05T14:13:17Z",
+    "description": "an #openAI powered pair programming partner",
+    "isArchived": false,
+    "lastCommit": "2023-01-16T13:50:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 34,
+    "topics": [
+      "gpt-3",
+      "openai",
+      "rust",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pair-gpt.nvim",
+  "owner": "naps62",
+  "url": "https://github.com/naps62/pair-gpt.nvim"
+}

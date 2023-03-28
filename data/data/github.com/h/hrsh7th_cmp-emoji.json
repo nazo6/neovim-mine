@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "emoji.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Emoji"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-08-09T06:02:00Z",
+    "description": "nvim-cmp source for emoji",
+    "isArchived": false,
+    "lastCommit": "2021-09-28T13:10:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 112,
+    "topics": [
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-emoji",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/cmp-emoji"
+}

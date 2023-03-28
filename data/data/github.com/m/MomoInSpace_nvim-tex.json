@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2022-10-06T13:14:08Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-10-23T07:11:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "latex",
+      "luasnip",
+      "nvim",
+      "settings"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tex",
+  "owner": "MomoInSpace",
+  "url": "https://github.com/MomoInSpace/nvim-tex"
+}

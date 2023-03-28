@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "AsciiDoc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2023-01-20T16:28:47Z",
+    "description": "A simple AsciiDoc preview while editing AsciiDoc documents in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-05T14:47:46Z",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "node-js",
+      "asciidoc",
+      "asciidoctor"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-asciidoc-preview",
+  "owner": "tigion",
+  "url": "https://github.com/tigion/nvim-asciidoc-preview"
+}

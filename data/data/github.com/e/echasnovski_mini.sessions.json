@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "session.md"
+      },
+      {
+        "level": 1,
+        "name": "Session"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-10-24T16:27:22Z",
+    "description": "Neovim Lua plugin for session management. Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T08:36:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.sessions",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.sessions"
+}

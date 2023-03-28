@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2022-08-09T09:29:58Z",
+    "description": "Easy comment with lua",
+    "isArchived": false,
+    "lastCommit": "2022-11-07T17:27:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "luacomment.nvim",
+  "owner": "FLinguenheld",
+  "url": "https://github.com/FLinguenheld/luacomment.nvim"
+}

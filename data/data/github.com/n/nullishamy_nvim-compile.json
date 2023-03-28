@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Command style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-08-01T23:21:47Z",
+    "description": "An nvim utility to set and run compilation commands for buffers and workspaces",
+    "isArchived": false,
+    "lastCommit": "2022-10-13T19:52:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-compile",
+  "owner": "nullishamy",
+  "url": "https://github.com/nullishamy/nvim-compile"
+}

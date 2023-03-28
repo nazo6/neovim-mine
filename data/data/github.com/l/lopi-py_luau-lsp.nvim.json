@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Luau"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-02-22T05:18:27Z",
+    "description": "A plugin to improve the development experience in Luau",
+    "isArchived": false,
+    "lastCommit": "2023-02-22T07:23:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "luau",
+      "neovim",
+      "roblox",
+      "rojo",
+      "luau-lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "luau-lsp.nvim",
+  "owner": "lopi-py",
+  "url": "https://github.com/lopi-py/luau-lsp.nvim"
+}

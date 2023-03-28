@@ -1,0 +1,59 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git status"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Git"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 83,
+    "createdAt": "2021-04-22T00:44:14Z",
+    "description": "Visual git plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-15T13:59:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 463,
+    "topics": [
+      "neovim",
+      "git",
+      "lua",
+      "scm",
+      "git-porcelain"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vgit.nvim",
+  "owner": "tanvirtin",
+  "url": "https://github.com/tanvirtin/vgit.nvim"
+}

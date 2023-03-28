@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Patch"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2022-12-26T03:43:34Z",
+    "description": "Keep clipboard in sync with Neovim without the peformance hit.",
+    "isArchived": false,
+    "lastCommit": "2023-03-01T15:51:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 52,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "deferred-clipboard.nvim",
+  "owner": "EtiamNullam",
+  "url": "https://github.com/EtiamNullam/deferred-clipboard.nvim"
+}

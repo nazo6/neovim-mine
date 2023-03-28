@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-01-22T19:33:19Z",
+    "description": ":yarn: A Neovim plugin to toggle python f-strings",
+    "isArchived": false,
+    "lastCommit": "2023-02-08T09:14:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "f-string-toggle.nvim",
+  "owner": "roobert",
+  "url": "https://github.com/roobert/f-string-toggle.nvim"
+}

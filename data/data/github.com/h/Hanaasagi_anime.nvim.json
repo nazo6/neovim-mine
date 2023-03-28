@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Video"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-02-15T07:07:44Z",
+    "description": "Small Anime Widget For Neovim ☄️",
+    "isArchived": false,
+    "lastCommit": "2023-02-16T15:03:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "anime.nvim",
+  "owner": "Hanaasagi",
+  "url": "https://github.com/Hanaasagi/anime.nvim"
+}

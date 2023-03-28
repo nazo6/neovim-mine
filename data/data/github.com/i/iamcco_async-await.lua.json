@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "async"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-04-26T03:42:44Z",
+    "description": "Write async function more like javascript async/await",
+    "isArchived": false,
+    "lastCommit": "2022-12-25T06:32:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "async-await.lua",
+  "owner": "iamcco",
+  "url": "https://github.com/iamcco/async-await.lua"
+}

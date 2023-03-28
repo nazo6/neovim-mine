@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Scrollbar"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 91,
+    "createdAt": "2022-05-10T15:39:11Z",
+    "description": "Decorate scrollbar for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-13T10:41:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 250,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "satellite.nvim",
+  "owner": "lewis6991",
+  "url": "https://github.com/lewis6991/satellite.nvim"
+}

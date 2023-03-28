@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Font"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-03-07T12:20:26Z",
+    "description": "get the nerdfont icons inside neovim ",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T05:14:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nerdicons.nvim",
+  "owner": "glepnir",
+  "url": "https://github.com/glepnir/nerdicons.nvim"
+}

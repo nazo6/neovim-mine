@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "GitHub tweaks"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-10-09T07:47:55Z",
+    "description": "Statusline + Telescope integration for viewing and interacting with GitHub notifications",
+    "isArchived": false,
+    "lastCommit": "2021-10-18T09:39:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 77,
+    "topics": [
+      "statusline",
+      "telescope",
+      "neovim",
+      "lualine",
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "github-notifications.nvim",
+  "owner": "rlch",
+  "url": "https://github.com/rlch/github-notifications.nvim"
+}

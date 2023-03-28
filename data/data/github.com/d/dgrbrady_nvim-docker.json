@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "Docker"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 56,
+    "createdAt": "2022-07-20T18:03:17Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-07-28T06:15:52Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 102,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-docker",
+  "owner": "dgrbrady",
+  "url": "https://github.com/dgrbrady/nvim-docker"
+}

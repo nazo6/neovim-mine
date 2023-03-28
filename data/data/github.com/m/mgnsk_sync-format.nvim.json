@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-01-18T09:34:18Z",
+    "description": "Synchronous formatter runner for Neovim using in-place formatters. No stdin support.",
+    "isArchived": false,
+    "lastCommit": "2023-01-21T15:45:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "formatter",
+      "neovim",
+      "neovim-plugin",
+      "sync",
+      "synchronous",
+      "in-place",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sync-format.nvim",
+  "owner": "mgnsk",
+  "url": "https://github.com/mgnsk/sync-format.nvim"
+}

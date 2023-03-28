@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2021-08-12T12:27:55Z",
+    "description": "Highlights the current /, ? or * match under your cursor when pressing n or N and gets out of the way afterwards.",
+    "isArchived": false,
+    "lastCommit": "2022-12-03T12:01:28Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 66,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "lua",
+      "fennel"
+    ]
+  },
+  "domain": "github.com",
+  "name": "highlight-current-n.nvim",
+  "owner": "rktjmp",
+  "url": "https://github.com/rktjmp/highlight-current-n.nvim"
+}

@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 183,
+    "createdAt": "2022-09-16T12:23:28Z",
+    "description": "Show buffer list in the winbar.",
+    "isArchived": true,
+    "lastCommit": "2022-11-14T16:43:26Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "winbarbar.nvim",
+  "owner": "mrjones2014",
+  "url": "https://github.com/mrjones2014/winbarbar.nvim"
+}

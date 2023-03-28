@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Scratchpad"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2022-03-23T05:14:38Z",
+    "description": "plugin to auto-centre neovim buffers with a useful persistent scratchpad on the side",
+    "isArchived": false,
+    "lastCommit": "2022-12-12T07:56:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 48,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "neovim-lua-plugin",
+      "vim",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ScratchPad",
+  "owner": "FraserLee",
+  "url": "https://github.com/FraserLee/ScratchPad"
+}

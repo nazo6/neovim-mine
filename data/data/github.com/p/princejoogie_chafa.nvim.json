@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Image Viewer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-12-28T13:41:40Z",
+    "description": "A neovim plugin for viewing images.",
+    "isArchived": false,
+    "lastCommit": "2023-01-06T16:03:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 48,
+    "topics": [
+      "chafa",
+      "lua",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chafa.nvim",
+  "owner": "princejoogie",
+  "url": "https://github.com/princejoogie/chafa.nvim"
+}

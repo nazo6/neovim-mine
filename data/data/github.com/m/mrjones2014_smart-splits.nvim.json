@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "Window Management"
+      },
+      {
+        "level": 4,
+        "name": "resize"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 55,
+    "createdAt": "2022-03-19T18:49:00Z",
+    "description": "🧠 Smart, directional Neovim and tmux split resizing and navigation. Think about splits in terms of \"up/down/left/right\".",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T12:02:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 280,
+    "topics": [
+      "nvim",
+      "neovim",
+      "neovim-plugin",
+      "window-manager",
+      "window-management",
+      "split",
+      "split-pane"
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-splits.nvim",
+  "owner": "mrjones2014",
+  "url": "https://github.com/mrjones2014/smart-splits.nvim"
+}

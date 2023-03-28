@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "winbar"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-11-12T13:56:31Z",
+    "description": "A simple winbar plugin written in Lua",
+    "isArchived": false,
+    "lastCommit": "2022-11-23T16:34:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "winbar.nvim",
+  "owner": "Alighorab",
+  "url": "https://github.com/Alighorab/winbar.nvim"
+}

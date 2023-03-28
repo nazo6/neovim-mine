@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "gui.md"
+      },
+      {
+        "level": 1,
+        "name": "GUI"
+      },
+      {
+        "level": 2,
+        "name": "C++"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2014-05-26T15:31:34Z",
+    "description": "Neovim client library and GUI, in Qt5.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T18:07:48Z",
+    "primaryLanguage": {
+      "color": "#f34b7d",
+      "name": "C++"
+    },
+    "star": 1561,
+    "topics": [
+      "qt",
+      "neovim-guis",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neovim-qt",
+  "owner": "equalsraf",
+  "url": "https://github.com/equalsraf/neovim-qt"
+}

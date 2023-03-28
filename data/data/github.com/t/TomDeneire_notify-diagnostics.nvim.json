@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Diagnostics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2023-02-17T07:22:26Z",
+    "description": "Display LSP diagnostics using nvim-notify",
+    "isArchived": false,
+    "lastCommit": "2023-03-11T13:06:22Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "diagnostics",
+      "lsp",
+      "neovim",
+      "nvim-notify"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notify-diagnostics.nvim",
+  "owner": "TomDeneire",
+  "url": "https://github.com/TomDeneire/notify-diagnostics.nvim"
+}

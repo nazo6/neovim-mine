@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "textobject_operator.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Textobject"
+      },
+      {
+        "level": 3,
+        "name": "Surround"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-02-14T16:18:04Z",
+    "description": "A surround text object plugin for neovim written in lua. (Fork from blackCauldron7/surround.nvim)",
+    "isArchived": false,
+    "lastCommit": "2022-10-10T05:04:53Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 95,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "surround.nvim",
+  "owner": "ur4ltz",
+  "url": "https://github.com/ur4ltz/surround.nvim"
+}

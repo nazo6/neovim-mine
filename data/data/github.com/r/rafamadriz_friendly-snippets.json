@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Snippet"
+      },
+      {
+        "level": 4,
+        "name": "Snippet definitions"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 176,
+    "createdAt": "2021-03-27T14:00:18Z",
+    "description": "Set of preconfigured snippets for different languages. ",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T09:27:42Z",
+    "primaryLanguage": null,
+    "star": 982,
+    "topics": [
+      "snippets",
+      "friendly-snippets",
+      "languages",
+      "programming-languages"
+    ]
+  },
+  "domain": "github.com",
+  "name": "friendly-snippets",
+  "owner": "rafamadriz",
+  "url": "https://github.com/rafamadriz/friendly-snippets"
+}

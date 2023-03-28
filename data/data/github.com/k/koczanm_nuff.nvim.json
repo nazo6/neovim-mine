@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Pomodoro"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-03-01T20:02:17Z",
+    "description": "Pomodoro for Neovim - do nuff and meet goals",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T16:02:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nuff.nvim",
+  "owner": "koczanm",
+  "url": "https://github.com/koczanm/nuff.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-12-25T21:42:35Z",
+    "description": "Telescope picker for running simple code via stdin to language compiler and output to message window.",
+    "isArchived": false,
+    "lastCommit": "2023-01-04T22:46:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-scratch-run.nvim",
+  "owner": "4542elgh",
+  "url": "https://github.com/4542elgh/telescope-scratch-run.nvim"
+}

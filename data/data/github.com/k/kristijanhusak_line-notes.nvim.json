@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "inline note"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-01-17T12:47:02Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2021-07-11T17:40:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "line-notes.nvim",
+  "owner": "kristijanhusak",
+  "url": "https://github.com/kristijanhusak/line-notes.nvim"
+}

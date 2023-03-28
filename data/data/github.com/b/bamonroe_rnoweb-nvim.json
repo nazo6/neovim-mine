@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 53,
+    "createdAt": "2022-06-19T18:24:02Z",
+    "description": "A neovim plugin for rnoweb files",
+    "isArchived": false,
+    "lastCommit": "2022-11-22T10:51:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rnoweb-nvim",
+  "owner": "bamonroe",
+  "url": "https://github.com/bamonroe/rnoweb-nvim"
+}

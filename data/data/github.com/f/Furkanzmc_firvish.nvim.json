@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-09-18T20:26:55Z",
+    "description": "WIP",
+    "isArchived": false,
+    "lastCommit": "2022-01-16T01:52:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 32,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "nvim",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "firvish.nvim",
+  "owner": "Furkanzmc",
+  "url": "https://github.com/Furkanzmc/firvish.nvim"
+}

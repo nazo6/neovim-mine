@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "plugin-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Plugin Manager"
+      },
+      {
+        "level": 3,
+        "name": "Use builtin package feature"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-02-26T15:10:32Z",
+    "description": "[WIP] A plugin manager for Neovim written in Lua.",
+    "isArchived": false,
+    "lastCommit": "2023-02-26T15:39:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hephy.nvim",
+  "owner": "zukijifukato",
+  "url": "https://github.com/zukijifukato/hephy.nvim"
+}

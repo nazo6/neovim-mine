@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Indent"
+      },
+      {
+        "level": 4,
+        "name": "Indent Size"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-05-03T16:19:18Z",
+    "description": "NeoVim plugin to auto configure 'ts', 'sw', 'sts', 'et'",
+    "isArchived": false,
+    "lastCommit": "2021-10-15T23:24:32Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+      "neovim-plugin",
+      "indentation"
+    ]
+  },
+  "domain": "github.com",
+  "name": "crazy8.nvim",
+  "owner": "zsugabubus",
+  "url": "https://github.com/zsugabubus/crazy8.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "cd(change directory)"
+      },
+      {
+        "level": 4,
+        "name": "z"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-01-28T09:46:22Z",
+    "description": "A plugin to use `https://github.com/agkozak/zsh-z` in nvim.",
+    "isArchived": false,
+    "lastCommit": "2023-01-29T11:47:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "z.nvim",
+  "owner": "tenfyzhong",
+  "url": "https://github.com/tenfyzhong/z.nvim"
+}

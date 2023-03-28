@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-01-23T17:11:11Z",
+    "description": "Gitui in your Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-01-23T17:12:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "nvim",
+      "git",
+      "gitui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitui.nvim",
+  "owner": "aspeddro",
+  "url": "https://github.com/aspeddro/gitui.nvim"
+}

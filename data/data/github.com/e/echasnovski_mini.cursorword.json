@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Current word highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-10-24T16:19:50Z",
+    "description": "Neovim Lua plugin for autohighlighting word under cursor. Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2023-03-13T14:31:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.cursorword",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.cursorword"
+}

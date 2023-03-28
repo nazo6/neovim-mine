@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "JSON"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2022-03-23T00:57:08Z",
+    "description": "Neovim plugin for launching commands in your projects",
+    "isArchived": false,
+    "lastCommit": "2023-02-16T05:40:33Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "projectlaunch.nvim",
+  "owner": "sheodox",
+  "url": "https://github.com/sheodox/projectlaunch.nvim"
+}

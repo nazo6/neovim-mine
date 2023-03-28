@@ -1,0 +1,69 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "colorscheme.md"
+      },
+      {
+        "level": 1,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 2,
+        "name": "Black Base"
+      },
+      {
+        "level": 3,
+        "name": "Onedark"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 369,
+    "createdAt": "2021-04-07T17:22:14Z",
+    "description": "🎨 Atom's iconic One Dark theme, for Neovim. Fully customisable, with Treesitter and LSP semantic token support",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T12:44:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 460,
+    "topics": [
+      "neovim",
+      "theme",
+      "onedark",
+      "lua",
+      "nvim",
+      "onedarkpro",
+      "colorscheme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "onedarkpro.nvim",
+  "owner": "olimorris",
+  "url": "https://github.com/olimorris/onedarkpro.nvim"
+}

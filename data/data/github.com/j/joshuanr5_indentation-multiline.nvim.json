@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Indent"
+      },
+      {
+        "level": 4,
+        "name": "Indent Shift"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-12-10T19:22:40Z",
+    "description": "NeoVim Plugin written in Lua to indent multilines with Tab and S-Tab",
+    "isArchived": false,
+    "lastCommit": "2022-12-15T14:31:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "indent",
+      "indentation",
+      "neovim",
+      "neovim-plugin",
+      "indentation-multiline",
+      "lua",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "indentation-multiline.nvim",
+  "owner": "joshuanr5",
+  "url": "https://github.com/joshuanr5/indentation-multiline.nvim"
+}

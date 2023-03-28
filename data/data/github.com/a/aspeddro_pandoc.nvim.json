@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Pandoc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2021-10-20T22:16:34Z",
+    "description": "A Neovim plugin for pandoc",
+    "isArchived": false,
+    "lastCommit": "2022-10-16T06:11:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+      "nvim",
+      "neovim",
+      "pandoc",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pandoc.nvim",
+  "owner": "aspeddro",
+  "url": "https://github.com/aspeddro/pandoc.nvim"
+}

@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Go"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Programming Languages Support"
+      },
+      {
+        "level": 4,
+        "name": "Golang"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-08-30T21:51:35Z",
+    "description": "Go Coverage for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-09-15T12:01:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+      "go",
+      "coverage",
+      "testing",
+      "neovim",
+      "plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-goc.lua",
+  "owner": "rafaelsq",
+  "url": "https://github.com/rafaelsq/nvim-goc.lua"
+}

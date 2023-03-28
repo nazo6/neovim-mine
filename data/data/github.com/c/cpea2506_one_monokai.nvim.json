@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 118,
+    "createdAt": "2021-10-29T05:06:02Z",
+    "description": "One Monokai for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T04:11:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 67,
+    "topics": [
+      "neovim",
+      "lua",
+      "one-monokai",
+      "theme",
+      "monokai"
+    ]
+  },
+  "domain": "github.com",
+  "name": "one_monokai.nvim",
+  "owner": "cpea2506",
+  "url": "https://github.com/cpea2506/one_monokai.nvim"
+}

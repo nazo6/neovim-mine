@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "emoji.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Emoji"
+      },
+      {
+        "level": 3,
+        "name": "Emoji FuzzyFinder"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-03-14T14:27:03Z",
+    "description": "Dumb simple `vim.ui.select` picker for nerdfont icons",
+    "isArchived": false,
+    "lastCommit": "2023-03-14T14:27:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "iconpicker.nvim",
+  "owner": "mrjones2014",
+  "url": "https://github.com/mrjones2014/iconpicker.nvim"
+}

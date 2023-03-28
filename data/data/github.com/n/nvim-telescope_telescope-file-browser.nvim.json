@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "FuzzyFinder Style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 76,
+    "createdAt": "2021-11-13T15:50:31Z",
+    "description": "File Browser extension for telescope.nvim",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T13:29:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 899,
+    "topics": [
+      "neovim",
+      "lua",
+      "file-manager",
+      "file-explorer"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-file-browser.nvim",
+  "owner": "nvim-telescope",
+  "url": "https://github.com/nvim-telescope/telescope-file-browser.nvim"
+}

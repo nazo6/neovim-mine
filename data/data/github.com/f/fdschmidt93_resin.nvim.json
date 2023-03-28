@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "REPL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2022-07-08T10:06:41Z",
+    "description": "repl plugin for neovim built on textobjects",
+    "isArchived": false,
+    "lastCommit": "2023-02-01T16:14:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "neovim",
+      "repl",
+      "lua",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "resin.nvim",
+  "owner": "fdschmidt93",
+  "url": "https://github.com/fdschmidt93/resin.nvim"
+}

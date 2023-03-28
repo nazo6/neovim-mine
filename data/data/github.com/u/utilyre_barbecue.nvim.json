@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "winbar"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 562,
+    "createdAt": "2022-07-14T10:40:43Z",
+    "description": "A VS Code like winbar for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T18:25:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 304,
+    "topics": [
+      "lua",
+      "neovim",
+      "plugin",
+      "winbar",
+      "language-server-protocol",
+      "lsp",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "document-symbols"
+    ]
+  },
+  "domain": "github.com",
+  "name": "barbecue.nvim",
+  "owner": "utilyre",
+  "url": "https://github.com/utilyre/barbecue.nvim"
+}

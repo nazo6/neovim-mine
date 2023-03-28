@@ -1,0 +1,56 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "auto-insert.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "insert pairs"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "auto-insert.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "insert pairs"
+      },
+      {
+        "level": 3,
+        "name": "endwise"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 113,
+    "createdAt": "2023-01-10T12:42:53Z",
+    "description": "Flexible key mapping manager.",
+    "isArchived": false,
+    "lastCommit": "2023-03-15T13:33:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 113,
+    "topics": [
+      "neovim",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-insx",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/nvim-insx"
+}

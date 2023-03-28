@@ -1,0 +1,60 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Weather"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Fennel"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 225,
+    "createdAt": "2021-07-21T03:22:27Z",
+    "description": ":stew: Carl Weathers #1 Neovim Plugin.",
+    "isArchived": false,
+    "lastCommit": "2023-02-14T10:31:53Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 265,
+    "topics": [
+      "neovim",
+      "fennel",
+      "neovim-plugin",
+      "lua",
+      "lisp",
+      "carl-weathers"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hotpot.nvim",
+  "owner": "rktjmp",
+  "url": "https://github.com/rktjmp/hotpot.nvim"
+}

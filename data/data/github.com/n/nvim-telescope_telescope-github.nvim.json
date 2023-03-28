@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      },
+      {
+        "level": 3,
+        "name": "Telescope Extensions"
+      },
+      {
+        "level": 4,
+        "name": "Integration for another plugin"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2020-12-02T04:43:36Z",
+    "description": "Integration with github cli",
+    "isArchived": false,
+    "lastCommit": "2022-04-22T14:41:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 172,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-github.nvim",
+  "owner": "nvim-telescope",
+  "url": "https://github.com/nvim-telescope/telescope-github.nvim"
+}

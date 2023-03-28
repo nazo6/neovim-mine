@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "CSS"
+      },
+      {
+        "level": 4,
+        "name": "tailwind"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2023-02-04T01:20:51Z",
+    "description": "Easily sort Tailwind classes in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-02-17T17:41:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 34,
+    "topics": [
+      "neovim",
+      "tailwindcss",
+      "deno"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tailwind-sorter.nvim",
+  "owner": "laytan",
+  "url": "https://github.com/laytan/tailwind-sorter.nvim"
+}

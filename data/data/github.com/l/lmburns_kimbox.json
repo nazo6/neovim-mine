@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 130,
+    "createdAt": "2021-02-11T06:55:05Z",
+    "description": "Kimbie Dark Neovim colorscheme",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T17:36:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 46,
+    "topics": [
+      "kimbie-dark",
+      "neovim-colorscheme",
+      "neovim-theme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kimbox",
+  "owner": "lmburns",
+  "url": "https://github.com/lmburns/kimbox"
+}

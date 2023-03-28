@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Pre-configuration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2022-04-24T05:57:59Z",
+    "description": "A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.",
+    "isArchived": false,
+    "lastCommit": "2023-03-15T08:22:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 195,
+    "topics": [
+      "lsp-server",
+      "nvim",
+      "nvim-lspconfig",
+      "lua",
+      "mason",
+      "neovim",
+      "mason-lspconfig"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lsp-setup",
+  "owner": "junnplus",
+  "url": "https://github.com/junnplus/nvim-lsp-setup"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Reload Configuration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2022-10-11T12:15:05Z",
+    "description": "A simple plugin that reloads your neovim configuration painlessly.",
+    "isArchived": false,
+    "lastCommit": "2022-11-04T08:36:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "reloader.nvim",
+  "owner": "milkias17",
+  "url": "https://github.com/milkias17/reloader.nvim"
+}

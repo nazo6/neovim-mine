@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "CSS"
+      },
+      {
+        "level": 4,
+        "name": "tailwind"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-08-26T20:02:06Z",
+    "description": "Autocomplete tailwind classes",
+    "isArchived": false,
+    "lastCommit": "2022-09-29T07:47:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tailwind",
+  "owner": "sigmaSd",
+  "url": "https://github.com/sigmaSd/nvim-tailwind"
+}

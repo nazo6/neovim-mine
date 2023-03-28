@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Terminal"
+      },
+      {
+        "level": 4,
+        "name": "Windows Terminal"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-01-10T16:46:40Z",
+    "description": "Stupid neovim plugin to change the background of the windows terminal from neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-10T17:15:53Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "windows-terminal-bg.nvim",
+  "owner": "BlueKossa",
+  "url": "https://github.com/BlueKossa/windows-terminal-bg.nvim"
+}

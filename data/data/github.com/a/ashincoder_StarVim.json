@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-07-10T09:35:39Z",
+    "description": "A neovim IDE which is beyond the moon 🌚 ",
+    "isArchived": true,
+    "lastCommit": "2021-09-26T08:19:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 43,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "beauty",
+      "starvim",
+      "star",
+      "neovim-configuration",
+      "nvim-tel",
+      "nvim-lua",
+      "nvim-lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "StarVim",
+  "owner": "ashincoder",
+  "url": "https://github.com/ashincoder/StarVim"
+}

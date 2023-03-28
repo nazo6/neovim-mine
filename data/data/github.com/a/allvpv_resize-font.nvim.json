@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Font"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-12-09T17:37:35Z",
+    "description": " quick font resizing in Neovim GUI",
+    "isArchived": false,
+    "lastCommit": "2022-12-30T20:33:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "resize-font.nvim",
+  "owner": "allvpv",
+  "url": "https://github.com/allvpv/resize-font.nvim"
+}

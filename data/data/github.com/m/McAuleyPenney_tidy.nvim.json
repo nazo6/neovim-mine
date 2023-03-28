@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatter"
+      },
+      {
+        "level": 3,
+        "name": "Trim Whitespace"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2021-10-26T03:57:34Z",
+    "description": "A small Neovim plugin to remove trailing whitespace and empty lines at end of file on every save",
+    "isArchived": false,
+    "lastCommit": "2022-09-17T21:03:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 83,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tidy.nvim",
+  "owner": "McAuleyPenney",
+  "url": "https://github.com/McAuleyPenney/tidy.nvim"
+}

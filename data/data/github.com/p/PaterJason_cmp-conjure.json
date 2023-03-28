@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Clojure"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-08-23T20:00:45Z",
+    "description": "nvim-cmp source for conjure.",
+    "isArchived": false,
+    "lastCommit": "2022-12-05T12:09:53Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 34,
+    "topics": [
+      "neovim",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-conjure",
+  "owner": "PaterJason",
+  "url": "https://github.com/PaterJason/cmp-conjure"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Save"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 56,
+    "createdAt": "2023-03-21T21:55:28Z",
+    "description": "Neovim plugin for auto-saving with buffer options and toggle.",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T02:05:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "save-file"
+    ]
+  },
+  "domain": "github.com",
+  "name": "NeoSave.nvim",
+  "owner": "ecthelionvi",
+  "url": "https://github.com/ecthelionvi/NeoSave.nvim"
+}

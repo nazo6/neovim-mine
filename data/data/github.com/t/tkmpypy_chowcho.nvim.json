@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "Window Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2020-11-25T07:01:03Z",
+    "description": "simply window selector for neovim written in lua",
+    "isArchived": false,
+    "lastCommit": "2023-01-31T14:19:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+      "neovim",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chowcho.nvim",
+  "owner": "tkmpypy",
+  "url": "https://github.com/tkmpypy/chowcho.nvim"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Code action"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-09-13T16:30:55Z",
+    "description": "handlers for required lsp actions",
+    "isArchived": false,
+    "lastCommit": "2022-05-15T08:41:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 51,
+    "topics": [
+      "neovim",
+      "nvim",
+      "lua",
+      "vim",
+      "lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lspactions",
+  "owner": "RishabhRD",
+  "url": "https://github.com/RishabhRD/lspactions"
+}

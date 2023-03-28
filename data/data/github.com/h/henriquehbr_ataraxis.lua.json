@@ -1,0 +1,31 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-08-19T21:21:23Z",
+    "description": "A simple zen mode for improving code readability on neovim",
+    "isArchived": true,
+    "lastCommit": "2022-07-31T18:50:06Z",
+    "primaryLanguage": null,
+    "star": 19,
+    "topics": [
+      "neovim",
+      "nvim",
+      "lua",
+      "neovim-plugin",
+      "nvim-plugin",
+      "zen-mode"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ataraxis.lua",
+  "owner": "henriquehbr",
+  "url": "https://github.com/henriquehbr/ataraxis.lua"
+}

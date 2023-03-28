@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Select"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-02-18T21:50:19Z",
+    "description": "doing cool neovim stuff",
+    "isArchived": false,
+    "lastCommit": "2023-02-20T12:16:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "selector.nvim",
+  "owner": "karim-hammami",
+  "url": "https://github.com/karim-hammami/selector.nvim"
+}

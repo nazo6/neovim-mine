@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Godot"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2023-01-25T01:57:24Z",
+    "description": "Use Neovim as your Godot code editor! (Maintained / WIP)",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T21:51:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "code-editor",
+      "docker",
+      "editor",
+      "godot",
+      "kickstart",
+      "neovim",
+      "nvim",
+      "nvim-config",
+      "vim",
+      "gdscript"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-godot",
+  "owner": "niscolas",
+  "url": "https://github.com/niscolas/nvim-godot"
+}

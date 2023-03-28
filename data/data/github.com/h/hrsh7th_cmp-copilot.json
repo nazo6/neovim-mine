@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "AI Completion"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-11-04T11:54:00Z",
+    "description": "copilot.vim source for nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2022-04-11T14:33:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 114,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-copilot",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/cmp-copilot"
+}

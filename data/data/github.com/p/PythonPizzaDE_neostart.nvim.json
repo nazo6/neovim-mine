@@ -1,0 +1,18 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'PythonPizzaDE/neostart.nvim'.",
+    "reason": "NOT_FOUND"
+  },
+  "name": "neostart.nvim",
+  "owner": "PythonPizzaDE",
+  "url": "https://github.com/PythonPizzaDE/neostart.nvim"
+}

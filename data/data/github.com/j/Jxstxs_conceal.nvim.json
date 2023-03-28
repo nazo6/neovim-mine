@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fold.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Conceal"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2022-10-27T20:27:05Z",
+    "description": "A Neovim Plugin which uses Treesitter to conceal typical boiler Code",
+    "isArchived": false,
+    "lastCommit": "2023-01-10T12:54:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "conceal.nvim",
+  "owner": "Jxstxs",
+  "url": "https://github.com/Jxstxs/conceal.nvim"
+}

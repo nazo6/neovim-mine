@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Cloud"
+      },
+      {
+        "level": 4,
+        "name": "Kustomize"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 106,
+    "createdAt": "2022-11-17T21:07:44Z",
+    "description": "A Neovim plugin with some useful functions for working with Kustomize",
+    "isArchived": false,
+    "lastCommit": "2023-03-02T19:24:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "kubernetes",
+      "kustomize",
+      "neovim",
+      "neovim-plugin",
+      "yaml"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kustomize.nvim",
+  "owner": "Allaman",
+  "url": "https://github.com/Allaman/kustomize.nvim"
+}

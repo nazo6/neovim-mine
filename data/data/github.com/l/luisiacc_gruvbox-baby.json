@@ -1,0 +1,72 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "colorscheme.md"
+      },
+      {
+        "level": 1,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 2,
+        "name": "Warm Color Base"
+      },
+      {
+        "level": 3,
+        "name": "Gruvbox"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 64,
+    "createdAt": "2021-12-26T04:51:41Z",
+    "description": "Gruvbox theme for neovim with full 🎄TreeSitter support. ",
+    "isArchived": false,
+    "lastCommit": "2023-03-11T12:45:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 249,
+    "topics": [
+      "vim",
+      "vim-theme",
+      "gruvbox-color-scheme",
+      "neovim-lua-plugin",
+      "neovim-colorscheme",
+      "neovim-theme",
+      "neovim",
+      "vim-colorscheme",
+      "gruvbox-dark",
+      "gruvbox"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gruvbox-baby",
+  "owner": "luisiacc",
+  "url": "https://github.com/luisiacc/gruvbox-baby"
+}

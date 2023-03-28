@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "textobject_operator.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Textobject"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-01-18T13:32:02Z",
+    "description": "Neovim plugin to duplicate a textobject.",
+    "isArchived": false,
+    "lastCommit": "2023-01-24T16:37:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "duplicate.nvim",
+  "owner": "smjonas",
+  "url": "https://github.com/smjonas/duplicate.nvim"
+}

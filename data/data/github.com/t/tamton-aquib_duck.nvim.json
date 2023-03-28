@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Pet"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2021-11-18T09:53:20Z",
+    "description": "A duck that waddles arbitrarily in neovim.",
+    "isArchived": false,
+    "lastCommit": "2022-11-30T08:49:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 343,
+    "topics": [
+      "neovim",
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "duck.nvim",
+  "owner": "tamton-aquib",
+  "url": "https://github.com/tamton-aquib/duck.nvim"
+}

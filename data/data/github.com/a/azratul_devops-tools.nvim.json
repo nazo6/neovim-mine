@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Cloud"
+      },
+      {
+        "level": 4,
+        "name": "Terraform"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2022-08-07T01:01:39Z",
+    "description": "Docker, Helm, Kubectl & Terraform for now",
+    "isArchived": false,
+    "lastCommit": "2022-08-15T23:04:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "devops",
+      "docker",
+      "helm",
+      "kubectl",
+      "neovim",
+      "plugins",
+      "terraform"
+    ]
+  },
+  "domain": "github.com",
+  "name": "devops-tools.nvim",
+  "owner": "azratul",
+  "url": "https://github.com/azratul/devops-tools.nvim"
+}

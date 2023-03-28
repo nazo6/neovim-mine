@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Monitor"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-02-11T11:33:24Z",
+    "description": "Some kind of file watching thing with callbacks for nvim",
+    "isArchived": false,
+    "lastCommit": "2023-03-09T17:43:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gwatch.nvim",
+  "owner": "Operdies",
+  "url": "https://github.com/Operdies/gwatch.nvim"
+}

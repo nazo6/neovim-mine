@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "emoji.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Emoji"
+      },
+      {
+        "level": 3,
+        "name": "Emoji FuzzyFinder"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2022-08-20T10:02:49Z",
+    "description": "simple emoji picker plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-08-20T11:54:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "emoji_picker-nvim",
+  "owner": "WilsonOh",
+  "url": "https://github.com/WilsonOh/emoji_picker-nvim"
+}

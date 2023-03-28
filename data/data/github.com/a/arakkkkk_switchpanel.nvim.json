@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Sidebar"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-01-01T13:32:12Z",
+    "description": "NeoVim sidebar integration!!",
+    "isArchived": false,
+    "lastCommit": "2023-01-05T10:27:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "sidebar",
+      "neovim",
+      "neovim-plug",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "switchpanel.nvim",
+  "owner": "arakkkkk",
+  "url": "https://github.com/arakkkkk/switchpanel.nvim"
+}

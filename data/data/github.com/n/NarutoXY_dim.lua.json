@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Lint"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2022-03-08T15:01:39Z",
+    "description": "Dim unused words in neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-07T01:37:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 143,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dim.lua",
+  "owner": "NarutoXY",
+  "url": "https://github.com/NarutoXY/dim.lua"
+}

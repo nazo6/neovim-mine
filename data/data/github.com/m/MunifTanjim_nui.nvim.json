@@ -1,0 +1,60 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "UI"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Neovim Lua Development"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 176,
+    "createdAt": "2021-07-09T16:13:46Z",
+    "description": "UI Component Library for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-02-28T06:41:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 829,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "ui-components",
+      "nvim",
+      "lua",
+      "neovim-ui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nui.nvim",
+  "owner": "MunifTanjim",
+  "url": "https://github.com/MunifTanjim/nui.nvim"
+}

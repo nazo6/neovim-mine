@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "bufferline.md"
+      },
+      {
+        "level": 1,
+        "name": "Bufferline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2022-12-19T10:15:07Z",
+    "description": ":window: A Neovim/Bufferline extension to cycle through windowless buffers.",
+    "isArchived": false,
+    "lastCommit": "2023-01-08T11:23:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufferline-cycle-windowless.nvim",
+  "owner": "roobert",
+  "url": "https://github.com/roobert/bufferline-cycle-windowless.nvim"
+}

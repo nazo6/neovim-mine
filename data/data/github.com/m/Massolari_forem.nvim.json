@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2022-06-22T20:04:36Z",
+    "description": "Neovim plugin to read, write and post articles on Forem platforms like dev.to",
+    "isArchived": false,
+    "lastCommit": "2022-08-04T19:42:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "fennel",
+      "forem",
+      "neovim",
+      "plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "forem.nvim",
+  "owner": "Massolari",
+  "url": "https://github.com/Massolari/forem.nvim"
+}

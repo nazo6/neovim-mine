@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Collaborative Editing"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-09-28T02:32:17Z",
+    "description": "⌨️ neovim extension to do prompt continuation",
+    "isArchived": false,
+    "lastCommit": "2022-09-28T03:47:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "coauthor.nvim",
+  "owner": "pkage",
+  "url": "https://github.com/pkage/coauthor.nvim"
+}

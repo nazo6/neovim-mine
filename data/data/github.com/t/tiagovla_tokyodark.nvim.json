@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2021-04-20T19:34:06Z",
+    "description": "A clean dark theme written in lua for neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-01-28T18:39:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 303,
+    "topics": [
+      "colorscheme",
+      "neovim",
+      "theme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tokyodark.nvim",
+  "owner": "tiagovla",
+  "url": "https://github.com/tiagovla/tokyodark.nvim"
+}

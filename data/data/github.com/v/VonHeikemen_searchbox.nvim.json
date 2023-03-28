@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2021-11-23T13:13:18Z",
+    "description": "Start your search from a more comfortable place, say the upper right corner?",
+    "isArchived": false,
+    "lastCommit": "2022-10-31T16:15:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 262,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "searchbox.nvim",
+  "owner": "VonHeikemen",
+  "url": "https://github.com/VonHeikemen/searchbox.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "Drools Rule Language"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-01-08T20:17:48Z",
+    "description": "Neovim plugin adding support for the Drools Rule Language (DRL).",
+    "isArchived": false,
+    "lastCommit": "2023-01-09T21:19:47Z",
+    "primaryLanguage": {
+      "color": "#555555",
+      "name": "C"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "drools.nvim",
+  "owner": "errantepiphany",
+  "url": "https://github.com/errantepiphany/drools.nvim"
+}

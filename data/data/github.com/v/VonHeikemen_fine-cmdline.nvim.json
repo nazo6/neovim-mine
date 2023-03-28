@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Command Line"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-11-19T14:29:52Z",
+    "description": "Enter ex-commands in a nice floating input.",
+    "isArchived": false,
+    "lastCommit": "2022-07-01T18:09:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 316,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fine-cmdline.nvim",
+  "owner": "VonHeikemen",
+  "url": "https://github.com/VonHeikemen/fine-cmdline.nvim"
+}

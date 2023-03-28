@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2021-04-13T13:26:02Z",
+    "description": "Neovim lua plugin for managing a floating terminal window",
+    "isArchived": false,
+    "lastCommit": "2022-08-01T15:39:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neoterm.nvim",
+  "owner": "itmecho",
+  "url": "https://github.com/itmecho/neoterm.nvim"
+}

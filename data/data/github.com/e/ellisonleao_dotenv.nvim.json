@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "dotenv"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-02-16T01:26:19Z",
+    "description": "A minimalist .env support for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-06T14:58:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "dotenv",
+      "hacktoberfest",
+      "lua",
+      "neovim",
+      "plugin",
+      "vim",
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotenv.nvim",
+  "owner": "ellisonleao",
+  "url": "https://github.com/ellisonleao/dotenv.nvim"
+}

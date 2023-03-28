@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Split and Window"
+      },
+      {
+        "level": 4,
+        "name": "Tmux"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-01-30T07:22:51Z",
+    "description": "Integration for tmuxinator with telescope.nvim.",
+    "isArchived": false,
+    "lastCommit": "2021-08-19T16:59:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-tmuxinator.nvim",
+  "owner": "danielpieper",
+  "url": "https://github.com/danielpieper/telescope-tmuxinator.nvim"
+}

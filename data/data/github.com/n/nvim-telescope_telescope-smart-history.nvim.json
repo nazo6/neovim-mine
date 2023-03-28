@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "History"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-04-21T19:26:23Z",
+    "description": "A history implementation that memorizes prompt input for a specific context",
+    "isArchived": false,
+    "lastCommit": "2022-12-15T19:25:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 94,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-smart-history.nvim",
+  "owner": "nvim-telescope",
+  "url": "https://github.com/nvim-telescope/telescope-smart-history.nvim"
+}

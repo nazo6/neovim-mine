@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Standard Completion"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-12-10T17:02:06Z",
+    "description": "Insert file path on the current buffer using Telescope.nvim",
+    "isArchived": false,
+    "lastCommit": "2023-01-21T20:27:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "neovim",
+      "nvim",
+      "telescope",
+      "telescope-extension",
+      "telescope-plugin",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-insert-path.nvim",
+  "owner": "kiyoon",
+  "url": "https://github.com/kiyoon/telescope-insert-path.nvim"
+}

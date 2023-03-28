@@ -1,0 +1,68 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "j/k"
+      },
+      {
+        "level": 4,
+        "name": "Scrolling"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Scrolling"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 75,
+    "createdAt": "2022-02-28T23:30:26Z",
+    "description": "Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua!",
+    "isArchived": false,
+    "lastCommit": "2022-12-04T08:42:44Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 215,
+    "topics": [
+      "nvim",
+      "neovim",
+      "lua",
+      "plugin",
+      "scroll",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cinnamon.nvim",
+  "owner": "declancm",
+  "url": "https://github.com/declancm/cinnamon.nvim"
+}

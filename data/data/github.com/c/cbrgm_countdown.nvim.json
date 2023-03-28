@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Pomodoro"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-12-22T01:21:42Z",
+    "description": "Dead-simple countdown timer for NeoVim (~100 LoC)",
+    "isArchived": false,
+    "lastCommit": "2022-12-22T22:08:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "countdown",
+      "nvim",
+      "plugin",
+      "timer"
+    ]
+  },
+  "domain": "github.com",
+  "name": "countdown.nvim",
+  "owner": "cbrgm",
+  "url": "https://github.com/cbrgm/countdown.nvim"
+}

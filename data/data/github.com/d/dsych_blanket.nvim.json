@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Java"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-11-10T05:03:42Z",
+    "description": "Code coverage gutter for Neovim based on Jacoco reports",
+    "isArchived": false,
+    "lastCommit": "2022-11-02T02:30:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+      "coverage-report",
+      "neovim-plugin",
+      "java",
+      "coverage-gutters",
+      "jacocoverage"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blanket.nvim",
+  "owner": "dsych",
+  "url": "https://github.com/dsych/blanket.nvim"
+}

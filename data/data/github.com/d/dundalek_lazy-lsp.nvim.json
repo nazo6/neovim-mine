@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Installer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2022-09-25T10:35:21Z",
+    "description": "Neovim plugin to auto install LSP servers",
+    "isArchived": false,
+    "lastCommit": "2023-03-06T15:37:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 111,
+    "topics": [
+      "neovim",
+      "lsp",
+      "nix",
+      "nvim",
+      "nvim-lsp-installer",
+      "nvim-lspconfig",
+      "lsp-installer"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazy-lsp.nvim",
+  "owner": "dundalek",
+  "url": "https://github.com/dundalek/lazy-lsp.nvim"
+}

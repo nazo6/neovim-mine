@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Mathematics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 49,
+    "createdAt": "2022-05-01T12:47:21Z",
+    "description": "Symbolic math toolbox in Lua",
+    "isArchived": false,
+    "lastCommit": "2023-01-29T00:26:33Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "lua",
+      "symbolic-math"
+    ]
+  },
+  "domain": "github.com",
+  "name": "swan.lua",
+  "owner": "jbyuki",
+  "url": "https://github.com/jbyuki/swan.lua"
+}

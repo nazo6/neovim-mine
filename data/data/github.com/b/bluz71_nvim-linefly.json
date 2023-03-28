@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 3,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 96,
+    "createdAt": "2023-01-08T03:24:45Z",
+    "description": "A simple Lua statusline for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T06:45:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 27,
+    "topics": [
+      "neovim",
+      "neovim-statusline",
+      "nvim",
+      "statusline",
+      "neovim-plugin",
+      "tabline",
+      "winbar"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-linefly",
+  "owner": "bluz71",
+  "url": "https://github.com/bluz71/nvim-linefly"
+}

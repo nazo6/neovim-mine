@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Neovim Lua REPL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 64,
+    "createdAt": "2022-01-01T04:52:16Z",
+    "description": "Neovim REPL for lua and vim script",
+    "isArchived": false,
+    "lastCommit": "2022-11-07T06:06:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 48,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "repl"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nrepl.nvim",
+  "owner": "ii14",
+  "url": "https://github.com/ii14/nrepl.nvim"
+}

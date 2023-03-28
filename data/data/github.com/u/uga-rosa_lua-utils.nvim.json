@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Error handling"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-08-05T13:21:30Z",
+    "description": "Library for neovim Lua",
+    "isArchived": false,
+    "lastCommit": "2022-09-02T02:46:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-lua-library"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lua-utils.nvim",
+  "owner": "uga-rosa",
+  "url": "https://github.com/uga-rosa/lua-utils.nvim"
+}

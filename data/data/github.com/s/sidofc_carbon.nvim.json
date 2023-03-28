@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 319,
+    "createdAt": "2021-12-14T12:15:37Z",
+    "description": "The simple directory tree viewer for Neovim written in Lua.",
+    "isArchived": false,
+    "lastCommit": "2023-02-16T13:48:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 124,
+    "topics": [
+      "neovim",
+      "lua",
+      "file-explorer",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "carbon.nvim",
+  "owner": "sidofc",
+  "url": "https://github.com/sidofc/carbon.nvim"
+}

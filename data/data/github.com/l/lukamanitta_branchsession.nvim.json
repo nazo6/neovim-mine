@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "session.md"
+      },
+      {
+        "level": 1,
+        "name": "Session"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-01-13T03:25:54Z",
+    "description": "Simple commands to create / load / delete sessions specific to the current git project and branch",
+    "isArchived": false,
+    "lastCommit": "2023-01-24T10:15:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "branchsession.nvim",
+  "owner": "lukamanitta",
+  "url": "https://github.com/lukamanitta/branchsession.nvim"
+}

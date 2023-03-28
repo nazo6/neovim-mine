@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2022-02-16T16:05:30Z",
+    "description": "TeX-PDF synchronisation in Neovim: plugin providing inverse search functionality",
+    "isArchived": false,
+    "lastCommit": "2022-07-17T20:52:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-texis",
+  "owner": "jhofscheier",
+  "url": "https://github.com/jhofscheier/nvim-texis"
+}

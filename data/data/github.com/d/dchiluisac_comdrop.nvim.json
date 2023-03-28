@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Command"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2022-12-26T20:10:43Z",
+    "description": "simple and fast access to commands nvim",
+    "isArchived": false,
+    "lastCommit": "2022-12-29T06:17:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "command-line-tool",
+      "commands",
+      "filter",
+      "find",
+      "lua",
+      "nvim",
+      "prompt"
+    ]
+  },
+  "domain": "github.com",
+  "name": "comdrop.nvim",
+  "owner": "dchiluisac",
+  "url": "https://github.com/dchiluisac/comdrop.nvim"
+}

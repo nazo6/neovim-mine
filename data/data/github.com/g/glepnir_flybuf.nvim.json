@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Selector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2023-03-12T05:28:27Z",
+    "description": "show buffers in a float window and support use shortcut to open buffer",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T05:01:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "flybuf.nvim",
+  "owner": "glepnir",
+  "url": "https://github.com/glepnir/flybuf.nvim"
+}

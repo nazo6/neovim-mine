@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Command style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-09-11T14:48:21Z",
+    "description": "Send commands system commands in an elegant way",
+    "isArchived": false,
+    "lastCommit": "2021-10-30T16:58:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 47,
+    "topics": [
+      "hacktoberfest",
+      "neovim",
+      "tmux",
+      "nvim",
+      "vim",
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "Telegraph.nvim",
+  "owner": "WaylonWalker",
+  "url": "https://github.com/WaylonWalker/Telegraph.nvim"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git log"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-11-19T18:17:18Z",
+    "description": "A commit viewer for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-17T19:05:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "commit-viewer.nvim",
+  "owner": "LhKipp",
+  "url": "https://github.com/LhKipp/commit-viewer.nvim"
+}

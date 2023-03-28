@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "React"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-04-10T13:36:43Z",
+    "description": "Neovim plugin for extracting jsx into React component",
+    "isArchived": false,
+    "lastCommit": "2022-05-24T15:23:26Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 82,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "react-extract.nvim",
+  "owner": "napmn",
+  "url": "https://github.com/napmn/react-extract.nvim"
+}

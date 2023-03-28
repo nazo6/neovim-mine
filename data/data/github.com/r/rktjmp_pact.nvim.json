@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "plugin-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Plugin Manager"
+      },
+      {
+        "level": 3,
+        "name": "Use builtin package feature"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 385,
+    "createdAt": "2022-01-04T15:54:29Z",
+    "description": "🔪🩸🐐 semver aware package manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-03T13:01:47Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 37,
+    "topics": [
+      "fennel",
+      "plugin-manager",
+      "neovim",
+      "faustian-bargain"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pact.nvim",
+  "owner": "rktjmp",
+  "url": "https://github.com/rktjmp/pact.nvim"
+}

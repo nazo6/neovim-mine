@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Image Viewer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-04-05T10:32:44Z",
+    "description": "Inline markdown image/gif/video/pdf/LaTeX previewer for nvim using ueberzug.",
+    "isArchived": false,
+    "lastCommit": "2022-06-02T05:07:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 57,
+    "topics": [
+      "lua",
+      "markdown",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "ueberzug",
+      "vim",
+      "vimwiki"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvimager",
+  "owner": "mbpowers",
+  "url": "https://github.com/mbpowers/nvimager"
+}

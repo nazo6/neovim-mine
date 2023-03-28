@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Keyboard Layout"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-10-31T23:42:29Z",
+    "description": "Bepo optimized Neovim bindings",
+    "isArchived": false,
+    "lastCommit": "2022-11-01T11:48:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bepo.nvim",
+  "owner": "vetsE",
+  "url": "https://github.com/vetsE/bepo.nvim"
+}

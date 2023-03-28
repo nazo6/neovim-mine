@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 67,
+    "createdAt": "2022-09-16T09:29:16Z",
+    "description": "A tiny task manager within nvim that helps you stay on track. (づ◡﹏◡)づ",
+    "isArchived": false,
+    "lastCommit": "2023-03-05T22:17:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim-plugin",
+      "todo-list",
+      "lua",
+      "nvim",
+      "hacktober"
+    ]
+  },
+  "domain": "github.com",
+  "name": "do.nvim",
+  "owner": "nocksock",
+  "url": "https://github.com/nocksock/do.nvim"
+}

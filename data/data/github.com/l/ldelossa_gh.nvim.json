@@ -1,0 +1,58 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Features like gh"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Git"
+      },
+      {
+        "level": 4,
+        "name": "GitHub"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 126,
+    "createdAt": "2022-04-05T14:01:23Z",
+    "description": "A fully featured GitHub integration for performing code reviews in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2022-12-11T01:48:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 399,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gh.nvim",
+  "owner": "ldelossa",
+  "url": "https://github.com/ldelossa/gh.nvim"
+}

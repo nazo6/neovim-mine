@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "session.md"
+      },
+      {
+        "level": 1,
+        "name": "Session"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 57,
+    "createdAt": "2022-09-09T05:31:03Z",
+    "description": "A replacement for mksession with a better API",
+    "isArchived": false,
+    "lastCommit": "2022-12-15T06:18:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "resession.nvim",
+  "owner": "stevearc",
+  "url": "https://github.com/stevearc/resession.nvim"
+}

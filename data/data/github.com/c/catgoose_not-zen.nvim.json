@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Zen Mode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2023-01-29T19:12:02Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-10T02:06:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "not-zen.nvim",
+  "owner": "catgoose",
+  "url": "https://github.com/catgoose/not-zen.nvim"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Pet"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-09-04T15:38:25Z",
+    "description": "Cute Neovim plugin to display a cat at the right of the cursorline",
+    "isArchived": false,
+    "lastCommit": "2022-09-10T08:03:33Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pet.nvim",
+  "owner": "samuzora",
+  "url": "https://github.com/samuzora/pet.nvim"
+}

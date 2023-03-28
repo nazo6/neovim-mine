@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Hint"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2022-07-19T16:19:42Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-01-21T13:55:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 246,
+    "topics": [
+      "lsp",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-inlayhints.nvim",
+  "owner": "lvimuser",
+  "url": "https://github.com/lvimuser/lsp-inlayhints.nvim"
+}

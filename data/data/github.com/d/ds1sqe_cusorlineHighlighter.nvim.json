@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Cursorline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-10-27T03:06:12Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-12-17T11:16:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cusorlineHighlighter.nvim",
+  "owner": "ds1sqe",
+  "url": "https://github.com/ds1sqe/cusorlineHighlighter.nvim"
+}

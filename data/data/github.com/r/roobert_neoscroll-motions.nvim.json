@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "Paragraph"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-01-19T23:31:41Z",
+    "description": "Paragraph support for neoscroll",
+    "isArchived": false,
+    "lastCommit": "2023-01-20T14:36:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neoscroll-motions.nvim",
+  "owner": "roobert",
+  "url": "https://github.com/roobert/neoscroll-motions.nvim"
+}

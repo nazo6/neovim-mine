@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Split / Join"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 57,
+    "createdAt": "2022-04-04T16:58:28Z",
+    "description": "Nvim-plugin for doing the opposite of join-line (J) of arguments, powered by treesitter",
+    "isArchived": false,
+    "lastCommit": "2022-11-04T20:42:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 131,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-trevJ.lua",
+  "owner": "AckslD",
+  "url": "https://github.com/AckslD/nvim-trevJ.lua"
+}

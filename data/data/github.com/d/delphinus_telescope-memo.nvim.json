@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      },
+      {
+        "level": 3,
+        "name": "Telescope Extensions"
+      },
+      {
+        "level": 4,
+        "name": "Integration for another plugin"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-01-16T03:20:03Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-07-16T05:20:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-memo.nvim",
+  "owner": "delphinus",
+  "url": "https://github.com/delphinus/telescope-memo.nvim"
+}

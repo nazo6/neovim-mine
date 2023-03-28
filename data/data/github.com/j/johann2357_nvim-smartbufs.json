@@ -1,0 +1,78 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "bufferline.md"
+      },
+      {
+        "level": 1,
+        "name": "Bufferline"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Selector"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      },
+      {
+        "level": 4,
+        "name": "Tabline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-02-12T00:40:46Z",
+    "description": "Smart buffer management in neovim",
+    "isArchived": false,
+    "lastCommit": "2021-06-14T04:59:37Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 27,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-lua-plugin",
+      "neovim-lua",
+      "vim-buffers",
+      "neovim-terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-smartbufs",
+  "owner": "johann2357",
+  "url": "https://github.com/johann2357/nvim-smartbufs"
+}

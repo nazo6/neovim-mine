@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Snippet"
+      },
+      {
+        "level": 4,
+        "name": "Snippet definitions"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-03-11T21:42:46Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-11T21:47:51Z",
+    "primaryLanguage": null,
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-snippets",
+  "owner": "josa42",
+  "url": "https://github.com/josa42/nvim-snippets"
+}

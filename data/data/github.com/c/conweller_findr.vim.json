@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "FuzzyFinder Style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2019-12-15T17:59:10Z",
+    "description": "An incremental narrowing engine for (neo)vim inspired by emacs helm/ivy/ido",
+    "isArchived": false,
+    "lastCommit": "2022-01-29T04:43:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 54,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "findr.vim",
+  "owner": "conweller",
+  "url": "https://github.com/conweller/findr.vim"
+}

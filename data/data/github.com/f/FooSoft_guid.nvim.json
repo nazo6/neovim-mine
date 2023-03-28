@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Command Line"
+      },
+      {
+        "level": 4,
+        "name": "GUID"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2022-12-31T01:33:52Z",
+    "description": "Simply common operations when working with GUIDs in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-21T02:12:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "guid.nvim",
+  "owner": "FooSoft",
+  "url": "https://github.com/FooSoft/guid.nvim"
+}

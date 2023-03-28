@@ -1,0 +1,59 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "bufferline.md"
+      },
+      {
+        "level": 1,
+        "name": "Bufferline"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      },
+      {
+        "level": 4,
+        "name": "Tabline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2021-07-30T17:49:29Z",
+    "description": "A \"buffer and tab\" tabline for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-06-13T20:02:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 210,
+    "topics": [
+      "neovim",
+      "tabline",
+      "buffers",
+      "tabs",
+      "lualine"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tabline.nvim",
+  "owner": "kdheepak",
+  "url": "https://github.com/kdheepak/tabline.nvim"
+}

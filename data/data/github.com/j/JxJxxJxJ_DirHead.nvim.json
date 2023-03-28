@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      },
+      {
+        "level": 4,
+        "name": "Comment Header"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-02-24T16:36:54Z",
+    "description": "Adds a commented directory header to all your files after save.",
+    "isArchived": false,
+    "lastCommit": "2023-02-24T18:43:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "DirHead.nvim",
+  "owner": "JxJxxJxJ",
+  "url": "https://github.com/JxJxxJxJ/DirHead.nvim"
+}

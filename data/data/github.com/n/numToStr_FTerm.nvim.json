@@ -1,0 +1,65 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Integration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2020-12-09T06:59:02Z",
+    "description": ":fire: No-nonsense floating terminal plugin for neovim :fire:",
+    "isArchived": false,
+    "lastCommit": "2022-11-13T09:25:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 581,
+    "topics": [
+      "neovim",
+      "nvim",
+      "lua",
+      "plugin",
+      "terminal",
+      "floating",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "FTerm.nvim",
+  "owner": "numToStr",
+  "url": "https://github.com/numToStr/FTerm.nvim"
+}

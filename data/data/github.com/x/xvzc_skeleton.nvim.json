@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Template"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2023-01-11T08:15:11Z",
+    "description": "Simply load your neovim templates with dynamically generated resources",
+    "isArchived": false,
+    "lastCommit": "2023-01-20T15:25:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "template",
+      "template-engine"
+    ]
+  },
+  "domain": "github.com",
+  "name": "skeleton.nvim",
+  "owner": "xvzc",
+  "url": "https://github.com/xvzc/skeleton.nvim"
+}

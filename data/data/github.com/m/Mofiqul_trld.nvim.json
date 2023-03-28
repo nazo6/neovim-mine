@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Diagnostics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2022-04-23T18:22:58Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-04-27T09:55:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 54,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "trld.nvim",
+  "owner": "Mofiqul",
+  "url": "https://github.com/Mofiqul/trld.nvim"
+}

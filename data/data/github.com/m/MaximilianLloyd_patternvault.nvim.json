@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-03-03T15:45:15Z",
+    "description": "A minimal persistent pattern manager for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-03-03T21:30:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "patternvault.nvim",
+  "owner": "MaximilianLloyd",
+  "url": "https://github.com/MaximilianLloyd/patternvault.nvim"
+}

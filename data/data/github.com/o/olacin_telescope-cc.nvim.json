@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git commit"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-03-26T21:01:15Z",
+    "description": "A Telescope integration of Conventional Commits.",
+    "isArchived": false,
+    "lastCommit": "2023-02-10T09:01:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "neovim",
+      "telescope",
+      "conventional-commits"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-cc.nvim",
+  "owner": "olacin",
+  "url": "https://github.com/olacin/telescope-cc.nvim"
+}

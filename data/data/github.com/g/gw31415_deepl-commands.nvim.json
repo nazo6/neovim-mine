@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Translate"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-09-09T05:37:30Z",
+    "description": "Translation commands of Neovim using DeepL API",
+    "isArchived": false,
+    "lastCommit": "2022-09-12T09:54:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "deepl",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "deepl-commands.nvim",
+  "owner": "gw31415",
+  "url": "https://github.com/gw31415/deepl-commands.nvim"
+}

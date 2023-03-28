@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CLI"
+      },
+      {
+        "level": 4,
+        "name": "cheat.sh"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-12-24T21:05:41Z",
+    "description": "Minimal Neovim plugin for **cht.sh** based on modern ui for nvim and lua only approach.",
+    "isArchived": false,
+    "lastCommit": "2022-12-26T08:48:37Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "lua",
+      "neovim",
+      "nvim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cheat.nvim",
+  "owner": "Partysun",
+  "url": "https://github.com/Partysun/cheat.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2021-05-19T23:58:20Z",
+    "description": "Some sane Python folding with nvim-treesitter",
+    "isArchived": false,
+    "lastCommit": "2023-03-15T11:54:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+      "python",
+      "nvim",
+      "treesitter",
+      "folding"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-treesitter-pyfold",
+  "owner": "eddiebergman",
+  "url": "https://github.com/eddiebergman/nvim-treesitter-pyfold"
+}

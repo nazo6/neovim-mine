@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatter"
+      },
+      {
+        "level": 3,
+        "name": "Trim Whitespace"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2022-12-12T19:42:12Z",
+    "description": "A personal plugin that lets you delete trailing whitespace",
+    "isArchived": false,
+    "lastCommit": "2023-01-12T17:47:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-whitespaces",
+  "owner": "saccarosium",
+  "url": "https://github.com/saccarosium/nvim-whitespaces"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-04-28T03:01:41Z",
+    "description": "The most minimal nnn plugin ever",
+    "isArchived": false,
+    "lastCommit": "2022-04-29T16:22:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "minimal-nnn.nvim",
+  "owner": "bobrown101",
+  "url": "https://github.com/bobrown101/minimal-nnn.nvim"
+}

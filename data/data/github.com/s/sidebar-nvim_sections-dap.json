@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Debugger"
+      },
+      {
+        "level": 4,
+        "name": "nvim-dap extension"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-09-26T19:33:38Z",
+    "description": "Dap sections for sidebar.nvim",
+    "isArchived": false,
+    "lastCommit": "2021-12-20T15:40:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+      "sidebar-nvim",
+      "dap",
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sections-dap",
+  "owner": "sidebar-nvim",
+  "url": "https://github.com/sidebar-nvim/sections-dap"
+}

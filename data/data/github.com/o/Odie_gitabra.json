@@ -1,0 +1,35 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2021-03-09T12:04:37Z",
+    "description": "Magit-lite for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-11T09:04:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 57,
+    "topics": [
+      "git",
+      "neovim-plugin",
+      "magit"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitabra",
+  "owner": "Odie",
+  "url": "https://github.com/Odie/gitabra"
+}

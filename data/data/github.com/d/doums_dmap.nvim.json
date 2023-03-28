@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Scrollbar"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2023-01-07T17:17:08Z",
+    "description": "Convenient and not disturbing overview of all LSP diagnostics",
+    "isArchived": false,
+    "lastCommit": "2023-03-05T19:35:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "diagnostic",
+      "goto",
+      "lsp",
+      "neovim",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dmap.nvim",
+  "owner": "doums",
+  "url": "https://github.com/doums/dmap.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Fennel"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 627,
+    "createdAt": "2021-11-30T02:03:05Z",
+    "description": "🌿 A set of macros for Neovim, highly inspired by Vim script, and Nvim Lua stdlib",
+    "isArchived": false,
+    "lastCommit": "2023-02-18T08:25:39Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 25,
+    "topics": [
+      "fennel",
+      "nvim",
+      "nvim-plugin",
+      "macro"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-laurel",
+  "owner": "aileot",
+  "url": "https://github.com/aileot/nvim-laurel"
+}

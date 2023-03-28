@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Translate"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-03-25T17:33:46Z",
+    "description": "translate.nvim binds google translate to neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T17:49:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "translate"
+    ]
+  },
+  "domain": "github.com",
+  "name": "translate.nvim",
+  "owner": "kiddos",
+  "url": "https://github.com/kiddos/translate.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "nvim-cmp extension"
+      },
+      {
+        "level": 4,
+        "name": "nvim-cmp sources"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2021-10-29T13:33:49Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-19T15:39:00Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 61,
+    "topics": [
+      "nvim-cmp",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-fuzzy-buffer",
+  "owner": "tzachar",
+  "url": "https://github.com/tzachar/cmp-fuzzy-buffer"
+}

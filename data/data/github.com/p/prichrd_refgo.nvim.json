@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "jump.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Jump number"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2022-10-10T20:39:09Z",
+    "description": "Share code references with ease.",
+    "isArchived": false,
+    "lastCommit": "2022-10-31T18:23:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "refgo.nvim",
+  "owner": "prichrd",
+  "url": "https://github.com/prichrd/refgo.nvim"
+}

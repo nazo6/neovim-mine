@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "YAML"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-03-07T04:42:46Z",
+    "description": "Neovim lua plugin for running tasks from task.json file",
+    "isArchived": false,
+    "lastCommit": "2022-04-16T05:48:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "BuildTask.nvim",
+  "owner": "Arjun31415",
+  "url": "https://github.com/Arjun31415/BuildTask.nvim"
+}

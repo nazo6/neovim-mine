@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Screenshot"
+      },
+      {
+        "level": 4,
+        "name": "Code Image"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 102,
+    "createdAt": "2022-08-27T09:14:30Z",
+    "description": "Neovim plugin for silicon in Rust",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T15:08:57Z",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 189,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "rust",
+      "neovim",
+      "neovim-plugin",
+      "silicon",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "silicon.nvim",
+  "owner": "krivahtoo",
+  "url": "https://github.com/krivahtoo/silicon.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Lua Development"
+      },
+      {
+        "level": 3,
+        "name": "Lint"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 100,
+    "createdAt": "2019-10-01T06:45:12Z",
+    "description": "A blazing-fast modern Lua linter written in Rust",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T16:57:49Z",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 384,
+    "topics": [
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "selene",
+  "owner": "Kampfkarren",
+  "url": "https://github.com/Kampfkarren/selene"
+}

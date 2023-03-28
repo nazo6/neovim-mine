@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "UI"
+      },
+      {
+        "level": 3,
+        "name": "Popup"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2020-09-14T10:03:50Z",
+    "description": "Neovim lua API for highly extensible popup window",
+    "isArchived": false,
+    "lastCommit": "2022-07-04T08:16:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 83,
+    "topics": [
+      "neovim",
+      "fuzzy-engine",
+      "fuzzy-finder",
+      "neovim-api",
+      "neovim-plugin",
+      "gui",
+      "neovim-gui",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "popfix",
+  "owner": "RishabhRD",
+  "url": "https://github.com/RishabhRD/popfix"
+}

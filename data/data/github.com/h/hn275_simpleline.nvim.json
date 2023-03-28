@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 3,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2022-10-09T07:06:05Z",
+    "description": "Simple and lightweight statusline for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-04T21:28:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simpleline.nvim",
+  "owner": "hn275",
+  "url": "https://github.com/hn275/simpleline.nvim"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fold.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Fold"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-07-12T22:03:20Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-02-19T17:28:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 50,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "folding-nvim",
+  "owner": "pierreglaser",
+  "url": "https://github.com/pierreglaser/folding-nvim"
+}

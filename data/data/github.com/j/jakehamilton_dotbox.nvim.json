@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "dotbox"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2022-11-26T13:12:20Z",
+    "description": "Neovim Tree-sitter module for DotBox",
+    "isArchived": false,
+    "lastCommit": "2022-11-27T05:26:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotbox.nvim",
+  "owner": "jakehamilton",
+  "url": "https://github.com/jakehamilton/dotbox.nvim"
+}

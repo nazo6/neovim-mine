@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Icon"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2021-08-18T09:38:48Z",
+    "description": "uniform icons for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T03:26:37Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 107,
+    "topics": [
+      "lua",
+      "neovim-icons"
+    ]
+  },
+  "domain": "github.com",
+  "name": "circles.nvim",
+  "owner": "projekt0n",
+  "url": "https://github.com/projekt0n/circles.nvim"
+}

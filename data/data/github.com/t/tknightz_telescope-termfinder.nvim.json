@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Selector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2021-08-28T13:31:08Z",
+    "description": "A telescope extension for searching your toggled terminals.",
+    "isArchived": false,
+    "lastCommit": "2022-10-27T08:15:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-termfinder.nvim",
+  "owner": "tknightz",
+  "url": "https://github.com/tknightz/telescope-termfinder.nvim"
+}

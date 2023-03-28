@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Grep"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2022-10-19T08:23:45Z",
+    "description": "Perform telescope functions in a selected directory",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T03:04:37Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 80,
+    "topics": [
+      "lua",
+      "neovim",
+      "plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dir-telescope.nvim",
+  "owner": "princejoogie",
+  "url": "https://github.com/princejoogie/dir-telescope.nvim"
+}

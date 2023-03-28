@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "Otter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 100,
+    "createdAt": "2022-12-20T15:09:14Z",
+    "description": "Just ask an otter! 🦦",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T10:39:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 32,
+    "topics": [
+      "neovim",
+      "nvim",
+      "nvim-cmp",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "otter.nvim",
+  "owner": "jmbuhr",
+  "url": "https://github.com/jmbuhr/otter.nvim"
+}

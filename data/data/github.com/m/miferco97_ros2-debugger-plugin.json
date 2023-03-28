@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Hardware"
+      },
+      {
+        "level": 4,
+        "name": "Robot"
+      },
+      {
+        "level": 5,
+        "name": "ROS"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2022-10-08T17:38:21Z",
+    "description": "Neovim plugin for ease the debugging of roscpp nodes.",
+    "isArchived": false,
+    "lastCommit": "2022-10-11T08:30:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "nvim",
+      "ros2"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ros2-debugger-plugin",
+  "owner": "miferco97",
+  "url": "https://github.com/miferco97/ros2-debugger-plugin"
+}

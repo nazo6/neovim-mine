@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Popup Info"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-01-06T20:39:27Z",
+    "description": "nvim-update-time updates timestamp markers in your files as you save them.",
+    "isArchived": false,
+    "lastCommit": "2023-01-06T20:41:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-update-time",
+  "owner": "StonyBoy",
+  "url": "https://github.com/StonyBoy/nvim-update-time"
+}

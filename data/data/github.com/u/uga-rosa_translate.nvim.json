@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Translate"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2021-10-10T15:13:23Z",
+    "description": "Use any external translate command/API in nvim.",
+    "isArchived": false,
+    "lastCommit": "2022-11-28T08:02:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 103,
+    "topics": [
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "translate.nvim",
+  "owner": "uga-rosa",
+  "url": "https://github.com/uga-rosa/translate.nvim"
+}

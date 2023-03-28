@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Zettelkasten"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-09-28T21:22:32Z",
+    "description": "Autocomplete tags from Telekasten",
+    "isArchived": false,
+    "lastCommit": "2022-09-28T21:32:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-nvim-telekasten-tags",
+  "owner": "Cybolic",
+  "url": "https://github.com/Cybolic/cmp-nvim-telekasten-tags"
+}

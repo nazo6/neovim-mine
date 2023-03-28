@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2022-07-29T09:58:04Z",
+    "description": "neovim plugin for comment and annotation",
+    "isArchived": false,
+    "lastCommit": "2022-11-02T11:29:00Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 59,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "coman.nvim",
+  "owner": "glepnir",
+  "url": "https://github.com/glepnir/coman.nvim"
+}

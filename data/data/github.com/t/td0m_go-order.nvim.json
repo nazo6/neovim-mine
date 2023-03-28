@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Go"
+      },
+      {
+        "level": 4,
+        "name": "gofmt"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-02-27T23:17:32Z",
+    "description": "A Neovim library for formatting Go file contents alphabetically",
+    "isArchived": false,
+    "lastCommit": "2023-02-28T00:07:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "go-order.nvim",
+  "owner": "td0m",
+  "url": "https://github.com/td0m/go-order.nvim"
+}

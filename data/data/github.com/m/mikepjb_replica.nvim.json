@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Clojure"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 61,
+    "createdAt": "2023-02-03T22:35:14Z",
+    "description": ":gem: Clojure(script) REPL interaction tool for neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-03-02T14:04:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "replica.nvim",
+  "owner": "mikepjb",
+  "url": "https://github.com/mikepjb/replica.nvim"
+}

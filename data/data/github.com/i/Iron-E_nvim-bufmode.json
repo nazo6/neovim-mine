@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Other Buffer Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2020-11-12T04:33:34Z",
+    "description": "A mode for manipulating buffers in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-02-17T20:03:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "neovim",
+      "nvim",
+      "plugin",
+      "nvim-libmodal",
+      "mode",
+      "buffer-management",
+      "buffers",
+      "lua",
+      "luajit"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-bufmode",
+  "owner": "Iron-E",
+  "url": "https://github.com/Iron-E/nvim-bufmode"
+}

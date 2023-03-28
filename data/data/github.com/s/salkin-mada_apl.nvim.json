@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "GNU APL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-02-04T22:29:18Z",
+    "description": "Neovim frontend for GNU APL",
+    "isArchived": false,
+    "lastCommit": "2023-02-07T06:00:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "apl",
+      "dynamic-programming",
+      "interpreter",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "apl.nvim",
+  "owner": "salkin-mada",
+  "url": "https://github.com/salkin-mada/apl.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Browser Integration"
+      },
+      {
+        "level": 4,
+        "name": "search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-03-10T10:25:27Z",
+    "description": "A neovim plugin to google selected text",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T21:13:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "searcher.nvim",
+  "owner": "gudjonragnar",
+  "url": "https://github.com/gudjonragnar/searcher.nvim"
+}

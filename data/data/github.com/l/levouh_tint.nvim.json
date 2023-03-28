@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "Window Management"
+      },
+      {
+        "level": 4,
+        "name": "focus"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2022-09-02T20:52:22Z",
+    "description": "Dim inactive windows in Neovim using window-local highlight namespaces.",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T15:28:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 187,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tint.nvim",
+  "owner": "levouh",
+  "url": "https://github.com/levouh/tint.nvim"
+}

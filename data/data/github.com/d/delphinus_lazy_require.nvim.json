@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Require"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-12-01T09:00:05Z",
+    "description": "A tiny module to define function to load another module lazily.",
+    "isArchived": false,
+    "lastCommit": "2022-12-01T09:27:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazy_require.nvim",
+  "owner": "delphinus",
+  "url": "https://github.com/delphinus/lazy_require.nvim"
+}

@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Tab"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      },
+      {
+        "level": 4,
+        "name": "Tabline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 95,
+    "createdAt": "2021-09-24T03:48:51Z",
+    "description": "A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!",
+    "isArchived": false,
+    "lastCommit": "2023-01-30T02:48:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 327,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "tabline",
+      "lua",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tabby.nvim",
+  "owner": "nanozuki",
+  "url": "https://github.com/nanozuki/tabby.nvim"
+}

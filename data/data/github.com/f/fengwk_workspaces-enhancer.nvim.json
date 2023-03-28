@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Local Config"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-01-20T16:28:54Z",
+    "description": "Enhance the capability of workspaces.nvim, including automatically recording and opening the recently accessed buffer in the workspace, and automatically switching the workspace with multiple buffers.",
+    "isArchived": false,
+    "lastCommit": "2023-01-25T17:00:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "workspaces-enhancer.nvim",
+  "owner": "fengwk",
+  "url": "https://github.com/fengwk/workspaces-enhancer.nvim"
+}

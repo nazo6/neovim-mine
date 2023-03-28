@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Browser Integration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2022-12-07T12:02:26Z",
+    "description": "nvim plugin for system wide browsing and finding of a selected subset of directories",
+    "isArchived": false,
+    "lastCommit": "2022-12-12T08:26:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hupoon.nvim",
+  "owner": "psaikido",
+  "url": "https://github.com/psaikido/hupoon.nvim"
+}

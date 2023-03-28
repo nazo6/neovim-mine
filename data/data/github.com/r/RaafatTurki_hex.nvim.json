@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Hex Editor"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-01-12T00:40:06Z",
+    "description": "hex editing done right",
+    "isArchived": false,
+    "lastCommit": "2023-01-27T12:00:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 93,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hex.nvim",
+  "owner": "RaafatTurki",
+  "url": "https://github.com/RaafatTurki/hex.nvim"
+}

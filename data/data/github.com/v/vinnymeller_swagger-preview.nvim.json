@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "Swagger"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-12-06T07:53:15Z",
+    "description": "Start/stop a live preview of Swagger files from Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-12-08T07:42:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+      "lua",
+      "neovim",
+      "swagger"
+    ]
+  },
+  "domain": "github.com",
+  "name": "swagger-preview.nvim",
+  "owner": "vinnymeller",
+  "url": "https://github.com/vinnymeller/swagger-preview.nvim"
+}

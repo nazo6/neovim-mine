@@ -1,0 +1,71 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      },
+      {
+        "level": 4,
+        "name": "Comment Header"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Editing Support"
+      },
+      {
+        "level": 4,
+        "name": "Comment"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2022-01-12T07:24:56Z",
+    "description": ":sparkles: Clarify and beautify your comments using boxes and lines.",
+    "isArchived": false,
+    "lastCommit": "2023-03-14T05:39:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 176,
+    "topics": [
+      "plugin",
+      "neovim",
+      "nvim",
+      "comment",
+      "neovim-plugin",
+      "beautifier",
+      "boxes",
+      "line",
+      "commenting"
+    ]
+  },
+  "domain": "github.com",
+  "name": "comment-box.nvim",
+  "owner": "LudoPinelli",
+  "url": "https://github.com/LudoPinelli/comment-box.nvim"
+}

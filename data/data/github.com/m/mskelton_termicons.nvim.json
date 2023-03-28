@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Icon"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 78,
+    "createdAt": "2023-02-22T14:17:32Z",
+    "description": "Alternative set of icons for nvim-web-devicons using termicons.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T21:00:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "icons",
+      "nvim",
+      "nvim-plugin",
+      "nvim-web-devicons"
+    ]
+  },
+  "domain": "github.com",
+  "name": "termicons.nvim",
+  "owner": "mskelton",
+  "url": "https://github.com/mskelton/termicons.nvim"
+}

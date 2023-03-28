@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "VimWiki"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-12-09T03:43:13Z",
+    "description": "A Neovim plugin that quickly find and navigate files back linked to the current file in a directory",
+    "isArchived": false,
+    "lastCommit": "2022-12-09T10:14:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "backlinks",
+      "neovim-plugin",
+      "note-taking",
+      "vimwiki",
+      "zettelkasten"
+    ]
+  },
+  "domain": "github.com",
+  "name": "backlinks.nvim",
+  "owner": "hulufei",
+  "url": "https://github.com/hulufei/backlinks.nvim"
+}

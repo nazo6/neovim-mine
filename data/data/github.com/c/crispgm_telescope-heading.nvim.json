@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown link"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2021-04-29T07:36:42Z",
+    "description": "An extension for telescope.nvim that allows you to switch between headings",
+    "isArchived": false,
+    "lastCommit": "2023-03-22T03:18:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 70,
+    "topics": [
+      "neovim",
+      "telescope-extension",
+      "nvim-plugin",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-heading.nvim",
+  "owner": "crispgm",
+  "url": "https://github.com/crispgm/telescope-heading.nvim"
+}

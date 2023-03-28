@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Split / Join"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2022-07-19T18:37:48Z",
+    "description": "a neovim plugin to spread out inline objects, arrays, parameter lists, etc.",
+    "isArchived": false,
+    "lastCommit": "2022-09-27T10:19:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 91,
+    "topics": [
+      "formatter",
+      "formatting",
+      "neovim",
+      "nvim",
+      "plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spread.nvim",
+  "owner": "aarondiel",
+  "url": "https://github.com/aarondiel/spread.nvim"
+}

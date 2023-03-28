@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 73,
+    "createdAt": "2022-06-25T22:04:20Z",
+    "description": "Provides external LTeX file handling (off-spec lsp) and other functions.",
+    "isArchived": false,
+    "lastCommit": "2023-01-29T14:43:33Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 59,
+    "topics": [
+      "grammar",
+      "latex",
+      "ltex",
+      "nvim",
+      "vim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ltex_extra.nvim",
+  "owner": "barreiroleo",
+  "url": "https://github.com/barreiroleo/ltex_extra.nvim"
+}

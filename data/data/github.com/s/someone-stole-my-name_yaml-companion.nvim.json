@@ -1,0 +1,67 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "YAML"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Programming Languages Support"
+      },
+      {
+        "level": 4,
+        "name": "YAML"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 78,
+    "createdAt": "2022-04-28T10:50:28Z",
+    "description": "Get, set and autodetect YAML schemas in your buffers.",
+    "isArchived": false,
+    "lastCommit": "2023-03-03T21:07:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 88,
+    "topics": [
+      "nvim",
+      "nvim-lsp",
+      "nvim-plugin",
+      "schema",
+      "yaml"
+    ]
+  },
+  "domain": "github.com",
+  "name": "yaml-companion.nvim",
+  "owner": "someone-stole-my-name",
+  "url": "https://github.com/someone-stole-my-name/yaml-companion.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git commit"
+      },
+      {
+        "level": 3,
+        "name": "prefix"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-01-17T17:13:46Z",
+    "description": "Insert prefix to commit message by branch name (JIRA ticket for example)",
+    "isArchived": false,
+    "lastCommit": "2023-02-14T11:29:36Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "commit-prefix.nvim",
+  "owner": "ofirgall",
+  "url": "https://github.com/ofirgall/commit-prefix.nvim"
+}

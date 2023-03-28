@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Joke"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2022-10-20T17:08:25Z",
+    "description": "Plugin to force you to use VSCode every time you open Neovim ",
+    "isArchived": false,
+    "lastCommit": "2022-10-27T06:07:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "vscode"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vscode.nvim",
+  "owner": "b72u68",
+  "url": "https://github.com/b72u68/vscode.nvim"
+}

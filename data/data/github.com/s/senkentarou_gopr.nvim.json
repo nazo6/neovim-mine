@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Pull Request"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2022-07-24T06:38:01Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-04T13:45:22Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gopr.nvim",
+  "owner": "senkentarou",
+  "url": "https://github.com/senkentarou/gopr.nvim"
+}

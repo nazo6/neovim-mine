@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Clojure"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2020-12-27T19:03:51Z",
+    "description": "https://clojuredocs.org examples and notes, instantly under your finger tips ",
+    "isArchived": false,
+    "lastCommit": "2022-07-05T07:48:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 42,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lispdocs.nvim",
+  "owner": "kkharji",
+  "url": "https://github.com/kkharji/lispdocs.nvim"
+}

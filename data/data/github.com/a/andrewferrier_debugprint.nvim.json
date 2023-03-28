@@ -1,0 +1,67 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "Refactoring,Debugging"
+      },
+      {
+        "level": 4,
+        "name": "print debug"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Debugging"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 192,
+    "createdAt": "2022-08-08T12:18:22Z",
+    "description": "Debugging in NeoVim the print() way!",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T14:20:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 122,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "debugprint.nvim",
+  "owner": "andrewferrier",
+  "url": "https://github.com/andrewferrier/debugprint.nvim"
+}

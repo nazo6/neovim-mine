@@ -1,0 +1,59 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "yank_paste.md"
+      },
+      {
+        "level": 1,
+        "name": "Yank"
+      },
+      {
+        "level": 2,
+        "name": "Register Selector"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Register"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 99,
+    "createdAt": "2021-02-11T21:33:23Z",
+    "description": "📑 Neovim plugin to preview the contents of the registers",
+    "isArchived": false,
+    "lastCommit": "2023-03-06T13:54:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 511,
+    "topics": [
+      "neovim",
+      "nvim",
+      "plugin",
+      "registers",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "registers.nvim",
+  "owner": "tversteeg",
+  "url": "https://github.com/tversteeg/registers.nvim"
+}

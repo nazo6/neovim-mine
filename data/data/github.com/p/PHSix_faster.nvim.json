@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "j/k"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-02-24T13:18:38Z",
+    "description": "A neovim plugin to accelerate j or k moving.",
+    "isArchived": false,
+    "lastCommit": "2021-11-21T14:56:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "faster.nvim",
+  "owner": "PHSix",
+  "url": "https://github.com/PHSix/faster.nvim"
+}

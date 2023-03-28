@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "winbar"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2022-07-18T20:00:15Z",
+    "description": "A minimalistic winbar.",
+    "isArchived": false,
+    "lastCommit": "2023-01-06T23:34:08Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "minibar.nvim",
+  "owner": "aktersnurra",
+  "url": "https://github.com/aktersnurra/minibar.nvim"
+}

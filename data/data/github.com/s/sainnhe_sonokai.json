@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 73,
+    "createdAt": "2020-02-16T12:57:43Z",
+    "description": "High Contrast & Vivid Color Scheme based on Monokai Pro",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T11:13:28Z",
+    "primaryLanguage": {
+      "color": "#199f4b",
+      "name": "Vim Script"
+    },
+    "star": 1167,
+    "topics": [
+      "vim",
+      "theme",
+      "airline",
+      "lightline",
+      "monokai"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sonokai",
+  "owner": "sainnhe",
+  "url": "https://github.com/sainnhe/sonokai"
+}

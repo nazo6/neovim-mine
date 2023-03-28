@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 65,
+    "createdAt": "2020-06-07T13:02:17Z",
+    "description": "A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T06:00:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 216,
+    "topics": [
+      "vim",
+      "theme",
+      "plugin",
+      "treesitter",
+      "lsp",
+      "syntax-highlight",
+      "color-highlight",
+      "neovim-plugin",
+      "vim-colorscheme",
+      "colorscheme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "aurora",
+  "owner": "ray-x",
+  "url": "https://github.com/ray-x/aurora"
+}

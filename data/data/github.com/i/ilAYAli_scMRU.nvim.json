@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Selector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2022-04-18T08:56:29Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-06-13T11:00:06Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scMRU.nvim",
+  "owner": "ilAYAli",
+  "url": "https://github.com/ilAYAli/scMRU.nvim"
+}

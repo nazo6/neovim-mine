@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Popup Info"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2020-10-28T02:01:10Z",
+    "description": "A simple weather plugin in your Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-12-11T14:07:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "weather.nvim",
+  "owner": "ellisonleao",
+  "url": "https://github.com/ellisonleao/weather.nvim"
+}

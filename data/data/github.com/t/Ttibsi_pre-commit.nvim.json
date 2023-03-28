@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git hook"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-05-05T09:32:41Z",
+    "description": "Trigger pre-commit linters/formatter straight from within Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-08-04T21:41:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 34,
+    "topics": [
+      "formatter",
+      "linters",
+      "neovim",
+      "plugin",
+      "pre-commit",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pre-commit.nvim",
+  "owner": "Ttibsi",
+  "url": "https://github.com/Ttibsi/pre-commit.nvim"
+}

@@ -1,0 +1,72 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "colorscheme.md"
+      },
+      {
+        "level": 1,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 2,
+        "name": "Blue Base"
+      },
+      {
+        "level": 3,
+        "name": "VS Code"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 111,
+    "createdAt": "2021-05-19T11:16:33Z",
+    "description": "Neovim/Vim color scheme inspired by Dark+ and Light+ theme in Visual Studio Code",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T18:35:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 386,
+    "topics": [
+      "neovim",
+      "treesitter",
+      "colorscheme",
+      "vim",
+      "lua",
+      "vscode",
+      "lualine-theme",
+      "nvim",
+      "scheme",
+      "codedark"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vscode.nvim",
+  "owner": "Mofiqul",
+  "url": "https://github.com/Mofiqul/vscode.nvim"
+}

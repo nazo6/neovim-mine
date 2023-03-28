@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-02-04T06:05:17Z",
+    "description": "Workspace / context switcher plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-02-12T12:20:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+      "lua",
+      "nvim",
+      "neovim",
+      "neovim-plugin",
+      "neovim-telescope-extension",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "opener.nvim",
+  "owner": "willthbill",
+  "url": "https://github.com/willthbill/opener.nvim"
+}

@@ -1,0 +1,66 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Javascript/Typescript"
+      },
+      {
+        "level": 4,
+        "name": "Formatter"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Formatting"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2021-07-04T10:37:01Z",
+    "description": "Prettier plugin for Neovim's built-in LSP client.",
+    "isArchived": false,
+    "lastCommit": "2023-03-06T19:15:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 151,
+    "topics": [
+      "prettier",
+      "neovim",
+      "neovim-plugin",
+      "neovim-lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "prettier.nvim",
+  "owner": "MunifTanjim",
+  "url": "https://github.com/MunifTanjim/prettier.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Ruby"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 100,
+    "createdAt": "2022-08-28T01:02:55Z",
+    "description": "RSpec runner for Neovim written in Lua.",
+    "isArchived": false,
+    "lastCommit": "2022-10-22T06:28:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "rspec"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rspec.nvim",
+  "owner": "mogulla3",
+  "url": "https://github.com/mogulla3/rspec.nvim"
+}

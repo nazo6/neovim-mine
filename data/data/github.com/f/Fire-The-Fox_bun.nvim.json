@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Bun"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-03-21T18:36:15Z",
+    "description": "NeoVim plugin for Bun JavaScript runtime",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T22:15:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bun.nvim",
+  "owner": "Fire-The-Fox",
+  "url": "https://github.com/Fire-The-Fox/bun.nvim"
+}

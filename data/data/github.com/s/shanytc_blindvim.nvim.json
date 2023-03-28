@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Zen Mode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 87,
+    "createdAt": "2022-12-30T07:15:15Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-01-31T07:44:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blindvim.nvim",
+  "owner": "shanytc",
+  "url": "https://github.com/shanytc/blindvim.nvim"
+}

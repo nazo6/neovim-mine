@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "PHP"
+      },
+      {
+        "level": 4,
+        "name": "Laravel"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2022-08-17T17:38:53Z",
+    "description": "Plugin for Nvim to work with laravel projects.",
+    "isArchived": false,
+    "lastCommit": "2023-01-30T21:38:34Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "laravel.nvim",
+  "owner": "adalessa",
+  "url": "https://github.com/adalessa/laravel.nvim"
+}

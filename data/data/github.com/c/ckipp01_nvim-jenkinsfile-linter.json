@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "Jenkins"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2021-12-27T12:47:25Z",
+    "description": "Neovim plugin for linting Jenkinsfiles",
+    "isArchived": false,
+    "lastCommit": "2023-01-05T18:26:59Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-jenkinsfile-linter",
+  "owner": "ckipp01",
+  "url": "https://github.com/ckipp01/nvim-jenkinsfile-linter"
+}

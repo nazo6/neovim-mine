@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "gui.md"
+      },
+      {
+        "level": 1,
+        "name": "GUI"
+      },
+      {
+        "level": 2,
+        "name": "Clojure"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2018-02-24T05:53:38Z",
+    "description": "A JavaFX text pane, backed by Neovim, created with Clojure",
+    "isArchived": false,
+    "lastCommit": "2018-03-09T19:02:13Z",
+    "primaryLanguage": {
+      "color": "#db5855",
+      "name": "Clojure"
+    },
+    "star": 33,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "javafx-neovimpane",
+  "owner": "jebberjeb",
+  "url": "https://github.com/jebberjeb/javafx-neovimpane"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "AI Completion"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 68,
+    "createdAt": "2022-04-02T22:24:10Z",
+    "description": "Lua plugin to turn github copilot into a cmp source",
+    "isArchived": false,
+    "lastCommit": "2023-02-26T17:24:26Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 417,
+    "topics": [
+      "copilot",
+      "lua",
+      "neovim",
+      "nvim-cmp",
+      "github-copilot"
+    ]
+  },
+  "domain": "github.com",
+  "name": "copilot-cmp",
+  "owner": "zbirenbaum",
+  "url": "https://github.com/zbirenbaum/copilot-cmp"
+}

@@ -1,0 +1,60 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "textobject_operator.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Textobject"
+      },
+      {
+        "level": 3,
+        "name": "Swap"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Editing Support"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 74,
+    "createdAt": "2021-05-30T16:51:17Z",
+    "description": "Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.",
+    "isArchived": false,
+    "lastCommit": "2023-02-13T02:44:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 413,
+    "topics": [
+      "neovim",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "iswap.nvim",
+  "owner": "mizlan",
+  "url": "https://github.com/mizlan/iswap.nvim"
+}

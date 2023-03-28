@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "CSS"
+      },
+      {
+        "level": 4,
+        "name": "tailwind"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-11-28T03:07:59Z",
+    "description": "Highlights Tailwind CSS class names when @tailwindcss/language-server is connected",
+    "isArchived": false,
+    "lastCommit": "2021-12-24T04:29:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tailwindcss-colors.nvim",
+  "owner": "themaxmarchuk",
+  "url": "https://github.com/themaxmarchuk/tailwindcss-colors.nvim"
+}

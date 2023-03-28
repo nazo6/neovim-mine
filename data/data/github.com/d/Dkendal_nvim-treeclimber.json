@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Select"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2021-08-11T03:16:27Z",
+    "description": "Neovim structured editing plugin",
+    "isArchived": false,
+    "lastCommit": "2022-11-25T18:46:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 130,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "neovim-lua-plugin",
+      "treesitter",
+      "nvim-treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-treeclimber",
+  "owner": "Dkendal",
+  "url": "https://github.com/Dkendal/nvim-treeclimber"
+}

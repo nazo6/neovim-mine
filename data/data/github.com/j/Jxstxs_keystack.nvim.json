@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      },
+      {
+        "level": 2,
+        "name": "Prefix Key Binding"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2022-07-03T19:22:19Z",
+    "description": "A Simple Neovim Plugin which lets you create Key Bindings over other Bindings and restore them when you're done",
+    "isArchived": false,
+    "lastCommit": "2022-10-13T06:04:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keystack.nvim",
+  "owner": "Jxstxs",
+  "url": "https://github.com/Jxstxs/keystack.nvim"
+}

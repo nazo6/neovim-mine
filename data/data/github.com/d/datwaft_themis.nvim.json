@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Weather"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 111,
+    "createdAt": "2022-05-19T03:49:49Z",
+    "description": "Fennel macros for hotpot.nvim created for my personal Neovim configuration.",
+    "isArchived": false,
+    "lastCommit": "2023-03-01T14:13:36Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 21,
+    "topics": [
+      "fennel",
+      "hotpot",
+      "macros",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "themis.nvim",
+  "owner": "datwaft",
+  "url": "https://github.com/datwaft/themis.nvim"
+}

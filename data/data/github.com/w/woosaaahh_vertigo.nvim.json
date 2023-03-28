@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "Vertical Move"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-10-25T03:53:43Z",
+    "description": "Vertigo helps vertical motions/operations by using labels instead of relative numbers.",
+    "isArchived": false,
+    "lastCommit": "2022-10-25T03:19:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vertigo.nvim",
+  "owner": "woosaaahh",
+  "url": "https://github.com/woosaaahh/vertigo.nvim"
+}

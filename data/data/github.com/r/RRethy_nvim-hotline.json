@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 3,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-03-25T05:35:48Z",
+    "description": "Minimal Lua wrappers for 'statusline' and 'tabline'",
+    "isArchived": false,
+    "lastCommit": "2022-01-22T16:43:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-hotline",
+  "owner": "RRethy",
+  "url": "https://github.com/RRethy/nvim-hotline"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2021-07-06T20:29:00Z",
+    "description": "Neovim plugin for locking a buffer to a window",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T04:35:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 132,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stickybuf.nvim",
+  "owner": "stevearc",
+  "url": "https://github.com/stevearc/stickybuf.nvim"
+}

@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-07-26T20:13:26Z",
+    "description": "A neovim plugin that helps you keep track of your keymaps.",
+    "isArchived": true,
+    "lastCommit": "2023-02-12T11:39:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 132,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mapper",
+  "owner": "lazytanuki",
+  "url": "https://github.com/lazytanuki/nvim-mapper"
+}

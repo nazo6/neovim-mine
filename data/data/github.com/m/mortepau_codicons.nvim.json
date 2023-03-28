@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Icon"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-04-06T15:22:17Z",
+    "description": "A plugin simplifying the task of working with VS Code codicons in Neovim",
+    "isArchived": false,
+    "lastCommit": "2021-06-16T20:03:32Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 31,
+    "topics": [
+      "neovim",
+      "plugin",
+      "vscode",
+      "codicons",
+      "vim",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codicons.nvim",
+  "owner": "mortepau",
+  "url": "https://github.com/mortepau/codicons.nvim"
+}

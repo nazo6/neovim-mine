@@ -1,0 +1,58 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "jump.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Go to File"
+      },
+      {
+        "level": 3,
+        "name": "jumplist"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Selector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-09-10T07:29:40Z",
+    "description": "A neovim plugin that jump to previous and next buffer of the jumplist.",
+    "isArchived": false,
+    "lastCommit": "2021-12-05T17:25:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 55,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufjump.nvim",
+  "owner": "kwkarlwang",
+  "url": "https://github.com/kwkarlwang/bufjump.nvim"
+}

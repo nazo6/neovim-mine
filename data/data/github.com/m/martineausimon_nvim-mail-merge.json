@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Mail"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2022-12-20T19:54:14Z",
+    "description": "NeoVim mail merge plugin",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T12:54:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "mail-merge",
+      "neomutt",
+      "neovim",
+      "mail",
+      "publipostage",
+      "csv",
+      "markdown",
+      "markdown-to-html"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mail-merge",
+  "owner": "martineausimon",
+  "url": "https://github.com/martineausimon/nvim-mail-merge"
+}

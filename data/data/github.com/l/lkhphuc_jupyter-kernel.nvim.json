@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      },
+      {
+        "level": 4,
+        "name": "Jupyter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2023-02-24T00:03:07Z",
+    "description": "Get (IPython) Jupyter kernel completion suggestions and object inspection into Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T17:40:54Z",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 44,
+    "topics": [
+      "ipython",
+      "jupyter",
+      "neovim",
+      "neovim-plugin",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jupyter-kernel.nvim",
+  "owner": "lkhphuc",
+  "url": "https://github.com/lkhphuc/jupyter-kernel.nvim"
+}

@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      },
+      {
+        "level": 1,
+        "name": "Neovim distribution"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Preconfigured Configuration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 113,
+    "createdAt": "2017-10-09T11:28:35Z",
+    "description": "21st-century Neovim configure. Mainly implemented by lua.",
+    "isArchived": false,
+    "lastCommit": "2022-12-09T07:52:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 103,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": ".sea.nvim",
+  "owner": "cstsunfu",
+  "url": "https://github.com/cstsunfu/.sea.nvim"
+}

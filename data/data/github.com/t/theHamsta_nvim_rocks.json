@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "package-manager.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Package Manager"
+      },
+      {
+        "level": 3,
+        "name": "Luarock"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-04-13T16:38:02Z",
+    "description": ":metal: Install luarocks packages for Neovim's built-in Lua interpreter.",
+    "isArchived": false,
+    "lastCommit": "2021-04-27T08:05:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim_rocks",
+  "owner": "theHamsta",
+  "url": "https://github.com/theHamsta/nvim_rocks"
+}

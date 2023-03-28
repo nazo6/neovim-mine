@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Select"
+      },
+      {
+        "level": 2,
+        "name": "narrowing"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-02-02T22:02:12Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-04T20:59:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "minimal-narrow-region.nvim",
+  "owner": "bagohart",
+  "url": "https://github.com/bagohart/minimal-narrow-region.nvim"
+}

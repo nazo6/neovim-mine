@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Net"
+      },
+      {
+        "level": 3,
+        "name": "GRPC"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-11-28T12:02:35Z",
+    "description": "Grpc Client for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-22T15:28:27Z",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 22,
+    "topics": [
+      "fennel",
+      "grpc",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "grpc-nvim",
+  "owner": "hudclark",
+  "url": "https://github.com/hudclark/grpc-nvim"
+}

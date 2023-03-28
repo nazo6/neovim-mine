@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "jump.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Go to File"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-10-12T06:58:49Z",
+    "description": "Improved goto file functionality for lua files in Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-12T07:01:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lua-gf.nvim",
+  "owner": "rohanorton",
+  "url": "https://github.com/rohanorton/lua-gf.nvim"
+}

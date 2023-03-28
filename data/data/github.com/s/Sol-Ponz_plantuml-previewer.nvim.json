@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "PlantUML"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-11-19T15:07:45Z",
+    "description": "textbased plantuml previewer for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-11-22T15:18:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "plantuml"
+    ]
+  },
+  "domain": "github.com",
+  "name": "plantuml-previewer.nvim",
+  "owner": "Sol-Ponz",
+  "url": "https://github.com/Sol-Ponz/plantuml-previewer.nvim"
+}

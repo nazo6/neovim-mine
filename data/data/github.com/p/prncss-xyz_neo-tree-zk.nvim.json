@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2022-07-13T20:11:03Z",
+    "description": "neo-tree source for zk-nvim",
+    "isArchived": false,
+    "lastCommit": "2022-07-30T19:24:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "neovim",
+      "notes",
+      "nvim",
+      "zk",
+      "neo-tree-source"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neo-tree-zk.nvim",
+  "owner": "prncss-xyz",
+  "url": "https://github.com/prncss-xyz/neo-tree-zk.nvim"
+}

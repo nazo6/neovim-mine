@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2023-01-09T16:58:24Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-13T22:14:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gx",
+  "owner": "josa42",
+  "url": "https://github.com/josa42/nvim-gx"
+}

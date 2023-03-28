@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Snippet"
+      },
+      {
+        "level": 4,
+        "name": "Snippet definitions"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2022-12-21T10:50:52Z",
+    "description": "Cheeky LuaSnip snippets for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2023-02-18T06:01:05Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "luasnip",
+      "neovim",
+      "neovim-plugin",
+      "snippets"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cheeky-snippets.nvim",
+  "owner": "madskjeldgaard",
+  "url": "https://github.com/madskjeldgaard/cheeky-snippets.nvim"
+}

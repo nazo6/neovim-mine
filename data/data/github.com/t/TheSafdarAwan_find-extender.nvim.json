@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "Horizontal Move"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 125,
+    "createdAt": "2023-01-31T15:43:46Z",
+    "description": "extend's the capability of neovim find command's",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T19:46:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "lua",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "find-extender.nvim",
+  "owner": "TheSafdarAwan",
+  "url": "https://github.com/TheSafdarAwan/find-extender.nvim"
+}

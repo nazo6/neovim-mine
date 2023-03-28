@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-11-23T16:18:56Z",
+    "description": "Markdown previewer plugin written in Lua using libuv",
+    "isArchived": true,
+    "lastCommit": "2022-11-30T17:50:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown.nvim",
+  "owner": "Alighorab",
+  "url": "https://github.com/Alighorab/markdown.nvim"
+}

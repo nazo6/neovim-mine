@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2020-10-26T15:00:02Z",
+    "description": "lua wrapper for neovim terminal",
+    "isArchived": false,
+    "lastCommit": "2021-03-28T14:07:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "termwrapper.nvim",
+  "owner": "oberblastmeister",
+  "url": "https://github.com/oberblastmeister/termwrapper.nvim"
+}

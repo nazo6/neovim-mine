@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Progress"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-04-23T10:57:50Z",
+    "description": "LSP Progress lualine componenet",
+    "isArchived": false,
+    "lastCommit": "2021-10-23T00:07:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 174,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "lualine"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lualine-lsp-progress",
+  "owner": "arkav",
+  "url": "https://github.com/arkav/lualine-lsp-progress"
+}

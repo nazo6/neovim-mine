@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2022-09-13T20:56:06Z",
+    "description": "LSP formatting, but only on modified text regions.",
+    "isArchived": false,
+    "lastCommit": "2023-03-22T21:21:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 104,
+    "topics": [
+      "format",
+      "lsp",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-format-modifications.nvim",
+  "owner": "joechrisellis",
+  "url": "https://github.com/joechrisellis/lsp-format-modifications.nvim"
+}

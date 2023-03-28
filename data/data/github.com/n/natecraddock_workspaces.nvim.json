@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Local Config"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2022-01-20T21:36:16Z",
+    "description": "a simple plugin to manage workspace directories in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-03T15:17:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 140,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "workspace",
+      "project"
+    ]
+  },
+  "domain": "github.com",
+  "name": "workspaces.nvim",
+  "owner": "natecraddock",
+  "url": "https://github.com/natecraddock/workspaces.nvim"
+}

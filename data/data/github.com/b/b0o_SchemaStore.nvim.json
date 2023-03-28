@@ -1,0 +1,72 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "JSON"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 199,
+    "createdAt": "2021-10-07T07:03:15Z",
+    "description": "🛍 JSON schemas for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T17:01:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 397,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "neovim",
+      "neovim-plugin",
+      "schemastore",
+      "autocompletion",
+      "linting",
+      "schema-registry",
+      "intellisense",
+      "lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "SchemaStore.nvim",
+  "owner": "b0o",
+  "url": "https://github.com/b0o/SchemaStore.nvim"
+}

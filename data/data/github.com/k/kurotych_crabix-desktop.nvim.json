@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown preview"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-02-13T18:10:45Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-13T18:21:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "markdown-to-html"
+    ]
+  },
+  "domain": "github.com",
+  "name": "crabix-desktop.nvim",
+  "owner": "kurotych",
+  "url": "https://github.com/kurotych/crabix-desktop.nvim"
+}

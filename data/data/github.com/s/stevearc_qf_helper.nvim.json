@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "quickfix_location.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Quickfix"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2021-06-15T21:40:24Z",
+    "description": "A collection of improvements for the quickfix buffer",
+    "isArchived": false,
+    "lastCommit": "2023-02-04T19:32:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 69,
+    "topics": [
+      "vim",
+      "neovim",
+      "vim-plugin",
+      "neovim-plugin",
+      "quickfix",
+      "quickfix-window",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "qf_helper.nvim",
+  "owner": "stevearc",
+  "url": "https://github.com/stevearc/qf_helper.nvim"
+}

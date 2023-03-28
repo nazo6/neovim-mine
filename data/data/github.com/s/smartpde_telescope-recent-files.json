@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      },
+      {
+        "level": 4,
+        "name": "open"
+      },
+      {
+        "level": 5,
+        "name": "recent file"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2022-08-24T20:05:12Z",
+    "description": "Telescope extension for Neovim to pick a recent file",
+    "isArchived": false,
+    "lastCommit": "2022-11-19T15:46:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 56,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-recent-files",
+  "owner": "smartpde",
+  "url": "https://github.com/smartpde/telescope-recent-files"
+}

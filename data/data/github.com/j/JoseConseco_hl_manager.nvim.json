@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-01-12T15:08:24Z",
+    "description": "manage tweak highlights in nvim",
+    "isArchived": false,
+    "lastCommit": "2023-02-22T11:46:29Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hl_manager.nvim",
+  "owner": "JoseConseco",
+  "url": "https://github.com/JoseConseco/hl_manager.nvim"
+}

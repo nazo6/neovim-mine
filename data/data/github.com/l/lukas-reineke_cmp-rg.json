@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "nvim-cmp extension"
+      },
+      {
+        "level": 4,
+        "name": "nvim-cmp sources"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2021-10-26T07:41:50Z",
+    "description": "ripgrep source for nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2022-09-05T02:56:41Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 219,
+    "topics": [
+      "nvim-cmp",
+      "neovim",
+      "neovim-plugin",
+      "vim",
+      "vim-plugin",
+      "ripgrep"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-rg",
+  "owner": "lukas-reineke",
+  "url": "https://github.com/lukas-reineke/cmp-rg"
+}

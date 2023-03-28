@@ -1,0 +1,30 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-05-17T18:02:46Z",
+    "description": "rooter.nvim is a neovim plugin written in lua to change current working directory to project's root directory.",
+    "isArchived": true,
+    "lastCommit": "2022-06-08T14:11:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 42,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rooter.nvim",
+  "owner": "ygm2",
+  "url": "https://github.com/ygm2/rooter.nvim"
+}

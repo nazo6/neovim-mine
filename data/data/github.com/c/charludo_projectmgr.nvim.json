@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 197,
+    "createdAt": "2022-06-16T16:29:03Z",
+    "description": "Quickly switch between projects and automate startup tasks.",
+    "isArchived": false,
+    "lastCommit": "2022-11-17T12:16:59Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 99,
+    "topics": [
+      "developer-tools",
+      "lua",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "projectmgr.nvim",
+  "owner": "charludo",
+  "url": "https://github.com/charludo/projectmgr.nvim"
+}

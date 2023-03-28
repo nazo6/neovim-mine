@@ -1,0 +1,76 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "[Comment Out](./comment.md)"
+      },
+      {
+        "level": 4,
+        "name": "Context Header"
+      },
+      {
+        "level": 5,
+        "name": "Indent Guide"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Formatting"
+      },
+      {
+        "level": 4,
+        "name": "Indent"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 61,
+    "createdAt": "2020-04-11T13:55:29Z",
+    "description": "Indent guides  for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-20T01:01:52Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2560,
+    "topics": [
+      "vim",
+      "vim-plugin",
+      "neovim",
+      "neovim-plugin",
+      "indentation",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "indent-blankline.nvim",
+  "owner": "lukas-reineke",
+  "url": "https://github.com/lukas-reineke/indent-blankline.nvim"
+}

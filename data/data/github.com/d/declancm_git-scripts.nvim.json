@@ -1,0 +1,38 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-02-22T11:05:39Z",
+    "description": "🤖 Automated async git commit and async git pull functions. Optional asynchronous 'commit-on-save'.",
+    "isArchived": false,
+    "lastCommit": "2022-04-08T14:36:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "vim",
+      "nvim",
+      "git",
+      "lua",
+      "neovim",
+      "github"
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-scripts.nvim",
+  "owner": "declancm",
+  "url": "https://github.com/declancm/git-scripts.nvim"
+}

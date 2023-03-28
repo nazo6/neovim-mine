@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Agda"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2021-04-08T01:09:54Z",
+    "description": "Agda interaction pluging for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-09T10:01:16Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 26,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-agda",
+  "owner": "ashinkarov",
+  "url": "https://github.com/ashinkarov/nvim-agda"
+}

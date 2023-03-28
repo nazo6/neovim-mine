@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      },
+      {
+        "level": 2,
+        "name": "Mapping search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-10-10T16:15:33Z",
+    "description": "A plugin that generates a key map \"cheat sheet\" for reference",
+    "isArchived": false,
+    "lastCommit": "2022-10-10T16:19:40Z",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "autoref.nvim",
+  "owner": "October-Studios",
+  "url": "https://github.com/October-Studios/autoref.nvim"
+}

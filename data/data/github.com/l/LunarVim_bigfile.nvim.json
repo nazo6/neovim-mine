@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Misc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2022-11-10T07:49:07Z",
+    "description": "Make editing big files faster 🚀",
+    "isArchived": false,
+    "lastCommit": "2022-12-01T12:53:54Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 47,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bigfile.nvim",
+  "owner": "LunarVim",
+  "url": "https://github.com/LunarVim/bigfile.nvim"
+}

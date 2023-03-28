@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Fennel"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-05-07T19:30:08Z",
+    "description": "macros to configure neovim in fennel",
+    "isArchived": false,
+    "lastCommit": "2021-10-06T14:43:06Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 90,
+    "topics": [
+      "neovim",
+      "fennel",
+      "macros",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zest.nvim",
+  "owner": "tsbohc",
+  "url": "https://github.com/tsbohc/zest.nvim"
+}

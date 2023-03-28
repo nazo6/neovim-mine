@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Music"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-01-22T18:12:26Z",
+    "description": "neovim plugin for supercollider",
+    "isArchived": false,
+    "lastCommit": "2023-01-22T22:32:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "supercollider.nvim",
+  "owner": "ryleelyman",
+  "url": "https://github.com/ryleelyman/supercollider.nvim"
+}

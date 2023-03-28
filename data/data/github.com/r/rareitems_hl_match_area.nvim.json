@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "matchparen"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2022-10-25T14:09:03Z",
+    "description": " Neovim plugin that allows highlighting the whole area between matching delimiters ('{}' '[]' '()' '<>') ",
+    "isArchived": false,
+    "lastCommit": "2022-12-13T13:53:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 46,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hl_match_area.nvim",
+  "owner": "rareitems",
+  "url": "https://github.com/rareitems/hl_match_area.nvim"
+}

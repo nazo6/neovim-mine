@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Music"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2023-01-06T19:39:26Z",
+    "description": "Control you favorite music players with ease from within Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-01-31T13:04:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "playerctl"
+    ]
+  },
+  "domain": "github.com",
+  "name": "music-controls.nvim",
+  "owner": "AntonVanAssche",
+  "url": "https://github.com/AntonVanAssche/music-controls.nvim"
+}

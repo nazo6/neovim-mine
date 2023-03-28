@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2022-09-22T10:21:23Z",
+    "description": "A minimal note-taking system for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T16:16:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+      "neovim",
+      "vim",
+      "note-taking"
+    ]
+  },
+  "domain": "github.com",
+  "name": "arachne.nvim",
+  "owner": "oem",
+  "url": "https://github.com/oem/arachne.nvim"
+}

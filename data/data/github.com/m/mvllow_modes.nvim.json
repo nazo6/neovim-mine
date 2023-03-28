@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Mode"
+      },
+      {
+        "level": 4,
+        "name": "Mode Viewer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2021-07-27T03:53:43Z",
+    "description": "Prismatic line decorations for the adventurous vim user",
+    "isArchived": false,
+    "lastCommit": "2023-01-09T14:29:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 316,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "neovim-lua",
+      "nvim",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "modes.nvim",
+  "owner": "mvllow",
+  "url": "https://github.com/mvllow/modes.nvim"
+}

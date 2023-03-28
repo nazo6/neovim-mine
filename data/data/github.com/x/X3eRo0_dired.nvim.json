@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "Emacs style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 51,
+    "createdAt": "2022-07-08T05:10:02Z",
+    "description": "Emacs dired like file manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-13T15:35:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 88,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dired.nvim",
+  "owner": "X3eRo0",
+  "url": "https://github.com/X3eRo0/dired.nvim"
+}

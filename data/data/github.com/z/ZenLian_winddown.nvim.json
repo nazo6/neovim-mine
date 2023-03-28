@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-01-18T13:55:39Z",
+    "description": "An unconcious screen time reminder.",
+    "isArchived": false,
+    "lastCommit": "2023-01-26T15:31:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "tomato-clock"
+    ]
+  },
+  "domain": "github.com",
+  "name": "winddown.nvim",
+  "owner": "ZenLian",
+  "url": "https://github.com/ZenLian/winddown.nvim"
+}

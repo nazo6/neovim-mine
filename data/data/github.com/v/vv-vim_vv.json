@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "gui.md"
+      },
+      {
+        "level": 1,
+        "name": "GUI"
+      },
+      {
+        "level": 2,
+        "name": "MacOS"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2018-06-10T05:38:54Z",
+    "description": "Neovim client for macOS",
+    "isArchived": false,
+    "lastCommit": "2022-07-29T22:14:49Z",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 209,
+    "topics": [
+      "neovim",
+      "vim",
+      "client",
+      "electron",
+      "macos",
+      "gui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vv",
+  "owner": "vv-vim",
+  "url": "https://github.com/vv-vim/vv"
+}

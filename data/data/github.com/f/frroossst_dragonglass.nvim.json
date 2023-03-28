@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Obsidian"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2022-12-20T03:47:38Z",
+    "description": "An obsidian like plugin for neovim written in lua",
+    "isArchived": false,
+    "lastCommit": "2023-02-15T16:34:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dragonglass.nvim",
+  "owner": "frroossst",
+  "url": "https://github.com/frroossst/dragonglass.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      },
+      {
+        "level": 2,
+        "name": "Line search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-10-28T11:55:05Z",
+    "description": "A simple Telescope extension to search through the lines in the current buffer",
+    "isArchived": false,
+    "lastCommit": "2022-10-31T11:28:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "nvim",
+      "nvim-lua",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-lines.nvim",
+  "owner": "neanias",
+  "url": "https://github.com/neanias/telescope-lines.nvim"
+}

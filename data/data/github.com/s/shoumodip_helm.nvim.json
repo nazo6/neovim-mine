@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2020-12-21T11:04:39Z",
+    "description": "The completion framework for love and life in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-17T14:47:51Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "helm.nvim",
+  "owner": "shoumodip",
+  "url": "https://github.com/shoumodip/helm.nvim"
+}

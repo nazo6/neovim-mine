@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Snippet"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2023-02-10T15:13:52Z",
+    "description": "Snippet creation tool for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-15T13:22:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 54,
+    "topics": [
+      "lua",
+      "neovim",
+      "luasnip",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "SnippetGenie",
+  "owner": "ziontee113",
+  "url": "https://github.com/ziontee113/SnippetGenie"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      },
+      {
+        "level": 3,
+        "name": "Telescope Extensions"
+      },
+      {
+        "level": 4,
+        "name": "Picker"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-03-25T08:30:07Z",
+    "description": "A plugin that helps you use any pickers in telescope.",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T09:29:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-picker-list.nvim",
+  "owner": "OliverChao",
+  "url": "https://github.com/OliverChao/telescope-picker-list.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2021-03-25T17:29:53Z",
+    "description": "Let's just use a formatter and never discuss formatting again.",
+    "isArchived": false,
+    "lastCommit": "2022-05-05T06:41:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 44,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stylua-nvim",
+  "owner": "ckipp01",
+  "url": "https://github.com/ckipp01/stylua-nvim"
+}

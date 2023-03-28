@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Hint"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 55,
+    "createdAt": "2022-07-26T23:48:55Z",
+    "description": "almost not wip",
+    "isArchived": false,
+    "lastCommit": "2022-08-13T01:18:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 125,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "inlay-hints.nvim",
+  "owner": "simrat39",
+  "url": "https://github.com/simrat39/inlay-hints.nvim"
+}

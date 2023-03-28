@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Convert Case"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2022-12-04T16:57:41Z",
+    "description": "🧳 Change casing of the word under cursor in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T07:21:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins",
+      "vim",
+      "neovim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "case_manager.nvim",
+  "owner": "theoboldalex",
+  "url": "https://github.com/theoboldalex/case_manager.nvim"
+}

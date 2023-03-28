@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Command style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-12-08T15:48:31Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-01-01T09:29:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "async-runner.nvim",
+  "owner": "AbaoFromCUG",
+  "url": "https://github.com/AbaoFromCUG/async-runner.nvim"
+}

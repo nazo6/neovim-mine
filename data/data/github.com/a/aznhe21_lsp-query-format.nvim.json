@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Formatting"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2022-10-07T07:58:54Z",
+    "description": "Neovim plugin to query \"formattable status\" by LSP",
+    "isArchived": false,
+    "lastCommit": "2023-02-03T12:41:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "lualine",
+      "lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-query-format.nvim",
+  "owner": "aznhe21",
+  "url": "https://github.com/aznhe21/lsp-query-format.nvim"
+}

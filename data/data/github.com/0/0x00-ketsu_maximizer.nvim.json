@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "Window Management"
+      },
+      {
+        "level": 4,
+        "name": "maximize"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-09-21T01:12:13Z",
+    "description": "Maximize and restore the current window in Neovim, written in Lua",
+    "isArchived": false,
+    "lastCommit": "2023-02-21T08:42:52Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "nvim",
+      "maximize",
+      "window",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "maximizer.nvim",
+  "owner": "0x00-ketsu",
+  "url": "https://github.com/0x00-ketsu/maximizer.nvim"
+}

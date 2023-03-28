@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "completion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Auto Completion"
+      },
+      {
+        "level": 3,
+        "name": "nvim-cmp extension"
+      },
+      {
+        "level": 4,
+        "name": "nvim-cmp sources"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2021-10-27T15:38:25Z",
+    "description": "nvim-cmp source for textDocument/documentSymbol via nvim-lsp.",
+    "isArchived": false,
+    "lastCommit": "2022-10-24T10:30:52Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 135,
+    "topics": [
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-nvim-lsp-document-symbol",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/cmp-nvim-lsp-document-symbol"
+}

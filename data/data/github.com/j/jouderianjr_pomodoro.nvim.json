@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Pomodoro"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-08-28T23:39:14Z",
+    "description": "Pomodoro plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-08-29T19:23:22Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pomodoro.nvim",
+  "owner": "jouderianjr",
+  "url": "https://github.com/jouderianjr/pomodoro.nvim"
+}

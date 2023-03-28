@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Godot"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2022-09-15T16:51:52Z",
+    "description": "Run and debug your Godot game in neovim",
+    "isArchived": false,
+    "lastCommit": "2022-12-19T10:22:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 47,
+    "topics": [
+      "godot",
+      "lua",
+      "nvim",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "godot.nvim",
+  "owner": "Lommix",
+  "url": "https://github.com/Lommix/godot.nvim"
+}

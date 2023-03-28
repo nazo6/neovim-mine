@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Image Viewer"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Media"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2022-10-08T16:03:01Z",
+    "description": "Image Preview for Neovim 🖼",
+    "isArchived": false,
+    "lastCommit": "2023-02-28T20:43:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 44,
+    "topics": [
+      "image-preview",
+      "neovim",
+      "plugin",
+      "terminal",
+      "wezterm"
+    ]
+  },
+  "domain": "github.com",
+  "name": "image_preview.nvim",
+  "owner": "adelarsq",
+  "url": "https://github.com/adelarsq/image_preview.nvim"
+}

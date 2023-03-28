@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "Type Hierarchy"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-08-27T19:18:58Z",
+    "description": "Neovim plugin providing an attempt to « hack around » the lack of support (in clients & servers) for the type hierarchy LSP protocol.",
+    "isArchived": false,
+    "lastCommit": "2022-09-01T09:44:21Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 32,
+    "topics": [
+      "lsp",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hierarchy.nvim",
+  "owner": "Slyces",
+  "url": "https://github.com/Slyces/hierarchy.nvim"
+}

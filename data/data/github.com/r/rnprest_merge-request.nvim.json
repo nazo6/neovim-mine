@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Pull Request"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-11-10T18:55:10Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-11-24T18:25:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "merge-request.nvim",
+  "owner": "rnprest",
+  "url": "https://github.com/rnprest/merge-request.nvim"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "auto-insert.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "insert pairs"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-03-19T12:18:10Z",
+    "description": "Neovim plugin which automatically closes open pairs",
+    "isArchived": false,
+    "lastCommit": "2023-03-21T20:05:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "twins.nvim",
+  "owner": "CozyPenguin",
+  "url": "https://github.com/CozyPenguin/twins.nvim"
+}

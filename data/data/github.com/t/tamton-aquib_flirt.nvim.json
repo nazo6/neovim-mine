@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Window"
+      },
+      {
+        "level": 3,
+        "name": "animation"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-10-05T09:29:40Z",
+    "description": "A neovim plugin to work with floating windows.",
+    "isArchived": false,
+    "lastCommit": "2023-01-13T15:49:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 74,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "flirt.nvim",
+  "owner": "tamton-aquib",
+  "url": "https://github.com/tamton-aquib/flirt.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "PHP"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 55,
+    "createdAt": "2023-01-23T09:44:29Z",
+    "description": "Neovim Php Namespace Resolver",
+    "isArchived": false,
+    "lastCommit": "2023-02-19T11:26:17Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "neovim",
+      "php",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "namespace.nvim",
+  "owner": "ccaglak",
+  "url": "https://github.com/ccaglak/namespace.nvim"
+}

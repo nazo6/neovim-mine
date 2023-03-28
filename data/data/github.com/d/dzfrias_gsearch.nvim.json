@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Browser Integration"
+      },
+      {
+        "level": 4,
+        "name": "search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2022-08-19T03:53:02Z",
+    "description": "Search Google with autosuggest right from neovim!",
+    "isArchived": false,
+    "lastCommit": "2022-09-22T15:04:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "google",
+      "neovim",
+      "plugin",
+      "telescope",
+      "vim",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gsearch.nvim",
+  "owner": "dzfrias",
+  "url": "https://github.com/dzfrias/gsearch.nvim"
+}

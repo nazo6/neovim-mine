@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      },
+      {
+        "level": 4,
+        "name": "build manager"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2022-12-07T16:12:51Z",
+    "description": "A tiny neovim plugin for automatically switching to the correct pipenv for the open buffer",
+    "isArchived": false,
+    "lastCommit": "2022-12-14T13:13:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "pipenv",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pipenv.nvim",
+  "owner": "jpfender",
+  "url": "https://github.com/jpfender/pipenv.nvim"
+}

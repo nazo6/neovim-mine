@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-12-01T01:32:54Z",
+    "description": "Bindings for Marktext's Markdown in Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-04-21T23:13:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "markdown",
+      "snippets",
+      "latex",
+      "lua",
+      "neovim",
+      "nvim",
+      "neovim-plugin",
+      "vimscript",
+      "marktext",
+      "mermaidjs"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-marktext",
+  "owner": "Iron-E",
+  "url": "https://github.com/Iron-E/nvim-marktext"
+}

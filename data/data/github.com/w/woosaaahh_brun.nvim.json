@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Command style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-10-25T03:49:08Z",
+    "description": "BRun helps to run commands after saving a file and and see the result in a buffer.",
+    "isArchived": false,
+    "lastCommit": "2022-10-25T03:20:12Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "brun.nvim",
+  "owner": "woosaaahh",
+  "url": "https://github.com/woosaaahh/brun.nvim"
+}

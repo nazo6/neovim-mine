@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "CSS"
+      },
+      {
+        "level": 4,
+        "name": "Bulma"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-03-03T01:47:22Z",
+    "description": "Bulma CSS completion source for nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2023-03-15T13:52:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "bulma",
+      "nvim-cmp",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp_bulma.nvim",
+  "owner": "garyhurtz",
+  "url": "https://github.com/garyhurtz/cmp_bulma.nvim"
+}

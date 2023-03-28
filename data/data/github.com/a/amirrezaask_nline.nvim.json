@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 3,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-06-02T15:06:18Z",
+    "description": "Simple statusline for neovim, all in lua, all the time :)",
+    "isArchived": false,
+    "lastCommit": "2021-08-24T17:45:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nline.nvim",
+  "owner": "amirrezaask",
+  "url": "https://github.com/amirrezaask/nline.nvim"
+}

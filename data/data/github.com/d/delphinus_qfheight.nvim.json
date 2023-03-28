@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "quickfix_location.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Quickfix"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2022-12-15T12:06:44Z",
+    "description": "Resize quickfix window automatically",
+    "isArchived": false,
+    "lastCommit": "2023-01-06T00:51:38Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qfheight.nvim",
+  "owner": "delphinus",
+  "url": "https://github.com/delphinus/qfheight.nvim"
+}

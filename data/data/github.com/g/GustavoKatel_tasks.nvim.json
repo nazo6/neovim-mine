@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2022-06-30T22:13:57Z",
+    "description": "Yet another task runner/manager for Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-07-05T12:57:22Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 40,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tasks.nvim",
+  "owner": "GustavoKatel",
+  "url": "https://github.com/GustavoKatel/tasks.nvim"
+}

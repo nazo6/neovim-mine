@@ -1,0 +1,34 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-02-16T14:33:19Z",
+    "description": "Let's change search mode quickly in Neovim!",
+    "isArchived": false,
+    "lastCommit": "2023-02-16T14:43:28Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "modesearch.nvim",
+  "owner": "monaqa",
+  "url": "https://github.com/monaqa/modesearch.nvim"
+}

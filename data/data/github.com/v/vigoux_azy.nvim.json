@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 104,
+    "createdAt": "2022-09-12T18:43:26Z",
+    "description": "Simple and fast fuzzy finder for neovim",
+    "isArchived": true,
+    "lastCommit": "2022-10-12T13:00:06Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "azy.nvim",
+  "owner": "vigoux",
+  "url": "https://github.com/vigoux/azy.nvim"
+}

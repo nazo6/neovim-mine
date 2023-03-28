@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Util wrapper"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-01-30T23:46:02Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-09T19:33:59Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "deatharte.api.nvim",
+  "owner": "DrKGD",
+  "url": "https://github.com/DrKGD/deatharte.api.nvim"
+}

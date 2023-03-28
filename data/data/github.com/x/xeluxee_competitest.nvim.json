@@ -1,0 +1,60 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Competitive programming"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Game"
+      },
+      {
+        "level": 4,
+        "name": "Competitive Programming"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-01-21T17:43:23Z",
+    "description": "CompetiTest.nvim is a Neovim plugin to automate testcases management and checking for Competitive Programming",
+    "isArchived": false,
+    "lastCommit": "2023-02-11T13:17:43Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 177,
+    "topics": [
+      "neovim",
+      "nvim",
+      "neovim-plugin",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "competitive-programming"
+    ]
+  },
+  "domain": "github.com",
+  "name": "competitest.nvim",
+  "owner": "xeluxee",
+  "url": "https://github.com/xeluxee/competitest.nvim"
+}

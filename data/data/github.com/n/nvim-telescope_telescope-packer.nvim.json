@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      },
+      {
+        "level": 3,
+        "name": "Telescope Extensions"
+      },
+      {
+        "level": 4,
+        "name": "Integration for another plugin"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2020-12-01T22:13:08Z",
+    "description": "A Telescope extension that provides extra functionality for Packer.nvim",
+    "isArchived": false,
+    "lastCommit": "2022-04-17T14:06:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 178,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-packer.nvim",
+  "owner": "nvim-telescope",
+  "url": "https://github.com/nvim-telescope/telescope-packer.nvim"
+}

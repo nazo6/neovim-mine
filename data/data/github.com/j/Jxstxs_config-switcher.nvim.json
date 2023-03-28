@@ -1,0 +1,18 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'Jxstxs/config-switcher.nvim'.",
+    "reason": "NOT_FOUND"
+  },
+  "name": "config-switcher.nvim",
+  "owner": "Jxstxs",
+  "url": "https://github.com/Jxstxs/config-switcher.nvim"
+}

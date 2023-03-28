@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-08-13T13:06:51Z",
+    "description": "🤖 Neovim plugin intended as a client for copliot.lua, with a specific use-case",
+    "isArchived": true,
+    "lastCommit": "2022-12-11T18:37:13Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "copilot-client.lua",
+  "owner": "samodostal",
+  "url": "https://github.com/samodostal/copilot-client.lua"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Pandoc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2021-10-30T02:05:14Z",
+    "description": "Pandoc source for nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2023-03-03T19:30:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+      "nvim-cmp",
+      "nvim",
+      "pandoc",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-pandoc.nvim",
+  "owner": "aspeddro",
+  "url": "https://github.com/aspeddro/cmp-pandoc.nvim"
+}

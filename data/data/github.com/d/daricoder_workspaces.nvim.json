@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-09-18T03:31:12Z",
+    "description": "Simple and Discrete plugin for managing tabs in neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-11T08:47:24Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "workspaces.nvim",
+  "owner": "daricoder",
+  "url": "https://github.com/daricoder/workspaces.nvim"
+}

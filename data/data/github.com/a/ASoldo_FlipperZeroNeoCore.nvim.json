@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Hardware"
+      },
+      {
+        "level": 4,
+        "name": "Embedded Software"
+      },
+      {
+        "level": 5,
+        "name": "FlipperZero"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-01-10T20:44:04Z",
+    "description": "FlipperZero NeoCore plugin for Nvim editor.",
+    "isArchived": false,
+    "lastCommit": "2023-01-11T00:49:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "FlipperZeroNeoCore.nvim",
+  "owner": "ASoldo",
+  "url": "https://github.com/ASoldo/FlipperZeroNeoCore.nvim"
+}

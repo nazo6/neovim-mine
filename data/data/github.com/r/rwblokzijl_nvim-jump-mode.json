@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "jump.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Jump"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-09-24T15:12:34Z",
+    "description": "Modal `next` and `prev` jumping in NeoVim.",
+    "isArchived": false,
+    "lastCommit": "2022-09-27T17:04:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "lua",
+      "lsp",
+      "neovim-lsp",
+      "nvim",
+      "nvim-lsp",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-jump-mode",
+  "owner": "rwblokzijl",
+  "url": "https://github.com/rwblokzijl/nvim-jump-mode"
+}

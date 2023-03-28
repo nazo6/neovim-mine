@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "auto-insert.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "insert pairs"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-02-15T07:40:34Z",
+    "description": "A plugin to close the enclosings",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T20:55:11Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "enclosing.nvim",
+  "owner": "wakeLanaka",
+  "url": "https://github.com/wakeLanaka/enclosing.nvim"
+}

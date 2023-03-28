@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Spell"
+      },
+      {
+        "level": 4,
+        "name": "Spellcheck"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2022-10-25T22:06:46Z",
+    "description": "Create a spell file for Neovim builtins",
+    "isArchived": false,
+    "lastCommit": "2022-11-03T03:57:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "spellcheck",
+      "spellchecker",
+      "spelling"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvimwordlist",
+  "owner": "norseghost",
+  "url": "https://github.com/norseghost/nvimwordlist"
+}

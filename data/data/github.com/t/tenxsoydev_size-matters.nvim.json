@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "gui.md"
+      },
+      {
+        "level": 1,
+        "name": "GUI library"
+      },
+      {
+        "level": 2,
+        "name": "Font size"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 53,
+    "createdAt": "2022-04-27T21:34:00Z",
+    "description": "Dynamic font scaling for Neovim GUI clients.",
+    "isArchived": false,
+    "lastCommit": "2023-02-04T22:10:55Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "fonts",
+      "gui",
+      "lua",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "size-matters.nvim",
+  "owner": "tenxsoydev",
+  "url": "https://github.com/tenxsoydev/size-matters.nvim"
+}

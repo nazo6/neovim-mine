@@ -1,0 +1,57 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      },
+      {
+        "level": 5,
+        "name": "Diagnostics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2021-04-23T10:06:51Z",
+    "description": "🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.",
+    "isArchived": true,
+    "lastCommit": "2023-02-27T12:30:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 421,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-colorscheme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-colors.nvim",
+  "owner": "folke",
+  "url": "https://github.com/folke/lsp-colors.nvim"
+}

@@ -1,0 +1,58 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "backup-list.md"
+      },
+      {
+        "level": 4,
+        "name": "LSP Installer"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      },
+      {
+        "level": 5,
+        "name": "LSP Installer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-01-06T02:54:02Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2021-07-23T14:39:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 88,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lspinstall",
+  "owner": "anott03",
+  "url": "https://github.com/anott03/nvim-lspinstall"
+}

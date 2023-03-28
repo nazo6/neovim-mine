@@ -1,0 +1,56 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Preconfigured Configuration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 406,
+    "createdAt": "2021-11-24T14:15:20Z",
+    "description": "nvim with lua is cool",
+    "isArchived": false,
+    "lastCommit": "2023-02-06T00:30:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 78,
+    "topics": [
+      "nvim",
+      "neovim",
+      "lua",
+      "ide",
+      "vscode",
+      "nvim-lua",
+      "nvim-configs",
+      "nvimrc",
+      "vimrc",
+      "nvoid"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvoid",
+  "owner": "nvoid-lua",
+  "url": "https://github.com/nvoid-lua/nvoid"
+}

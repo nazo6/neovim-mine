@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Adding and subtracting"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-09-22T06:46:36Z",
+    "description": "Simple arithmetic for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-09-22T06:47:27Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neovim-arithmagic",
+  "owner": "Dotrar",
+  "url": "https://github.com/Dotrar/neovim-arithmagic"
+}

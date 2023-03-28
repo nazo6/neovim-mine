@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "yank_paste.md"
+      },
+      {
+        "level": 1,
+        "name": "Yank"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-02-13T23:21:31Z",
+    "description": "𓍯  Yank without moving the cursor",
+    "isArchived": false,
+    "lastCommit": "2023-02-13T23:22:50Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lasso.nvim",
+  "owner": "austinliuigi",
+  "url": "https://github.com/austinliuigi/lasso.nvim"
+}

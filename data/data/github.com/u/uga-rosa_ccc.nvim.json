@@ -1,0 +1,75 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Colorizer"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Color Creation"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Color"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 349,
+    "createdAt": "2022-09-13T19:33:58Z",
+    "description": "Super powerful color picker/colorizer plugin.",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T07:01:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 404,
+    "topics": [
+      "neovim-plugin",
+      "lua",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ccc.nvim",
+  "owner": "uga-rosa",
+  "url": "https://github.com/uga-rosa/ccc.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Other Editor"
+      },
+      {
+        "level": 4,
+        "name": "VS Code"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-09-17T17:17:23Z",
+    "description": "Neovim plugin to export active buffers to VS Code",
+    "isArchived": false,
+    "lastCommit": "2021-09-17T20:42:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "export-to-vscode.nvim",
+  "owner": "elijahmanor",
+  "url": "https://github.com/elijahmanor/export-to-vscode.nvim"
+}

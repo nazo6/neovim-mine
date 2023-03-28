@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Open"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-02-26T19:58:17Z",
+    "description": "Simple plugin to toggle a floating terminal window with customizable starting program",
+    "isArchived": false,
+    "lastCommit": "2023-03-03T19:25:57Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "lua-plugin",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "plugin",
+      "neovim-lua-plugin",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "termplug.nvim",
+  "owner": "Ernest1338",
+  "url": "https://github.com/Ernest1338/termplug.nvim"
+}

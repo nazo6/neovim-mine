@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Time"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-02-07T11:19:24Z",
+    "description": "A neovim plugin which annotates a file with human readable timestamps",
+    "isArchived": false,
+    "lastCommit": "2023-02-11T18:17:41Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "epochconverter.nvim",
+  "owner": "bartek",
+  "url": "https://github.com/bartek/epochconverter.nvim"
+}

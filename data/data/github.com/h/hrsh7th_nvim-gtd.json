@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Definition, Reference"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2022-11-28T17:11:13Z",
+    "description": "LSP's Go to definition plugin for neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T10:08:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 32,
+    "topics": [
+      "neovim",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gtd",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/nvim-gtd"
+}

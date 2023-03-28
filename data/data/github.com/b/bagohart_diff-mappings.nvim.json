@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git add"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-02-05T21:28:28Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-21T20:24:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diff-mappings.nvim",
+  "owner": "bagohart",
+  "url": "https://github.com/bagohart/diff-mappings.nvim"
+}

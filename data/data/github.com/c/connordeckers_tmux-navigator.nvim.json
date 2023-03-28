@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "tmux"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-11-27T07:47:11Z",
+    "description": "Inspired by christoomey/vim-tmux-navigator, and built with Lua. ",
+    "isArchived": false,
+    "lastCommit": "2022-11-27T07:56:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-navigator.nvim",
+  "owner": "connordeckers",
+  "url": "https://github.com/connordeckers/tmux-navigator.nvim"
+}

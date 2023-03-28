@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-10-06T15:23:39Z",
+    "description": "nvim-cmp source for LaTeX symbols (100% Lua)",
+    "isArchived": false,
+    "lastCommit": "2022-10-11T01:22:47Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cmp-lua-latex-symbols",
+  "owner": "amarakon",
+  "url": "https://github.com/amarakon/nvim-cmp-lua-latex-symbols"
+}

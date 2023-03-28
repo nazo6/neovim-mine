@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Profiler"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-08-03T00:45:45Z",
+    "description": "lua profiler for nvim",
+    "isArchived": false,
+    "lastCommit": "2023-01-04T06:57:09Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "profile.nvim",
+  "owner": "stevearc",
+  "url": "https://github.com/stevearc/profile.nvim"
+}

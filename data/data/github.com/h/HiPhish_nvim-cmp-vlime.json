@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Lisp"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2022-11-21T23:53:48Z",
+    "description": "(Mirror) Completion source for nvim-cmp using Vlime for Common Lisp completions.",
+    "isArchived": false,
+    "lastCommit": "2022-12-29T11:25:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "common-lisp",
+      "neovim",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cmp-vlime",
+  "owner": "HiPhish",
+  "url": "https://github.com/HiPhish/nvim-cmp-vlime"
+}

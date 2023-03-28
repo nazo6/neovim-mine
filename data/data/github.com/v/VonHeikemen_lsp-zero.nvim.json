@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Pre-configuration"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 215,
+    "createdAt": "2022-02-20T02:19:37Z",
+    "description": "A starting point to setup some lsp related features in neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T01:43:25Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1717,
+    "topics": [
+      "neovim",
+      "nvim",
+      "lsp",
+      "language-server-protocol"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-zero.nvim",
+  "owner": "VonHeikemen",
+  "url": "https://github.com/VonHeikemen/lsp-zero.nvim"
+}

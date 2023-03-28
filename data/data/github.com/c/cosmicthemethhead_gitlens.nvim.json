@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git lens"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2022-10-03T15:41:38Z",
+    "description": "a neovim port of the best git vscode extension: gitlens",
+    "isArchived": false,
+    "lastCommit": "2022-10-07T23:03:32Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "lua",
+      "nvim-plugin",
+      "git",
+      "nvim-lua",
+      "gitlens"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitlens.nvim",
+  "owner": "cosmicthemethhead",
+  "url": "https://github.com/cosmicthemethhead/gitlens.nvim"
+}

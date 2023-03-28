@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "C"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2021-09-26T16:47:45Z",
+    "description": "Extended 'textDocument/definition' handler for OmniSharp Neovim LSP",
+    "isArchived": false,
+    "lastCommit": "2023-02-02T19:03:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 54,
+    "topics": [
+      "neovim",
+      "lsp",
+      "omnisharp-vim",
+      "omnisharp",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "omnisharp-extended-lsp.nvim",
+  "owner": "Hoffs",
+  "url": "https://github.com/Hoffs/omnisharp-extended-lsp.nvim"
+}

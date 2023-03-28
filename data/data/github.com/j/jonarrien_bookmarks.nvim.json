@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mark.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Mark"
+      },
+      {
+        "level": 3,
+        "name": "bookmark"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-10-30T12:08:09Z",
+    "description": "Bookmarks.nvim using simpler approach with Telescope (based on crusj/bookmarks.nvim)",
+    "isArchived": false,
+    "lastCommit": "2022-11-01T21:58:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bookmarks.nvim",
+  "owner": "jonarrien",
+  "url": "https://github.com/jonarrien/bookmarks.nvim"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Link"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2018-07-09T12:01:42Z",
+    "description": "Quickly share the reference to a point in your file",
+    "isArchived": false,
+    "lastCommit": "2022-02-22T09:43:39Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pointer.nvim",
+  "owner": "hkupty",
+  "url": "https://github.com/hkupty/pointer.nvim"
+}

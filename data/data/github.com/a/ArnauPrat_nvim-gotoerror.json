@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-01-27T05:35:42Z",
+    "description": "simple nvim plugin to jump to compiler error positions in file",
+    "isArchived": false,
+    "lastCommit": "2023-02-13T06:25:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gotoerror",
+  "owner": "ArnauPrat",
+  "url": "https://github.com/ArnauPrat/nvim-gotoerror"
+}

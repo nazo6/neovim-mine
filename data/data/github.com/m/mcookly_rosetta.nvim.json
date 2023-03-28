@@ -1,0 +1,58 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "OS"
+      },
+      {
+        "level": 4,
+        "name": "Linux"
+      },
+      {
+        "level": 5,
+        "name": "fribidi"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 48,
+    "createdAt": "2023-02-06T02:28:54Z",
+    "description": "A Neovim plugin for polyglots and bidirectional writers.",
+    "isArchived": false,
+    "lastCommit": "2023-02-11T15:50:06Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "bidi",
+      "bidirectional",
+      "fribidi",
+      "language",
+      "multilingual",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "polyglot"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rosetta.nvim",
+  "owner": "mcookly",
+  "url": "https://github.com/mcookly/rosetta.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Game"
+      },
+      {
+        "level": 4,
+        "name": "Typing"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2022-04-21T16:08:36Z",
+    "description": "NeoVim plugin simulating monkeytype.com",
+    "isArchived": false,
+    "lastCommit": "2023-01-21T11:20:08Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 43,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "duckytype.nvim",
+  "owner": "kwakzalver",
+  "url": "https://github.com/kwakzalver/duckytype.nvim"
+}

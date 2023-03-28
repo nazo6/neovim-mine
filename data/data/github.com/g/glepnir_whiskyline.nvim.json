@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2023-01-31T04:56:38Z",
+    "description": "neovim statusline plugin blazing fast than any statusline plugin",
+    "isArchived": false,
+    "lastCommit": "2023-03-20T05:46:18Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "whiskyline.nvim",
+  "owner": "glepnir",
+  "url": "https://github.com/glepnir/whiskyline.nvim"
+}

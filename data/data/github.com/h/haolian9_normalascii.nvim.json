@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-10-28T11:00:40Z",
+    "description": "set rime to ascii mode after you left nvim's insert mode",
+    "isArchived": false,
+    "lastCommit": "2022-11-06T04:52:15Z",
+    "primaryLanguage": {
+      "color": "#ec915c",
+      "name": "Zig"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "rime",
+      "fcitx5"
+    ]
+  },
+  "domain": "github.com",
+  "name": "normalascii.nvim",
+  "owner": "haolian9",
+  "url": "https://github.com/haolian9/normalascii.nvim"
+}

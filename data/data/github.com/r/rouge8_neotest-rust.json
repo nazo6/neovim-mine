@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "test.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Test"
+      },
+      {
+        "level": 3,
+        "name": "Neotest adapter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 66,
+    "createdAt": "2022-07-23T18:43:31Z",
+    "description": "Neotest adapter for Rust, using cargo-nextest.",
+    "isArchived": false,
+    "lastCommit": "2023-03-25T21:57:49Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neotest",
+      "rust"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neotest-rust",
+  "owner": "rouge8",
+  "url": "https://github.com/rouge8/neotest-rust"
+}

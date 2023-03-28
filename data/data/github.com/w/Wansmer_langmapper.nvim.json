@@ -1,0 +1,62 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Keybinding"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 88,
+    "createdAt": "2022-12-30T13:41:46Z",
+    "description": "A plugin that makes Neovim more friendly to non-English input methods 🤝",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T22:49:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "langmap",
+      "non-english"
+    ]
+  },
+  "domain": "github.com",
+  "name": "langmapper.nvim",
+  "owner": "Wansmer",
+  "url": "https://github.com/Wansmer/langmapper.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "Database"
+      },
+      {
+        "level": 4,
+        "name": "SQL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-03-14T13:35:27Z",
+    "description": "A neovim plugin for navigating database schemas and executing custom queries across multiple RDBMS and NoSQL DBs",
+    "isArchived": false,
+    "lastCommit": "2023-03-27T03:24:58Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sqlpilot.nvim",
+  "owner": "rsdot",
+  "url": "https://github.com/rsdot/sqlpilot.nvim"
+}

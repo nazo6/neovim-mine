@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fold.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Fold"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-10-05T19:31:15Z",
+    "description": "Add some color to your dreary neovim foldtext",
+    "isArchived": false,
+    "lastCommit": "2022-10-05T19:41:20Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "foldhue.nvim",
+  "owner": "milisims",
+  "url": "https://github.com/milisims/foldhue.nvim"
+}

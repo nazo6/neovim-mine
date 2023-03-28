@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Game"
+      },
+      {
+        "level": 4,
+        "name": "Typing"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2021-12-09T17:10:34Z",
+    "description": "Quick type exercise in floating buffer",
+    "isArchived": false,
+    "lastCommit": "2023-01-30T11:20:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "typebreak.nvim",
+  "owner": "nagy135",
+  "url": "https://github.com/nagy135/typebreak.nvim"
+}

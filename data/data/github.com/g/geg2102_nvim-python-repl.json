@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      },
+      {
+        "level": 4,
+        "name": "REPL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2021-12-27T13:53:15Z",
+    "description": "A simple neovim plugin that leverages treesitter for interacting with a python/scala/lua REPL. ",
+    "isArchived": false,
+    "lastCommit": "2023-02-09T20:27:04Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-python-repl",
+  "owner": "geg2102",
+  "url": "https://github.com/geg2102/nvim-python-repl"
+}

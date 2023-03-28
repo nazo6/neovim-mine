@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "concentration.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Zen Mode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-01-11T16:14:57Z",
+    "description": "A Zen Mode with Borders",
+    "isArchived": false,
+    "lastCommit": "2023-01-11T22:01:14Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Zazen.nvim",
+  "owner": "Manas140",
+  "url": "https://github.com/Manas140/Zazen.nvim"
+}

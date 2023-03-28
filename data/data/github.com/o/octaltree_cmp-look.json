@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Help"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2021-08-09T06:56:24Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-06-26T10:05:02Z",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 70,
+    "topics": [
+      "ddc-source",
+      "nvim-cmp",
+      "ddc-vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-look",
+  "owner": "octaltree",
+  "url": "https://github.com/octaltree/cmp-look"
+}

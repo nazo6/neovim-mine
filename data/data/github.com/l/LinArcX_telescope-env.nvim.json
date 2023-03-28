@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2022-01-07T16:07:05Z",
+    "description": "watch environment variables with telescope :telescope:",
+    "isArchived": false,
+    "lastCommit": "2022-12-15T15:51:42Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 67,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-env.nvim",
+  "owner": "LinArcX",
+  "url": "https://github.com/LinArcX/telescope-env.nvim"
+}

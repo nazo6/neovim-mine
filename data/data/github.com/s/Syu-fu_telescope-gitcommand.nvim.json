@@ -1,0 +1,32 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-01-09T14:22:10Z",
+    "description": "Telescope.nvim extension for command palette of git command",
+    "isArchived": false,
+    "lastCommit": "2023-01-17T13:24:30Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-gitcommand.nvim",
+  "owner": "Syu-fu",
+  "url": "https://github.com/Syu-fu/telescope-gitcommand.nvim"
+}

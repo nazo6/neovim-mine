@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "async"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2022-09-13T17:37:48Z",
+    "description": "Small aync library for Neovim plugins",
+    "isArchived": false,
+    "lastCommit": "2023-02-10T23:30:03Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+      "lua",
+      "lua-library",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "async.nvim",
+  "owner": "lewis6991",
+  "url": "https://github.com/lewis6991/async.nvim"
+}

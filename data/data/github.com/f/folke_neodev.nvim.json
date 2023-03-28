@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Neovim Lua Development"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 446,
+    "createdAt": "2021-05-19T13:21:14Z",
+    "description": "💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T06:05:23Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1012,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-lsp",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neodev.nvim",
+  "owner": "folke",
+  "url": "https://github.com/folke/neodev.nvim"
+}

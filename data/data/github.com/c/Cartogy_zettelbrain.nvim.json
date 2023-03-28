@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Zettelkasten"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-12-26T20:22:02Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-17T21:10:00Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zettelbrain.nvim",
+  "owner": "Cartogy",
+  "url": "https://github.com/Cartogy/zettelbrain.nvim"
+}

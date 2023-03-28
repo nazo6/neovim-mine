@@ -1,0 +1,63 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Snippet"
+      },
+      {
+        "level": 4,
+        "name": "Snippet view"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      },
+      {
+        "level": 3,
+        "name": "Telescope Extensions"
+      },
+      {
+        "level": 4,
+        "name": "Integration for another plugin"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2021-09-12T02:18:09Z",
+    "description": "Neovim plugin. Telescope.nvim extension that adds LuaSnip integration.",
+    "isArchived": false,
+    "lastCommit": "2023-02-02T19:26:35Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 111,
+    "topics": [
+      "neovim",
+      "lua",
+      "nvim",
+      "luasnip",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-luasnip.nvim",
+  "owner": "benfowler",
+  "url": "https://github.com/benfowler/telescope-luasnip.nvim"
+}

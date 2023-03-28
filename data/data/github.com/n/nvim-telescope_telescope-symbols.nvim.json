@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "emoji.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Emoji"
+      },
+      {
+        "level": 3,
+        "name": "Emoji FuzzyFinder"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2020-12-03T19:24:47Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-19T09:16:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 126,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-symbols.nvim",
+  "owner": "nvim-telescope",
+  "url": "https://github.com/nvim-telescope/telescope-symbols.nvim"
+}

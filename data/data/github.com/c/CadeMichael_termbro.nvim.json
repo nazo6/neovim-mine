@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2022-10-18T19:39:44Z",
+    "description": "Toy terminal plugin for Neovim and the bros",
+    "isArchived": false,
+    "lastCommit": "2022-11-26T01:42:45Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "termbro.nvim",
+  "owner": "CadeMichael",
+  "url": "https://github.com/CadeMichael/termbro.nvim"
+}

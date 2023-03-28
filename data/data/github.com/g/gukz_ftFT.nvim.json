@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "motion.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Motion"
+      },
+      {
+        "level": 3,
+        "name": "Horizontal Move"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2021-10-30T15:19:01Z",
+    "description": "I love highlights! I love f{char}!",
+    "isArchived": false,
+    "lastCommit": "2022-03-02T10:04:01Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+      "neovim-plugin",
+      "highlights",
+      "lua",
+      "neovim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ftFT.nvim",
+  "owner": "gukz",
+  "url": "https://github.com/gukz/ftFT.nvim"
+}

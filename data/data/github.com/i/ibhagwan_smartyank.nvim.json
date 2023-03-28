@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "yank_paste.md"
+      },
+      {
+        "level": 1,
+        "name": "Yank"
+      },
+      {
+        "level": 2,
+        "name": "OSC52"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-10-08T01:39:36Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-02-25T19:45:15Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 92,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smartyank.nvim",
+  "owner": "ibhagwan",
+  "url": "https://github.com/ibhagwan/smartyank.nvim"
+}

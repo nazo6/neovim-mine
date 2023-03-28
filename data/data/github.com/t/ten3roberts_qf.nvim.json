@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "quickfix_location.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Quickfix"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2021-06-06T12:09:43Z",
+    "description": "Extends the default quickfix and location lists for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-02-24T15:01:48Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qf.nvim",
+  "owner": "ten3roberts",
+  "url": "https://github.com/ten3roberts/qf.nvim"
+}

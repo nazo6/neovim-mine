@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Music"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2022-12-08T21:28:46Z",
+    "description": "Soprano music player for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-01-26T17:44:56Z",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "soprano.nvim",
+  "owner": "whleucka",
+  "url": "https://github.com/whleucka/soprano.nvim"
+}

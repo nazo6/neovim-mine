@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Hardware"
+      },
+      {
+        "level": 4,
+        "name": "Robot"
+      },
+      {
+        "level": 5,
+        "name": "ROS"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2021-10-04T17:16:59Z",
+    "description": "ROS Integration in Neovim",
+    "isArchived": false,
+    "lastCommit": "2022-11-04T15:15:41Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ros-nvim",
+  "owner": "thibthib18",
+  "url": "https://github.com/thibthib18/ros-nvim"
+}

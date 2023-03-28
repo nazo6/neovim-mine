@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2021-12-29T14:49:07Z",
+    "description": "Yet another light-weight rooter written in Lua",
+    "isArchived": true,
+    "lastCommit": "2023-02-08T22:33:10Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 69,
+    "topics": [
+      "neovim",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "NeoRoot.lua",
+  "owner": "nyngwang",
+  "url": "https://github.com/nyngwang/NeoRoot.lua"
+}

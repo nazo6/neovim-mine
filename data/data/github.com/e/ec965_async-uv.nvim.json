@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "async"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2022-12-05T23:45:52Z",
+    "description": "Every libuv function now wrapped in async/await syntax.",
+    "isArchived": false,
+    "lastCommit": "2022-12-06T01:15:46Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "async-await",
+      "libuv",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "async-uv.nvim",
+  "owner": "ec965",
+  "url": "https://github.com/ec965/async-uv.nvim"
+}

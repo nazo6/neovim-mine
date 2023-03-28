@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2021-03-09T02:26:40Z",
+    "description": "Monokai theme for Neovim written in Lua.",
+    "isArchived": false,
+    "lastCommit": "2023-01-18T14:01:33Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 250,
+    "topics": [
+      "monokai",
+      "colorscheme",
+      "nvim-plugin",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "monokai.nvim",
+  "owner": "tanvirtin",
+  "url": "https://github.com/tanvirtin/monokai.nvim"
+}

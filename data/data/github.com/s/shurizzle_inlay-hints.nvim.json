@@ -1,0 +1,28 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "Archived.md"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2021-12-26T23:59:16Z",
+    "description": "A tool that shows inlay hints for auto-typed variables and returning types.",
+    "isArchived": true,
+    "lastCommit": "2022-06-07T14:22:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "inlay-hints.nvim",
+  "owner": "shurizzle",
+  "url": "https://github.com/shurizzle/inlay-hints.nvim"
+}

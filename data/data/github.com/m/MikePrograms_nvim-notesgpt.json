@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-03-23T19:37:10Z",
+    "description": "Create and reference notes you create with the power of AI.",
+    "isArchived": false,
+    "lastCommit": "2023-03-23T21:56:19Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-notesgpt",
+  "owner": "MikePrograms",
+  "url": "https://github.com/MikePrograms/nvim-notesgpt"
+}

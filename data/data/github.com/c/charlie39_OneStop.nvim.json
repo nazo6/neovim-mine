@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2022-08-21T06:17:14Z",
+    "description": "a plugin that streamline running various toolset commands for project development",
+    "isArchived": false,
+    "lastCommit": "2022-08-22T20:35:07Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "lua",
+      "toolset"
+    ]
+  },
+  "domain": "github.com",
+  "name": "OneStop.nvim",
+  "owner": "charlie39",
+  "url": "https://github.com/charlie39/OneStop.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Font"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 58,
+    "createdAt": "2022-08-11T04:45:50Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-03-20T06:43:40Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cellwidths.nvim",
+  "owner": "delphinus",
+  "url": "https://github.com/delphinus/cellwidths.nvim"
+}

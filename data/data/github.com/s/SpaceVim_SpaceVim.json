@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-distribution.md"
+      },
+      {
+        "level": 1,
+        "name": "Neovim Distribution"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 766,
+    "createdAt": "2016-12-26T04:40:55Z",
+    "description": "A community-driven modular vim/neovim distribution - The ultimate vimrc",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T05:57:31Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19713,
+    "topics": [
+      "spacevim",
+      "neovim",
+      "vim",
+      "editor",
+      "ide",
+      "awesome",
+      "spacemacs",
+      "space-vim",
+      "vimrc",
+      "vim-distribution"
+    ]
+  },
+  "domain": "github.com",
+  "name": "SpaceVim",
+  "owner": "SpaceVim",
+  "url": "https://github.com/SpaceVim/SpaceVim"
+}

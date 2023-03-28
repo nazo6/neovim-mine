@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Wrap"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 133,
+    "createdAt": "2016-11-24T14:25:18Z",
+    "description": "Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2023-03-26T12:29:56Z",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 49,
+    "topics": [
+      "neovim",
+      "plugin",
+      "wrapping"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wrapping.nvim",
+  "owner": "andrewferrier",
+  "url": "https://github.com/andrewferrier/wrapping.nvim"
+}
