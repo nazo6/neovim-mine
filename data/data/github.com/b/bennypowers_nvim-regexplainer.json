@@ -38,7 +38,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 21,
     "createdAt": "2022-02-16T18:45:09Z",
     "description": "Describe the regexp under the cursor",
     "isArchived": false,
@@ -47,7 +47,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 462,
+    "star": 465,
     "topics": [
       "neovim",
       "regex",

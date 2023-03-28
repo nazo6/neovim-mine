@@ -42,12 +42,12 @@
     "createdAt": "2020-12-12T14:10:46Z",
     "description": "Tools to help create flutter apps in neovim using the native lsp",
     "isArchived": false,
-    "lastCommit": "2023-03-27T07:06:57Z",
+    "lastCommit": "2023-03-28T17:18:11Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 499,
+    "star": 500,
     "topics": [
       "nvim",
       "neovim",

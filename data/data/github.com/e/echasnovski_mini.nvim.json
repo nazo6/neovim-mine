@@ -12,16 +12,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 429,
+    "commitCountLastYear": 430,
     "createdAt": "2021-06-18T08:43:57Z",
     "description": "Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort",
     "isArchived": false,
-    "lastCommit": "2023-03-25T18:50:58Z",
+    "lastCommit": "2023-03-28T15:11:06Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1946,
+    "star": 1951,
     "topics": [
       "neovim",
       "lua",

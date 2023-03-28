@@ -24,16 +24,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 89,
+    "commitCountLastYear": 91,
     "createdAt": "2022-07-05T16:25:31Z",
     "description": "👀 Move faster with unique f/F indicators.",
     "isArchived": false,
-    "lastCommit": "2023-02-26T18:03:59Z",
+    "lastCommit": "2023-03-28T14:44:05Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 173,
+    "star": 174,
     "topics": [
       "neovim-lua",
       "neovim-plugin",

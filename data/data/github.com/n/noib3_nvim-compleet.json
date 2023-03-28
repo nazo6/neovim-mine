@@ -26,7 +26,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 147,
+    "commitCountLastYear": 145,
     "createdAt": "2022-02-10T15:15:57Z",
     "description": ":zap: An async autocompletion framework for Neovim",
     "isArchived": true,

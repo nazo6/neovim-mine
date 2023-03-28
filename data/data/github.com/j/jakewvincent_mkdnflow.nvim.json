@@ -34,16 +34,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 716,
+    "commitCountLastYear": 724,
     "createdAt": "2021-08-03T20:25:38Z",
     "description": "Fluent navigation and management of markdown notebooks",
     "isArchived": false,
-    "lastCommit": "2023-03-02T19:50:10Z",
+    "lastCommit": "2023-03-18T11:40:02Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 377,
+    "star": 378,
     "topics": [
       "neovim",
       "markdown",

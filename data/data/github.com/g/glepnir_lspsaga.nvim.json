@@ -42,16 +42,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 867,
+    "commitCountLastYear": 882,
     "createdAt": "2020-12-16T00:36:44Z",
     "description": "improve neovim lsp experience",
     "isArchived": false,
-    "lastCommit": "2023-03-27T11:44:16Z",
+    "lastCommit": "2023-03-28T12:39:51Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2648,
+    "star": 2650,
     "topics": [
       "lsp",
       "neovim",

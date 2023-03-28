@@ -20,7 +20,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 28,
     "createdAt": "2022-03-23T00:57:08Z",
     "description": "Neovim plugin for launching commands in your projects",
     "isArchived": false,

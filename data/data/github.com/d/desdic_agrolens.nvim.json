@@ -38,16 +38,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 63,
+    "commitCountLastYear": 76,
     "createdAt": "2023-03-14T05:47:19Z",
     "description": "Telescope extentions to view pre-defined/custom treesitter queries",
     "isArchived": false,
-    "lastCommit": "2023-03-27T14:17:45Z",
+    "lastCommit": "2023-03-28T17:43:45Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 17,
+    "star": 18,
     "topics": [
     ]
   },

@@ -51,7 +51,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 961,
+    "star": 962,
     "topics": [
       "neovim-plugin",
       "language-server-client",

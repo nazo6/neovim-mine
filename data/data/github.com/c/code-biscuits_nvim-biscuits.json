@@ -38,16 +38,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 17,
     "createdAt": "2021-03-28T19:35:17Z",
     "description": "A neovim port of Assorted Biscuits. Ends up with more supported languages too.",
     "isArchived": false,
-    "lastCommit": "2023-01-09T17:12:09Z",
+    "lastCommit": "2023-03-28T01:33:39Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 158,
+    "star": 159,
     "topics": [
     ]
   },

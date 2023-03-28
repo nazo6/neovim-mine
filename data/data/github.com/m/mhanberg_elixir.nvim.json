@@ -20,7 +20,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 53,
+    "commitCountLastYear": 47,
     "createdAt": "2022-03-23T13:10:50Z",
     "description": "Neovim plugin for Elixir",
     "isArchived": false,
@@ -29,7 +29,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 171,
+    "star": 172,
     "topics": [
       "elixir",
       "neovim",

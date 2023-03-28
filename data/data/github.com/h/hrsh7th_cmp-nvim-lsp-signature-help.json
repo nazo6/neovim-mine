@@ -24,7 +24,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 12,
     "createdAt": "2021-11-19T13:06:51Z",
     "description": "cmp-nvim-lsp-signature-help",
     "isArchived": false,

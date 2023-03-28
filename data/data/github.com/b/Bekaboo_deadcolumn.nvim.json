@@ -20,16 +20,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 43,
+    "commitCountLastYear": 51,
     "createdAt": "2023-03-24T23:20:55Z",
     "description": "A neovim plugin that shows colorcolumn dynamically",
     "isArchived": false,
-    "lastCommit": "2023-03-27T01:41:35Z",
+    "lastCommit": "2023-03-27T20:56:21Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 44,
+    "star": 48,
     "topics": [
     ]
   },

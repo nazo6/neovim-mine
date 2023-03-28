@@ -43,7 +43,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 11,
+    "star": 13,
     "topics": [
       "lua",
       "neovim",

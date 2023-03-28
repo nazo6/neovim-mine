@@ -42,7 +42,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 180,
+    "commitCountLastYear": 179,
     "createdAt": "2021-07-20T23:19:53Z",
     "description": "🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
     "isArchived": false,
@@ -51,7 +51,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1984,
+    "star": 1985,
     "topics": [
       "neovim",
       "lua",

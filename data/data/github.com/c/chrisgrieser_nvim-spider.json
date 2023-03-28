@@ -38,16 +38,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 46,
     "createdAt": "2023-03-20T12:51:48Z",
     "description": "Use the w, e, b motions like a spider.  Considers camelCase and skips insignificant punctuation.",
     "isArchived": false,
-    "lastCommit": "2023-03-26T21:20:01Z",
+    "lastCommit": "2023-03-28T05:09:04Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 26,
+    "star": 78,
     "topics": [
       "camelcase",
       "nvim-plugin"

@@ -34,7 +34,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 293,
+    "commitCountLastYear": 290,
     "createdAt": "2021-05-13T19:41:59Z",
     "description": "Orgmode clone written in Lua for Neovim 0.7+.",
     "isArchived": false,
@@ -43,7 +43,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2094,
+    "star": 2096,
     "topics": [
       "neovim",
       "neovim-plugin",

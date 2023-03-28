@@ -42,7 +42,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 75,
+    "commitCountLastYear": 74,
     "createdAt": "2022-02-28T23:30:26Z",
     "description": "Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua!",
     "isArchived": false,

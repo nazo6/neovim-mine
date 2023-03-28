@@ -34,16 +34,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 67,
+    "commitCountLastYear": 69,
     "createdAt": "2020-05-29T13:37:01Z",
     "description": "lua `fork` of vim-web-devicons for neovim",
     "isArchived": false,
-    "lastCommit": "2023-03-21T03:52:36Z",
+    "lastCommit": "2023-03-28T10:35:17Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1100,
+    "star": 1103,
     "topics": [
     ]
   },

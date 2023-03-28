@@ -56,16 +56,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 76,
+    "commitCountLastYear": 81,
     "createdAt": "2020-11-22T11:51:03Z",
     "description": "enhanced increment/decrement plugin for Neovim.",
     "isArchived": false,
-    "lastCommit": "2023-03-26T06:33:56Z",
+    "lastCommit": "2023-03-28T11:45:19Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 486,
+    "star": 488,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -24,7 +24,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 10,
     "createdAt": "2022-03-14T06:34:57Z",
     "description": "A color scheme for Neovim",
     "isArchived": false,

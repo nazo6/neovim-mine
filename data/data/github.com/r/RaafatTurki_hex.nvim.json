@@ -15,6 +15,10 @@
       },
       {
         "level": 3,
+        "name": "Hex"
+      },
+      {
+        "level": 4,
         "name": "Hex Editor"
       }
     ]

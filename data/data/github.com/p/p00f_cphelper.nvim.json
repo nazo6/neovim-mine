@@ -34,7 +34,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 8,
     "createdAt": "2021-02-20T13:44:49Z",
     "description": "Neovim helper for competitive programming. Use https://sr.ht/~p00f/cphelper.nvim instead",
     "isArchived": false,

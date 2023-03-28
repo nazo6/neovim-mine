@@ -8,11 +8,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 23,
+    "commitCountLastYear": 31,
     "createdAt": "2023-02-02T02:22:57Z",
     "description": "Neovim plugin written in Lua for deploying Java war (or ear) files on Tomcat, JBoss or Wildfly",
     "isArchived": false,
-    "lastCommit": "2023-03-27T16:42:09Z",
+    "lastCommit": "2023-03-28T03:23:40Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

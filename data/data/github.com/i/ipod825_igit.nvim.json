@@ -12,7 +12,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 216,
+    "commitCountLastYear": 215,
     "createdAt": "2022-02-25T06:29:47Z",
     "description": "Git intergration for neovim.",
     "isArchived": false,
@@ -21,7 +21,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 41,
+    "star": 42,
     "topics": [
       "git",
       "lua",

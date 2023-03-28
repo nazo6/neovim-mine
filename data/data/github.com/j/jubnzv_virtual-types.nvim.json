@@ -55,7 +55,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 256,
+    "star": 259,
     "topics": [
       "nvim",
       "nvim-lsp",

@@ -24,11 +24,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 70,
+    "commitCountLastYear": 78,
     "createdAt": "2023-03-19T17:11:38Z",
     "description": "Markdown live-previewer with Wiki link support (which point to a local file) and many other features, give it a try ",
     "isArchived": false,
-    "lastCommit": "2023-03-27T16:40:41Z",
+    "lastCommit": "2023-03-28T12:30:36Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

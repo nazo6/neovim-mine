@@ -20,16 +20,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 280,
+    "commitCountLastYear": 287,
     "createdAt": "2022-07-30T16:39:56Z",
     "description": "🔑 1Password for Neovim! Built using the 1Password CLI, Go, and Lua.",
     "isArchived": false,
-    "lastCommit": "2023-03-24T12:25:32Z",
+    "lastCommit": "2023-03-28T10:53:23Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 57,
+    "star": 58,
     "topics": [
       "lua",
       "neovim",

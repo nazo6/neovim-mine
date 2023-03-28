@@ -20,16 +20,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 9,
     "createdAt": "2023-03-25T23:13:22Z",
     "description": "A http library for your neovim plugin",
     "isArchived": false,
-    "lastCommit": "2023-03-27T00:45:58Z",
+    "lastCommit": "2023-03-27T23:10:58Z",
     "primaryLanguage": {
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 8,
+    "star": 16,
     "topics": [
     ]
   },

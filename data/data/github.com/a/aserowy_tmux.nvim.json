@@ -46,7 +46,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 23,
+    "commitCountLastYear": 21,
     "createdAt": "2021-06-19T04:19:00Z",
     "description": "tmux integration for nvim features pane movement and resizing from within nvim.",
     "isArchived": false,

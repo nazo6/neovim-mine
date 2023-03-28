@@ -21,7 +21,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 21,
+    "star": 20,
     "topics": [
       "neovim",
       "lua",

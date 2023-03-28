@@ -34,7 +34,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 63,
+    "commitCountLastYear": 62,
     "createdAt": "2023-01-05T11:49:03Z",
     "description": "Rainbow parentheses for neovim using tree-sitter.",
     "isArchived": false,

@@ -20,16 +20,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 624,
+    "commitCountLastYear": 630,
     "createdAt": "2023-01-09T23:45:38Z",
     "description": "Lin Rongbin's Neovim Distribution",
     "isArchived": false,
-    "lastCommit": "2023-03-27T15:12:41Z",
+    "lastCommit": "2023-03-28T08:15:33Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 8,
+    "star": 9,
     "topics": [
       "neovim",
       "neovim-dotfiles"

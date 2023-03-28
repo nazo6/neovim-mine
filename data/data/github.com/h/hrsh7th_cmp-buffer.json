@@ -33,7 +33,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 329,
+    "star": 328,
     "topics": [
       "nvim-cmp"
     ]

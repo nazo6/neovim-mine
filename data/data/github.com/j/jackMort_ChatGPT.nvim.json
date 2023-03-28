@@ -33,7 +33,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1309,
+    "star": 1333,
     "topics": [
       "chatgpt",
       "nvim-plugin",

@@ -29,7 +29,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 111,
+    "star": 112,
     "topics": [
       "neovim",
       "lsp",

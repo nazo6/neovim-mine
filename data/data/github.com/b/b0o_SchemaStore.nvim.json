@@ -42,11 +42,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 199,
+    "commitCountLastYear": 200,
     "createdAt": "2021-10-07T07:03:15Z",
     "description": "🛍 JSON schemas for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-03-24T17:01:01Z",
+    "lastCommit": "2023-03-28T17:00:43Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

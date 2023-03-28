@@ -12,11 +12,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 76,
+    "commitCountLastYear": 77,
     "createdAt": "2022-07-10T20:16:08Z",
     "description": "An ivy-mode port to neovim.",
     "isArchived": false,
-    "lastCommit": "2023-03-06T16:23:16Z",
+    "lastCommit": "2023-03-27T19:48:16Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

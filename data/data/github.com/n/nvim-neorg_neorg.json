@@ -34,16 +34,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 697,
+    "commitCountLastYear": 687,
     "createdAt": "2021-04-11T17:35:43Z",
     "description": "Modernity meets insane extensibility. The future of organizing your life in Neovim.",
     "isArchived": false,
-    "lastCommit": "2023-03-27T16:00:43Z",
+    "lastCommit": "2023-03-27T17:19:52Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3656,
+    "star": 3663,
     "topics": [
       "neovim",
       "organization",

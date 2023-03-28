@@ -16,11 +16,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 34,
     "createdAt": "2023-01-28T05:44:49Z",
     "description": "use git or gh cli from nvim and telescope",
     "isArchived": false,
-    "lastCommit": "2023-02-01T08:08:22Z",
+    "lastCommit": "2023-03-28T09:17:49Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

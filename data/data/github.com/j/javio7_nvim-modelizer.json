@@ -20,11 +20,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 31,
     "createdAt": "2023-02-02T02:22:02Z",
     "description": "Neovim plugin written in Lua for Plant UML",
     "isArchived": false,
-    "lastCommit": "2023-03-27T16:41:26Z",
+    "lastCommit": "2023-03-28T03:25:33Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

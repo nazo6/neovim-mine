@@ -16,11 +16,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 33,
+    "commitCountLastYear": 36,
     "createdAt": "2023-02-02T02:13:33Z",
     "description": "Neovim plugin for Spring Initializr written in Lua (WIP)",
     "isArchived": false,
-    "lastCommit": "2023-03-26T15:07:16Z",
+    "lastCommit": "2023-03-28T03:15:54Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

@@ -83,7 +83,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2142,
+    "star": 2147,
     "topics": [
       "neovim-lua-plugin",
       "neovim-plugin",

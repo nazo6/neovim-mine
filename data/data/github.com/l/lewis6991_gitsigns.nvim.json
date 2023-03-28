@@ -34,7 +34,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 195,
+    "commitCountLastYear": 193,
     "createdAt": "2020-10-18T10:14:43Z",
     "description": "Git integration for buffers",
     "isArchived": false,
@@ -43,7 +43,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2873,
+    "star": 2877,
     "topics": [
       "nvim",
       "lua",

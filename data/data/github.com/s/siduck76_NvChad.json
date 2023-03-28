@@ -34,12 +34,12 @@
     "createdAt": "2021-03-07T14:33:17Z",
     "description": "An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ",
     "isArchived": false,
-    "lastCommit": "2023-03-27T00:04:12Z",
+    "lastCommit": "2023-03-28T14:03:17Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 15498,
+    "star": 15517,
     "topics": [
       "nvim",
       "neovim",

@@ -20,11 +20,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 11,
     "createdAt": "2022-09-21T12:10:47Z",
     "description": "Add virtual text markers in Neovim when editing Python",
     "isArchived": false,
-    "lastCommit": "2022-10-07T14:48:15Z",
+    "lastCommit": "2023-03-28T01:32:06Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

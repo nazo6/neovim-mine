@@ -20,16 +20,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 37,
     "createdAt": "2023-03-20T11:28:42Z",
     "description": "A simple popup display that provides breadcrumbs feature using LSP server",
     "isArchived": false,
-    "lastCommit": "2023-03-27T14:50:47Z",
+    "lastCommit": "2023-03-28T17:57:44Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 131,
+    "star": 160,
     "topics": [
     ]
   },

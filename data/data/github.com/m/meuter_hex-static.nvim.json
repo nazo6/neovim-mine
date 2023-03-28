@@ -11,30 +11,30 @@
       },
       {
         "level": 2,
-        "name": "Editing support"
+        "name": "New features"
       },
       {
         "level": 3,
-        "name": "matchparen"
+        "name": "Hex"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 69,
-    "createdAt": "2021-12-12T08:55:52Z",
-    "description": "alternative to matchparen neovim plugin ",
+    "commitCountLastYear": 3,
+    "createdAt": "2023-03-26T11:34:25Z",
+    "description": "Converts hexstring to C style array",
     "isArchived": false,
-    "lastCommit": "2022-09-22T09:38:39Z",
+    "lastCommit": "2023-03-27T17:49:56Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 91,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "matchparen.nvim",
-  "owner": "monkoose",
-  "url": "https://github.com/monkoose/matchparen.nvim"
+  "name": "hex-static.nvim",
+  "owner": "meuter",
+  "url": "https://github.com/meuter/hex-static.nvim"
 }

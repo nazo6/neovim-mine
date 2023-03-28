@@ -34,11 +34,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 33,
+    "commitCountLastYear": 36,
     "createdAt": "2023-02-24T21:25:55Z",
     "description": "Classic Black Jack game in Neovim",
     "isArchived": false,
-    "lastCommit": "2023-03-01T01:44:55Z",
+    "lastCommit": "2023-03-27T21:12:05Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

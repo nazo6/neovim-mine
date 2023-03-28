@@ -20,11 +20,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 38,
     "createdAt": "2023-02-03T17:18:47Z",
     "description": "Neovim plugin written in Lua for using a spinner during a job process",
     "isArchived": false,
-    "lastCommit": "2023-03-27T16:41:04Z",
+    "lastCommit": "2023-03-28T03:27:31Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

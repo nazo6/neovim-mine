@@ -12,7 +12,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 14,
     "createdAt": "2022-03-26T09:21:20Z",
     "description": "A neovim plugin for Dodona.",
     "isArchived": false,

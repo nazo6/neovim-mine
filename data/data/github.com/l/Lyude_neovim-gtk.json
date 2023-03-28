@@ -16,7 +16,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 218,
+    "commitCountLastYear": 217,
     "createdAt": "2021-05-18T17:58:37Z",
     "description": "gtk ui for neovim",
     "isArchived": false,

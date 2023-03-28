@@ -38,7 +38,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 42,
+    "commitCountLastYear": 39,
     "createdAt": "2020-11-04T16:48:14Z",
     "description": null,
     "isArchived": false,
@@ -47,7 +47,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2160,
+    "star": 2166,
     "topics": [
     ]
   },

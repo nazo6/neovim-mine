@@ -16,16 +16,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 28,
     "createdAt": "2021-10-20T18:29:13Z",
     "description": "Neovim plugin for GitHub Copilot",
     "isArchived": false,
-    "lastCommit": "2023-02-15T23:31:09Z",
+    "lastCommit": "2023-03-27T22:42:10Z",
     "primaryLanguage": {
       "color": "#199f4b",
       "name": "Vim Script"
     },
-    "star": 4729,
+    "star": 4756,
     "topics": [
     ]
   },

@@ -16,7 +16,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 32,
     "createdAt": "2021-07-28T15:40:24Z",
     "description": "Telescope.nvim integration for Neorg",
     "isArchived": false,

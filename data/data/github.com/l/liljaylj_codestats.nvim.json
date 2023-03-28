@@ -24,11 +24,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 54,
+    "commitCountLastYear": 58,
     "createdAt": "2023-03-06T09:55:42Z",
     "description": "Code::Stats plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-03-16T00:10:44Z",
+    "lastCommit": "2023-03-28T07:11:22Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

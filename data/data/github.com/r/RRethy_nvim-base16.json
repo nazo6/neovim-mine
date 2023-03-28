@@ -24,7 +24,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 27,
+    "commitCountLastYear": 26,
     "createdAt": "2021-03-12T19:32:23Z",
     "description": "Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.",
     "isArchived": false,

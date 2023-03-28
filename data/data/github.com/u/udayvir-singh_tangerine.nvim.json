@@ -34,7 +34,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 131,
+    "commitCountLastYear": 125,
     "createdAt": "2022-01-13T08:26:10Z",
     "description": "🍊 Sweet Fennel integration for Neovim",
     "isArchived": false,
@@ -43,7 +43,7 @@
       "color": "#fff3d7",
       "name": "Fennel"
     },
-    "star": 143,
+    "star": 144,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -30,7 +30,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2020-09-29T10:19:16Z",
     "description": "Yet Another Nerdtree In Lua",
     "isArchived": false,

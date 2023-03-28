@@ -38,7 +38,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 39,
+    "commitCountLastYear": 37,
     "createdAt": "2021-01-30T10:31:08Z",
     "description": "Alternative command-line window plugin for neovim",
     "isArchived": false,
@@ -47,7 +47,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 67,
+    "star": 68,
     "topics": [
       "neovim",
       "neovim-plugin"

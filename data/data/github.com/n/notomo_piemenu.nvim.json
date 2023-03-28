@@ -20,7 +20,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 30,
     "createdAt": "2021-07-24T05:24:18Z",
     "description": "Pie menu plugin for neovim",
     "isArchived": false,

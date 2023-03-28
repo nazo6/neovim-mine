@@ -8,7 +8,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 38,
+    "commitCountLastYear": 30,
     "createdAt": "2021-08-22T09:05:55Z",
     "description": "Simple statusline component that shows what scope you are working inside",
     "isArchived": true,

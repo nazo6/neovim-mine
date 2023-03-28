@@ -12,16 +12,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 766,
+    "commitCountLastYear": 776,
     "createdAt": "2016-12-26T04:40:55Z",
     "description": "A community-driven modular vim/neovim distribution - The ultimate vimrc",
     "isArchived": false,
-    "lastCommit": "2023-03-26T05:57:31Z",
+    "lastCommit": "2023-03-28T16:20:12Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 19713,
+    "star": 19717,
     "topics": [
       "spacevim",
       "neovim",

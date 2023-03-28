@@ -52,12 +52,12 @@
     "createdAt": "2020-04-18T15:24:10Z",
     "description": "Nvim Treesitter configurations and abstraction layer",
     "isArchived": false,
-    "lastCommit": "2023-03-27T15:04:29Z",
+    "lastCommit": "2023-03-28T07:37:39Z",
     "primaryLanguage": {
       "color": "#1e4aec",
       "name": "Scheme"
     },
-    "star": 6443,
+    "star": 6446,
     "topics": [
       "neovim",
       "tree-sitter",

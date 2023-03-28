@@ -34,11 +34,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 72,
+    "commitCountLastYear": 73,
     "createdAt": "2022-03-31T06:54:07Z",
     "description": ":hibiscus: Flavored Fennel Macros for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-02-28T15:36:49Z",
+    "lastCommit": "2023-03-28T10:29:27Z",
     "primaryLanguage": {
       "color": "#fff3d7",
       "name": "Fennel"

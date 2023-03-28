@@ -20,7 +20,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 166,
+    "commitCountLastYear": 165,
     "createdAt": "2020-12-15T21:24:43Z",
     "description": "An opinionated Lua code formatter",
     "isArchived": false,
@@ -29,7 +29,7 @@
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 937,
+    "star": 941,
     "topics": [
       "lua",
       "formatter",

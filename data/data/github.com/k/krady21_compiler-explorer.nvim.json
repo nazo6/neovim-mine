@@ -42,11 +42,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 129,
+    "commitCountLastYear": 132,
     "createdAt": "2021-09-13T14:59:32Z",
     "description": "Run compilers and inspect assembly directly from Neovim with the help of https://godbolt.org/",
     "isArchived": false,
-    "lastCommit": "2023-03-24T08:32:40Z",
+    "lastCommit": "2023-03-28T12:57:20Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

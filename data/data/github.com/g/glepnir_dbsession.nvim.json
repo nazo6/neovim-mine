@@ -12,11 +12,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 9,
     "createdAt": "2023-01-27T04:01:20Z",
     "description": "a simple small powerful session for neovim",
     "isArchived": false,
-    "lastCommit": "2023-03-25T12:53:39Z",
+    "lastCommit": "2023-03-28T05:29:04Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

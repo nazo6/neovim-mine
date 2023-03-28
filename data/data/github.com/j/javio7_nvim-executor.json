@@ -16,11 +16,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 46,
+    "commitCountLastYear": 73,
     "createdAt": "2023-02-02T02:20:37Z",
     "description": "Neovim plugin written in Lua for running a main or script in several languages",
     "isArchived": false,
-    "lastCommit": "2023-03-27T16:41:49Z",
+    "lastCommit": "2023-03-28T03:31:39Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

@@ -46,7 +46,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 10,
     "createdAt": "2021-04-03T05:43:19Z",
     "description": ":sparkles: Smoothly navigate between neovim and terminal multiplexer(s) :sparkles:",
     "isArchived": false,

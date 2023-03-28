@@ -16,16 +16,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 167,
+    "commitCountLastYear": 170,
     "createdAt": "2023-01-07T14:26:19Z",
     "description": "Rainbow delimiters for Neovim through Tree-sitter",
     "isArchived": false,
-    "lastCommit": "2023-03-26T11:22:58Z",
+    "lastCommit": "2023-03-27T19:01:38Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 176,
+    "star": 178,
     "topics": [
       "neovim",
       "rainbow",

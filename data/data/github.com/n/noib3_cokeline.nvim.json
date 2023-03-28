@@ -34,16 +34,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 34,
     "createdAt": "2021-04-29T21:36:25Z",
     "description": ":nose: A Neovim bufferline for people with addictive personalities",
     "isArchived": false,
-    "lastCommit": "2023-03-27T02:01:54Z",
+    "lastCommit": "2023-03-28T00:09:30Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 313,
+    "star": 314,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -30,7 +30,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 38,
+    "commitCountLastYear": 37,
     "createdAt": "2021-03-28T15:37:56Z",
     "description": "Find the enemy and replace them with dark power.",
     "isArchived": false,
@@ -39,7 +39,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 884,
+    "star": 886,
     "topics": [
     ]
   },

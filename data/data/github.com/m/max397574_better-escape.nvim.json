@@ -30,7 +30,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 4,
     "createdAt": "2021-09-14T16:12:08Z",
     "description": "Escape from insert mode without delay when typing",
     "isArchived": false,

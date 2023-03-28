@@ -30,7 +30,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 116,
+    "commitCountLastYear": 114,
     "createdAt": "2020-11-26T16:17:33Z",
     "description": "Use NeoVim as general purpose IDE",
     "isArchived": false,

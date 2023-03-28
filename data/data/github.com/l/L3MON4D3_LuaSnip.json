@@ -34,16 +34,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 549,
+    "commitCountLastYear": 541,
     "createdAt": "2021-03-19T13:27:06Z",
     "description": "Snippet Engine for Neovim written in Lua.",
     "isArchived": false,
-    "lastCommit": "2023-03-22T21:47:53Z",
+    "lastCommit": "2023-03-27T20:23:50Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1876,
+    "star": 1879,
     "topics": [
       "neovim",
       "snippets",

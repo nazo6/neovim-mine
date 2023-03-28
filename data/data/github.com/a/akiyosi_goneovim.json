@@ -20,12 +20,12 @@
     "createdAt": "2017-10-16T12:29:07Z",
     "description": "A GUI frontend for neovim.",
     "isArchived": false,
-    "lastCommit": "2023-03-25T16:40:07Z",
+    "lastCommit": "2023-03-28T14:56:43Z",
     "primaryLanguage": {
       "color": "#00ADD8",
       "name": "Go"
     },
-    "star": 2031,
+    "star": 2033,
     "topics": [
       "neovim",
       "neovim-guis",

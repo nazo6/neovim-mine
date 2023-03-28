@@ -38,7 +38,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 126,
+    "commitCountLastYear": 123,
     "createdAt": "2021-04-01T23:35:37Z",
     "description": "Tools for better development in rust using neovim's builtin lsp",
     "isArchived": false,
@@ -47,7 +47,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1620,
+    "star": 1622,
     "topics": [
       "rust",
       "nvim",

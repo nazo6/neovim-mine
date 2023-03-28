@@ -42,16 +42,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 19,
     "createdAt": "2022-01-21T08:15:48Z",
     "description": "Standalone UI for nvim-lsp progress",
     "isArchived": false,
-    "lastCommit": "2023-02-17T19:14:05Z",
+    "lastCommit": "2023-03-27T17:38:20Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1095,
+    "star": 1096,
     "topics": [
     ]
   },

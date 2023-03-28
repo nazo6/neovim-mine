@@ -16,16 +16,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 61,
+    "commitCountLastYear": 62,
     "createdAt": "2019-03-08T11:50:50Z",
     "description": "Embed Neovim in Chrome, Firefox & others.",
     "isArchived": false,
-    "lastCommit": "2023-03-17T07:05:46Z",
+    "lastCommit": "2023-03-28T06:30:46Z",
     "primaryLanguage": {
       "color": "#3178c6",
       "name": "TypeScript"
     },
-    "star": 3578,
+    "star": 3579,
     "topics": [
     ]
   },

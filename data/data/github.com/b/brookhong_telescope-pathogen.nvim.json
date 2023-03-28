@@ -12,11 +12,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 4,
     "createdAt": "2023-03-18T15:16:25Z",
     "description": "a telescope extension to help you to navigate through different path when using builtin actions from telescope such as `grep_string`, `find_files` and `live_grep`.",
     "isArchived": false,
-    "lastCommit": "2023-03-25T02:07:26Z",
+    "lastCommit": "2023-03-28T11:11:18Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

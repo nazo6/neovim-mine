@@ -16,7 +16,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 20,
     "createdAt": "2022-02-07T14:49:55Z",
     "description": "Trace and bundle neovim lua for debugging",
     "isArchived": false,

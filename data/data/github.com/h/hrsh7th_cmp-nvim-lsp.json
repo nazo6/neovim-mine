@@ -33,7 +33,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 575,
+    "star": 581,
     "topics": [
       "nvim-cmp",
       "hacktoberfest"

@@ -33,7 +33,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 22,
+    "star": 23,
     "topics": [
       "lua",
       "mini-nvim",

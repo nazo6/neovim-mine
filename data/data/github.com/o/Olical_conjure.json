@@ -38,7 +38,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 244,
+    "commitCountLastYear": 243,
     "createdAt": "2018-09-30T11:17:33Z",
     "description": "Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)",
     "isArchived": false,
@@ -47,7 +47,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1282,
+    "star": 1283,
     "topics": [
       "clojure",
       "clojurescript",

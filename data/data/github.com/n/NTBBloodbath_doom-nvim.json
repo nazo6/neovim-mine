@@ -30,7 +30,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 261,
+    "commitCountLastYear": 257,
     "createdAt": "2021-03-20T03:01:30Z",
     "description": "A Neovim configuration for the advanced martian hacker",
     "isArchived": false,
@@ -39,7 +39,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 877,
+    "star": 878,
     "topics": [
       "doom-nvim",
       "neovim",

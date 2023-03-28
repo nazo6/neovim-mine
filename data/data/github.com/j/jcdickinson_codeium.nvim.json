@@ -16,16 +16,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 50,
+    "commitCountLastYear": 51,
     "createdAt": "2023-01-29T07:31:06Z",
     "description": "A native neovim extension for Codeium",
     "isArchived": false,
-    "lastCommit": "2023-03-27T02:12:11Z",
+    "lastCommit": "2023-03-27T23:12:13Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 78,
+    "star": 84,
     "topics": [
     ]
   },

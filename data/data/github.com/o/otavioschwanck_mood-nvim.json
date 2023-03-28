@@ -20,16 +20,16 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 734,
+    "commitCountLastYear": 737,
     "createdAt": "2022-03-10T15:44:12Z",
     "description": "A Neovim configuration for Rails and Javascript",
     "isArchived": false,
-    "lastCommit": "2023-03-25T02:59:38Z",
+    "lastCommit": "2023-03-28T12:43:48Z",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 51,
+    "star": 52,
     "topics": [
     ]
   },
