@@ -1,8 +1,6 @@
 {
-  "name": "scripts",
+  "name": "neovim-mine-scripts",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "tsx src/main.ts",
     "test": "vitest"
@@ -18,6 +16,7 @@
     "promise-throttle-all": "^1.1.1",
     "sanitize-filename": "^1.6.3",
     "tsx": "^3.12.6",
-    "vitest": "^0.29.7"
+    "vitest": "^0.29.7",
+    "common": "workspace:*"
   }
 }

@@ -2,7 +2,7 @@ import { gql, GraphQLClient } from "graphql-request";
 import { GraphQLError } from "graphql";
 import { throttleAll } from "promise-throttle-all";
 
-import { GithubRepo, NotResolvesRepo as NotResolvedRepo, Repo } from "./main";
+import { RepoAdvancedInfo, RepoBasicInfo, RepoErrorInfo } from "common/repo";
 
 export type Repositories = Record<
   string,
@@ -13,19 +13,23 @@ export type Repositories = Record<
 >;
 
 export async function githubGql(
-  minedRepos: Repo[],
-): Promise<{ repos: GithubRepo[]; notResolvedRepos: NotResolvedRepo[] }> {
+  minedRepos: RepoBasicInfo[],
+): Promise<
+  {
+    repos: (RepoBasicInfo & RepoAdvancedInfo)[];
+    notResolvedRepos: (RepoBasicInfo & RepoErrorInfo)[];
+  }
+> {
   const githubRepos = minedRepos.filter((repo) => repo.domain == "github.com");
-  const notResolvedRepos: NotResolvedRepo[] = minedRepos.filter((repo) =>
-    repo.domain != "github.com"
-  ).map((repo) => {
-    return {
-      ...repo,
-      error: {
-        reason: "UNSUPPORTED_DOMAIN",
-      },
-    };
-  });
+  const notResolvedRepos: (RepoBasicInfo & RepoErrorInfo)[] = minedRepos
+    .filter((repo) => repo.domain != "github.com").map((repo) => {
+      return {
+        ...repo,
+        error: {
+          reason: "UNSUPPORTED_DOMAIN",
+        },
+      };
+    });
 
   type gqlResponseType = {
     data:
@@ -34,11 +38,13 @@ export async function githubGql(
         {
           createdAt: string;
           stargazerCount: number;
+          isArchived: boolean;
           issues: { totalCount: number };
           object: {
             lastCommit: { nodes: { committedDate: string }[] };
             activity: { totalCount: number };
           };
+          primaryLanguage: { color?: string; name: string };
           description: string;
           repositoryTopics: {
             edges: {
@@ -62,9 +68,14 @@ export async function githubGql(
 			repo${i}: repository(owner: "${repo.owner}", name: "${repo.name}") {
 				createdAt
 				stargazerCount
+        isArchived
 				issues {
 					totalCount
 				}
+        primaryLanguage {
+          color
+          name
+        }
 				object(expression: "HEAD") {
 					... on Commit {
 						lastCommit: history(first: 1) {
@@ -104,7 +115,7 @@ export async function githubGql(
     errorPolicy: "all",
   });
 
-  const repos: GithubRepo[] = [];
+  const repos: (RepoBasicInfo & RepoAdvancedInfo)[] = [];
 
   const tasks = repoThrottledQueries.map((repoThrottledQuery) => {
     return async () => {
@@ -124,7 +135,7 @@ export async function githubGql(
           const error = res.errors?.find((error) => {
             return error.path?.includes(key);
           });
-          const repo: NotResolvedRepo = {
+          const repo: RepoBasicInfo & RepoErrorInfo = {
             ...githubRepos[id],
             error: {
               reason: error?.type === "NOT_FOUND"
@@ -141,7 +152,7 @@ export async function githubGql(
           }
           const id = Number(key.replace("repo", ""));
 
-          const repo: GithubRepo = {
+          const repo: RepoBasicInfo & RepoAdvancedInfo = {
             ...githubRepos[id],
             data: {
               createdAt: value.createdAt,
@@ -152,6 +163,8 @@ export async function githubGql(
               topics: value.repositoryTopics.edges.map((edge) =>
                 edge.node.topic.name
               ),
+              isArchived: value.isArchived,
+              primaryLanguage: value.primaryLanguage,
             },
           };
           repos.push(repo);

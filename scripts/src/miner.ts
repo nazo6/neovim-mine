@@ -4,13 +4,13 @@ import { basename, dirname, join } from "path";
 import { fileURLToPath } from "url";
 import * as fs from "fs/promises";
 import { Glob } from "glob";
-import { Repo } from "./main";
+import { RepoBasicInfo } from "common/repo";
 
 const exec = promisify(exec_orig);
 
 const ignored_files = ["**/CONTRIBUTING.md", "**/HOT_TO_MAKE.md"];
 
-export async function mineRepos(url: string[]): Promise<Repo[]> {
+export async function mineRepos(url: string[]): Promise<RepoBasicInfo[]> {
   console.log(`Mining ${url.length} repos...`);
   const repos: Record<
     string,

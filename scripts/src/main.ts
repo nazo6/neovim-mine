@@ -13,38 +13,6 @@ dotenv.config();
 
 main();
 
-export type Repo = {
-  url: string;
-  domain: string;
-  owner: string;
-  name: string;
-  category: {
-    name: string;
-    level: number;
-  }[][];
-};
-
-export type GithubRepo = Repo & {
-  data: {
-    createdAt: string;
-    star: number;
-    lastCommit: string;
-    commitCountLastYear: number;
-    description: string;
-    topics: string[];
-  };
-};
-
-export type NotResolvesRepo = Repo & {
-  error: {
-    reason:
-      | "UNSUPPORTED_DOMAIN"
-      | "NOT_FOUND"
-      | "UNKNOWN_ERROR";
-    message?: string;
-  };
-};
-
 async function main() {
   const repos = await mineRepos([
     "https://github.com/yutkat/my-neovim-pluginlist",
@@ -56,6 +24,8 @@ async function main() {
     await githubGql(repos);
 
   const allRepos = [...resolvedRepos, ...notResolvedRepos];
+
+  // await fs.writeFile("./a.json", stringify(allRepos, { space: 2 }));
 
   const __dirname = dirname(fileURLToPath(import.meta.url));
   const dataPath = join(__dirname, "../../data/data");
