@@ -44,6 +44,7 @@ importers:
       '@typescript-eslint/eslint-plugin': ^5.45.0
       '@typescript-eslint/parser': ^5.45.0
       autoprefixer: ^10.4.14
+      common: workspace:*
       eslint: ^8.28.0
       eslint-config-prettier: ^8.5.0
       eslint-plugin-svelte3: ^4.0.0
@@ -66,6 +67,7 @@ importers:
       '@typescript-eslint/eslint-plugin': 5.56.0_2hcjazgfnbtq42tcc73br2vup4
       '@typescript-eslint/parser': 5.56.0_j4766f7ecgqbon3u7zlxn5zszu
       autoprefixer: 10.4.14_postcss@8.4.21
+      common: link:../common
       eslint: 8.36.0
       eslint-config-prettier: 8.8.0_eslint@8.36.0
       eslint-plugin-svelte3: 4.0.0_wzem237sbvnwe7n34ytc5phasy

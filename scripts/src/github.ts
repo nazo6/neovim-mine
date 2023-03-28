@@ -16,8 +16,8 @@ export async function githubGql(
   minedRepos: RepoBasicInfo[],
 ): Promise<
   {
-    repos: (RepoBasicInfo & RepoAdvancedInfo)[];
-    notResolvedRepos: (RepoBasicInfo & RepoErrorInfo)[];
+    repos: RepoAdvancedInfo[];
+    notResolvedRepos: RepoErrorInfo[];
   }
 > {
   const githubRepos = minedRepos.filter((repo) => repo.domain == "github.com");

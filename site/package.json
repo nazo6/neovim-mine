@@ -31,7 +31,8 @@
 		"tslib": "^2.4.1",
 		"typescript": "^5.0.0",
 		"typescript-svelte-plugin": "^0.3.21",
-		"vite": "^4.2.0"
+		"vite": "^4.2.0",
+		"common": "workspace:*"
 	},
 	"type": "module",
 	"dependencies": {

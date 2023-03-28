@@ -9,7 +9,7 @@ export type RepoBasicInfo = {
   }[][];
 };
 
-export type RepoAdvancedInfo = {
+export type RepoAdvancedInfo = RepoBasicInfo & {
   data: {
     createdAt: string;
     star: number;
@@ -25,7 +25,7 @@ export type RepoAdvancedInfo = {
   };
 };
 
-export type RepoErrorInfo = {
+export type RepoErrorInfo = RepoBasicInfo & {
   error: {
     reason:
       | "UNSUPPORTED_DOMAIN"
