@@ -15,10 +15,8 @@ export default function Home() {
         }
       >
         <div className="flex flex-col lg:flex-row lg:gap-2">
-          <div className="lg:w-1/3">
-            <div className="sticky top-3">
-              <Control />
-            </div>
+          <div className="lg:w-1/3 overflow-auto lg:sticky lg:top-3">
+            <Control />
           </div>
           <div className="lg:flex-grow">
             {/* @ts-expect-error Server Component */}

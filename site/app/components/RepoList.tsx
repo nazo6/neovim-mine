@@ -5,22 +5,23 @@ import { Virtuoso } from "react-virtuoso";
 import { RepoCard } from "@/components/RepoCard";
 import { useEffect, useState } from "react";
 import type { RepoInfoWithTag } from "@/types/repo";
-import { useSearchText, useSortOrder, useSortType } from "../page_store";
+import {
+  reposAtom,
+  useSearchText,
+  useSortOrder,
+  useSortType,
+} from "../page_store";
+import { useAtom } from "jotai";
 
-type RepoListProps = {
-  repos: RepoInfoWithTag[];
-};
-
-export function RepoList(props: RepoListProps) {
-  const [sortedRepos, setSortedRepos] = useState<RepoInfoWithTag[]>(
-    props.repos,
-  );
+export function RepoList() {
+  const [repos] = useAtom(reposAtom);
+  const [sortedRepos, setSortedRepos] = useState<RepoInfoWithTag[]>(repos!);
   const [sortType] = useSortType();
   const [sortOrder] = useSortOrder();
   const [searchText] = useSearchText();
 
   useEffect(() => {
-    const newRepos = props.repos.sort((a, b) => {
+    const newRepos = repos!.sort((a, b) => {
       const order = sortOrder == "asc" ? 1 : -1;
 
       let fallingback = false;
@@ -72,7 +73,7 @@ export function RepoList(props: RepoListProps) {
       return basic || advanced;
     });
     setSortedRepos(newRepos);
-  }, [sortType, sortOrder, props.repos, searchText]);
+  }, [sortType, sortOrder, repos, searchText]);
 
   return (
     <>

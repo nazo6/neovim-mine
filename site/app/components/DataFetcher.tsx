@@ -3,43 +3,63 @@ import { promises as fs } from "fs";
 import { glob } from "glob";
 import { RepoInfo } from "@/../common/repo";
 import { View } from "./View";
-import { RepoInfoWithTag } from "@/types/repo";
+import { RepoInfoWithTag, Tag, TagInfo } from "@/types/repo";
 
-const IGNORED_CATEGORY: string[] = [];
-const IGNORED_TOPICS: string[] = [];
+const IGNORED_CATEGORY: string[] = [
+  "Awesome Neovim",
+  "Table of Contents",
+  "README.md",
+];
+const IGNORED_TOPICS: string[] = ["neovim", "nvim"];
 
-async function getRepos(): Promise<RepoInfoWithTag[]> {
+async function getRepos(): Promise<
+  { repos: RepoInfoWithTag[]; tagInfo: TagInfo }
+> {
   const files = await glob(
     path.join(process.cwd(), "../data/data", "*/*/*.json"),
   );
+  const tagCount: Record<string, number> = {};
   const repos = (await Promise.all(files.flatMap(async (path) => {
     const fileStr = await fs.readFile(path, { encoding: "utf8" });
     const repoInfo = JSON.parse(fileStr) as RepoInfo;
 
-    const tag: (string | string[])[] = [];
+    const repoTags: Tag[] = [];
 
     repoInfo.category.forEach((category) => {
-      const categoryTag: string[] = [];
+      const tagTmp: string[] = [];
+      const leveledTagStr: string[] = [];
+      category.forEach((crr, i) => {
+        const ignored = IGNORED_CATEGORY.some((c) => {
+          return crr.name.includes(c);
+        });
+        if (ignored) return;
 
-      category.shift()!;
-      category.forEach((subCategory) => {
-        if (IGNORED_CATEGORY.includes(subCategory.name)) return;
-        categoryTag.push(subCategory.name);
+        if (i == 0) {
+          crr.name = crr.name.replace(".md", "");
+        }
+
+        tagTmp.push(crr.name);
+
+        const tagStr = JSON.stringify(tagTmp);
+        tagCount[tagStr] = (tagCount[tagStr] ?? 0) + 1;
+        leveledTagStr.push(tagStr);
       });
-
-      tag.push(categoryTag);
+      repoTags.push(...leveledTagStr);
     });
 
     if ("data" in repoInfo) {
       repoInfo.data.topics.forEach((topic) => {
         if (IGNORED_TOPICS.includes(topic)) return;
-        tag.push(topic);
+
+        const topicStr = JSON.stringify([topic]);
+        tagCount[topicStr] = (tagCount[topic] || 0) + 1;
+        repoTags.push(topicStr);
       });
     }
 
     return {
       ...repoInfo,
-      tag,
+      tag: repoTags,
     };
   }))).filter((repo) => {
     if ("error" in repo) {
@@ -47,10 +67,18 @@ async function getRepos(): Promise<RepoInfoWithTag[]> {
     }
     return true;
   });
-  return repos;
+
+  const tagInfo: TagInfo = Object.entries(tagCount).map(([tag, count]) => ({
+    tag,
+    count,
+  }));
+
+  console.log(tagInfo.length);
+
+  return { repos, tagInfo };
 }
 
 export async function DataFetcher() {
-  const repos = await getRepos();
-  return <View repos={repos} />;
+  const { repos, tagInfo } = await getRepos();
+  return <View repos={repos} tagInfo={tagInfo} />;
 }

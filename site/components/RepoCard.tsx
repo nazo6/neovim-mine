@@ -23,10 +23,10 @@ export function RepoCard(props: RepoCardProps) {
             </h5>
             {"data" in props.repo
               ? (
-                <p className="basis-1/6 md:basis-1/12 flex items-center">
+                <div className="basis-1/6 md:basis-1/12 flex items-center">
                   <GoStar className="mr-1" />
                   {props.repo.data.star}
-                </p>
+                </div>
               )
               : <></>}
             <a href={props.repo.url} className="hover:underline">

@@ -3,17 +3,20 @@ import { ToggleGroup } from "@/components/ToggleGroup";
 import {
   SortOrder,
   SortType,
+  tagInfoAtom,
   useSearchText,
   useSortOrder,
   useSortType,
 } from "../page_store";
 import { Select } from "@/components/Select";
 import { useState } from "react";
+import { useAtom } from "jotai";
 
 export function Control() {
   const [sortType, setSortType] = useSortType();
   const [sortOrder, setSortOrder] = useSortOrder();
   const [searchText, setSearchText] = useSearchText();
+  const [tagInfo] = useAtom(tagInfoAtom);
 
   const [inputText, setInputText] = useState(searchText);
 
@@ -64,6 +67,15 @@ export function Control() {
             setSearchText(e.currentTarget.value);
           }}
         />
+      </div>
+      <div className="h-[50vh] overflow-auto">
+        <div className="flex flex-row flex-wrap gap-1 overflow-auto">
+          {tagInfo?.map((tag) => (
+            <div key={tag.tag} className="bg-white">
+              {tag.tag}({tag.count})
+            </div>
+          ))}
+        </div>
       </div>
     </div>
   );
