@@ -1,7 +1,7 @@
 import { IoLogoGithub, IoLogoGitlab } from "react-icons/io5";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import { GoStar } from "react-icons/go";
-import { RepoInfoWithTag } from "@/app/page";
+import { RepoInfoWithTag } from "@/types/repo";
 
 type RepoCardProps = {
   repo: RepoInfoWithTag;
