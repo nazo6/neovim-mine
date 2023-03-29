@@ -3,11 +3,14 @@ import { FaExternalLinkAlt } from "react-icons/fa";
 import { GoStar } from "react-icons/go";
 import { RepoInfoWithTag } from "@/types/repo";
 import { RelativeDateChip } from "./RelativeDateChip";
+import { Chip } from "./Chip";
+import { useTagFilter } from "@/app/page_store";
 
 type RepoCardProps = {
   repo: RepoInfoWithTag;
 };
 export function RepoCard(props: RepoCardProps) {
+  const [, setTagFilter] = useTagFilter();
   return (
     <div className="m-1">
       <div className="w-full rounded-md bg-gray-500 hover:bg-gradient-to-r hover:from-pink-500 hover:via-red-500 hover:to-yellow-500 p-0.5 group">
@@ -44,13 +47,24 @@ export function RepoCard(props: RepoCardProps) {
               : <></>}
           </div>
 
-          {"data" in props.repo
-            ? (
-              <div className="border-t-2 group-hover:border-t-orange-400 font-normal text-gray-300 flex flex-col">
-                <p>{props.repo.data.description}</p>
-              </div>
-            )
-            : <></>}
+          <div className="border-t-2 group-hover:border-t-orange-400 font-normal text-gray-300 flex flex-col">
+            {"data" in props.repo
+              ? <p>{props.repo.data.description}</p>
+              : <></>}
+            <div className="flex flex-row flex-wrap gap-1">
+              {props.repo.tag.map((tag) => (
+                <Chip
+                  key={tag}
+                  className="bg-orange-800 hover:bg-orange-600"
+                  onClick={() => {
+                    setTagFilter([tag]);
+                  }}
+                >
+                  {JSON.parse(tag).join("/")}
+                </Chip>
+              ))}
+            </div>
+          </div>
         </div>
       </div>
     </div>

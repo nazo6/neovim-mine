@@ -65,7 +65,7 @@ export const useSortOrder = atomWithQueryParams<SortOrder>("order", "desc");
 
 export const useSearchText = atomWithQueryParams<string>("q", "");
 
-export const useTagFilter = atomWithArrayQueryParams<string[]>("q", []);
+export const useTagFilter = atomWithArrayQueryParams<string[]>("tag", []);
 
 export const reposAtom = atom<RepoInfoWithTag[] | null>(null);
 export const tagInfoAtom = atom<TagInfo | null>(null);

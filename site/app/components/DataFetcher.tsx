@@ -6,9 +6,9 @@ import { View } from "./View";
 import { RepoInfoWithTag, Tag, TagInfo } from "@/types/repo";
 
 const IGNORED_CATEGORY: string[] = [
-  "Awesome Neovim",
-  "Table of Contents",
-  "README.md",
+  "awesome neovim",
+  "table of contents",
+  "readme.md",
 ];
 const IGNORED_TOPICS: string[] = ["neovim", "nvim"];
 
@@ -27,33 +27,41 @@ async function getRepos(): Promise<
 
     repoInfo.category.forEach((category) => {
       const tagTmp: string[] = [];
-      const leveledTagStr: string[] = [];
       category.forEach((crr, i) => {
+        let name = crr.name.trim();
+        name = name.toLowerCase();
+
         const ignored = IGNORED_CATEGORY.some((c) => {
-          return crr.name.includes(c);
+          return name.includes(c);
         });
         if (ignored) return;
 
         if (i == 0) {
-          crr.name = crr.name.replace(".md", "");
+          name = crr.name.replace(".md", "");
         }
 
-        tagTmp.push(crr.name);
+        tagTmp.push(name);
 
         const tagStr = JSON.stringify(tagTmp);
         tagCount[tagStr] = (tagCount[tagStr] ?? 0) + 1;
-        leveledTagStr.push(tagStr);
+        if (!repoTags.includes(tagStr)) {
+          repoTags.push(tagStr);
+        }
       });
-      repoTags.push(...leveledTagStr);
     });
 
     if ("data" in repoInfo) {
       repoInfo.data.topics.forEach((topic) => {
-        if (IGNORED_TOPICS.includes(topic)) return;
+        let name = topic.trim();
+        name = name.toLowerCase();
 
-        const topicStr = JSON.stringify([topic]);
-        tagCount[topicStr] = (tagCount[topic] || 0) + 1;
-        repoTags.push(topicStr);
+        if (IGNORED_TOPICS.includes(name)) return;
+
+        const topicStr = JSON.stringify([name]);
+        tagCount[topicStr] = (tagCount[topicStr] || 0) + 1;
+        if (!repoTags.includes(topicStr)) {
+          repoTags.push(topicStr);
+        }
       });
     }
 

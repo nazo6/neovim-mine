@@ -10,6 +10,7 @@ import {
   useSearchText,
   useSortOrder,
   useSortType,
+  useTagFilter,
 } from "../page_store";
 import { useAtom } from "jotai";
 
@@ -19,6 +20,7 @@ export function RepoList() {
   const [sortType] = useSortType();
   const [sortOrder] = useSortOrder();
   const [searchText] = useSearchText();
+  const [tagFilter] = useTagFilter();
 
   useEffect(() => {
     const newRepos = repos!.sort((a, b) => {
@@ -71,9 +73,11 @@ export function RepoList() {
         advanced = repo.data.description?.toLowerCase().includes(text) ?? false;
       }
       return basic || advanced;
+    }).filter((repo) => {
+      return repo.tag.some((tag) => tagFilter.includes(tag));
     });
     setSortedRepos(newRepos);
-  }, [sortType, sortOrder, repos, searchText]);
+  }, [sortType, sortOrder, repos, searchText, tagFilter]);
 
   return (
     <>

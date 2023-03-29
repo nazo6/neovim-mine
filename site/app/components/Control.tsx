@@ -7,15 +7,18 @@ import {
   useSearchText,
   useSortOrder,
   useSortType,
+  useTagFilter,
 } from "../page_store";
 import { Select } from "@/components/Select";
 import { useState } from "react";
 import { useAtom } from "jotai";
+import { Chip } from "@/components/Chip";
 
 export function Control() {
   const [sortType, setSortType] = useSortType();
   const [sortOrder, setSortOrder] = useSortOrder();
   const [searchText, setSearchText] = useSearchText();
+  const [, setTagFilter] = useTagFilter();
   const [tagInfo] = useAtom(tagInfoAtom);
 
   const [inputText, setInputText] = useState(searchText);
@@ -70,10 +73,18 @@ export function Control() {
       </div>
       <div className="h-[50vh] overflow-auto">
         <div className="flex flex-row flex-wrap gap-1 overflow-auto">
-          {tagInfo?.map((tag) => (
-            <div key={tag.tag} className="bg-white">
-              {tag.tag}({tag.count})
-            </div>
+          {tagInfo?.filter((tag) => tag.count >= 2).sort((a, b) =>
+            b.count - a.count
+          ).map((tag) => (
+            <Chip
+              key={tag.tag}
+              className="bg-orange-800 hover:bg-orange-600"
+              onClick={() => {
+                setTagFilter([tag.tag]);
+              }}
+            >
+              {JSON.parse(tag.tag).join("/")}({tag.count})
+            </Chip>
           ))}
         </div>
       </div>
