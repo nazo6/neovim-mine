@@ -14,9 +14,17 @@ export default function Home() {
           </div>
         }
       >
-        <Control />
-        {/* @ts-expect-error Server Component */}
-        <DataFetcher />
+        <div className="flex flex-col lg:flex-row lg:gap-2">
+          <div className="lg:w-1/3">
+            <div className="sticky top-3">
+              <Control />
+            </div>
+          </div>
+          <div className="lg:flex-grow">
+            {/* @ts-expect-error Server Component */}
+            <DataFetcher />
+          </div>
+        </div>
       </Suspense>
     </HomeProvider>
   );

@@ -38,3 +38,5 @@ export const useSortType = atomWithQueryParams<SortType>("sort", "star");
 
 export type SortOrder = "asc" | "desc";
 export const useSortOrder = atomWithQueryParams<SortOrder>("order", "desc");
+
+export const useSearchText = atomWithQueryParams<string>("q", "");

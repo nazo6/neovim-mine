@@ -5,7 +5,7 @@ import { Virtuoso } from "react-virtuoso";
 import { RepoCard } from "@/components/RepoCard";
 import { useEffect, useState } from "react";
 import type { RepoInfoWithTag } from "@/types/repo";
-import { useSortOrder, useSortType } from "../page_store";
+import { useSearchText, useSortOrder, useSortType } from "../page_store";
 
 type RepoListProps = {
   repos: RepoInfoWithTag[];
@@ -17,6 +17,7 @@ export function RepoList(props: RepoListProps) {
   );
   const [sortType] = useSortType();
   const [sortOrder] = useSortOrder();
+  const [searchText] = useSearchText();
 
   useEffect(() => {
     const newRepos = props.repos.sort((a, b) => {
@@ -59,9 +60,19 @@ export function RepoList(props: RepoListProps) {
       }
 
       throw Error("Unknown sort type");
+    }).filter((repo) => {
+      if (searchText == "") return true;
+      const text = searchText.toLowerCase();
+      const basic = repo.name.toLowerCase().includes(text) ||
+        repo.owner.toLowerCase().includes(text);
+      let advanced = false;
+      if ("data" in repo && !basic) {
+        advanced = repo.data.description?.toLowerCase().includes(text) ?? false;
+      }
+      return basic || advanced;
     });
     setSortedRepos(newRepos);
-  }, [sortType, sortOrder, props.repos]);
+  }, [sortType, sortOrder, props.repos, searchText]);
 
   return (
     <>

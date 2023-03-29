@@ -15,7 +15,7 @@ export type RepoAdvancedInfo = RepoBasicInfo & {
     star: number;
     lastCommit: string;
     commitCountLastYear: number;
-    description: string;
+    description?: string;
     topics: string[];
     isArchived: boolean;
     primaryLanguage: {
