@@ -1,11 +1,10 @@
-import { RepoAdvancedInfo, RepoBasicInfo, RepoInfo } from "common/repo";
-
 import { IoLogoGithub, IoLogoGitlab } from "react-icons/io5";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import { GoStar } from "react-icons/go";
+import { RepoInfoWithTag } from "@/app/page";
 
 type RepoCardProps = {
-  repo: RepoInfo;
+  repo: RepoInfoWithTag;
 };
 export function RepoCard(props: RepoCardProps) {
   return (
