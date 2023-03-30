@@ -55,10 +55,6 @@ async function getRepos(): Promise<
           crr.name = crr.name.replace(".md", "");
         }
 
-        if (crr.name == "neovim-lua-development") {
-          console.log(tagTmp, i);
-        }
-
         if (tagTmp[tagTmp.length - 1] == crr.name) {
           return;
         }
@@ -103,8 +99,6 @@ async function getRepos(): Promise<
     tag,
     count,
   }));
-
-  console.log(tagInfo.length);
 
   return { repos, tagInfo };
 }
