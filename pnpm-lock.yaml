@@ -99,6 +99,7 @@ importers:
       '@typescript-eslint/parser': ^5.45.0
       autoprefixer: ^10.4.14
       common: workspace:^1.0.0
+      dayjs: ^1.11.7
       eslint: ^8.28.0
       eslint-config-prettier: ^8.5.0
       eslint-plugin-svelte3: ^4.0.0
@@ -118,6 +119,7 @@ importers:
     dependencies:
       '@svelteuidev/composables': 0.10.0
       '@svelteuidev/core': 0.10.0_3elg434squamazbdkmvtwfrfm4
+      dayjs: 1.11.7
       svelte-icons-pack: 2.1.0
       svelte-virtual-scroll-list: 1.1.0_svelte@3.57.0
     devDependencies:

@@ -40,6 +40,7 @@
 	"dependencies": {
 		"@svelteuidev/composables": "^0.10.0",
 		"@svelteuidev/core": "^0.10.0",
+		"dayjs": "^1.11.7",
 		"svelte-icons-pack": "^2.1.0",
 		"svelte-virtual-scroll-list": "^1.1.0"
 	}

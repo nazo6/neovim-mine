@@ -5,6 +5,7 @@
 	import Icon from 'svelte-icons-pack/Icon.svelte';
 	import IoStar from 'svelte-icons-pack/io/IoStar';
 	import TagChip from '../../routes/components/TagChip.svelte';
+	import RelativeDate from './RelativeDate.svelte';
 
 	export let repo: RepoInfoWithTag;
 </script>
@@ -30,7 +31,14 @@
 					</a>
 				</div>
 				{#if 'data' in repo}
-					<div class="text-sm flex flex-row" />
+					<div class="text-sm flex flex-row gap-2">
+						<div>
+							Create: <RelativeDate date={repo.data.createdAt} />
+						</div>
+						<div>
+							Update: <RelativeDate date={repo.data.lastCommit} />
+						</div>
+					</div>
 					<div class="basis-1/6 md:basis-1/12 flex items-center">
 						<Icon src={IoStar} className="mr-1" color="yellow" />
 						{repo.data.star}
