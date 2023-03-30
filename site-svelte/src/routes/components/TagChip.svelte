@@ -24,5 +24,5 @@
 		}
 	}}
 >
-	{text ?? JSON.parse(tag).join('/')}
+	{text ?? tag}
 </Chip>

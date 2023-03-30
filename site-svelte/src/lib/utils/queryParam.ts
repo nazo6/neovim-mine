@@ -25,9 +25,9 @@ export function queryParamStore<T extends string>(name: string, init: T) {
 export function arrayQueryParamStore<T extends string[]>(name: string, init: T) {
 	let requestParam: null | string[] = null;
 	if (browser) {
-		const rawRequestParam = new URLSearchParams(window.location.search).get(name);
+		const rawRequestParam = new URLSearchParams(window.location.search).getAll(name);
 		if (rawRequestParam) {
-			requestParam = decodeURIComponent(rawRequestParam).split(',');
+			requestParam = rawRequestParam.map((v) => decodeURIComponent(v));
 		}
 	}
 
@@ -36,7 +36,8 @@ export function arrayQueryParamStore<T extends string[]>(name: string, init: T) 
 	const unsubscribe = store.subscribe((v) => {
 		if (!browser) return;
 		const newParams = new URL(window.location.toString());
-		newParams.searchParams.set(name, encodeURIComponent(v.join('|')));
+		newParams.searchParams.delete(name);
+		v.forEach((v) => newParams.searchParams.append(name, encodeURIComponent(v)));
 		history.pushState(null, '', newParams.toString());
 	});
 

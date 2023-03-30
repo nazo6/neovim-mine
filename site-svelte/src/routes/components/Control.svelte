@@ -50,7 +50,7 @@
 			}`}
 		>
 			{#each tags as tag (tag.tag)}
-				<TagChip tag={tag.tag} text={`${JSON.parse(tag.tag).join('/')} (${tag.count})`} />
+				<TagChip tag={tag.tag} text={`${tag.tag} (${tag.count})`} />
 			{/each}
 		</div>
 	</div>

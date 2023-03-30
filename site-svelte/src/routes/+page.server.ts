@@ -34,7 +34,8 @@ async function getRepos(): Promise<{ repos: RepoInfoWithTag[]; tagInfo: TagInfo 
 						let name = c.name.trim();
 						name = name.replace(/\[(?<title>.*)\]/, '$<title>');
 						name = name.toLowerCase();
-						name = name.replaceAll(', ', '-');
+						name = name.replaceAll(/ ?, ?/g, ',');
+						name = name.replaceAll(/ ?\/ ?/g, ',');
 						name = name.replaceAll(' ', '-');
 
 						return { ...c, name };
@@ -56,7 +57,7 @@ async function getRepos(): Promise<{ repos: RepoInfoWithTag[]; tagInfo: TagInfo 
 
 						tagTmp.push(crr.name);
 
-						const tagStr = JSON.stringify(tagTmp);
+						const tagStr = tagTmp.join('/');
 						tagCount[tagStr] = (tagCount[tagStr] ?? 0) + 1;
 						if (!repoTags.includes(tagStr)) {
 							repoTags.push(tagStr);
@@ -71,10 +72,9 @@ async function getRepos(): Promise<{ repos: RepoInfoWithTag[]; tagInfo: TagInfo 
 
 						if (IGNORED_TOPICS.includes(name)) return;
 
-						const topicStr = JSON.stringify([name]);
-						tagCount[topicStr] = (tagCount[topicStr] || 0) + 1;
-						if (!repoTags.includes(topicStr)) {
-							repoTags.push(topicStr);
+						tagCount[name] = (tagCount[name] || 0) + 1;
+						if (!repoTags.includes(name)) {
+							repoTags.push(name);
 						}
 					});
 				}
