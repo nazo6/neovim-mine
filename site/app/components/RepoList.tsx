@@ -74,6 +74,7 @@ export function RepoList() {
       }
       return basic || advanced;
     }).filter((repo) => {
+      if (tagFilter.length == 0) return true;
       return repo.tag.some((tag) => tagFilter.includes(tag));
     });
     setSortedRepos(newRepos);

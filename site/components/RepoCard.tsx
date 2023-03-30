@@ -19,6 +19,7 @@ export function RepoCard(props: RepoCardProps) {
             <div className="text-lg font-bold mr-auto">
               <a
                 href={props.repo.url}
+                target="_blank"
                 className="hover:underline flex flex-row items-center gap-1"
               >
                 <div>

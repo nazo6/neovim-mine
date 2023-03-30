@@ -73,7 +73,7 @@ export function Control() {
       </div>
       <div className="h-[50vh] overflow-auto">
         <div className="flex flex-row flex-wrap gap-1 overflow-auto">
-          {tagInfo?.filter((tag) => tag.count >= 2).sort((a, b) =>
+          {tagInfo.filter((tag) => tag.count >= 2).sort((a, b) =>
             b.count - a.count
           ).map((tag) => (
             <Chip
