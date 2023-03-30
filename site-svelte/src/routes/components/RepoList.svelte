@@ -19,19 +19,21 @@
 
 	$: reposToShow = repos
 		.filter((repo) => {
+			if ($selectedTag.length == 0) return true;
+			return repo.tag.some((tag) => $selectedTag.includes(tag));
+		})
+		.filter((repo) => {
 			if ($filter == '') return true;
 			const text = $filter.toLowerCase();
 			const basic =
-				repo.name.toLowerCase().includes(text) || repo.owner.toLowerCase().includes(text);
+				repo.name.toLowerCase().includes(text) ||
+				repo.owner.toLowerCase().includes(text) ||
+				repo.tag.some((t) => t.toLowerCase().includes(text));
 			let advanced = false;
 			if ('data' in repo && !basic) {
 				advanced = repo.data.description?.toLowerCase().includes(text) ?? false;
 			}
 			return basic || advanced;
-		})
-		.filter((repo) => {
-			if ($selectedTag.length == 0) return true;
-			return repo.tag.some((tag) => $selectedTag.includes(tag));
 		})
 		.sort((a, b) => {
 			const order = $sortDirection == 'asc' ? 1 : -1;
