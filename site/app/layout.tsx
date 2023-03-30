@@ -12,7 +12,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="h-full">
-      <body className="h-full bg-gray-900">
+      <body className="h-full">
         <h1 className="text-center">
           <span className="font-extrabold text-transparent text-3xl bg-clip-text bg-gradient-to-r from-purple-400 to-blue-500 ">
             Neovim Mine
