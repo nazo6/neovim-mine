@@ -6,36 +6,14 @@
 	import type { SortDirection, SortType } from './type';
 	import Control from './components/Control.svelte';
 	import { Burger } from '@svelteuidev/core';
-	import { queryParam } from 'sveltekit-search-params';
-	import { writable } from 'svelte/store';
-	import { browser } from '$app/environment';
-	import { page } from '$app/stores';
+	import { arrayQueryParamStore, queryParamStore } from '$lib/utils/queryParam';
 
-	let sortType = queryParam<SortType>('sort', {
-		encode: (v) => v,
-		decode: (v) => (v as SortType) ?? 'star'
-	});
-	let sortDirection = queryParam<SortDirection>('order', {
-		encode: (v) => v,
-		decode: (v) => (v as SortDirection) ?? 'desc'
-	});
-	let filter = queryParam(
-		'q',
-		{
-			encode: (v) => v,
-			decode: (v) => v ?? ''
-		},
-		{ pushHistory: false }
-	);
-	let tagParam = $page.url.searchParams.get('tag');
-	let selectedTag = writable(tagParam ? decodeURIComponent(tagParam).split('|') : []);
-	$: {
-		const tag = $selectedTag;
-		$page.url.searchParams.set('tag', encodeURIComponent(tag.join('|')));
-		if (browser) {
-			window.history.replaceState(null, '', $page.url.toString());
-		}
-	}
+	import { PUBLIC_GA_MEASUREMENT_ID, PUBLIC_GOOGLE_SITE_VERIFICATION } from '$env/static/public';
+
+	let sortType = queryParamStore<SortType>('sort', 'star');
+	let sortDirection = queryParamStore<SortDirection>('order', 'desc');
+	let filter = queryParamStore('filter', '');
+	let selectedTag = arrayQueryParamStore('tag', []);
 
 	setContext('sortType', sortType);
 	setContext('sortDirection', sortDirection);
@@ -44,12 +22,22 @@
 
 	export let data;
 
+	const gaScript = `<script>
+    window.dataLayer = window.dataLayer || []
+    function gtag() {dataLayer.push(arguments)}
+    gtag('js', new Date())
+    gtag('config', '${PUBLIC_GA_MEASUREMENT_ID}')<\/script>`;
+
 	let burgerOpen = false;
 </script>
 
 <svelte:head>
 	<title>Neovim mine</title>
 	<meta name="description" content="Svelte demo app" />
+	<meta name="google-site-verification" content={PUBLIC_GOOGLE_SITE_VERIFICATION} />
+	{@html gaScript}
+	<script async src={`https://www.googletagmanager.com/gtag/js?id=${PUBLIC_GA_MEASUREMENT_ID}`}>
+	</script>
 </svelte:head>
 
 <div class="bg-gray-800 h-full flex flex-col">
