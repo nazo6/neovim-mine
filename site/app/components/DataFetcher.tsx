@@ -6,11 +6,20 @@ import { View } from "./View";
 import { RepoInfoWithTag, Tag, TagInfo } from "@/types/repo";
 
 const IGNORED_CATEGORY: string[] = [
-  "awesome neovim",
-  "table of contents",
+  "awesome-neovim",
+  "table-of-contents",
   "readme.md",
+  "requires-neovim-0.5",
+  "plugin",
 ];
-const IGNORED_TOPICS: string[] = ["neovim", "nvim"];
+const IGNORED_TOPICS: string[] = [
+  "neovim",
+  "nvim",
+  "vim",
+  "plugin",
+  "neovim-plugin",
+  "lua",
+];
 
 async function getRepos(): Promise<
   { repos: RepoInfoWithTag[]; tagInfo: TagInfo }
@@ -26,21 +35,35 @@ async function getRepos(): Promise<
     const repoTags: Tag[] = [];
 
     repoInfo.category.forEach((category) => {
-      const tagTmp: string[] = [];
-      category.forEach((crr, i) => {
-        let name = crr.name.trim();
+      const categoryNormalized = category.map((c, i) => {
+        let name = c.name.trim();
+        name = name.replace(/\[(?<title>.*)\]/, "$<title>");
         name = name.toLowerCase();
+        name = name.replaceAll(", ", "-");
+        name = name.replaceAll(" ", "-");
 
+        return { ...c, name };
+      });
+      const tagTmp: string[] = [];
+      categoryNormalized.forEach((crr, i) => {
         const ignored = IGNORED_CATEGORY.some((c) => {
-          return name.includes(c);
+          return crr.name.includes(c);
         });
         if (ignored) return;
 
         if (i == 0) {
-          name = crr.name.replace(".md", "");
+          crr.name = crr.name.replace(".md", "");
         }
 
-        tagTmp.push(name);
+        if (crr.name == "neovim-lua-development") {
+          console.log(tagTmp, i);
+        }
+
+        if (tagTmp[tagTmp.length - 1] == crr.name) {
+          return;
+        }
+
+        tagTmp.push(crr.name);
 
         const tagStr = JSON.stringify(tagTmp);
         tagCount[tagStr] = (tagCount[tagStr] ?? 0) + 1;
