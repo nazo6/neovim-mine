@@ -16,11 +16,13 @@ import { useAtom } from "jotai";
 
 export function RepoList() {
   const [repos] = useAtom(reposAtom);
-  const [sortedRepos, setSortedRepos] = useState<RepoInfoWithTag[]>(repos!);
+  const [sortedRepos, setSortedRepos] = useState<RepoInfoWithTag[]>(repos);
   const [sortType] = useSortType();
   const [sortOrder] = useSortOrder();
   const [searchText] = useSearchText();
   const [tagFilter] = useTagFilter();
+
+  console.log("render");
 
   useEffect(() => {
     const newRepos = repos!.sort((a, b) => {

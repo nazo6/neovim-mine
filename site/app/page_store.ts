@@ -37,14 +37,15 @@ export function atomWithArrayQueryParams<T extends string[]>(
 
     const searchParams = useSearchParams();
 
+    const params = searchParams.get(paramName);
     const atomValueWithDefault = atomValue ??
-      (searchParams.get(paramName)?.split(",") ?? defaultParamValue) as T;
+      (params ? JSON.parse(params) : defaultParamValue) as T;
 
     const setSortTypeWithRouter = (sortType: T) => {
       setAtomValue(sortType);
 
       const url = new URL(window.location.toString());
-      url.searchParams.set(paramName, sortType.join(","));
+      url.searchParams.set(paramName, JSON.stringify(sortType));
       window.history.pushState({}, "", url);
     };
 
