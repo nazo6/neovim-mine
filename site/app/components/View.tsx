@@ -11,6 +11,7 @@ type ViewProps = {
   tagInfo: TagInfo;
 };
 export function View(props: ViewProps) {
+  // @ts-ignore
   useHydrateAtoms([
     [reposAtom, props.repos],
     [tagInfoAtom, props.tagInfo],
