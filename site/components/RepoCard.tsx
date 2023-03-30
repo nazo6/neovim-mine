@@ -48,7 +48,7 @@ export function RepoCard(props: RepoCardProps) {
               : <></>}
           </div>
 
-          <div className="border-t-2 group-hover:border-t-orange-400 font-normal text-gray-300 flex flex-col">
+          <div className="border-t-2 group-hover:border-t-orange-400 font-normal text-gray-300 flex flex-col gap-1">
             {"data" in props.repo
               ? <p>{props.repo.data.description}</p>
               : <></>}

@@ -22,8 +22,6 @@ export function RepoList() {
   const [searchText] = useSearchText();
   const [tagFilter] = useTagFilter();
 
-  console.log("render");
-
   useEffect(() => {
     const newRepos = repos!.sort((a, b) => {
       const order = sortOrder == "asc" ? 1 : -1;

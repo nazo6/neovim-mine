@@ -22,9 +22,10 @@ export function Control() {
   const [tagInfo] = useAtom(tagInfoAtom);
 
   const [inputText, setInputText] = useState(searchText);
+  const [filterOpen, setFilterOpen] = useState(false);
 
   return (
-    <div className="flex flex-col gap-1 flex-wrap w-full">
+    <div className="flex flex-col gap-1">
       <div className="flex flex-col w-full">
         <div className="flex items-center ">
           <span className="text-white">Sort type</span>
@@ -71,8 +72,16 @@ export function Control() {
           }}
         />
       </div>
-      <div className="h-[50vh] overflow-auto">
-        <div className="flex flex-row flex-wrap gap-1 overflow-auto">
+      <div>
+        <span className="text-white">Filter</span>
+        <button className="bg-white" onClick={() => setFilterOpen(!filterOpen)}>
+          Toggle
+        </button>
+        <div
+          className={`flex flex-row flex-wrap gap-1 h-[70vh] overflow-auto ${
+            filterOpen ? "" : "hidden"
+          }`}
+        >
           {tagInfo.filter((tag) => tag.count >= 2).sort((a, b) =>
             b.count - a.count
           ).map((tag) => (
