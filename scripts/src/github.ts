@@ -32,34 +32,30 @@ export async function githubGql(
     });
 
   type gqlResponseType = {
-    data:
-      & Record<
-        string,
-        {
-          createdAt: string;
-          stargazerCount: number;
-          isArchived: boolean;
-          issues: { totalCount: number };
-          object: {
-            lastCommit: { nodes: { committedDate: string }[] };
-            activity: { totalCount: number };
-          };
-          primaryLanguage: { color?: string; name: string };
-          description: string;
-          repositoryTopics: {
-            edges: {
-              node: { topic: { name: string } };
-            }[];
-          };
-        } | null
-      >
-      & {
-        rateLimit: { cost: number };
-      };
+    data: Record<
+      string,
+      {
+        createdAt: string;
+        stargazerCount: number;
+        isArchived: boolean;
+        issues: { totalCount: number };
+        object: {
+          lastCommit: { nodes: { committedDate: string }[] };
+          activity: { totalCount: number };
+        };
+        primaryLanguage: { color?: string; name: string };
+        description: string;
+        repositoryTopics: {
+          edges: {
+            node: { topic: { name: string } };
+          }[];
+        };
+      } | null
+    >;
     errors?: (GraphQLError & { type?: string })[];
   };
   // String of last yer datetime
-  let date = new Date();
+  const date = new Date();
   date.setFullYear(date.getFullYear() - 1);
   const lastYear = date.toISOString();
 
@@ -101,9 +97,9 @@ export async function githubGql(
 			}
     `;
   });
-  const repoThrottledQueries: string[] = [];
+  const repoThrottledQueries: string[][] = [];
   while (repoQuery.length > 0) {
-    const query = repoQuery.splice(0, 50).join("\n");
+    const query = repoQuery.splice(0, 50);
     repoThrottledQueries.push(query);
   }
 
@@ -117,18 +113,17 @@ export async function githubGql(
 
   const repos: (RepoBasicInfo & RepoAdvancedInfo)[] = [];
 
+  let count = 0;
   const tasks = repoThrottledQueries.map((repoThrottledQuery) => {
     return async () => {
       const query = gql`
 		    query {
-          ${repoThrottledQuery}
-		    	rateLimit {
-		    		cost
-		    	}
+          ${repoThrottledQuery.join("\n")}
 		    }
 	    `;
       const res: gqlResponseType = await graphQLClient.rawRequest(query);
-      let cost = 0;
+      count += repoThrottledQuery.length;
+      console.log(`Fetched ${count} repos`);
       Object.entries(res.data).forEach(([key, value]) => {
         if (value === null) {
           const id = Number(key.replace("repo", ""));
@@ -146,10 +141,6 @@ export async function githubGql(
           };
           notResolvedRepos.push(repo);
         } else {
-          if ("cost" in value) {
-            cost = value.cost;
-            return;
-          }
           const id = Number(key.replace("repo", ""));
 
           const repo: RepoBasicInfo & RepoAdvancedInfo = {
@@ -170,7 +161,6 @@ export async function githubGql(
           repos.push(repo);
         }
       });
-      console.log(`Send request (cost: ${cost})`);
     };
   });
 

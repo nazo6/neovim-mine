@@ -1,0 +1,50 @@
+name: Update
+
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: 00 10 * * 0
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: master
+
+    - uses: pnpm/action-setup@v2
+      with:
+        version: latest
+
+    - name: Configure git
+      env:
+        TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        git config --global url."https://nazo6:${TOKEN}@github.com/".insteadOf "https://github.com/"
+        git config --global user.name github-actions
+        git config --global user.email github-actions@github.com
+
+    - name: Clone data
+      run: |
+        git clone --depth 1 https://github.com/nazo6/neovim-mine-data data
+
+    - name: Run update 
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        cd scripts
+        pnpm i
+        pnpm run start
+
+    - name: Push changes
+      run: |
+        cd data
+        git add .
+        git commit -m "Update data"
+        git push
+
+    - name: Redeploy site 
+      run: curl https://api.vercel.com/v1/integrations/deploy/prj_cjfrDwzwyAigNwXQvLxlu65eengL/SQAQFA5qfo

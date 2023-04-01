@@ -3,7 +3,6 @@ import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 import * as dotenv from "dotenv";
 import stringify from "json-stable-stringify";
-import { throttleAll } from "promise-throttle-all";
 import sanitize from "sanitize-filename";
 
 import { githubGql } from "./github";
@@ -25,13 +24,11 @@ async function main() {
 
   const allRepos = [...resolvedRepos, ...notResolvedRepos];
 
-  await fs.writeFile("./a.json", stringify(allRepos, { space: 2 }));
-
   const __dirname = dirname(fileURLToPath(import.meta.url));
   const dataPath = join(__dirname, "../../data/data");
 
   await fs.rm(dataPath, { recursive: true, force: true });
-  Promise.all(allRepos.map(async (repo) => {
+  const tasks = Promise.all(allRepos.map(async (repo) => {
     const group = repo.owner.match(/[^0-9A-Za-z]*(?<c>.)/)?.groups?.c?.charAt(
       0,
     ).toLowerCase();
@@ -44,8 +41,8 @@ async function main() {
     );
     try {
       await fs.writeFile(filePath, stringify(repo, { space: 2 }));
-    } catch (e: any) {
-      if ("code" in e && e.code === "ENOENT") {
+    } catch (e: unknown) {
+      if (typeof e == "object" && e && "code" in e && e.code === "ENOENT") {
         await fs.mkdir(dirname(filePath), { recursive: true });
         await fs.writeFile(filePath, stringify(repo, { space: 2 }));
       } else {
@@ -54,4 +51,12 @@ async function main() {
       }
     }
   }));
+
+  try {
+    await tasks;
+  } catch (e) {
+    console.error(e);
+  }
+
+  console.log("Done. " + resolvedRepos.length + "repos");
 }
