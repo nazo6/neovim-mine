@@ -87,6 +87,7 @@
 		estimateSize={50}
 		on:scroll={() => (scrollY = virtualScroll.getOffset())}
 		bind:this={virtualScroll}
+		keeps={15}
 	>
 		<div class="scrollbar-thin">
 			<RepoCard repo={data} />

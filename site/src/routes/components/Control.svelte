@@ -8,6 +8,7 @@
 	import Select from '$lib/components/Select.svelte';
 	import TextInput from '$lib/components/TextInput.svelte';
 	import Button from '$lib/components/Button.svelte';
+	import { VirtualScroll } from 'svelte-virtual-scroll-list';
 
 	export let tagInfo: TagInfo;
 
@@ -15,7 +16,12 @@
 	let sortDirection: Writable<SortDirection> = getContext('sortDirection');
 	let filter: Writable<string> = getContext('filter');
 
-	let tags = tagInfo.filter((tag) => tag.count >= 2).sort((a, b) => b.count - a.count);
+	const tags = tagInfo.filter((tag) => tag.count >= 2).sort((a, b) => b.count - a.count);
+	const tagsSplitted: { data: TagInfo; key: string }[] = [];
+	while (tags.length > 0) {
+		const tag = tags.splice(0, 5);
+		tagsSplitted.push({ data: tag, key: tagsSplitted.length.toString() });
+	}
 	let filterOpen = true;
 </script>
 
@@ -61,9 +67,13 @@
 				filterOpen ? '' : 'hidden'
 			}`}
 		>
-			{#each tags as tag (tag.tag)}
-				<TagChip tag={tag.tag} text={`${tag.tag} (${tag.count})`} />
-			{/each}
+			<VirtualScroll key="key" data={tagsSplitted} let:data estimateSize={100} keeps={10}>
+				<div class="flex flex-row gap-1 flex-wrap my-1">
+					{#each data.data as tag (tag.tag)}
+						<TagChip tag={tag.tag} text={`${tag.tag} (${tag.count})`} />
+					{/each}
+				</div>
+			</VirtualScroll>
 		</div>
 	</div>
 </div>
