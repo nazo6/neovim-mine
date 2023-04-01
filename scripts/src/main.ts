@@ -10,11 +10,7 @@ import { mineRepos } from "./miner";
 
 dotenv.config();
 
-main().then(() => {
-  console.log("Finished");
-}).catch((e) => {
-  console.error(e);
-});
+main();
 
 async function main() {
   const repos = await mineRepos([
