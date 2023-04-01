@@ -1,5 +1,6 @@
 import * as path from 'path';
 import { promises as fs } from 'fs';
+import { execSync } from 'child_process';
 import { glob } from 'glob';
 import type { RepoInfo } from 'common/repo';
 import type { RepoInfoWithTag, Tag, TagInfo } from '$lib/types/repo';
@@ -19,7 +20,14 @@ export async function load() {
 }
 
 async function getRepos(): Promise<{ repos: RepoInfoWithTag[]; tagInfo: TagInfo }> {
-	const files = await glob(path.join(process.cwd(), '../data/data', '*/*/*.json'));
+	let files = await glob(path.join(process.cwd(), '../data/data', '*/*/*.json'));
+	if (files.length == 0) {
+		execSync('git clone --depth 1 https://github.com/nazo6/neovim-mine-data data', {
+			cwd: path.join(process.cwd(), '../')
+		});
+
+		files = await glob(path.join(process.cwd(), '../data/data', '*/*/*.json'));
+	}
 	const tagCount: Record<string, number> = {};
 	const repos = (
 		await Promise.all(
