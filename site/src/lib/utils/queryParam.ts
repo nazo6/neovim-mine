@@ -34,6 +34,7 @@ export function arrayQueryParamStore<T extends string[]>(name: string, init: T) 
 	const store = writable<T>((requestParam as T) ?? init);
 
 	const unsubscribe = store.subscribe((v) => {
+		console.log(v);
 		if (!browser) return;
 		const newParams = new URL(window.location.toString());
 		newParams.searchParams.delete(name);

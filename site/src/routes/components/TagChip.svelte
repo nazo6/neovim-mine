@@ -1,6 +1,6 @@
 <script lang="ts">
 	import type { Tag } from '$lib/types/repo';
-	import { Chip } from '@svelteuidev/core';
+	import Chip from '$lib/components/Chip.svelte';
 	import { getContext } from 'svelte';
 	import type { Writable } from 'svelte/store';
 
@@ -13,16 +13,16 @@
 </script>
 
 <Chip
-	variant="filled"
 	{checked}
 	on:change={(e) => {
-		// @ts-expect-error e.target.checked exists
-		if (e.target?.checked) {
+		checked = !checked;
+		if (checked) {
+			console.log('checked', tag);
 			selectedTag.update((pre) => [...pre, tag]);
 		} else {
+			console.log('unchecked', tag);
 			selectedTag.update((pre) => pre.filter((t) => t != tag));
 		}
 	}}
->
-	{text ?? tag}
-</Chip>
+	text={text ?? tag}
+/>

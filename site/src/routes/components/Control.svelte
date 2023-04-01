@@ -1,12 +1,13 @@
 <script lang="ts">
 	import type { TagInfo } from '$lib/types/repo';
-	import { Button, NativeSelect } from '@svelteuidev/core';
-	import { TextInput } from '@svelteuidev/core';
 
 	import { getContext } from 'svelte';
 	import type { Writable } from 'svelte/store';
 	import type { SortDirection, SortType } from '../type';
 	import TagChip from './TagChip.svelte';
+	import Select from '$lib/components/Select.svelte';
+	import TextInput from '$lib/components/TextInput.svelte';
+	import Button from '$lib/components/Button.svelte';
 
 	export let tagInfo: TagInfo;
 
@@ -22,15 +23,26 @@
 	<div class="flex flex-col w-full">
 		<div class="flex items-center">
 			<span class="text-white">Sort type</span>
-			<NativeSelect
-				data={['star', 'createdAt', 'lastCommit', 'repoName', 'ownerName']}
-				class="!text-white"
+			<Select
+				data={[
+					['star', 'star'],
+					['created', 'createdAt'],
+					['updated', 'lastCommit'],
+					['Name(repo)', 'repoName'],
+					['Name(owner)', 'ownerName']
+				]}
 				bind:value={$sortType}
 			/>
 		</div>
 		<div class="flex items-center">
 			<span class="text-white">Sort order</span>
-			<NativeSelect data={['asc', 'desc']} bind:value={$sortDirection} />
+			<Select
+				data={[
+					['asc', 'asc'],
+					['desc', 'desc']
+				]}
+				bind:value={$sortDirection}
+			/>
 		</div>
 	</div>
 	<div>

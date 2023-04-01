@@ -7,7 +7,6 @@
 	import { browser } from '$app/environment';
 	import { getContext } from 'svelte';
 	import type { Writable } from 'svelte/store';
-	import { Affix, Button } from '@svelteuidev/core';
 	import AiOutlineArrowUp from 'svelte-icons-pack/ai/AiOutlineArrowUp';
 	import Icon from 'svelte-icons-pack';
 
@@ -95,13 +94,13 @@
 	</VirtualScroll>
 {/if}
 
-<Affix position={{ bottom: 20, right: 20 }}>
-	{#if scrollY > 0}
-		<Button on:click={() => virtualScroll.scrollToIndex(0)}>
-			<svelte:fragment slot="leftIcon">
-				<Icon src={AiOutlineArrowUp} />
-			</svelte:fragment>
-			Scroll to top
-		</Button>
-	{/if}
-</Affix>
+<!-- <Affix position={{ bottom: 20, right: 20 }}> -->
+<!-- 	{#if scrollY > 0} -->
+<!-- 		<Button on:click={() => virtualScroll.scrollToIndex(0)}> -->
+<!-- 			<svelte:fragment slot="leftIcon"> -->
+<!-- 				<Icon src={AiOutlineArrowUp} /> -->
+<!-- 			</svelte:fragment> -->
+<!-- 			Scroll to top -->
+<!-- 		</Button> -->
+<!-- 	{/if} -->
+<!-- </Affix> -->

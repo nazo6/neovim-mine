@@ -13,7 +13,7 @@
 	{:else if domain == 'gitlab.com'}
 		<Icon src={IoLogoGitlab} color="white" />
 	{:else}
-		{domain}
+		<span class="text-sm">{domain}</span>
 	{/if}
 	<Icon src={FiExternalLink} color="white" />
 </div>

@@ -23,8 +23,9 @@
 						class="hover:underline flex flex-row items-center gap-1"
 					>
 						<div>
-							<span class="text-blue-400">{repo.owner}/</span>
-							<span class="text-blue-200">{repo.name}</span>
+							<span class="text-blue-400"> {repo.owner}/</span><span class="text-blue-200"
+								>{repo.name}</span
+							>
 						</div>
 
 						<RepoLinkIcon domain={repo.domain} />
