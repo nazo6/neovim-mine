@@ -32,6 +32,9 @@
 					</a>
 				</div>
 				{#if 'data' in repo}
+					{#if repo.data.isArchived}
+						<div class="text-sm bg-yellow-100 text-black font-bold rounded-full px-2">Archived</div>
+					{/if}
 					<div class="text-sm flex flex-row gap-2">
 						<div>
 							Create: <RelativeDate date={repo.data.createdAt} />
