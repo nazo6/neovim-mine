@@ -17,10 +17,8 @@
 	on:change={(e) => {
 		checked = !checked;
 		if (checked) {
-			console.log('checked', tag);
 			selectedTag.update((pre) => [...pre, tag]);
 		} else {
-			console.log('unchecked', tag);
 			selectedTag.update((pre) => pre.filter((t) => t != tag));
 		}
 	}}

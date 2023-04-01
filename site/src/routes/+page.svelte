@@ -35,7 +35,6 @@
 
 <svelte:head>
 	<title>Neovim mine</title>
-	<meta name="description" content="Svelte demo app" />
 	<meta name="google-site-verification" content={PUBLIC_GOOGLE_SITE_VERIFICATION} />
 	{@html gaScript}
 	<script async src={`https://www.googletagmanager.com/gtag/js?id=${PUBLIC_GA_MEASUREMENT_ID}`}>
