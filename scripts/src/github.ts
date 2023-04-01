@@ -21,7 +21,7 @@ export async function githubGql(
   }
 > {
   const githubRepos = minedRepos.filter((repo) => repo.domain == "github.com");
-  const notResolvedRepos: (RepoBasicInfo & RepoErrorInfo)[] = minedRepos
+  const notResolvedRepos: RepoErrorInfo[] = minedRepos
     .filter((repo) => repo.domain != "github.com").map((repo) => {
       return {
         ...repo,
@@ -43,6 +43,7 @@ export async function githubGql(
           lastCommit: { nodes: { committedDate: string }[] };
           activity: { totalCount: number };
         };
+        nameWithOwner: string;
         primaryLanguage: { color?: string; name: string };
         description: string;
         repositoryTopics: {
@@ -68,6 +69,7 @@ export async function githubGql(
 				issues {
 					totalCount
 				}
+        nameWithOwner
         primaryLanguage {
           color
           name
@@ -156,6 +158,7 @@ export async function githubGql(
               ),
               isArchived: value.isArchived,
               primaryLanguage: value.primaryLanguage,
+              nameWithOwner: value.nameWithOwner,
             },
           };
           repos.push(repo);
@@ -165,6 +168,24 @@ export async function githubGql(
   });
 
   await throttleAll(10, tasks);
+
+  // Rename repos with same name
+  repos.forEach((repo) => {
+    if (repo.data.nameWithOwner != repo.owner + "/" + repo.name) {
+      repo.owner = repo.data.nameWithOwner.split("/")[0];
+      repo.name = repo.data.nameWithOwner.split("/")[1];
+    }
+  });
+  // Remove duplicates
+  repos.filter(
+    (repo, i) => {
+      for (let j = i; j < repos.length; j++) {
+        if (repo.data.nameWithOwner === repos[j].data.nameWithOwner) {
+          return false;
+        }
+      }
+    },
+  );
 
   return { repos, notResolvedRepos };
 }

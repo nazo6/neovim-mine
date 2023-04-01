@@ -18,6 +18,7 @@ export type RepoAdvancedInfo = RepoBasicInfo & {
     description?: string;
     topics: string[];
     isArchived: boolean;
+    nameWithOwner: string;
     primaryLanguage: {
       color?: string;
       name: string;
