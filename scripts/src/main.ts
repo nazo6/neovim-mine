@@ -10,7 +10,11 @@ import { mineRepos } from "./miner";
 
 dotenv.config();
 
-main();
+main().then(() => {
+  console.log("Finished");
+}).catch((e) => {
+  console.error(e);
+});
 
 async function main() {
   const repos = await mineRepos([
@@ -22,13 +26,29 @@ async function main() {
   const { repos: resolvedRepos, notResolvedRepos: notResolvedRepos } =
     await githubGql(repos);
 
-  const allRepos = [...resolvedRepos, ...notResolvedRepos];
+  const allRepos = [...notResolvedRepos, ...resolvedRepos];
+
+  // Remove duplicates
+  const filteredRepos = allRepos.filter(
+    (repo, i) => {
+      for (let j = i + 1; j < allRepos.length - 1; j++) {
+        if (
+          repo.name === allRepos[j + 1].name &&
+          repo.owner === allRepos[j + 1].owner &&
+          repo.domain === allRepos[j + 1].domain
+        ) {
+          return false;
+        }
+      }
+      return true;
+    },
+  );
 
   const __dirname = dirname(fileURLToPath(import.meta.url));
   const dataPath = join(__dirname, "../../data/data");
 
   await fs.rm(dataPath, { recursive: true, force: true });
-  const tasks = Promise.all(allRepos.map(async (repo) => {
+  const tasks = Promise.all(filteredRepos.map(async (repo) => {
     const group = repo.owner.match(/[^0-9A-Za-z]*(?<c>.)/)?.groups?.c?.charAt(
       0,
     ).toLowerCase();
@@ -58,5 +78,5 @@ async function main() {
     console.error(e);
   }
 
-  console.log("Done. " + resolvedRepos.length + "repos");
+  console.log("Done. " + filteredRepos.length + "repos");
 }

@@ -33,7 +33,13 @@ async function getRepos(): Promise<{ repos: RepoInfoWithTag[]; tagInfo: TagInfo 
 		await Promise.all(
 			files.flatMap(async (path) => {
 				const fileStr = await fs.readFile(path, { encoding: 'utf8' });
-				const repoInfo = JSON.parse(fileStr) as RepoInfo;
+				let repoInfo;
+				try {
+					repoInfo = JSON.parse(fileStr) as RepoInfo;
+				} catch (e) {
+					console.log(path);
+					throw e;
+				}
 
 				const repoTags: Tag[] = [];
 

@@ -176,16 +176,6 @@ export async function githubGql(
       repo.name = repo.data.nameWithOwner.split("/")[1];
     }
   });
-  // Remove duplicates
-  repos.filter(
-    (repo, i) => {
-      for (let j = i; j < repos.length; j++) {
-        if (repo.data.nameWithOwner === repos[j].data.nameWithOwner) {
-          return false;
-        }
-      }
-    },
-  );
 
   return { repos, notResolvedRepos };
 }
