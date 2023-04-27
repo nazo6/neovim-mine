@@ -2,7 +2,7 @@ import { gql, GraphQLClient } from "graphql-request";
 import { GraphQLError } from "graphql";
 import { throttleAll } from "promise-throttle-all";
 
-import { RepoAdvancedInfo, RepoBasicInfo, RepoErrorInfo } from "common/repo";
+import { RepoAdvancedInfo, RepoBasicInfo, RepoErrorInfo } from "common/repo.js";
 
 export type Repositories = Record<
   string,

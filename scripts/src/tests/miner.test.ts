@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 
-import { mineRepos } from "../miner";
+import { mineRepos } from "../miner.js";
 
 describe("mineRepos", () => {
   it("Make sure that repo has at least one category", async () => {

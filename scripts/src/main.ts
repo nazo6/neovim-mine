@@ -5,17 +5,12 @@ import * as dotenv from "dotenv";
 import stringify from "json-stable-stringify";
 import sanitize from "sanitize-filename";
 
-import { githubGql } from "./github";
-import { mineRepos } from "./miner";
+import { githubGql } from "./github.js";
+import { mineRepos } from "./miner.js";
 
 dotenv.config();
 
-main().then(() => {
-  console.log("Done");
-}).catch((e) => {
-  console.log("Error");
-  console.log(e);
-});
+await main();
 
 async function main() {
   const repos = await mineRepos([
