@@ -47,4 +47,6 @@ jobs:
         git push
 
     - name: Redeploy site 
-      run: curl https://api.vercel.com/v1/integrations/deploy/prj_JXs6myMVoc5DtFVW0O2A4nx9tvEP/ojDQixev3f
+      env:
+        REDEPLOY_URL: ${{ secrets.REDEPLOY_URL }}
+      run: curl ${REDEPLOY_URL}
