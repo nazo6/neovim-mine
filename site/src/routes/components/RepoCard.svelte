@@ -16,22 +16,18 @@
 	>
 		<div class="h-full rounded-md w-full bg-gray-800 text-white px-2 py-1">
 			<div class="flex flex-auto flex-row justify-between items-center gap-1 flex-wrap">
-				<div class="text-lg font-bold">
-					<a
-						href={`/${repo.owner}/${repo.name}`}
-						class="hover:underline flex flex-row items-center gap-1"
-					>
-						<span class="text-blue-400"> {repo.owner}/</span><span class="text-blue-200"
-							>{repo.name}</span
-						>
-					</a>
-				</div>
-				<div class="mr-auto">
+				<div class="text-lg font-bold mr-auto">
 					<a
 						href={repo.url}
 						target="_blank"
 						class="hover:underline flex flex-row items-center gap-1"
 					>
+						<div>
+							<span class="text-blue-400"> {repo.owner}/</span><span class="text-blue-200"
+								>{repo.name}</span
+							>
+						</div>
+
 						<RepoLinkIcon domain={repo.domain} />
 					</a>
 				</div>

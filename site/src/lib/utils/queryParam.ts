@@ -1,7 +1,6 @@
 import { writable } from 'svelte/store';
 import { browser } from '$app/environment';
 import { onDestroy } from 'svelte';
-import { goto } from '$app/navigation';
 
 export function queryParamStore<T extends string>(name: string, init: T) {
 	let requestParam: null | string = null;
@@ -11,11 +10,11 @@ export function queryParamStore<T extends string>(name: string, init: T) {
 
 	const store = writable<T>((requestParam as T) ?? init);
 
-	const unsubscribe = store.subscribe(async (v) => {
+	const unsubscribe = store.subscribe((v) => {
 		if (!browser) return;
 		const newParams = new URL(window.location.toString());
 		newParams.searchParams.set(name, v);
-		await goto(newParams.toString(), { keepFocus: true });
+		history.pushState(null, '', newParams.toString());
 	});
 
 	onDestroy(unsubscribe);
@@ -34,12 +33,12 @@ export function arrayQueryParamStore<T extends string[]>(name: string, init: T) 
 
 	const store = writable<T>((requestParam as T) ?? init);
 
-	const unsubscribe = store.subscribe(async (v) => {
+	const unsubscribe = store.subscribe((v) => {
 		if (!browser) return;
 		const newParams = new URL(window.location.toString());
 		newParams.searchParams.delete(name);
 		v.forEach((v) => newParams.searchParams.append(name, encodeURIComponent(v)));
-		await goto(newParams.toString(), { keepFocus: true });
+		history.pushState(null, '', newParams.toString());
 	});
 
 	onDestroy(unsubscribe);
