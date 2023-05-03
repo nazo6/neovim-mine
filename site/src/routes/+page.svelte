@@ -7,7 +7,7 @@
 	import Control from './components/Control.svelte';
 	import { arrayQueryParamStore, queryParamStore } from '$lib/utils/queryParam';
 
-	import { PUBLIC_GA_MEASUREMENT_ID, PUBLIC_GOOGLE_SITE_VERIFICATION } from '$env/static/public';
+	import { PUBLIC_GOOGLE_SITE_VERIFICATION } from '$env/static/public';
 	import Burger from '$lib/components/Burger.svelte';
 
 	let sortType = queryParamStore<SortType>('sort', 'star');
@@ -22,23 +22,11 @@
 
 	export let data;
 
-	/* eslint-disable */
-	const gaScript = `<script>
-    window.dataLayer = window.dataLayer || []
-    function gtag() {dataLayer.push(arguments)}
-    gtag('js', new Date())
-    gtag('config', '${PUBLIC_GA_MEASUREMENT_ID}')<\/script>`;
-	/* eslint-enable */
-
 	let burgerOpen = false;
 </script>
 
 <svelte:head>
-	<title>Neovim mine</title>
 	<meta name="google-site-verification" content={PUBLIC_GOOGLE_SITE_VERIFICATION} />
-	{@html gaScript}
-	<script async src={`https://www.googletagmanager.com/gtag/js?id=${PUBLIC_GA_MEASUREMENT_ID}`}>
-	</script>
 </svelte:head>
 
 <div class="bg-gray-800 h-full flex flex-col">
