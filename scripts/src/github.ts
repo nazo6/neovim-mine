@@ -1,6 +1,5 @@
 import { gql, GraphQLClient } from "graphql-request";
 import { GraphQLError } from "graphql";
-import { throttleAll } from "promise-throttle-all";
 
 import { RepoAdvancedInfo, RepoBasicInfo, RepoErrorInfo } from "common/repo.js";
 
@@ -167,7 +166,7 @@ export async function githubGql(
     };
   });
 
-  await throttleAll(10, tasks);
+  await Promise.all(tasks);
 
   // Rename repos with same name
   repos.forEach((repo) => {
