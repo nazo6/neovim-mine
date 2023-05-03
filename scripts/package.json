@@ -5,6 +5,7 @@
     "start": "tsx src/main.ts",
     "test": "vitest"
   },
+  "type": "module",
   "devDependencies": {
     "@types/json-stable-stringify": "^1.0.34",
     "@types/node": "^18.15.10",

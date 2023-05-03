@@ -7,7 +7,8 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "strict": true,
-    "module": "ES2020",
+    "module": "ES2022",
+    "target": "ESNext",
     "moduleResolution": "node16"
   },
   "references": [
