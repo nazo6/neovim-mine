@@ -16,11 +16,11 @@
 	>
 		<div class="h-full rounded-md w-full bg-gray-800 text-white px-2 py-1">
 			<div class="flex flex-auto flex-row justify-between items-center gap-1 flex-wrap">
-				<div class="text-lg font-bold mr-auto">
+				<div class="mr-auto flex flex-row gap-1">
 					<a
 						href={repo.url}
 						target="_blank"
-						class="hover:underline flex flex-row items-center gap-1"
+						class="hover:underline flex flex-row items-center gap-1 text-lg font-bold"
 					>
 						<div>
 							<span class="text-blue-400"> {repo.owner}/</span><span class="text-blue-200"
@@ -30,6 +30,13 @@
 
 						<RepoLinkIcon domain={repo.domain} />
 					</a>
+
+					{#if 'data' in repo}
+						<div class="flex flex-row items-center">
+							<Icon src={IoStar} color="yellow" />
+							{repo.data.star}
+						</div>
+					{/if}
 				</div>
 				{#if 'data' in repo}
 					{#if repo.data.isArchived}
@@ -42,10 +49,6 @@
 						<div>
 							Update: <RelativeDate date={repo.data.lastCommit} />
 						</div>
-					</div>
-					<div class="basis-1/6 md:basis-1/12 flex items-center">
-						<Icon src={IoStar} className="mr-1" color="yellow" />
-						{repo.data.star}
 					</div>
 				{/if}
 			</div>
