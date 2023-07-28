@@ -4,7 +4,7 @@ import { basename, dirname, join } from "path";
 import { fileURLToPath } from "url";
 import * as fs from "fs/promises";
 import { Glob } from "glob";
-import { RepoBasicInfo } from "common/repo";
+import { RepoBasicInfo } from "common/repo.js";
 
 const exec = promisify(exec_orig);
 
@@ -40,10 +40,18 @@ export async function mineRepos(url: string[]): Promise<RepoBasicInfo[]> {
       const filename = basename(file);
       const headlines: (string | null)[] = [filename];
       fileString.split("\n").forEach((line) => {
-        const headline = line.match(/^ *(?<level>#+) +(?<title>.+)/);
-        if (headline?.groups?.level && headline?.groups?.title) {
-          const level = headline.groups.level.length;
-          headlines[level] = headline.groups.title;
+        const headlineMatch = line.match(/^ *(?<level>#+) +(?<title>.+)/);
+        if (headlineMatch?.groups?.level && headlineMatch?.groups?.title) {
+          const level = headlineMatch.groups.level.length;
+          let headlineTitle = headlineMatch.groups.title;
+          // check headline title is link
+          const headlineLinkMatch = headlineMatch.groups.title.match(
+            /^\[(?<title>.*)\]\(.*\)/,
+          );
+          if (headlineLinkMatch?.groups?.title) {
+            headlineTitle = headlineLinkMatch.groups.title;
+          }
+          headlines[level] = headlineTitle;
           headlines.splice(level + 1);
         } else {
           const match = line.match(

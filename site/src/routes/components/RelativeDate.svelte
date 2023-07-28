@@ -8,7 +8,7 @@
 
 	$: day = dayjs(date);
 
-	$: relativeDate = day.fromNow(true);
+	$: relativeDate = day.fromNow(false);
 	$: relativeDateNumber = day.diff(dayjs(), 'day');
 	let colorClass = '';
 	$: {

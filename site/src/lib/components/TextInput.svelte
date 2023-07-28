@@ -2,4 +2,4 @@
 	export let value: string;
 </script>
 
-<input bind:value on:change />
+<input bind:value on:change class={$$props.class} />

@@ -25,22 +25,32 @@
 	let filterOpen = true;
 </script>
 
-<div class="flex flex-col gap-1">
-	<div class="flex flex-col w-full">
-		<div class="flex items-center">
-			<span class="text-white">Sort type</span>
-			<Select
-				data={[
-					['star', 'star'],
-					['created', 'createdAt'],
-					['updated', 'lastCommit'],
-					['Name(repo)', 'repoName'],
-					['Name(owner)', 'ownerName']
-				]}
-				bind:value={$sortType}
+<div class="flex flex-col gap-1 px-2">
+	<div class="flex flex-col w-full gap-1 px-1">
+		<div class="grid grid-cols-4">
+			<span class="text-white">Search</span>
+			<TextInput
+				class="col-span-3 py-2 px-1 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+				bind:value={$filter}
 			/>
 		</div>
-		<div class="flex items-center">
+		<div class="grid grid-cols-4">
+			<span class="text-white col-span-1">Sort type</span>
+			<div class="col-span-3">
+				<Select
+					class="w-full"
+					data={[
+						['star', 'star'],
+						['created', 'createdAt'],
+						['updated', 'lastCommit'],
+						['Name(repo)', 'repoName'],
+						['Name(owner)', 'ownerName']
+					]}
+					bind:value={$sortType}
+				/>
+			</div>
+		</div>
+		<div class="grid grid-cols-4">
 			<span class="text-white">Sort order</span>
 			<Select
 				data={[
@@ -50,24 +60,23 @@
 				bind:value={$sortDirection}
 			/>
 		</div>
+		<div class="grid grid-cols-4 pt-2 border-t">
+			<span class="text-white">Filter</span>
+			<Button
+				class="bg-gray-100 hover:bg-gray-300"
+				on:click={() => {
+					filterOpen = !filterOpen;
+				}}>Toggle</Button
+			>
+		</div>
 	</div>
 	<div>
-		<span class="text-white">Search</span>
-		<TextInput bind:value={$filter} />
-	</div>
-	<div>
-		<span class="text-white">Filter</span>
-		<Button
-			on:click={() => {
-				filterOpen = !filterOpen;
-			}}>Toggle</Button
-		>
 		<div
 			class={`flex flex-row flex-wrap gap-1 h-[70vh] overflow-x-hidden overflow-y-auto ${
 				filterOpen ? '' : 'hidden'
 			}`}
 		>
-			<VirtualScroll key="key" data={tagsSplitted} let:data estimateSize={100} keeps={10}>
+			<VirtualScroll key="key" data={tagsSplitted} let:data estimateSize={100} keeps={20}>
 				<div class="flex flex-row gap-1 flex-wrap my-1">
 					{#each data.data as tag (tag.tag)}
 						<TagChip tag={tag.tag} text={`${tag.tag} (${tag.count})`} />

@@ -7,8 +7,6 @@
 	import { browser } from '$app/environment';
 	import { getContext } from 'svelte';
 	import type { Writable } from 'svelte/store';
-	import AiOutlineArrowUp from 'svelte-icons-pack/ai/AiOutlineArrowUp';
-	import Icon from 'svelte-icons-pack';
 
 	export let repos: RepoInfoWithTag[];
 	let sortType: Writable<SortType> = getContext('sortType');
