@@ -19,5 +19,5 @@ export function RelativeDate({ date }: { date: string }) {
     colorClass = "text-red-500";
   }
 
-  return <span className={colorClass}>{relativeDate}</span>;
+  return <span className={colorClass}>~{relativeDate}</span>;
 }

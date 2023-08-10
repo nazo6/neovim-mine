@@ -8,21 +8,48 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { TagInfo } from "@/lib/repoType";
+import { CategoryInfo, TagInfo } from "@/lib/repoType";
 import { useState } from "react";
-import { Virtuoso } from "react-virtuoso";
+import {
+  SortOrder,
+  SortType,
+  useSearchTextAtom,
+  useSortOrderAtom,
+  useSortTypeAtom,
+} from "../_store";
+import { TagList } from "./Control/TagList";
 
-export function Control({ tagInfo }: { tagInfo: TagInfo }) {
+export type ControlProps = {
+  tagInfo: TagInfo;
+  categoryInfo: CategoryInfo[];
+};
+export function Control(props: ControlProps) {
   const [filterOpen, setFilterOpen] = useState(true);
+
+  const [sortType, setSortType] = useSortTypeAtom();
+  const [searchText, setSearchText] = useSearchTextAtom();
+  const [sortOrder, setSortOrder] = useSortOrderAtom();
+
   return (
     <div className="flex flex-col gap-1 p-2 h-full">
       <div className="grid grid-cols-4 place-items-center gap-1">
         <span className="col-span-1">Search</span>
-        <Input className="col-span-3" />
+        <Input
+          className="col-span-3"
+          value={searchText}
+          onChange={(e) => {
+            setSearchText(e.target.value);
+          }}
+        />
 
         <span className="col-span-1">Sort type</span>
         <div className="col-span-3">
-          <Select defaultValue="star">
+          <Select
+            defaultValue={sortType}
+            onValueChange={(e) => {
+              setSortType(e as SortType);
+            }}
+          >
             <SelectTrigger className="w-full">
               <SelectValue placeholder="Select..." />
             </SelectTrigger>
@@ -38,7 +65,12 @@ export function Control({ tagInfo }: { tagInfo: TagInfo }) {
 
         <span className="col-span-1">Sort order</span>
         <div className="col-span-3">
-          <Select defaultValue="asc">
+          <Select
+            defaultValue={sortOrder}
+            onValueChange={(e) => {
+              setSortOrder(e as SortOrder);
+            }}
+          >
             <SelectTrigger className="w-full">
               <SelectValue placeholder="Select..." />
             </SelectTrigger>
@@ -48,7 +80,8 @@ export function Control({ tagInfo }: { tagInfo: TagInfo }) {
             </SelectContent>
           </Select>
         </div>
-
+      </div>
+      <div className="grid grid-cols-4 place-items-center p-1 border-t">
         <span className="col-span-1">Filter</span>
         <Button
           className="col-span-3"
@@ -65,16 +98,7 @@ export function Control({ tagInfo }: { tagInfo: TagInfo }) {
             filterOpen ? "" : "hidden"
           }`}
         >
-          <Virtuoso
-            style={{ "width": "100%" }}
-            totalCount={tagInfo.length}
-            itemContent={(index) => (
-              <div className="flex flex-row gap-1 flex-wrap my-1">
-                {/* <TagChip tag={tag.tag} text={`${tag.tag} (${tag.count})`} />*/}
-                {tagInfo[index].name} ({tagInfo[index].count})
-              </div>
-            )}
-          />
+          <TagList {...props} />
         </div>
       </div>
     </div>

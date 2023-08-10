@@ -22,6 +22,8 @@ const IGNORED_TAG: string[] = [
   "vim",
   "plugin",
   "neovim-plugin",
+  "nvim-plugin",
+  "neovim-lua",
   "lua",
 ];
 
