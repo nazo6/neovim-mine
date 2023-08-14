@@ -21,17 +21,21 @@ const { repos: resolvedRepos, notResolvedRepos: notResolvedRepos } =
 
 const allRepos = [...notResolvedRepos, ...resolvedRepos];
 
+const filteredRepos = allRepos.filter((repo) => {
+  if ("error" in repo && repo.error.reason === "NOT_FOUND") return false;
+  return true;
+});
 // Remove and merge duplicates
 // This is needed because owner and repo name may be changed after resolving and as the result we may have duplicates
-const mergedRepos = allRepos.filter(
+const mergedRepos = filteredRepos.filter(
   (repo, i) => {
-    for (let j = i + 1; j < allRepos.length - 1; j++) {
+    for (let j = i + 1; j < filteredRepos.length - 1; j++) {
       if (
-        repo.name === allRepos[j + 1].name &&
-        repo.owner === allRepos[j + 1].owner &&
-        repo.domain === allRepos[j + 1].domain
+        repo.name === filteredRepos[j + 1].name &&
+        repo.owner === filteredRepos[j + 1].owner &&
+        repo.domain === filteredRepos[j + 1].domain
       ) {
-        allRepos[j + 1].category.push(...repo.category);
+        filteredRepos[j + 1].category.push(...repo.category);
         return false;
       }
     }
