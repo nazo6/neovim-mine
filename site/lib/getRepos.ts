@@ -24,13 +24,16 @@ const IGNORED_TAG: string[] = [
   "neovim-plugin",
   "nvim-plugin",
   "neovim-lua",
+  "neovim-lua-plugin",
+  "nvim-lua",
   "lua",
 ];
 
 /// Item that contains this category will not shown.
 const EXCLUDED_CATEGORY: string[] = [
-  "preconfigured-configuration",
-  "vim-distribution",
+  "Preconfigured Configuration",
+  "Vim Distribution",
+  "Neovim Distribution",
 ];
 
 /// Item that contains this tag will not shown.
@@ -72,25 +75,25 @@ export async function getRepos(): Promise<RepoInfoWithTag[]> {
       }
     }
 
-    const repoCategories: {
-      name: string;
-      level: number;
-    }[][] = [];
-    for (const [i, category] of repo.category.entries()) {
-      for (const c of category) {
+    for (const category of repo.category) {
+      for (const c of category.data) {
         if (EXCLUDED_CATEGORY.includes(c.name)) return [];
-        if (!IGNORED_TAG.includes(c.name)) {
-          if (!repoCategories[i]) {
-            repoCategories[i] = [];
-          }
-          repoCategories[i].push(c);
-        }
       }
     }
 
+    const categories = repo.category.map((category) => {
+      return {
+        ...category,
+        data: category.data.filter((c) => {
+          if (IGNORED_CATEGORY.includes(c.name)) return false;
+          return true;
+        }),
+      };
+    });
+
     return {
       ...repo,
-      category: repoCategories,
+      category: categories,
       tag: repoTags,
     };
   });

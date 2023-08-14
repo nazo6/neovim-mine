@@ -4,9 +4,13 @@ export type RepoBasicInfo = {
   owner: string;
   name: string;
   category: {
-    name: string;
-    level: number;
-  }[][];
+    source: string;
+    file: string;
+    data: {
+      name: string;
+      level: number;
+    }[];
+  }[];
 };
 
 export type RepoAdvancedInfo = RepoBasicInfo & {

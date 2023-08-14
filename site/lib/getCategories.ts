@@ -8,7 +8,7 @@ export async function getCategories(): Promise<CategoryInfo[]> {
 
   for (const repo of repos) {
     for (const category of repo.category) {
-      updateCategoryInfo(categoryInfo, category);
+      updateCategoryInfo(categoryInfo, category.data);
     }
   }
 

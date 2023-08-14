@@ -21,8 +21,9 @@ const { repos: resolvedRepos, notResolvedRepos: notResolvedRepos } =
 
 const allRepos = [...notResolvedRepos, ...resolvedRepos];
 
-// Remove duplicates
-const filteredRepos = allRepos.filter(
+// Remove and merge duplicates
+// This is needed because owner and repo name may be changed after resolving and as the result we may have duplicates
+const mergedRepos = allRepos.filter(
   (repo, i) => {
     for (let j = i + 1; j < allRepos.length - 1; j++) {
       if (
@@ -30,6 +31,7 @@ const filteredRepos = allRepos.filter(
         repo.owner === allRepos[j + 1].owner &&
         repo.domain === allRepos[j + 1].domain
       ) {
+        allRepos[j + 1].category.push(...repo.category);
         return false;
       }
     }
@@ -41,7 +43,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const dataPath = join(__dirname, "../../data/data");
 
 await fs.rm(dataPath, { recursive: true, force: true });
-await Promise.all(filteredRepos.map(async (repo) => {
+await Promise.all(mergedRepos.map(async (repo) => {
   const group = repo.owner.match(/[^0-9A-Za-z]*(?<c>.)/)?.groups?.c?.charAt(
     0,
   ).toLowerCase();
@@ -65,4 +67,4 @@ await Promise.all(filteredRepos.map(async (repo) => {
   }
 }));
 
-console.log("Done. " + filteredRepos.length + "repos");
+console.log("Done. " + mergedRepos.length + "repos");

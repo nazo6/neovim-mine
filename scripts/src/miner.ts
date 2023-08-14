@@ -10,8 +10,10 @@ const exec = promisify(exec_orig);
 
 const ignored_files = ["**/CONTRIBUTING.md", "**/HOT_TO_MAKE.md"];
 
-export async function mineRepos(url: string[]): Promise<RepoBasicInfo[]> {
-  console.log(`Mining ${url.length} repos...`);
+export async function mineRepos(
+  sourceUrls: string[],
+): Promise<RepoBasicInfo[]> {
+  console.log(`Mining ${sourceUrls.length} repos...`);
   const repos: Record<
     string,
     {
@@ -19,31 +21,34 @@ export async function mineRepos(url: string[]): Promise<RepoBasicInfo[]> {
       owner: string;
       name: string;
       category: {
-        name: string;
-        /// level 0 is filename
-        level: number;
-      }[][];
+        source: string;
+        file: string;
+        data: {
+          name: string;
+          level: number;
+        }[];
+      }[];
     }
   > = {};
 
   const __dirname = dirname(fileURLToPath(import.meta.url));
   const repoDir = join(__dirname, "repo");
 
-  for (const u of url) {
-    console.log(`Cloning ${u}...`);
+  for (const sourceUrl of sourceUrls) {
+    console.log(`Cloning ${sourceUrl}...`);
     await fs.rm(repoDir, { recursive: true, force: true });
-    await exec(`git clone --depth 1 ${u} ${repoDir}`);
+    await exec(`git clone --depth 1 ${sourceUrl} ${repoDir}`);
 
     const g = new Glob(join(repoDir, "/**/*.md"), { ignore: ignored_files });
     for await (const file of g) {
-      const fileString = await fs.readFile(file, { encoding: "utf8" });
-      const filename = basename(file);
-      const headlines: (string | null)[] = [filename];
-      fileString.split("\n").forEach((line) => {
+      const fileContent = await fs.readFile(file, { encoding: "utf8" });
+      const headlines: (string | null)[] = [];
+      fileContent.split("\n").forEach((line) => {
         const headlineMatch = line.match(/^ *(?<level>#+) +(?<title>.+)/);
         if (headlineMatch?.groups?.level && headlineMatch?.groups?.title) {
           const level = headlineMatch.groups.level.length;
           let headlineTitle = headlineMatch.groups.title;
+          headlines[level] = headlineTitle;
           headlines.splice(level + 1);
         } else {
           const match = line.match(
@@ -58,16 +63,21 @@ export async function mineRepos(url: string[]): Promise<RepoBasicInfo[]> {
                 category.push({ name: headline, level: i });
               }
             });
+
             if (!repos[url]) {
               repos[url] = {
                 domain: groups.domain,
                 owner: groups.owner,
                 name: groups.name,
-                category: [category],
+                category: [],
               };
-            } else {
-              repos[url].category.push(category);
             }
+            const filename = basename(file);
+            repos[url].category.push({
+              data: category,
+              source: sourceUrl,
+              file: filename,
+            });
           }
         }
       });
