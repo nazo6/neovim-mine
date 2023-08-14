@@ -6,7 +6,7 @@ export type SortType =
   | "lastCommit"
   | "repoName"
   | "ownerName";
-export type SortOrder = "asc" | "desc";
+export type SortOrder = "normal" | "reverse";
 
 export const useSortTypeAtom = createStringParamAtom<SortType>(
   "sort",
@@ -16,7 +16,7 @@ export const useSortTypeAtom = createStringParamAtom<SortType>(
 export const useSortOrderAtom = createStringParamAtom<SortOrder>(
   "order",
   false,
-  "desc",
+  "normal",
 );
 export const useSearchTextAtom = createStringParamAtom<string>(
   "q",

@@ -19,8 +19,12 @@ export function RepoCard({ repo }: { repo: RepoInfoWithTag }) {
                 className="hover:underline flex flex-row items-center gap-1 text-lg font-bold"
               >
                 <div>
-                  <span className="text-blue-400">{repo.owner}/</span>
-                  <span className="text-blue-200">{repo.name}</span>
+                  <span className="text-blue-400 dark:text-blue-400">
+                    {repo.owner}/
+                  </span>
+                  <span className="text-blue-600 dark:text-blue-200">
+                    {repo.name}
+                  </span>
                 </div>
 
                 <RepoLinkIcon domain={repo.domain} />
@@ -50,14 +54,15 @@ export function RepoCard({ repo }: { repo: RepoInfoWithTag }) {
                     Create: <RelativeDate date={repo.data.createdAt} />
                   </div>
                   <div>
-                    Update: <RelativeDate date={repo.data.lastCommit} />
+                    Update:{" "}
+                    <RelativeDate date={repo.data.lastCommit} prefix="~" />
                   </div>
                 </div>
               )
               : null}
           </div>
 
-          <div className="border-t-2 border-t-gray-600 group-hover:border-t-orange-400 font-normal text-gray-300 flex flex-col">
+          <div className="border-t-2 border-t-gray-600 group-hover:border-t-orange-400 font-normal dark:text-gray-300 flex flex-col">
             {"data" in repo ? <p>{repo.data.description}</p> : null}
             <div className="flex flex-row flex-wrap gap-1 mt-0.5">
               {repo.tag.map((tag) => (

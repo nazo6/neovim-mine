@@ -21,7 +21,9 @@ export function TagChip(
       />
       <span
         className={`rounded-full px-2 inline-flex flex-row items-center gap-1 text-gray-200 ${
-          props.checked ? "bg-sky-800" : "bg-gray-700 hover:bg-gray-600"
+          props.checked
+            ? "bg-sky-500 dark:bg-sky-800"
+            : "bg-gray-600 hover:bg-gray-500 dark:bg-gray-700 dark:hover:bg-gray-600"
         }`}
       >
         {props.children}

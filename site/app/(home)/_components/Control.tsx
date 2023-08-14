@@ -1,13 +1,13 @@
 "use client";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
+import { Button } from "@nextui-org/react";
+import { Input } from "@nextui-org/react";
+
 import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
+  Dropdown,
+  DropdownItem,
+  DropdownMenu,
+  DropdownTrigger,
+} from "@nextui-org/react";
 import { CategoryInfo, TagInfo } from "@/lib/repoType";
 import { useState } from "react";
 import {
@@ -44,41 +44,39 @@ export function Control(props: ControlProps) {
 
         <span className="col-span-1">Sort type</span>
         <div className="col-span-3">
-          <Select
-            defaultValue={sortType}
-            onValueChange={(e) => {
-              setSortType(e as SortType);
-            }}
-          >
-            <SelectTrigger className="w-full">
-              <SelectValue placeholder="Select..." />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="star">Star</SelectItem>
-              <SelectItem value="createdAt">Created</SelectItem>
-              <SelectItem value="lastCommit">Updated</SelectItem>
-              <SelectItem value="repoName">Name (repo)</SelectItem>
-              <SelectItem value="ownerName">Name (owner)</SelectItem>
-            </SelectContent>
-          </Select>
+          <Dropdown>
+            <DropdownTrigger className="w-full">
+              <Button>{sortType}</Button>
+            </DropdownTrigger>
+            <DropdownMenu
+              onAction={(key) => setSortType(key as SortType)}
+              defaultSelectedKeys={[sortType]}
+              selectionMode="single"
+            >
+              <DropdownItem key="star">Star</DropdownItem>
+              <DropdownItem key="createdAt">Created</DropdownItem>
+              <DropdownItem key="lastCommit">Updated</DropdownItem>
+              <DropdownItem key="repoName">Name (repo)</DropdownItem>
+              <DropdownItem key="ownerName">Name (owner)</DropdownItem>
+            </DropdownMenu>
+          </Dropdown>
         </div>
 
         <span className="col-span-1">Sort order</span>
         <div className="col-span-3">
-          <Select
-            defaultValue={sortOrder}
-            onValueChange={(e) => {
-              setSortOrder(e as SortOrder);
-            }}
-          >
-            <SelectTrigger className="w-full">
-              <SelectValue placeholder="Select..." />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="asc">Asc</SelectItem>
-              <SelectItem value="desc">Desc</SelectItem>
-            </SelectContent>
-          </Select>
+          <Dropdown>
+            <DropdownTrigger className="w-full">
+              <Button>{sortOrder}</Button>
+            </DropdownTrigger>
+            <DropdownMenu
+              onAction={(key) => setSortOrder(key as SortOrder)}
+              defaultSelectedKeys={[sortOrder]}
+              selectionMode="single"
+            >
+              <DropdownItem key="normal">Normal</DropdownItem>
+              <DropdownItem key="reverse">Reverse</DropdownItem>
+            </DropdownMenu>
+          </Dropdown>
         </div>
       </div>
       <div className="grid grid-cols-4 place-items-center p-1 border-t">

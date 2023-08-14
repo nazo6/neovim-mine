@@ -44,14 +44,6 @@ export async function mineRepos(url: string[]): Promise<RepoBasicInfo[]> {
         if (headlineMatch?.groups?.level && headlineMatch?.groups?.title) {
           const level = headlineMatch.groups.level.length;
           let headlineTitle = headlineMatch.groups.title;
-          // check headline title is link
-          const headlineLinkMatch = headlineMatch.groups.title.match(
-            /^\[(?<title>.*)\]\(.*\)/,
-          );
-          if (headlineLinkMatch?.groups?.title) {
-            headlineTitle = headlineLinkMatch.groups.title;
-          }
-          headlines[level] = headlineTitle;
           headlines.splice(level + 1);
         } else {
           const match = line.match(

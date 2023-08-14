@@ -14,7 +14,11 @@ export function ThemeProvider({ children, ...props }: ThemeProviderProps) {
   return (
     <>
       {isClient
-        ? <NextThemesProvider {...props}>{children}</NextThemesProvider>
+        ? (
+          <NextThemesProvider attribute="class" defaultTheme="dark" {...props}>
+            {children}
+          </NextThemesProvider>
+        )
         : <></>}
     </>
   );

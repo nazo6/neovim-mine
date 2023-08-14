@@ -3,7 +3,9 @@ import relativeTime from "dayjs/plugin/relativeTime";
 
 extend(relativeTime);
 
-export function RelativeDate({ date }: { date: string }) {
+export function RelativeDate(
+  { date, prefix }: { date: string; prefix?: string },
+) {
   const day = dayjs(date);
   const relativeDate = day.fromNow(false);
   const relativeDateNumber = day.diff(dayjs(), "day");
@@ -19,5 +21,5 @@ export function RelativeDate({ date }: { date: string }) {
     colorClass = "text-red-500";
   }
 
-  return <span className={colorClass}>~{relativeDate}</span>;
+  return <span className={colorClass}>{prefix ?? ""}{relativeDate}</span>;
 }

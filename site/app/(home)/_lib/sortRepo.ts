@@ -10,11 +10,11 @@ export function sortRepo(
     case "star":
       repo.sort((a, b) => {
         if ("data" in a && "data" in b) {
-          return a.data.star - b.data.star;
+          return b.data.star - a.data.star;
         } else if ("data" in a) {
-          return 1;
-        } else if ("data" in b) {
           return -1;
+        } else if ("data" in b) {
+          return 1;
         } else {
           return 0;
         }
@@ -24,13 +24,13 @@ export function sortRepo(
       repo.sort((a, b) => {
         if ("data" in a && "data" in b) {
           return (
-            new Date(a.data.createdAt).getTime() -
-            new Date(b.data.createdAt).getTime()
+            new Date(b.data.createdAt).getTime() -
+            new Date(a.data.createdAt).getTime()
           );
         } else if ("data" in a) {
-          return 1;
-        } else if ("data" in b) {
           return -1;
+        } else if ("data" in b) {
+          return 1;
         } else {
           return 0;
         }
@@ -40,13 +40,13 @@ export function sortRepo(
       repo.sort((a, b) => {
         if ("data" in a && "data" in b) {
           return (
-            new Date(a.data.lastCommit).getTime() -
-            new Date(b.data.lastCommit).getTime()
+            new Date(b.data.lastCommit).getTime() -
+            new Date(a.data.lastCommit).getTime()
           );
         } else if ("data" in a) {
-          return 1;
-        } else if ("data" in b) {
           return -1;
+        } else if ("data" in b) {
+          return 1;
         } else {
           return 0;
         }
@@ -64,7 +64,7 @@ export function sortRepo(
       break;
   }
 
-  if (sortOrder === "desc") {
+  if (sortOrder === "reverse") {
     repo.reverse();
   }
 

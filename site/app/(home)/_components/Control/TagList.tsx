@@ -7,7 +7,7 @@ export function TagList(props: { tagInfo: TagInfo }) {
   const [selectedTag, , addTag, removeTag] = useSelectedTagAtom();
   return (
     <Virtuoso
-      style={{ "width": "100%" }}
+      style={{ "width": "100%", "height": "100%" }}
       totalCount={props.tagInfo.length}
       itemContent={(index) => (
         <div className="flex flex-row gap-1 flex-wrap my-1">
