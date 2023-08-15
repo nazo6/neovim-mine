@@ -67,17 +67,20 @@ export function RepoCard({ repo }: { repo: RepoInfoWithTag }) {
           <div className="border-t-2 border-t-gray-600 group-hover:border-t-orange-400 font-normal dark:text-gray-300 flex flex-col">
             {"data" in repo ? <p>{repo.data.description}</p> : null}
             <div className="flex flex-row flex-wrap gap-1 mt-0.5">
-              {repo.category.map((category) => {
-                const cat = category.data.map((d) => d.name).join("/");
+              {[
+                ...new Set(
+                  repo.category.map((c) => c.data.map((d) => d.name).join("/")),
+                ),
+              ].map((category) => {
                 return (
                   <TagChip
-                    checked={selectedCategory.includes(cat)}
+                    checked={selectedCategory.includes(category)}
                     onChange={(c) => {
-                      c ? addCategory(cat) : removeCategory(cat);
+                      c ? addCategory(category) : removeCategory(category);
                     }}
-                    key={cat}
+                    key={category}
                   >
-                    {cat}
+                    {category}
                   </TagChip>
                 );
               })}

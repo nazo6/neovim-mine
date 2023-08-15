@@ -10,6 +10,7 @@ import {
   useSortOrderAtom,
   useSortTypeAtom,
 } from "../_store";
+import { GoTopButton } from "@/components/GoTopButton";
 
 type RepoListProps = {
   repo: RepoInfoWithTag[];
@@ -29,10 +30,15 @@ export function RepoList(props: RepoListProps) {
   );
 
   return (
-    <Virtuoso
-      useWindowScroll
-      totalCount={repo.length}
-      itemContent={(index) => <RepoCard repo={repo[index]} />}
-    />
+    <>
+      <div className="fixed right-3 bottom-3 z-40">
+        <GoTopButton />
+      </div>
+      <Virtuoso
+        useWindowScroll
+        totalCount={repo.length}
+        itemContent={(index) => <RepoCard repo={repo[index]} />}
+      />
+    </>
   );
 }
