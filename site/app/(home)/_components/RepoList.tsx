@@ -5,6 +5,7 @@ import { sortRepo } from "../_lib/sortRepo";
 import { filterRepo } from "../_lib/filterRepo";
 import {
   useSearchTextAtom,
+  useSelectedCategoryAtom,
   useSelectedTagAtom,
   useSortOrderAtom,
   useSortTypeAtom,
@@ -18,11 +19,13 @@ export function RepoList(props: RepoListProps) {
   const [sortOrder] = useSortOrderAtom();
   const [searchText] = useSearchTextAtom();
   const [selectedTag] = useSelectedTagAtom();
+  const [selectedCategory] = useSelectedCategoryAtom();
 
   const repo = filterRepo(
     sortRepo(props.repo, sortType, sortOrder),
     searchText,
     selectedTag,
+    selectedCategory,
   );
 
   return (

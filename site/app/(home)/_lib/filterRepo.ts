@@ -4,6 +4,7 @@ export function filterRepo(
   repo: RepoInfoWithTag[],
   searchText: string,
   selectedTag: string[],
+  selectedCategory: string[],
 ) {
   const r = repo.filter(
     (r) => {
@@ -30,7 +31,19 @@ export function filterRepo(
       return true;
     }
     return false;
-  });
+  })
+    .filter((r) => {
+      if (selectedCategory.length === 0) {
+        return true;
+      }
+      const repoCategories = r.category.map((c) =>
+        c.data.map((d) => d.name).join("/")
+      );
+      if (selectedCategory.some((c) => repoCategories.includes(c))) {
+        return true;
+      }
+      return false;
+    });
 
   return r;
 }

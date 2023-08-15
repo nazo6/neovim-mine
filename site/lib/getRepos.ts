@@ -6,13 +6,11 @@ import type { RepoInfo } from "common/repo";
 import type { RepoInfoWithTag, TagInfo } from "@/lib/repoType";
 
 /// Category specified by this will not shown.
-const IGNORED_CATEGORY: string[] = [
-  "awesome-neovim",
-  "table-of-contents",
-  "readme.md",
-  "requires-neovim-0.5",
-  "plugin",
-  "archived",
+const IGNORED_CATEGORY: RegExp[] = [
+  /^Awesome Neovim/,
+  /^Table of Contents$/,
+  /^\(requires Neovim 0.5\)$/,
+  /^Plugin$/,
 ];
 
 /// Tags specified by this will not shown.
@@ -85,8 +83,17 @@ export async function getRepos(): Promise<RepoInfoWithTag[]> {
       return {
         ...category,
         data: category.data.filter((c) => {
-          if (IGNORED_CATEGORY.includes(c.name)) return false;
+          if (IGNORED_CATEGORY.some((ic) => ic.test(c.name))) return false;
           return true;
+        }).map((c) => {
+          // regex to detect markdown link.
+          // if category is link extract title from it.
+          const linkRegex = /\[(?<title>.+)\]\(.*\)/;
+          const title = linkRegex.exec(c.name)?.groups?.title;
+          if (title) {
+            c.name = title;
+          }
+          return c;
         }),
       };
     });

@@ -28,3 +28,8 @@ export const useSelectedTagAtom = createStringArrayParamAtom<string>(
   false,
   [],
 );
+export const useSelectedCategoryAtom = createStringArrayParamAtom<string>(
+  "category",
+  false,
+  [],
+);

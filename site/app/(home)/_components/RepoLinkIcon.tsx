@@ -4,18 +4,19 @@ export function RepoLinkIcon({ domain }: { domain: string }) {
   let icon = null;
   switch (domain) {
     case "github.com":
-      icon = <Github />;
+      icon = <Github size={20} />;
       break;
     case "gitlab.com":
-      icon = <Gitlab />;
+      icon = <Gitlab size={20} />;
       break;
     default:
-      icon = <ExternalLink />;
+      icon = <ExternalLink size={20} />;
       break;
   }
 
   return (
     <div className="flex flex-row items-center gap-1">
+      <span className="text-sm">{domain}</span>
       {icon}
     </div>
   );

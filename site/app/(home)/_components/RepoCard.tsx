@@ -3,10 +3,12 @@ import { RepoInfoWithTag } from "@/lib/repoType";
 import { Star } from "lucide-react";
 import { RepoLinkIcon } from "./RepoLinkIcon";
 import { TagChip } from "@/components/TagChip";
-import { useSelectedTagAtom } from "../_store";
+import { useSelectedCategoryAtom, useSelectedTagAtom } from "../_store";
 
 export function RepoCard({ repo }: { repo: RepoInfoWithTag }) {
   const [selectedTag, , addTag, removeTag] = useSelectedTagAtom();
+  const [selectedCategory, , addCategory, removeCategory] =
+    useSelectedCategoryAtom();
   return (
     <div className="m-1">
       <div className="w-full rounded-md bg-gray-500 hover:bg-gradient-to-r hover:from-pink-500 hover:via-red-500 hover:to-yellow-500 p-0.5 group">
@@ -33,7 +35,7 @@ export function RepoCard({ repo }: { repo: RepoInfoWithTag }) {
               {"data" in repo
                 ? (
                   <div className="flex flex-row items-center">
-                    <Star color="yellow" />
+                    <Star color="yellow" size={20} />
                     {repo.data.star}
                   </div>
                 )
@@ -64,6 +66,22 @@ export function RepoCard({ repo }: { repo: RepoInfoWithTag }) {
 
           <div className="border-t-2 border-t-gray-600 group-hover:border-t-orange-400 font-normal dark:text-gray-300 flex flex-col">
             {"data" in repo ? <p>{repo.data.description}</p> : null}
+            <div className="flex flex-row flex-wrap gap-1 mt-0.5">
+              {repo.category.map((category) => {
+                const cat = category.data.map((d) => d.name).join("/");
+                return (
+                  <TagChip
+                    checked={selectedCategory.includes(cat)}
+                    onChange={(c) => {
+                      c ? addCategory(cat) : removeCategory(cat);
+                    }}
+                    key={cat}
+                  >
+                    {cat}
+                  </TagChip>
+                );
+              })}
+            </div>
             <div className="flex flex-row flex-wrap gap-1 mt-0.5">
               {repo.tag.map((tag) => (
                 <TagChip
