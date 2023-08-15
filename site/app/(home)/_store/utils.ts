@@ -1,64 +1,25 @@
 import { atom, useAtom } from "jotai";
-import {
-  ReadonlyURLSearchParams,
-  usePathname,
-  useRouter,
-  useSearchParams,
-} from "next/navigation";
-
-const createQueryString = (
-  searchParams: ReadonlyURLSearchParams,
-  name: string,
-  value: string | string[],
-) => {
-  let params;
-  if (typeof value === "string") {
-    params = new URLSearchParams(Array.from(searchParams.entries()));
-    params.set(name, value);
-  } else {
-    const orig = Array.from(searchParams.entries()).filter((e) =>
-      e[0] !== name
-    );
-    params = new URLSearchParams([
-      ...orig,
-      ...value.map((v) => [name, v]),
-    ]);
-  }
-
-  return params.toString();
-};
+import { usePathname } from "next/navigation";
+import { useEffect } from "react";
+import { updateQueryString, useSearchParam } from "../_lib/useSearchParam";
 
 export function createStringParamAtom<T extends string>(
   key: string,
   replace: boolean,
   defaultValue: T,
 ) {
-  const params = new URLSearchParams(
-    typeof window === "object" ? document.location.search : [],
+  const useStringArrayParamAtom = createStringArrayParamAtom<T>(
+    key,
+    replace,
+    [defaultValue],
   );
-  const paramAtom = atom(params.get(key) as T | null);
 
   return () => {
-    const router = useRouter();
-    const pathname = usePathname();
-    const searchParams = useSearchParams()!;
-    const [value, setValue] = useAtom(paramAtom);
-
+    const [value, setValue] = useStringArrayParamAtom();
     return [
-      value ?? defaultValue,
+      value[0],
       (newValue: T) => {
-        const newQueryString = createQueryString(
-          searchParams,
-          key,
-          newValue,
-        );
-        const newUrl = `${pathname}?${newQueryString}`;
-        setValue(newValue);
-        if (replace) {
-          router.replace(newUrl);
-        } else {
-          router.push(newUrl);
-        }
+        setValue([newValue]);
       },
     ] as const;
   };
@@ -75,28 +36,43 @@ export function createStringArrayParamAtom<T extends string>(
   const paramAtom = atom(params.getAll(key) as T[]);
 
   return () => {
-    const router = useRouter();
     const pathname = usePathname();
-    const searchParams = useSearchParams()!;
     const [value, setValue] = useAtom(paramAtom);
 
+    const cb = () => {
+      const newValue = new URLSearchParams(window.location.search).getAll(
+        key,
+      ) as T[];
+      if (
+        value.length != newValue.length ||
+        value.some((v, i) => v !== newValue[i])
+      ) {
+        setValue(newValue);
+      }
+    };
+    useEffect(() => {
+      window.addEventListener("popstate", () => setTimeout(cb, 0));
+      return () => {
+        window.removeEventListener("popstate", cb);
+      };
+    });
+
     const set = (newValue: T[]) => {
-      const newQueryString = createQueryString(
-        searchParams,
+      const newQueryString = updateQueryString(
         key,
         newValue,
       );
       const newUrl = `${pathname}?${newQueryString}`;
       setValue(newValue);
       if (replace) {
-        router.replace(newUrl);
+        window.history.replaceState(null, "", newUrl);
       } else {
-        router.push(newUrl);
+        window.history.pushState(null, "", newUrl);
       }
     };
 
     return [
-      value ?? defaultValue,
+      value.length === 0 ? defaultValue : value,
       set,
       /// function to add value if not exist
       (newValue: T) => {

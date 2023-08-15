@@ -25,6 +25,6 @@ export const useSearchTextAtom = createStringParamAtom<string>(
 );
 export const useSelectedTagAtom = createStringArrayParamAtom<string>(
   "tag",
-  true,
+  false,
   [],
 );

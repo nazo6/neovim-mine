@@ -29,7 +29,7 @@ export function LayoutClient(
         {props.header}
       </div>
       <div
-        className={`pt-10 fixed w-full lg:w-96 z-10 bg-background h-full ${
+        className={`pt-10 fixed w-full lg:w-96 z-10 bg-background lg:h-full ${
           burgerOpen ? "" : "max-lg:hidden"
         }`}
       >

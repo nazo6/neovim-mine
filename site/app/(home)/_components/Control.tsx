@@ -18,11 +18,25 @@ import {
   useSortTypeAtom,
 } from "../_store";
 import { TagList } from "./Control/TagList";
+import { Search } from "lucide-react";
 
 export type ControlProps = {
   tagInfo: TagInfo;
   categoryInfo: CategoryInfo[];
 };
+
+const sortTypeMap = {
+  star: "Star",
+  createdAt: "Created",
+  lastCommit: "Updated",
+  repoName: "Name (repo)",
+  ownerName: "Name (owner)",
+};
+const sortOrderMap = {
+  normal: "Normal",
+  reverse: "Reverse",
+};
+
 export function Control(props: ControlProps) {
   const [filterOpen, setFilterOpen] = useState(true);
 
@@ -31,24 +45,25 @@ export function Control(props: ControlProps) {
   const [sortOrder, setSortOrder] = useSortOrderAtom();
 
   return (
-    <div className="flex flex-col gap-1 p-2 h-full">
-      <div className="grid grid-cols-4 place-items-center gap-1">
-        <span className="col-span-1">Search</span>
-        <Input
-          className="col-span-3"
-          value={searchText}
-          onChange={(e) => {
-            setSearchText(e.target.value);
-          }}
-        />
-
-        <span className="col-span-1">Sort type</span>
-        <div className="col-span-3">
+    <div className="flex flex-col gap-2 p-2 h-full">
+      <Input
+        className="w-full"
+        value={searchText}
+        onChange={(e) => {
+          setSearchText(e.target.value);
+        }}
+        placeholder="Search..."
+        startContent={<Search />}
+      />
+      <div className="flex flex-row gap-2 border-t">
+        <div className="flex-1 flex flex-col items-center">
+          <span>Sort type</span>
           <Dropdown>
             <DropdownTrigger className="w-full">
-              <Button>{sortType}</Button>
+              <Button>{sortTypeMap[sortType]}</Button>
             </DropdownTrigger>
             <DropdownMenu
+              aria-label="Sort type"
               onAction={(key) => setSortType(key as SortType)}
               defaultSelectedKeys={[sortType]}
               selectionMode="single"
@@ -61,14 +76,14 @@ export function Control(props: ControlProps) {
             </DropdownMenu>
           </Dropdown>
         </div>
-
-        <span className="col-span-1">Sort order</span>
-        <div className="col-span-3">
+        <div className="flex-1 flex flex-col items-center">
+          <span>Sort order</span>
           <Dropdown>
             <DropdownTrigger className="w-full">
-              <Button>{sortOrder}</Button>
+              <Button>{sortOrderMap[sortOrder]}</Button>
             </DropdownTrigger>
             <DropdownMenu
+              aria-label="Sort order"
               onAction={(key) => setSortOrder(key as SortOrder)}
               defaultSelectedKeys={[sortOrder]}
               selectionMode="single"
@@ -79,21 +94,22 @@ export function Control(props: ControlProps) {
           </Dropdown>
         </div>
       </div>
-      <div className="grid grid-cols-4 place-items-center p-1 border-t">
-        <span className="col-span-1">Filter</span>
+      <div className="border-t pt-2">
         <Button
-          className="col-span-3"
+          color="primary"
+          variant="bordered"
+          className="col-span-3 w-full"
           onClick={() => {
             setFilterOpen(!filterOpen);
           }}
         >
-          Toggle
+          {filterOpen ? "Close filter" : "Open filter"}
         </Button>
       </div>
       <div className="flex-grow">
         <div
-          className={`flex flex-row flex-wrap gap-1 h-full overflow-x-hidden overflow-y-auto ${
-            filterOpen ? "" : "hidden"
+          className={`flex flex-row flex-wrap gap-1 overflow-x-hidden overflow-y-auto ${
+            filterOpen ? "h-[70vh] lg:h-full" : "hidden"
           }`}
         >
           <TagList {...props} />
