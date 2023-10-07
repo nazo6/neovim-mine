@@ -29,13 +29,14 @@ const filteredRepos = allRepos.filter((repo) => {
 // This is needed because owner and repo name may be changed after resolving and as the result we may have duplicates
 const mergedRepos = filteredRepos.filter(
   (repo, i) => {
-    for (let j = i + 1; j < filteredRepos.length - 1; j++) {
+    for (let j = i + 1; j < filteredRepos.length; j++) {
       if (
-        repo.name === filteredRepos[j + 1].name &&
-        repo.owner === filteredRepos[j + 1].owner &&
-        repo.domain === filteredRepos[j + 1].domain
+        repo.name === filteredRepos[j].name &&
+        repo.owner === filteredRepos[j].owner &&
+        repo.domain === filteredRepos[j].domain
       ) {
-        filteredRepos[j + 1].category.push(...repo.category);
+        filteredRepos[j].category.push(...repo.category);
+        // console.log("Merged: " + repo.name);
         return false;
       }
     }
