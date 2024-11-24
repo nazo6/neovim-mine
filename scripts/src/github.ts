@@ -124,6 +124,7 @@ export async function githubGql(
     const res: gqlResponseType = await graphQLClient.rawRequest(query);
     count += repoThrottledQuery.length;
     console.log(`Fetched ${count} repos`);
+    await new Promise((resolve) => setTimeout(resolve, 5000));
     Object.entries(res.data).forEach(([key, value]) => {
       if (value === null) {
         const id = Number(key.replace("repo", ""));
