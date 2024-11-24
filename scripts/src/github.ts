@@ -100,7 +100,7 @@ export async function githubGql(
   });
   const repoThrottledQueries: string[][] = [];
   while (repoQuery.length > 0) {
-    const query = repoQuery.splice(0, 50);
+    const query = repoQuery.splice(0, 30);
     repoThrottledQueries.push(query);
   }
 
