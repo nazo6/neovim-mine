@@ -2,6 +2,7 @@ import { gql, GraphQLClient } from "graphql-request";
 import { GraphQLError } from "graphql";
 
 import { RepoAdvancedInfo, RepoBasicInfo, RepoErrorInfo } from "common/repo.js";
+import pLimit from "p-limit";
 
 export type Repositories = Record<
   string,
@@ -115,52 +116,59 @@ export async function githubGql(
   const repos: (RepoBasicInfo & RepoAdvancedInfo)[] = [];
 
   let count = 0;
+  const limit = pLimit(20);
   const tasks = repoThrottledQueries.map(async (repoThrottledQuery) => {
-    const query = gql`
+    const func = async () => {
+      const query = gql`
 		    query {
           ${repoThrottledQuery.join("\n")}
 		    }
 	    `;
-    const res: gqlResponseType = await graphQLClient.rawRequest(query);
-    count += repoThrottledQuery.length;
-    console.log(`Fetched ${count} repos`);
-    await new Promise((resolve) => setTimeout(resolve, 5000));
-    Object.entries(res.data).forEach(([key, value]) => {
-      if (value === null) {
-        const id = Number(key.replace("repo", ""));
-        const error = res.errors?.find((error) => {
-          return error.path?.includes(key);
-        });
-        const repo: RepoBasicInfo & RepoErrorInfo = {
-          ...githubRepos[id],
-          error: {
-            reason: error?.type === "NOT_FOUND" ? "NOT_FOUND" : "UNKNOWN_ERROR",
-            message: error?.message,
-          },
-        };
-        notResolvedRepos.push(repo);
-      } else {
-        const id = Number(key.replace("repo", ""));
+      const res: gqlResponseType = await graphQLClient.rawRequest(query);
+      count += repoThrottledQuery.length;
+      console.log(`Fetched ${count} repos`);
+      await new Promise((resolve) => setTimeout(resolve, 5000));
+      Object.entries(res.data).forEach(([key, value]) => {
+        if (value === null) {
+          const id = Number(key.replace("repo", ""));
+          const error = res.errors?.find((error) => {
+            return error.path?.includes(key);
+          });
+          const repo: RepoBasicInfo & RepoErrorInfo = {
+            ...githubRepos[id],
+            error: {
+              reason: error?.type === "NOT_FOUND"
+                ? "NOT_FOUND"
+                : "UNKNOWN_ERROR",
+              message: error?.message,
+            },
+          };
+          notResolvedRepos.push(repo);
+        } else {
+          const id = Number(key.replace("repo", ""));
 
-        const repo: RepoBasicInfo & RepoAdvancedInfo = {
-          ...githubRepos[id],
-          data: {
-            createdAt: value.createdAt,
-            star: value.stargazerCount,
-            lastCommit: value.object.lastCommit.nodes[0].committedDate,
-            commitCountLastYear: value.object.activity.totalCount,
-            description: value.description,
-            topics: value.repositoryTopics.edges.map((edge) =>
-              edge.node.topic.name
-            ),
-            isArchived: value.isArchived,
-            primaryLanguage: value.primaryLanguage,
-            nameWithOwner: value.nameWithOwner,
-          },
-        };
-        repos.push(repo);
-      }
-    });
+          const repo: RepoBasicInfo & RepoAdvancedInfo = {
+            ...githubRepos[id],
+            data: {
+              createdAt: value.createdAt,
+              star: value.stargazerCount,
+              lastCommit: value.object.lastCommit.nodes[0].committedDate,
+              commitCountLastYear: value.object.activity.totalCount,
+              description: value.description,
+              topics: value.repositoryTopics.edges.map((edge) =>
+                edge.node.topic.name
+              ),
+              isArchived: value.isArchived,
+              primaryLanguage: value.primaryLanguage,
+              nameWithOwner: value.nameWithOwner,
+            },
+          };
+          repos.push(repo);
+        }
+      });
+    };
+
+    return limit(() => func());
   });
 
   await Promise.all(tasks);
