@@ -1,0 +1,6 @@
+packages:
+  - site
+  - common
+  - scripts
+onlyBuiltDependencies:
+  - esbuild
