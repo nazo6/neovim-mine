@@ -1,5 +1,6 @@
 import { gql, GraphQLClient } from "graphql-request";
 import { GraphQLError } from "graphql";
+import * as z from "zod";
 
 import { RepoAdvancedInfo, RepoBasicInfo, RepoErrorInfo } from "common/repo.js";
 import pLimit from "p-limit";
@@ -11,6 +12,38 @@ export type Repositories = Record<
     name: string;
   }
 >;
+
+const gqlSchema = z.object({
+  data: z.record(
+    z.string(),
+    z.object({
+      createdAt: z.string(),
+      stargazerCount: z.number(),
+      isArchived: z.boolean(),
+      issues: z.object({ totalCount: z.number() }),
+      object: z.object({
+        lastCommit: z.object({
+          nodes: z.array(z.object({ committedDate: z.string() })),
+        }),
+        activity: z.object({ totalCount: z.number() }),
+      }).nullable(),
+      nameWithOwner: z.string(),
+      primaryLanguage: z.object({
+        color: z.string().optional(),
+        name: z.string(),
+      }),
+      description: z.string().nullable(),
+      repositoryTopics: z.object({
+        edges: z.array(
+          z.object({
+            node: z.object({ topic: z.object({ name: z.string() }) }),
+          }),
+        ),
+      }),
+    }).nullable(),
+  ),
+  errors: z.any(),
+});
 
 export async function githubGql(
   minedRepos: RepoBasicInfo[],
@@ -31,30 +64,6 @@ export async function githubGql(
       };
     });
 
-  type gqlResponseType = {
-    data: Record<
-      string,
-      {
-        createdAt: string;
-        stargazerCount: number;
-        isArchived: boolean;
-        issues: { totalCount: number };
-        object: {
-          lastCommit: { nodes: { committedDate: string }[] };
-          activity: { totalCount: number };
-        };
-        nameWithOwner: string;
-        primaryLanguage: { color?: string; name: string };
-        description: string;
-        repositoryTopics: {
-          edges: {
-            node: { topic: { name: string } };
-          }[];
-        };
-      } | null
-    >;
-    errors?: (GraphQLError & { type?: string })[];
-  };
   // String of last yer datetime
   const date = new Date();
   date.setFullYear(date.getFullYear() - 1);
@@ -124,14 +133,28 @@ export async function githubGql(
           ${repoThrottledQuery.join("\n")}
 		    }
 	    `;
-      const res: gqlResponseType = await graphQLClient.rawRequest(query);
+      const parsed = z.safeParse(
+        gqlSchema,
+        await graphQLClient.rawRequest(query),
+      );
+
+      if (!parsed.success) {
+        throw new Error(
+          `Failed to parse GitHub GraphQL response: ${parsed.error}`,
+        );
+      }
+      const res = parsed.data;
+      const errors = res.errors as
+        | (GraphQLError & { type?: string })[]
+        | undefined;
+
       count += repoThrottledQuery.length;
       console.log(`Fetched ${count} repos`);
       await new Promise((resolve) => setTimeout(resolve, 5000));
       Object.entries(res.data).forEach(([key, value]) => {
         if (value === null) {
           const id = Number(key.replace("repo", ""));
-          const error = res.errors?.find((error) => {
+          const error = errors?.find((error) => {
             return error.path?.includes(key);
           });
           const repo: RepoBasicInfo & RepoErrorInfo = {
@@ -141,6 +164,16 @@ export async function githubGql(
                 ? "NOT_FOUND"
                 : "UNKNOWN_ERROR",
               message: error?.message,
+            },
+          };
+          notResolvedRepos.push(repo);
+        } else if (value.object === null) {
+          const id = Number(key.replace("repo", ""));
+          const repo: RepoBasicInfo & RepoErrorInfo = {
+            ...githubRepos[id],
+            error: {
+              reason: "UNKNOWN_ERROR",
+              message: "Repository object is null",
             },
           };
           notResolvedRepos.push(repo);
@@ -154,7 +187,7 @@ export async function githubGql(
               star: value.stargazerCount,
               lastCommit: value.object.lastCommit.nodes[0].committedDate,
               commitCountLastYear: value.object.activity.totalCount,
-              description: value.description,
+              description: value.description || "",
               topics: value.repositoryTopics.edges.map((edge) =>
                 edge.node.topic.name
               ),

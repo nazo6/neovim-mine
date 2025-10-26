@@ -24,6 +24,7 @@
     "vitest": "^0.29.7"
   },
   "dependencies": {
-    "p-limit": "^6.1.0"
+    "p-limit": "^6.1.0",
+    "zod": "^4.1.12"
   }
 }
