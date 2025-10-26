@@ -47,7 +47,7 @@ export async function mineRepos(
         const headlineMatch = line.match(/^ *(?<level>#+) +(?<title>.+)/);
         if (headlineMatch?.groups?.level && headlineMatch?.groups?.title) {
           const level = headlineMatch.groups.level.length;
-          let headlineTitle = headlineMatch.groups.title;
+          const headlineTitle = headlineMatch.groups.title;
           headlines[level] = headlineTitle;
           headlines.splice(level + 1);
         } else {
