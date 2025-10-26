@@ -31,7 +31,7 @@ const gqlSchema = z.object({
       primaryLanguage: z.object({
         color: z.string().optional(),
         name: z.string(),
-      }),
+      }).nullable(),
       description: z.string().nullable(),
       repositoryTopics: z.object({
         edges: z.array(
@@ -187,12 +187,12 @@ export async function githubGql(
               star: value.stargazerCount,
               lastCommit: value.object.lastCommit.nodes[0].committedDate,
               commitCountLastYear: value.object.activity.totalCount,
-              description: value.description || "",
+              description: value.description ?? undefined,
               topics: value.repositoryTopics.edges.map((edge) =>
                 edge.node.topic.name
               ),
               isArchived: value.isArchived,
-              primaryLanguage: value.primaryLanguage,
+              primaryLanguage: value.primaryLanguage ?? undefined,
               nameWithOwner: value.nameWithOwner,
             },
           };
