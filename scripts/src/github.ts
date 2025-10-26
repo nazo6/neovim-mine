@@ -199,7 +199,7 @@ export async function githubGql(
           repos.push(repo);
         }
       });
-      await new Promise((resolve) => setTimeout(resolve, 10000));
+      await new Promise((resolve) => setTimeout(resolve, 20000));
     };
 
     return limit(() => func());
